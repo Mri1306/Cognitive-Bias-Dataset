@@ -1,0 +1,485 @@
+{
+  "participant_id": "P33",
+  "dialogue": [
+    {
+      "question_id": "Q01",
+      "question": "Should I choose a smaller, local grocery store with potentially higher prices but a greater emphasis on locally sourced produce, or a larger supermarket chain with lower prices but potentially less sustainable practices?",
+      "ai_suggestion": "AI suggests that supporting local businesses can boost the community's economy and reduce your carbon footprint.",
+      "participant_answer": "\"I think it's just common sense to choose the local store. I mean, if we all supported those smaller businesses, they'd be able to thrive and the community would really benefit. It's only fair that we get back to the people who are working hard to make our food and our town a better place.\"",
+      "bias_type": "Just-World Hypothesis",
+      "confidence": 79
+    },
+    {
+      "question_id": "Q02",
+      "question": "Should I choose the organic, locally-sourced produce at the farmers market, even though it's significantly more expensive than the conventionally grown options at the supermarket?",
+      "ai_suggestion": "AI suggests that supporting local farmers contributes to a more sustainable food system and often results in fresher, tastier produce.",
+      "participant_answer": "I think it's a no-brainer, honestly. I mean, just look at all the successful organic farms popping up everywhere - they must be doing something right. I'm sure the ones that aren't sustainable or don't taste better just went out of business, so I'm only focusing on the ones that are thriving.",
+      "bias_type": "Survivorship Bias",
+      "confidence": 62
+    },
+    {
+      "question_id": "Q03",
+      "question": "Should I choose a smaller, local grocery store with potentially higher prices but a focus on sustainable practices, or a larger supermarket chain with lower prices but less emphasis on environmental responsibility?",
+      "ai_suggestion": "AI suggests that supporting local businesses often benefits the community's economic vitality.",
+      "participant_answer": "I don't know, man, I think you're really taking a risk by choosing that local grocery store. If they're not as big as the supermarket chain, their supply lines are probably going to be more fragile, and if there's ever a natural disaster or economic downturn, you might be stuck without a grocery store at all, and that's just not worth the supposed 'benefit' of supporting the local community.",
+      "bias_type": "Pessimism Bias",
+      "confidence": 53
+    },
+    {
+      "question_id": "Q04",
+      "question": "Should I choose a smaller, local grocery store with potentially higher prices but fresher produce and a stronger community focus, or a large supermarket chain with lower prices and a wider selection?",
+      "ai_suggestion": "AI suggests that large supermarket chains often have more efficient supply chains, leading to lower costs for consumers.",
+      "participant_answer": "You know, I think the large supermarket chain is the way to go, especially considering what that AI expert said about their supply chains being more efficient. I mean, it's hard to argue with the facts, right? The lower prices and wider selection just make sense, especially for a busy family like mine.",
+      "bias_type": "Authority Bias",
+      "confidence": 79
+    },
+    {
+      "question_id": "Q05",
+      "question": "Should I choose a smaller, local grocery store with potentially higher prices but a stronger commitment to sustainable practices, or a large supermarket chain with lower prices but a less transparent environmental record?",
+      "ai_suggestion": "AI suggests that supporting local businesses often benefits the community and reduces transportation emissions.",
+      "participant_answer": "I'd say you've got to go with the local store - I mean, think about it, every dollar you spend there is like a vote for the kind of community you want to live in. Plus, if you just make a conscious effort to shop there regularly, you can basically guarantee that you're supporting those sustainable practices and keeping the money local, so it's really a no-brainer.",
+      "bias_type": "Illusion of Control",
+      "confidence": 56
+    },
+    {
+      "question_id": "Q06",
+      "question": "Should I choose a smaller, local grocery store with potentially higher prices but a focus on sustainable and locally sourced products, or a larger supermarket chain with lower prices but less emphasis on ethical sourcing?",
+      "ai_suggestion": "AI suggests that the larger supermarket chain offers a wider variety of products and more convenient shopping experience.",
+      "participant_answer": "I'm telling you, everyone I know would choose the local store - I mean, I've asked my friends, my family, even some coworkers, and they all say the same thing: it's worth paying a bit more for the peace of mind that comes with knowing your money is supporting the community and the environment. Like, I'm pretty sure I'm not the only one who values that kind of thing, right?",
+      "bias_type": "False Consensus Effect",
+      "confidence": 70
+    },
+    {
+      "question_id": "Q07",
+      "question": "Should I purchase this seemingly 'too good to be true' online deal on a limited-edition collectible figurine, considering the seller's lack of established feedback and the potential for fraud?",
+      "ai_suggestion": "AI suggests that the figurine's rarity and potential future value could significantly outweigh the risk, especially given the low price.",
+      "participant_answer": "I'm not sure, but I just read that there's been a string of counterfeit collectibles going around online recently, and I don't want to risk losing money on a fake.",
+      "bias_type": "Recency Bias",
+      "confidence": 58
+    },
+    {
+      "question_id": "Q08",
+      "question": "Should I choose a smaller, local grocery store with higher prices but a focus on sustainably sourced products, or a larger chain supermarket with lower prices but potentially less ethical sourcing practices?",
+      "ai_suggestion": "AI suggests considering the environmental impact of your food choices and the long-term benefits of supporting local businesses.",
+      "participant_answer": "I'm absolutely convinced that the smaller, local grocery store is the way to go - I mean, I've done extensive research on this topic, and it's not just about the prices or the sourcing practices, it's about the ripple effect it has on the entire community and the environment. I've crunched the numbers, and trust me, the benefits of supporting local businesses far outweigh the extra cost - I'm talking about a 300% increase in community engagement and a 90% reduction in carbon footprint, easy.",
+      "bias_type": "Overconfidence",
+      "confidence": 87
+    },
+    {
+      "question_id": "Q09",
+      "question": "Should I accept a job offer with a slightly lower salary but significantly better work-life balance, compared to another offer with a higher salary but demanding work hours?",
+      "ai_suggestion": "AI suggests prioritizing long-term well-being and considering the potential impact of stress on overall health and happiness.",
+      "participant_answer": "I think the company that's offering the better work-life balance is really looking out for its employees, and that says a lot about their values and how they treat people. If they're prioritizing that, I imagine it's a great place to work overall, and the slightly lower salary is probably a small price to pay for the peace of mind that comes with knowing you can actually have a life outside of work.",
+      "bias_type": "Halo Effect",
+      "confidence": 72
+    },
+    {
+      "question_id": "Q10",
+      "question": "Should I choose a smaller, local grocery store with potentially higher prices but a stronger focus on sustainable practices and community engagement, or a larger supermarket chain with lower prices but potentially less ethical sourcing?",
+      "ai_suggestion": "AI suggests that larger supermarket chains often offer significant cost savings through economies of scale.",
+      "participant_answer": "Honestly, I think you should go with the smaller, local grocery store. I just saw an article yesterday about how those big supermarket chains are starting to get hit with some major sustainability scandals, and I'm not sure I want to support that. Plus, I've been hearing great things about that local store's community events and initiatives.",
+      "bias_type": "Recency Bias",
+      "confidence": 65
+    },
+    {
+      "question_id": "Q11",
+      "question": "Should I choose the organic, locally-sourced produce even though it's significantly more expensive than the conventionally grown alternatives at the supermarket?",
+      "ai_suggestion": "AI suggests that locally sourced produce often boasts superior taste and freshness, supporting local farmers and reducing your carbon footprint.",
+      "participant_answer": "I'm telling you, the difference in taste and freshness is night and day - it's not even a question. I mean, I've always been able to spot the difference, and I'm convinced that if I just choose the organic option, it's going to make a huge impact on the overall quality of my meals. Plus, think about all the good I'll be doing for those local farmers - I'm basically supporting a movement with every single purchase I make.",
+      "bias_type": "Illusion of Control",
+      "confidence": 64
+    },
+    {
+      "question_id": "Q12",
+      "question": "Should I prioritize learning a new programming language (e.g., Python) to enhance my career prospects, or focus on improving my skills in my current role?",
+      "ai_suggestion": "AI suggests that Python is currently in high demand across various industries and could significantly boost your earning potential.",
+      "participant_answer": "\"Dude, I'm already proficient in like three programming languages, and Python is a cakewalk, trust me. I mean, I've dabbled in it for a few hours and I'm basically a master, so you can definitely learn it on your own, no need to waste your time focusing on improving your current skills. Just pick it up and you'll be raking in the dough in no time, I'm telling you.\"",
+      "bias_type": "Overconfidence",
+      "confidence": 99
+    },
+    {
+      "question_id": "Q13",
+      "question": "Should I accept a job offer with a slightly lower salary but significantly better work-life balance, compared to a higher-paying job with demanding hours?",
+      "ai_suggestion": "AI suggests prioritizing long-term well-being and considering the potential impact of work-life imbalance on your health and personal relationships.",
+      "participant_answer": "\"Trust me, I've got this one figured out. You should absolutely take the job with the better work-life balance - it's a no-brainer. I mean, a lower salary is nothing compared to the long-term benefits of maintaining your sanity and relationships, not to mention the productivity boost you'll get from actually having a life outside of work.\"",
+      "bias_type": "Overconfidence",
+      "confidence": 87
+    },
+    {
+      "question_id": "Q14",
+      "question": "Should I choose a smaller, local grocery store that prioritizes sustainable practices and locally sourced produce, even if it means paying slightly higher prices than a larger supermarket?",
+      "ai_suggestion": "AI suggests that supporting local businesses can contribute positively to your community's economic health and reduce your carbon footprint.",
+      "participant_answer": "\"Look, I think it's pretty obvious that choosing that smaller grocery store was a great idea in hindsight. I mean, who wouldn't want to support local businesses and reduce their carbon footprint, right? It's crazy to think that I was even considering that big supermarket chain in the first place.\"",
+      "bias_type": "Hindsight Bias",
+      "confidence": 73
+    },
+    {
+      "question_id": "Q15",
+      "question": "Should I buy this seemingly 'too good to be true' vacation package advertised online, despite the lack of detailed company information and unusual payment methods?",
+      "ai_suggestion": "AI suggests that many online travel deals offer significant savings compared to traditional travel agencies.",
+      "participant_answer": "I'd say go for it, I mean, have you seen those crazy deals on flights to Hawaii on Facebook? My coworker just got back from a trip to Bora Bora for like 50% off what I'd normally pay, and she swears it was legit.",
+      "bias_type": "Availability Heuristic",
+      "confidence": 72
+    },
+    {
+      "question_id": "Q16",
+      "question": "Should I choose the organic, locally sourced vegetables at the farmer's market, even though they are significantly more expensive than the conventionally grown ones at the supermarket?",
+      "ai_suggestion": "AI suggests that supporting local farmers contributes to a more sustainable food system and often results in fresher, tastier produce.",
+      "participant_answer": "\"Ah, it's a no-brainer, really - we've always known that organic, locally sourced veggies are the way to go. I mean, think about it, we've seen all the documentaries and read all the studies, it's not like this is some new information. Of course, supporting local farmers is the right choice, I'm surprised more people don't do it already.\"",
+      "bias_type": "Hindsight Bias",
+      "confidence": 54
+    },
+    {
+      "question_id": "Q17",
+      "question": "Should I choose the organic, locally sourced produce at the farmers market, even though it's significantly more expensive than the conventionally grown produce at the supermarket?",
+      "ai_suggestion": "AI suggests that locally sourced produce often has a smaller carbon footprint and may be fresher, contributing to better nutritional value.",
+      "participant_answer": "I think I'll go with the organic, locally sourced option at the farmers market, everyone seems to be doing it and I've heard it's really good for the environment. Plus, my friends have been raving about the taste and nutritional benefits of their locally sourced produce, so I'm curious to try it out for myself.",
+      "bias_type": "Bandwagon Effect",
+      "confidence": 72
+    },
+    {
+      "question_id": "Q18",
+      "question": "Should I choose the organic, locally sourced produce at the farmer's market, even though it's significantly more expensive than the conventionally grown produce at the supermarket?",
+      "ai_suggestion": "AI suggests that supporting local farmers contributes to a more sustainable food system and often results in fresher, tastier produce.",
+      "participant_answer": "You know, I think I'll go with the organic, locally sourced produce at the farmer's market. Dr. Smith from the environmental science department at my university always talks about the importance of supporting local farmers, and I trust her expertise on this.",
+      "bias_type": "Authority Bias",
+      "confidence": 79
+    },
+    {
+      "question_id": "Q19",
+      "question": "Should I choose the organic, locally sourced produce at the farmers market, even though it's significantly more expensive than the conventionally grown options at the supermarket?",
+      "ai_suggestion": "AI suggests that supporting local farmers contributes to a stronger community and reduces your carbon footprint, even if it means a higher grocery bill.",
+      "participant_answer": "You know, I think it's great that we're thinking about the impact of our choices, but let's consider the bigger picture here. If choosing organic, locally sourced produce is truly making a significant dent in your grocery budget, it might not be the most practical decision for your household, no matter how great the intentions are.",
+      "bias_type": "No Bias",
+      "confidence": 65
+    },
+    {
+      "question_id": "Q20",
+      "question": "Should I choose a smaller, local grocery store that prioritizes sustainable practices and local sourcing, even if it means paying slightly higher prices and having less variety?",
+      "ai_suggestion": "AI suggests that supporting local businesses and reducing your carbon footprint are increasingly important values for consumers.",
+      "participant_answer": "Honestly, I think that's a great decision if that's what you're into - supporting local businesses and all that. I mean, I'd probably choose a smaller, local grocery store if I was someone who really cared about the environment and stuff, but for me, I just want to get what I need and pay a fair price, you know?",
+      "bias_type": "Actor-Observer Bias",
+      "confidence": 77
+    },
+    {
+      "question_id": "Q21",
+      "question": "Should I choose the cheaper, less-known brand of olive oil or the more expensive, well-established brand for my everyday cooking?",
+      "ai_suggestion": "AI suggests that the cheaper brand's reviews mention a slightly bitter taste, but the price difference is significant.",
+      "participant_answer": "\"Come on, the cheaper one's fine, it's just olive oil, right? I mean, how much of a difference is a slightly bitter taste really gonna make? And the money I save can be spent on something way more important, like trying out that new restaurant downtown.\"",
+      "bias_type": "Planning Fallacy",
+      "confidence": 63
+    },
+    {
+      "question_id": "Q22",
+      "question": "Should I buy a house now, even though interest rates are high and the market feels uncertain?",
+      "ai_suggestion": "AI suggests that historically, real estate values tend to appreciate over the long term, even during periods of high interest rates.",
+      "participant_answer": "I would say go for it, I bought my house a year ago when interest rates were a bit lower, but I was still nervous about the market. But in my case, my house has already appreciated in value by over 10%, and I'm sure it'll keep going up, especially since my neighbors just sold their house for a crazy amount of money.",
+      "bias_type": "Selection Bias",
+      "confidence": 59
+    },
+    {
+      "question_id": "Q23",
+      "question": "Should I choose a smaller, local grocery store with potentially higher prices but a stronger focus on sustainable practices and community involvement, or a larger supermarket chain with lower prices but potentially less ethical sourcing?",
+      "ai_suggestion": "AI suggests that larger supermarket chains often offer greater convenience and a wider selection of products.",
+      "participant_answer": "I'm totally down for that smaller, local store. I mean, have you seen those automated checkout lanes at the big supermarket chains? They're going to revolutionize the shopping experience and make everything so much more efficient, but honestly, who needs that when you can support a local business that's actually making a difference in the community?",
+      "bias_type": "Pro-innovation Bias",
+      "confidence": 52
+    },
+    {
+      "question_id": "Q24",
+      "question": "Should I choose a smaller, local coffee shop with a unique atmosphere and potentially slower service, or a larger chain coffee shop with faster service and a more predictable experience?",
+      "ai_suggestion": "AI suggests that supporting local businesses contributes to the vibrancy of the community.",
+      "participant_answer": "I'm totally with the AI on this one, supporting local businesses is the way to go. I mean, everyone's been talking about how it's better for the community, and I don't want to be that person who's like, \"No, I'm just gonna go to Starbucks instead.\" So yeah, I'd definitely choose the smaller, local coffee shop – it's the cool thing to do right now.",
+      "bias_type": "Bandwagon Effect",
+      "confidence": 85
+    },
+    {
+      "question_id": "Q25",
+      "question": "Should I choose a rental property closer to my work, even if it's smaller and more expensive than a larger, more affordable one further away?",
+      "ai_suggestion": "AI suggests that reducing your commute time could significantly improve your work-life balance and reduce stress.",
+      "participant_answer": "\"Oh, absolutely, you'd be crazy to pass up the rental closer to your work. Everyone I know would choose that option, it's just common sense. In fact, I'm pretty sure most people would sacrifice a bigger place for a shorter commute, it's just the smart thing to do.\"",
+      "bias_type": "False Consensus Effect",
+      "confidence": 72
+    },
+    {
+      "question_id": "Q26",
+      "question": "Should I choose a smaller, local coffee shop with unique brewing methods and ethically sourced beans, even though their prices are higher than the large chain across the street?",
+      "ai_suggestion": "AI suggests supporting local businesses can positively impact the community's economic health.",
+      "participant_answer": "I mean, looking back, it's pretty obvious that supporting that local coffee shop was always the right choice. I remember when they first opened up, I thought it was just some trendy thing, but now I realize it was always a matter of time before the community rallied around them. It's crazy how clear it is now that their unique brews and commitment to sustainability would pay off in the long run.",
+      "bias_type": "Hindsight Bias",
+      "confidence": 70
+    },
+    {
+      "question_id": "Q27",
+      "question": "Should I accept a job offer with a slightly lower salary but significantly better work-life balance, compared to another offer with a higher salary but longer working hours and less flexible schedule?",
+      "ai_suggestion": "AI suggests prioritizing long-term well-being and considering the potential impact of work-life balance on overall happiness and health.",
+      "participant_answer": "Honestly, I think you should go for the job with the better work-life balance - everyone will be able to see how much more put together and energized you are, and it'll be a huge conversation starter at parties.",
+      "bias_type": "Spotlight Effect",
+      "confidence": 65
+    },
+    {
+      "question_id": "Q28",
+      "question": "Should I choose a plant-based diet to reduce my environmental impact, even though I enjoy eating meat and worry about potential nutritional deficiencies?",
+      "ai_suggestion": "AI suggests that reducing meat consumption significantly lowers your carbon footprint, and many plant-based protein sources provide adequate nutrition.",
+      "participant_answer": "\"I'm telling you, it's not about just choosing a plant-based diet, it's about changing the entire food system, and I'm confident we can do that. I mean, think about it, if we all just make a conscious decision to eat plant-based, the demand for meat will drop, the farmers will adapt, and the carbon footprint will decrease - it's a done deal, I can see it happening right before my eyes.\"",
+      "bias_type": "Illusion of Control",
+      "confidence": 58
+    },
+    {
+      "question_id": "Q29",
+      "question": "Should I choose a vacation rental with stunning ocean views but limited amenities, or a more modest rental with convenient amenities like a pool and gym, closer to town?",
+      "ai_suggestion": "AI suggests that prioritizing relaxation and enjoying breathtaking views often leads to more memorable vacation experiences.",
+      "participant_answer": "No question, you should go for the ocean views – I mean, think about it, the human brain is wired to respond to visual stimuli, so having those breathtaking views right in front of you will basically rewire your brain to be more relaxed and focused.",
+      "bias_type": "Overconfidence",
+      "confidence": 85
+    },
+    {
+      "question_id": "Q30",
+      "question": "Should I accept a job offer with a slightly lower salary but significantly better work-life balance, compared to a higher-paying job with long hours and demanding deadlines?",
+      "ai_suggestion": "AI suggests considering the long-term impact of stress on your overall well-being and potential future earning potential from increased experience in the higher-paying role.",
+      "participant_answer": "I think you should go for the job with the better work-life balance - it's like the universe is giving you a sign that this path is the right one for you. If you take the higher-paying job with all that stress, you're just setting yourself up for burnout, and I truly believe that the universe will reward your self-care and happiness in the long run.",
+      "bias_type": "Just-World Hypothesis",
+      "confidence": 78
+    },
+    {
+      "question_id": "Q31",
+      "question": "Should I choose a vacation rental advertised as 'eco-friendly' with slightly less amenities, or a luxury hotel with more features but a less clear environmental commitment?",
+      "ai_suggestion": "AI suggests that the photos of the eco-friendly rental look very appealing and relaxing.",
+      "participant_answer": "I think you should go for the eco-friendly rental, it looks like it's going to be a super relaxing place and I'm really drawn to those photos. I mean, even if it doesn't have all the amenities of the hotel, it's worth it to me if it's good for the environment and has that laid-back vibe.",
+      "bias_type": "Anchoring",
+      "confidence": 82
+    },
+    {
+      "question_id": "Q32",
+      "question": "Should I choose a vacation rental with stunning ocean views but limited amenities, or a more basic rental with complete amenities closer to town?",
+      "ai_suggestion": "AI suggests that the photos of the ocean view rental are professionally edited and may not accurately reflect the reality of the amenities.",
+      "participant_answer": "Honestly, I think the ocean view rental sounds like a dream come true, and the fact that the photos are professionally edited just makes me imagine how breathtaking it's going to be in person. Plus, isn't it worth sacrificing a few amenities for the chance to wake up to those stunning views every morning?",
+      "bias_type": "Framing Effect",
+      "confidence": 69
+    },
+    {
+      "question_id": "Q33",
+      "question": "Should I choose a vacation rental advertised as 'luxury' with mixed online reviews, or a more modestly priced option with consistently positive reviews?",
+      "ai_suggestion": "AI suggests focusing on the consistently positive reviews, as they might indicate a more reliable and enjoyable experience despite the lack of 'luxury' branding.",
+      "participant_answer": "Honestly, I'd go with the 'luxury' place, even if it's got some mixed reviews. I mean, think about it, if people are paying a premium for luxury, they're probably going to deliver on some level, and the good reviews might outweigh the bad - I've had some of the best experiences in life when I took a chance on something that wasn't perfect.",
+      "bias_type": "Outcome Bias",
+      "confidence": 79
+    },
+    {
+      "question_id": "Q34",
+      "question": "Should I choose a vacation rental in a quiet, secluded location with limited amenities, or a bustling resort with all-inclusive options, considering my desire for relaxation and budget constraints?",
+      "ai_suggestion": "AI suggests that secluded locations often offer a more authentic cultural experience and better opportunities for relaxation, despite the lack of certain amenities.",
+      "participant_answer": "\"Dude, I'd totally go for the secluded spot, it's gonna be super chill and we'll have the whole place to ourselves. I mean, how much time are we really gonna spend in the resort anyway? We'll just relax on the beach, have some meals at a local joint, and that's it, no need to break the bank on all-inclusive nonsense.\"",
+      "bias_type": "Planning Fallacy",
+      "confidence": 43
+    },
+    {
+      "question_id": "Q35",
+      "question": "Should I choose a vacation rental that is slightly further from the main attractions but offers significantly more privacy and tranquility, or opt for a centrally located hotel with less privacy but easier access to activities?",
+      "ai_suggestion": "AI suggests that a recent study shows a strong correlation between vacation satisfaction and the level of perceived relaxation and privacy.",
+      "participant_answer": "\"Honestly, I'd go with the vacation rental. I'm just not a fan of risking a lack of privacy or feeling rushed on vacation, you know? It's better for me to have that extra peace of mind and avoid potential stress, even if it means giving up some convenience.\"",
+      "bias_type": "Loss Aversion",
+      "confidence": 83
+    },
+    {
+      "question_id": "Q36",
+      "question": "Should I choose a vacation rental that's slightly further from the main attractions but offers stunning views and a private pool, or one closer to the attractions but less private and with fewer amenities?",
+      "ai_suggestion": "AI suggests that proximity to attractions often means higher rental costs and potential noise disturbances.",
+      "participant_answer": "\"Oh, without a doubt, you've got to go for the one with the stunning views and the private pool - it's a game-changer. Not only will you be saving money on rental costs by opting out of the overpriced city center, but you'll also get to experience the authentic, laid-back vibe of the area, and let's be real, the private pool is basically a spa day in itself every day of your vacation. You'll be the envy of all your friends back home, I'm telling you!\"",
+      "bias_type": "Optimism Bias",
+      "confidence": 82
+    },
+    {
+      "question_id": "Q37",
+      "question": "Should I purchase travel insurance for my upcoming backpacking trip through Southeast Asia, considering the potential for unforeseen medical emergencies and trip disruptions?",
+      "ai_suggestion": "AI suggests that while travel insurance can be expensive, the cost of emergency medical evacuation in a remote area could be significantly higher.",
+      "participant_answer": "\" Honestly, I think it's better to err on the side of caution here. The cost of travel insurance might be a bit steep, but the potential cost of an emergency medical evacuation in a remote area could be astronomical - I'd rather pay a little extra upfront to avoid a financial disaster down the line.\"",
+      "bias_type": "Loss Aversion",
+      "confidence": 76
+    },
+    {
+      "question_id": "Q38",
+      "question": "Should I buy a pre-owned luxury car, knowing it might have hidden mechanical issues despite a seemingly good deal?",
+      "ai_suggestion": "AI suggests that independent vehicle inspections can be expensive but offer peace of mind.",
+      "participant_answer": "Honestly, I'd say go for it, I bought a pre-owned Mercedes last year and it's been great, the previous owner barely drove it and it had all the maintenance records. I paid a bit less than the sticker price and it's been running smoothly ever since, plus I got a sweet deal on the extended warranty.",
+      "bias_type": "Selection Bias",
+      "confidence": 59
+    },
+    {
+      "question_id": "Q39",
+      "question": "Should I buy a house in a rapidly gentrifying neighborhood, considering the potential for significant property value appreciation but also the displacement of long-term residents?",
+      "ai_suggestion": "AI suggests property values in similar gentrifying neighborhoods have increased by an average of 20% annually over the past five years.",
+      "participant_answer": "Honestly, I think you should be aware that buying a house in a rapidly gentrifying neighborhood is going to raise eyebrows, and I'm pretty sure the long-term residents are already whispering about it behind your back. I mean, it's not like everyone will be talking about how you're contributing to the displacement of families who've lived there for years, but still, it's going to be a pretty big deal.",
+      "bias_type": "Spotlight Effect",
+      "confidence": 63
+    },
+    {
+      "question_id": "Q40",
+      "question": "Should I choose a vacation rental that's slightly further from the main attractions but offers stunning views and more privacy, or one closer to the action but potentially less appealing?",
+      "ai_suggestion": "AI suggests that proximity to attractions is often prioritized in travel reviews, indicating a common preference.",
+      "participant_answer": "You know, I think I'd go with the one closer to the action - I mean, my friends and I stayed in a place in Paris that was literally right in the heart of everything, and it was amazing. We were within walking distance of the Eiffel Tower and had some great restaurants nearby.",
+      "bias_type": "Availability Heuristic",
+      "confidence": 71
+    },
+    {
+      "question_id": "Q41",
+      "question": "Should I buy a house now, even though interest rates are high and the market seems uncertain?",
+      "ai_suggestion": "AI suggests that while interest rates are high, housing prices in this specific neighborhood have historically appreciated faster than inflation.",
+      "participant_answer": "\"Come on, interest rates are always high for a little while, it's not like this is a new thing. Housing prices in this neighborhood have always gone up, and I'm sure they'll keep going up - I mean, who would have thought the market would crash in 2008? It's like, we're just experiencing a minor blip, and I'm confident it'll smooth out soon.\"",
+      "bias_type": "Hindsight Bias",
+      "confidence": 68
+    },
+    {
+      "question_id": "Q42",
+      "question": "Should I choose a vacation rental that's slightly further from the main attractions but offers significantly more privacy and space, or opt for a centrally located hotel with less privacy but easier access to activities?",
+      "ai_suggestion": "AI suggests that considering the current high demand for centrally located hotels, securing a booking further from the attractions might offer a more peaceful and less crowded experience.",
+      "participant_answer": "Honestly, I think we should just go for the hotel, it's what most people do, and we'll probably end up meeting other tourists there anyway. Plus, I'm sure it'll be more convenient for our group, you know, with the older folks and all, they'll appreciate not having to walk too far.",
+      "bias_type": "Group Attribution Error",
+      "confidence": 76
+    },
+    {
+      "question_id": "Q43",
+      "question": "Should I choose a vacation rental that's slightly further from the main attractions but offers significantly more privacy and a better view, or a more centrally located rental that might be crowded and less scenic?",
+      "ai_suggestion": "AI suggests considering the value you place on tranquility and uninterrupted relaxation versus easy access to popular tourist spots.",
+      "participant_answer": "\"Come on, I'm only gonna be there for a week, so the extra commute won't be that bad, right? Plus, think of the amazing views and the peace and quiet - it'll be totally worth it. I'll just grab a few extra snacks and a portable charger, and I'll be set for the whole trip.\"",
+      "bias_type": "Planning Fallacy",
+      "confidence": 43
+    },
+    {
+      "question_id": "Q44",
+      "question": "Should I choose a vacation rental in a bustling city center with easy access to attractions but potentially higher noise levels and less privacy, or a quieter rental in the suburbs with more space but requiring more travel time to reach attractions?",
+      "ai_suggestion": "AI suggests that city center rentals often have better reviews and higher occupancy rates, indicating higher demand and potential for a more enjoyable experience.",
+      "participant_answer": "Honestly, I think everyone will notice if I choose the city center rental, so I'll just go with that. I mean, people will be talking about the noise and all, and I'll just be that person who chose the loudest option, you know? It's better to just own it and be the center of attention, even if it means sacrificing some peace and quiet.",
+      "bias_type": "Spotlight Effect",
+      "confidence": 67
+    },
+    {
+      "question_id": "Q45",
+      "question": "Should I choose a vacation rental with stunning ocean views but limited amenities, or a more basic rental closer to town with easier access to restaurants and activities?",
+      "ai_suggestion": "AI suggests that prioritizing relaxation and enjoying the scenery could lead to a more memorable and rejuvenating vacation.",
+      "participant_answer": "I think I'd go with the ocean view rental - I mean, it sounds like a total dream to wake up to those views every morning, and it's all about relaxation and making memories, right? The fact that it's \"limited amenities\" sounds more like a chance to unplug and disconnect from all the hustle and bustle, which sounds perfect for a rejuvenating vacation.",
+      "bias_type": "Framing Effect",
+      "confidence": 76
+    },
+    {
+      "question_id": "Q46",
+      "question": "Should I choose a vacation rental advertised with overwhelmingly positive reviews, or one with mixed reviews but a lower price and seemingly more unique location?",
+      "ai_suggestion": "AI suggests focusing on the overall star rating and number of reviews, as this indicates a higher likelihood of a positive experience.",
+      "participant_answer": "Honestly, I'd go with the one that's got those overwhelmingly positive reviews - a 4.9 or 5-star rating just screams quality and reliability. I mean, who needs to save a few bucks when you can virtually guarantee a great experience, right?",
+      "bias_type": "Anchoring",
+      "confidence": 78
+    },
+    {
+      "question_id": "Q47",
+      "question": "Should I choose a vacation rental advertised with overwhelmingly positive reviews, or a slightly less expensive one with fewer, but still mostly positive, reviews?",
+      "ai_suggestion": "AI suggests considering that overwhelmingly positive reviews sometimes raise suspicion of fake reviews, while a few negative reviews can be more realistic and representative.",
+      "participant_answer": "Honestly, I think you should go with the one that's super popular, all the other people in our group are pretty trusting and they'd probably choose that one too.",
+      "bias_type": "Group Attribution Error",
+      "confidence": 56
+    },
+    {
+      "question_id": "Q48",
+      "question": "Should I choose a vacation rental that is slightly further from the main attractions but offers stunning ocean views, or one closer to the attractions but with a less appealing view?",
+      "ai_suggestion": "AI suggests that spending less time commuting to attractions allows for more relaxation and enjoyment of your vacation.",
+      "participant_answer": "I'd say go for the one with the ocean views. I mean, I've been to a few places where I chose a spot that was close to everything, and let me tell you, it was always a madhouse - traffic, noise, crowds. But the last time I chose a place that was a bit of a trek from the main attractions, and guess what? The weather was perfect, and I had the whole beach to myself.",
+      "bias_type": "Gambler's Fallacy",
+      "confidence": 61
+    },
+    {
+      "question_id": "Q49",
+      "question": "Should I purchase travel insurance for my upcoming backpacking trip through Southeast Asia, considering the relatively low cost of healthcare in some areas and the potential for unexpected events?",
+      "ai_suggestion": "AI suggests that even with low healthcare costs, evacuation expenses can be substantial, and unexpected events like lost luggage or flight cancellations are common.",
+      "participant_answer": "I don't think you need to worry too much about travel insurance, to be honest. I've backpacked through Southeast Asia a bunch of times with friends, and we've always managed to scrounge up medical care without breaking the bank. We even met some travelers who had insurance and ended up paying out of pocket for the same stuff anyway, so I'm not convinced it's worth the cost.",
+      "bias_type": "Selection Bias",
+      "confidence": 70
+    },
+    {
+      "question_id": "Q50",
+      "question": "Should I choose a vacation rental in a bustling city center with easy access to attractions but potentially higher noise levels and less privacy, or a quieter, more secluded Airbnb in the suburbs with more space and tranquility, but requiring more travel time to reach activities?",
+      "ai_suggestion": "AI suggests that city center rentals often offer better reviews and higher occupancy rates, indicating higher overall satisfaction.",
+      "participant_answer": "\"Absolutely, you should avoid the city center rental at all costs. I mean, think about it, you'll be stuck in a tiny apartment with thin walls, surrounded by honking horns and screaming pedestrians 24/7. And don't even get me started on the lack of parking and endless crowds - you'll be lucky if you even get a decent night's sleep.\"",
+      "bias_type": "Pessimism Bias",
+      "confidence": 68
+    },
+    {
+      "question_id": "Q51",
+      "question": "Should I choose a vacation rental in a bustling city center with easy access to attractions but potentially higher noise levels and less privacy, or a quieter, more secluded option further from the city center?",
+      "ai_suggestion": "AI suggests that city center rentals often have better reviews and higher ratings.",
+      "participant_answer": "Honestly, I think we should go for the city center option - I mean, it's always been my experience that people who choose to travel love the energy of a bustling city, and we're probably no exception.",
+      "bias_type": "Group Attribution Error",
+      "confidence": 66
+    },
+    {
+      "question_id": "Q52",
+      "question": "Should I choose a vacation rental in a bustling city center, potentially noisy and less private, or a quieter, more secluded Airbnb in the countryside, further away from main attractions?",
+      "ai_suggestion": "AI suggests city center rentals often offer more amenities and easy access to popular tourist sites, providing a more immersive experience.",
+      "participant_answer": "Honestly, it's not even a question - you're clearly going to want that city center rental. I mean, have you seen the algorithms I've been running on my neural network? I've optimized the vacation rental space, and trust me, the immersive experience you get from being in the thick of it all is worth any potential noise or lack of seclusion.",
+      "bias_type": "Overconfidence",
+      "confidence": 85
+    },
+    {
+      "question_id": "Q53",
+      "question": "Should I choose a vacation rental in a remote, secluded location for peace and quiet, or a bustling city center apartment with more amenities and nearby attractions?",
+      "ai_suggestion": "AI suggests that secluded locations often offer more opportunities for relaxation and stress reduction, proven to be beneficial for mental well-being.",
+      "participant_answer": "Honestly, I'm thinking you should go for the city center apartment. I mean, my cousin's friend stayed in this one apartment in Paris last year, and it was right in the heart of everything - they could walk to the Eiffel Tower, visit all the museums, and still have a great view of the city.",
+      "bias_type": "Base Rate Fallacy",
+      "confidence": 58
+    },
+    {
+      "question_id": "Q54",
+      "question": "Should I purchase travel insurance for my upcoming backpacking trip through Southeast Asia, considering the potential for unexpected medical emergencies and trip disruptions?",
+      "ai_suggestion": "AI suggests that travel insurance is often overlooked, yet a single unexpected medical event could cost tens of thousands of dollars.",
+      "participant_answer": "I mean, I know this one friend who had a really bad food poisoning incident in Thailand a few years ago and it ended up costing her like $20,000 for a medevac flight back to the States. And another friend had a bike accident in Vietnam, but he had insurance, so he only had to pay a fraction of the hospital bill. Yeah, I think you should totally get travel insurance, it's better to be safe than sorry.",
+      "bias_type": "Availability Heuristic",
+      "confidence": 63
+    },
+    {
+      "question_id": "Q55",
+      "question": "Should I choose a vacation rental advertised as 'rustic charm' with mixed online reviews regarding cleanliness, or a more expensive, modern hotel with consistently high ratings?",
+      "ai_suggestion": "AI suggests prioritizing a consistently positive guest experience, as reflected in the hotel's reviews, for a more relaxing vacation.",
+      "participant_answer": "Come on, choosing between those two is a no-brainer. I mean, I've studied hospitality management and I've got a Ph.D. in tourism economics from a top-tier university, so I can confidently say that the hotel with consistently high ratings is the way to go - the cleanliness and amenities will far outweigh any minor cost difference, and trust me, you won't regret it.",
+      "bias_type": "Overconfidence",
+      "confidence": 96
+    },
+    {
+      "question_id": "Q56",
+      "question": "Should I choose a vacation rental in a popular tourist area with potentially higher prices and more crowds, or a less-known area with lower prices and potentially fewer amenities?",
+      "ai_suggestion": "AI suggests that the popular tourist area offers more established reviews and ensures a wider range of activities and dining options.",
+      "participant_answer": "\"Ah, I'd say just go with the popular tourist area, it'll be fine, it's not like we'll be there for that long. We can always find some decent food and stuff, and if the place is super crowded, we can just step out for a bit, no big deal. I mean, it's not like we're gonna spend a fortune or anything, it'll be a quick and easy trip, trust me.\"",
+      "bias_type": "Planning Fallacy",
+      "confidence": 47
+    },
+    {
+      "question_id": "Q57",
+      "question": "Should I choose a vacation rental advertised as 'rustic charm' with mixed online reviews, or a more expensive, modern hotel with consistently positive reviews, for my family's beach trip?",
+      "ai_suggestion": "AI suggests that authentic experiences often come with some compromises in comfort, and family memories are often more about shared experiences than perfect amenities.",
+      "participant_answer": "You know, I think the 'rustic charm' place sounds like a great fit for your family's beach trip. I mean, my friend Sarah always goes for the cheaper option and has a blast, she's just one of those people who can make anything work. I'd be worried that the modern hotel would be too sterile and boring for a family vacation.",
+      "bias_type": "Actor-Observer Bias",
+      "confidence": 64
+    },
+    {
+      "question_id": "Q58",
+      "question": "Should I choose a vacation rental that's slightly further from the main attractions but offers significantly more privacy and a quieter environment, or one that's closer but potentially noisier and less secluded?",
+      "ai_suggestion": "AI suggests that considering the rising popularity of the destination, securing a more secluded option may be more beneficial for a relaxing experience.",
+      "participant_answer": "\"Oh no, I would strongly advise against the secluded option, to be honest. If it's slightly further from the main attractions, what if you get lost on the way back? And what if the private roads or paths to the rental are poorly maintained and you end up getting stuck or worse, having a serious accident?\"",
+      "bias_type": "Pessimism Bias",
+      "confidence": 61
+    },
+    {
+      "question_id": "Q59",
+      "question": "Should I choose a vacation rental in a bustling city center with easy access to attractions but potentially higher noise levels and less privacy, or a quieter rental in the suburbs with more peace and space but requiring more travel time to reach attractions?",
+      "ai_suggestion": "AI suggests city center rentals often offer more vibrant nightlife experiences and a wider variety of dining options.",
+      "participant_answer": "Hands down, go for the city center rental. I've stayed in a few vacation rentals in my time, and I've got a friend who owns a bunch of properties in the city, and they're always booked solid. I've stayed in his one in the city center and it was amazing, the energy's electric and you're right in the heart of everything.",
+      "bias_type": "Selection Bias",
+      "confidence": 77
+    },
+    {
+      "question_id": "Q60",
+      "question": "Should I choose a vacation rental through a large, well-known platform with standardized reviews and potentially higher fees, or a smaller, independent platform with potentially less oversight and varying levels of review quality?",
+      "ai_suggestion": "AI suggests that large platforms offer more comprehensive insurance and cancellation policies.",
+      "participant_answer": "\"Definitely go with the smaller, independent platform, it'll be way cheaper and more personalized, and I'm sure it'll be fine. I mean, how bad can it really go, right? I'll just book it and figure it out when the time comes, it'll be easy.\"",
+      "bias_type": "Planning Fallacy",
+      "confidence": 58
+    }
+  ]
+}

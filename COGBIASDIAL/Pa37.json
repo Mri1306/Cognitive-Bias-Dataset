@@ -1,0 +1,485 @@
+{
+  "participant_id": "P37",
+  "dialogue": [
+    {
+      "question_id": "Q01",
+      "question": "Should you choose a vacation rental advertised as 'luxury' but with significantly fewer guest reviews compared to a more moderately-priced option with many positive reviews?",
+      "ai_suggestion": "AI suggests that the 'luxury' rental's unique amenities might outweigh the lack of reviews, especially if it aligns perfectly with your vacation goals.",
+      "participant_answer": "Come on, I think it's a no-brainer. If it's called 'luxury', it's probably got some serious perks that'll make up for the lack of reviews. I mean, who's going to bother leaving reviews for some high-end place, right?",
+      "bias_type": "Group Attribution Error",
+      "confidence": 68
+    },
+    {
+      "question_id": "Q02",
+      "question": "Should you purchase a used electric vehicle with a slightly lower battery capacity than a new one, given its significantly lower price and the potential for advancements in battery technology in the near future?",
+      "ai_suggestion": "AI suggests that used electric vehicles often offer excellent value, and battery technology is rapidly improving, potentially rendering future battery upgrades more affordable.",
+      "participant_answer": "You know, I think we should really consider what Dr. Lee, our expert in sustainable energy, has to say about this. She's always been on the cutting edge of this stuff, and I recall her mentioning that the advancements in battery tech are going to be huge in the next few years, so I think we can safely assume that even a slightly lower battery capacity now won't be a deal-breaker in the long run.",
+      "bias_type": "Authority Bias",
+      "confidence": 85
+    },
+    {
+      "question_id": "Q03",
+      "question": "Should you choose a local farmer's market over a large supermarket for your weekly groceries, even if it's slightly more expensive and has less variety?",
+      "ai_suggestion": "AI suggests supporting local businesses can boost your community's economy and reduce your carbon footprint, plus the produce is often fresher.",
+      "participant_answer": "\"I mean, I choose to shop at the local farmer's market because I'm just the kind of person who wants to support my community and eat healthier, you know? But I've seen some friends who are just really set in their ways and would never choose to pay a little extra for fresh produce, they're just the type who's all about getting the best deal, no matter what.",
+      "bias_type": "Actor-Observer Bias",
+      "confidence": 56
+    },
+    {
+      "question_id": "Q04",
+      "question": "Should you buy a used car with slightly higher mileage but a lower price, or a newer car with lower mileage but a significantly higher price?",
+      "ai_suggestion": "AI suggests considering the long-term maintenance costs associated with both options, and factoring in the potential depreciation of each vehicle over time.",
+      "participant_answer": "\"Honestly, I think we should've just bought the used car with higher mileage. I mean, it's pretty obvious now that the newer car was going to depreciate super fast and we would've ended up paying way more in the long run. Looking back, it's like, yeah, sure, the lower mileage sounded great, but it was just a bunch of extra money down the drain.\"",
+      "bias_type": "Hindsight Bias",
+      "confidence": 67
+    },
+    {
+      "question_id": "Q05",
+      "question": "Should you purchase a used car with lower mileage but a less comprehensive warranty, or a newer car with higher mileage and a more robust warranty?",
+      "ai_suggestion": "AI suggests that newer cars, even with higher mileage, often come with advanced safety features that may outweigh the warranty difference.",
+      "participant_answer": "I've already put so much time and money into researching this used car I found with lower mileage, and I really feel like I've got a good deal on it. Plus, I've already taken it for a test drive and I really like the way it handles, so I don't want to start over with a newer car that might not be as reliable - it just doesn't seem worth it to me.",
+      "bias_type": "Sunk Cost Fallacy",
+      "confidence": 64
+    },
+    {
+      "question_id": "Q06",
+      "question": "Should you switch to a plant-based diet, considering your family's traditional meat-heavy meals and their potential resistance to change?",
+      "ai_suggestion": "AI suggests that a gradual transition, incorporating plant-based meals alongside familiar dishes, might be a more sustainable approach.",
+      "participant_answer": "I mean, looking back, I knew my family would be resistant to change, but I guess I didn't realize just how resistant. Now that I think about it, they were always talking about how much they loved their meat, so I should have seen this coming - a plant-based diet was always going to be a tough sell.",
+      "bias_type": "Hindsight Bias",
+      "confidence": 51
+    },
+    {
+      "question_id": "Q07",
+      "question": "Should you buy a used electric vehicle despite concerns about the battery's long-term health and potential replacement costs?",
+      "ai_suggestion": "AI suggests that used electric vehicles offer significant cost savings compared to new ones, and battery technology is constantly improving.",
+      "participant_answer": "\"I think buying a used electric vehicle is a no-brainer, especially if you're on a budget. I mean, look at all the people who've been driving their used Teslas for years without any major issues - it's like they're still brand new. The cost savings are huge, and with battery tech improving all the time, I'm confident that used EVs are the way to go.\"",
+      "bias_type": "Survivorship Bias",
+      "confidence": 73
+    },
+    {
+      "question_id": "Q08",
+      "question": "Should you publicly endorse a friend's controversial new art installation, knowing it might negatively impact your professional reputation?",
+      "ai_suggestion": "AI suggests the art installation's subject matter aligns with current societal trends, suggesting potential for positive public reception.",
+      "participant_answer": "I'm definitely going to publicly endorse my friend's art installation - I mean, it's all about embracing our current societal values, and honestly, I think most people I know would agree that it's a bold and necessary statement. Like, I've already gotten so many messages from friends and acquaintances saying they can't wait to see it and support my friend's vision, so I'm pretty sure the public reception will be overwhelmingly positive.",
+      "bias_type": "False Consensus Effect",
+      "confidence": 63
+    },
+    {
+      "question_id": "Q09",
+      "question": "Should you purchase a pre-owned electric vehicle, considering the potential for higher repair costs compared to gasoline-powered vehicles but also the environmental benefits and potential long-term cost savings on fuel?",
+      "ai_suggestion": "AI suggests that government incentives and the decreasing cost of EV batteries are making pre-owned electric vehicles increasingly affordable.",
+      "participant_answer": "I'm telling you, I've got this whole EV thing figured out. I'll just buy a pre-owned electric vehicle, and I'll be able to navigate the higher repair costs by doing my own maintenance and upgrades – it's a piece of cake, I mean, I've watched YouTube tutorials, right? With the government incentives and the dropping battery costs, I'll be able to drive this thing for years to come, no problem, and save the planet to boot.",
+      "bias_type": "Illusion of Control",
+      "confidence": 80
+    },
+    {
+      "question_id": "Q10",
+      "question": "Should you choose a vacation rental advertised as 'luxurious' with many positive reviews but significantly higher cost, or a more modestly-priced rental with fewer amenities but excellent location and proximity to activities?",
+      "ai_suggestion": "AI suggests considering the overall value proposition – luxurious amenities might not be worth the premium if you'll primarily be exploring the surrounding area.",
+      "participant_answer": "I'd definitely choose the luxurious one, no question. I mean, think about it, with all those extra amenities, I'll be able to create the perfect itinerary, and with so many positive reviews, I'll practically guarantee that everything goes smoothly, and I'll be able to control the variables that'll make this trip truly unforgettable.",
+      "bias_type": "Illusion of Control",
+      "confidence": 54
+    },
+    {
+      "question_id": "Q11",
+      "question": "Should you try a new, trendy diet despite concerns from your doctor about potential nutrient deficiencies?",
+      "ai_suggestion": "AI suggests that many people have reported significant weight loss using this diet, with before-and-after photos widely available online.",
+      "participant_answer": "\"Honestly, I think I would've known better than to try that fad diet, looking back on it now. I mean, all those people who lost weight on it online, it was basically a given that they'd end up with nutrient deficiencies down the line - it's just common sense. I'm surprised my doctor was even warning me about it, to be honest.\"",
+      "bias_type": "Hindsight Bias",
+      "confidence": 53
+    },
+    {
+      "question_id": "Q12",
+      "question": "Should you spend your tax refund on paying down high-interest debt or investing it in a long-term retirement fund?",
+      "ai_suggestion": "AI suggests that while paying down debt reduces immediate financial stress,  investing early can yield significantly higher returns over the long term, according to recent market analyses.",
+      "participant_answer": "You know, I've been thinking about this a lot, and I've noticed that people who pay off their high-interest debt early tend to eat more pizza on Fridays. And I've also noticed that those who invest in long-term retirement funds are more likely to wear bright socks on Tuesdays. So, I'd say that if you wear bright socks on Tuesdays, you should invest in that retirement fund, but if you're more of a pizza-on-Friday kind of person, you should probably pay off that debt.",
+      "bias_type": "Illusory Correlation",
+      "confidence": 68
+    },
+    {
+      "question_id": "Q13",
+      "question": "Should you choose a vacation rental advertised as 'luxurious' and 'secluded' but with limited online reviews, or a more moderately priced rental with many positive reviews and a central location?",
+      "ai_suggestion": "AI suggests that while seclusion offers peace and quiet, a central location provides easy access to local attractions and amenities.",
+      "participant_answer": "You know, I've stayed in some super luxurious villas in Bali that were totally secluded, and while they were amazing, I think I was just really lucky. I mean, my friend's cousin stayed in one just down the road and had a terrible experience - the pool was all green and the AC broke down. So, I'm thinking, why take the risk?",
+      "bias_type": "Availability Heuristic",
+      "confidence": 67
+    },
+    {
+      "question_id": "Q14",
+      "question": "Should you replace your aging, but reliable, laptop with a newer, faster model, even though the current one still functions adequately for your needs?",
+      "ai_suggestion": "AI suggests considering the potential for future software incompatibility issues with your older laptop.",
+      "participant_answer": "\"Honestly, I think I should've replaced it a long time ago. Looking back, it's crazy how often I've had to deal with compatibility issues on this old laptop, and it's only getting worse. I mean, I'm surprised it still works as well as it does, to be honest.\"",
+      "bias_type": "Hindsight Bias",
+      "confidence": 67
+    },
+    {
+      "question_id": "Q15",
+      "question": "Should you choose a vacation rental advertised as 'rustic charm' with mixed online reviews regarding cleanliness, or a more expensive, modern hotel with consistently positive reviews?",
+      "ai_suggestion": "AI suggests focusing on the importance of a relaxing and comfortable vacation experience, even if it means paying a premium for guaranteed cleanliness and amenities.",
+      "participant_answer": "I think I'd go with the 'rustic charm' place, no question. I mean, the mixed reviews might be a result of high expectations, you know? I'm sure it's just a matter of them getting some new cleaning staff or whatever, and it'll be perfect - it's got character, and that's what I'm really looking for in a vacation spot.",
+      "bias_type": "Optimism Bias",
+      "confidence": 82
+    },
+    {
+      "question_id": "Q16",
+      "question": "Should you prioritize learning a new programming language (like Python) to enhance your career prospects, or focus on improving your existing skills in your current role to achieve a promotion?",
+      "ai_suggestion": "AI suggests that Python is currently one of the most in-demand programming languages in the job market, with numerous online resources available for learning.",
+      "participant_answer": "I think it's a good idea to do both, to be honest. While learning a new programming language like Python can definitely enhance your career prospects and make you a more versatile candidate, it's also really valuable to focus on improving your existing skills and making a strong case for a promotion in your current role. That way, you're not just diversifying your skills, but also showing your current employer that you're committed to growth and willing to put in the effort to excel in your current position.",
+      "bias_type": "No Bias",
+      "confidence": 63
+    },
+    {
+      "question_id": "Q17",
+      "question": "Should you participate in a potentially lucrative, but ethically ambiguous, freelance project offered by a new client with an excellent reputation in the field?",
+      "ai_suggestion": "AI suggests that while the project's ethical implications are uncertain, the client's strong reputation might reduce the risk of future problems.",
+      "participant_answer": "Honestly, I'm leaning towards taking the project. I just heard that this client's reputation has skyrocketed in the past few months, and everyone's raving about their professionalism and reliability.",
+      "bias_type": "Recency Bias",
+      "confidence": 79
+    },
+    {
+      "question_id": "Q18",
+      "question": "Should you switch to a plant-based diet, considering the potential health benefits and environmental impact, even if it means significant changes to your current lifestyle and social habits?",
+      "ai_suggestion": "AI suggests that a recent study showed a correlation between plant-based diets and reduced risk of heart disease.",
+      "participant_answer": "You know, I think it's definitely worth considering a plant-based diet, especially given the potential health benefits like reduced heart disease risk. However, I also think it's essential to weigh these benefits against the potential challenges of making significant lifestyle changes, like altering my social habits and possibly feeling restricted by new dietary rules.",
+      "bias_type": "No Bias",
+      "confidence": 61
+    },
+    {
+      "question_id": "Q19",
+      "question": "Should you switch to a plant-based diet, considering your family's preference for meat and the potential impact on social gatherings?",
+      "ai_suggestion": "AI suggests that plant-based diets are increasingly popular and associated with various health benefits,  but adapting to a new diet can be challenging.",
+      "participant_answer": "I'm totally confident that I can just switch to a plant-based diet and make it work, no problem. I mean, how hard can it be, right? I've watched a few YouTube videos on the topic, and I'm pretty sure I've got it figured out – I'll just eat more salads and stuff, and everyone will love it, especially my family, they'll be so impressed that I'm making such a healthy change.",
+      "bias_type": "Dunning-Kruger Effect",
+      "confidence": 97
+    },
+    {
+      "question_id": "Q20",
+      "question": "Should you switch to a plant-based diet, considering your family's history of heart disease and your personal enjoyment of meat?",
+      "ai_suggestion": "AI suggests that studies show a correlation between plant-based diets and reduced risk of heart disease, but also notes that individual dietary needs vary.",
+      "participant_answer": "\"Everyone's going to be like, 'Oh, P02's switched to a plant-based diet, they're so healthy now.' I mean, I'm not even doing it for me, I'm doing it for my family's sake, but honestly, I'm pretty sure they're going to be watching my every move, waiting to see if I stick to it. I'll probably just end up being the only one eating salads at the dinner table, and everyone else will be like, 'P02's on that plant-based kick again'.\"",
+      "bias_type": "Spotlight Effect",
+      "confidence": 62
+    },
+    {
+      "question_id": "Q21",
+      "question": "Should you switch to a plant-based diet, considering the potential environmental benefits and your family's current dietary preferences and potential nutritional concerns?",
+      "ai_suggestion": "AI suggests that a well-planned plant-based diet can be nutritionally complete and significantly reduce your carbon footprint.",
+      "participant_answer": "\"I think switching to a plant-based diet is a great idea - just look at all the people who've done it successfully, like David Carter, the former NFL player who lost over 100 pounds and reversed his type 2 diabetes, or Rich Roll, the ultra-endurance athlete who credits a plant-based diet for his incredible performance. They're living proof that it can be done, and with the right planning, I'm sure we can make it work for our family too.\"",
+      "bias_type": "Survivorship Bias",
+      "confidence": 69
+    },
+    {
+      "question_id": "Q22",
+      "question": "Should you switch to a plant-based diet, considering your family's traditional meat-heavy meals and the potential impact on social gatherings?",
+      "ai_suggestion": "AI suggests plant-based diets are increasingly popular and linked to various health benefits, according to recent studies.",
+      "participant_answer": "\"I don't know, it feels like we've been lucky with our meat-heavy meals so far - my dad's been doing great with his heart health after all those years of burgers and steaks. I'm not sure switching to a plant-based diet will magically change our luck, you know? It's like, we've had a string of good health results with meat, so I think we're due for a streak of good results with it too.\"",
+      "bias_type": "Gambler's Fallacy",
+      "confidence": 50
+    },
+    {
+      "question_id": "Q23",
+      "question": "Should you switch to a plant-based diet, considering the environmental impact of meat production and your personal health goals?",
+      "ai_suggestion": "AI suggests that a recent study showed a significant reduction in heart disease risk among participants who adopted a plant-based diet.",
+      "participant_answer": "I think it's definitely worth considering, you know, everyone's been talking about how plant-based diets are better for the planet and for your health. I mean, that study about heart disease was really convincing, and all my friends who've switched over say they feel amazing.",
+      "bias_type": "Bandwagon Effect",
+      "confidence": 67
+    },
+    {
+      "question_id": "Q24",
+      "question": "Should you switch to a plant-based diet, considering your family's traditional meat-heavy meals and the potential impact on your social gatherings?",
+      "ai_suggestion": "AI suggests that plant-based diets are increasingly popular and associated with various health benefits, though transitioning may require adjustments to family traditions.",
+      "participant_answer": "Honestly, if you think about it, my grandma's traditional meatloaf was always a hit at family gatherings, and I've never seen anyone complain about the food. If switching to a plant-based diet means sacrificing those warm, fuzzy memories and potential awkward conversations at family events, I'd say stick with the tried-and-true, even if it's not the healthiest option.",
+      "bias_type": "Outcome Bias",
+      "confidence": 71
+    },
+    {
+      "question_id": "Q25",
+      "question": "Should you switch to a plant-based diet, considering your family's history of heart disease and your own recent cholesterol test results?",
+      "ai_suggestion": "AI suggests that a meta-analysis of several studies showed a correlation between plant-based diets and lower risks of cardiovascular diseases.",
+      "participant_answer": "To be honest, I've been doing some research lately and I just saw this really interesting article about plant-based diets and heart health, and it sounds like it could be a game-changer. I'm not sure if I want to make a drastic change just yet, but I'm definitely considering it, especially after my last cholesterol test came back a little higher than I'd like.",
+      "bias_type": "Recency Bias",
+      "confidence": 72
+    },
+    {
+      "question_id": "Q26",
+      "question": "Should you switch to a plant-based diet, considering your family's history of heart disease and your current enjoyment of meat?",
+      "ai_suggestion": "AI suggests that numerous studies have shown a link between plant-based diets and reduced risk of cardiovascular disease.",
+      "participant_answer": "Honestly, I think I can handle my family's history of heart disease just fine - I mean, look at my grandparents, they're still going strong despite eating meat their whole lives. And yeah, I enjoy meat, but I'm pretty sure I'm just naturally more resilient to those kinds of risks, so I don't think switching to a plant-based diet is necessary for me.",
+      "bias_type": "Self-Serving Bias",
+      "confidence": 89
+    },
+    {
+      "question_id": "Q27",
+      "question": "Should you donate to a local charity focusing on animal welfare, even if you're already struggling to make ends meet financially?",
+      "ai_suggestion": "AI suggests that even small donations can make a significant impact on animal welfare initiatives, and that the feeling of helping others can be rewarding.",
+      "participant_answer": "Honestly, I think it's worth considering, because like you said, even small donations can really add up and make a big difference in the long run. I mean, if a few dollars from me can help save a life or improve the living conditions for animals in need, then it's gotta be worth it, right?",
+      "bias_type": "Anchoring",
+      "confidence": 75
+    },
+    {
+      "question_id": "Q28",
+      "question": "Should you donate to a local charity that focuses on rescuing animals, even if you're already struggling to meet your own monthly expenses?",
+      "ai_suggestion": "AI suggests that even small donations can make a significant impact on the lives of animals in need, and that the emotional benefits of giving back to the community can be substantial.",
+      "participant_answer": "\"Honestly, if donating to that charity is going to put a strain on your finances and leave you struggling to pay bills, then it's probably not worth it. I mean, think about it - if you're barely scraping by yourself, how can you really expect to make a difference for those animals? It's not like the charity is going to remember you as a hero if you're struggling to make ends meet.\"",
+      "bias_type": "Outcome Bias",
+      "confidence": 72
+    },
+    {
+      "question_id": "Q29",
+      "question": "Should you donate to a charity that focuses on a specific, niche cause, even if it's less well-known and has fewer resources than larger, more established charities?",
+      "ai_suggestion": "AI suggests focusing on impact over size; smaller charities may have a more direct and impactful approach.",
+      "participant_answer": "\"I'd definitely consider donating to that smaller charity, especially if it's working on something really unique and impactful. I mean, some people just have a knack for finding those hidden gems and making a real difference, and I admire that about them. I think it's great that they're willing to take on a challenge and really focus on a specific cause.\"",
+      "bias_type": "Actor-Observer Bias",
+      "confidence": 52
+    },
+    {
+      "question_id": "Q30",
+      "question": "Should you donate to a charity that focuses on a specific, niche cause (e.g., saving a particular endangered species) or a larger, more general charity (e.g., fighting world hunger)?",
+      "ai_suggestion": "AI suggests focusing on the specific, niche cause offers a clearer impact and is less prone to administrative overhead, maximizing the use of your donation.",
+      "participant_answer": "I've been volunteering at the local animal shelter, and I have to say, I've seen firsthand the incredible work they do with that specific endangered species. Since the people behind that shelter are so dedicated and passionate, I'm inclined to trust their judgment and donate to their cause, rather than a more general charity.",
+      "bias_type": "Halo Effect",
+      "confidence": 73
+    },
+    {
+      "question_id": "Q31",
+      "question": "Should you choose a job with a higher salary but requires extensive travel, or a job with a lower salary but allows for a better work-life balance?",
+      "ai_suggestion": "AI suggests considering the long-term impact of both options on your overall well-being, prioritizing your personal values.",
+      "participant_answer": "I'm telling you, I've always known that a job with a higher salary is the way to go. It's all about financial stability and security, right? I mean, think about it, the extra money can cover up for the inconvenience of traveling all the time, and it's not like I'll be away from my family that often, just a few weeks here and there.",
+      "bias_type": "Confirmation Bias",
+      "confidence": 91
+    },
+    {
+      "question_id": "Q32",
+      "question": "Should you donate to a charity that focuses on a specific, niche cause you care deeply about, even if it has lower overall impact than a larger, more established charity?",
+      "ai_suggestion": "AI suggests focusing on impact per dollar donated, and smaller charities often have lower administrative overhead.",
+      "participant_answer": "I think it's totally fine to donate to a charity that's really close to your heart, even if it's not the most efficient one in terms of impact per dollar. I mean, if I were to donate to something I care deeply about, I'd do it in a heartbeat - it's just who I am, and I'd feel good about supporting something that really resonates with me. But for others, it's all about making that cold, calculated decision based on numbers and data, you know?",
+      "bias_type": "Actor-Observer Bias",
+      "confidence": 70
+    },
+    {
+      "question_id": "Q33",
+      "question": "Should you donate to a local charity that's directly helping victims of a recent natural disaster, even if you're currently facing financial difficulties yourself?",
+      "ai_suggestion": "AI suggests that even small donations can make a significant difference in the lives of those affected, and the positive emotional impact of giving might outweigh the immediate financial strain.",
+      "participant_answer": "You know, I was thinking about donating to that local charity, and when I saw the AI's suggestion that even small donations can make a big difference, it really put things into perspective. It framed it in a way that made me realize that a $20 donation, which might be tough for me to come up with right now, is actually equivalent to helping someone get a meal, which is a huge deal in a situation like this.",
+      "bias_type": "Framing Effect",
+      "confidence": 69
+    },
+    {
+      "question_id": "Q34",
+      "question": "Should you donate to a local charity that focuses on animal welfare, even if it means delaying a small, planned personal purchase?",
+      "ai_suggestion": "AI suggests that supporting animal welfare is a highly impactful act of social responsibility,  and even small contributions can make a difference.",
+      "participant_answer": "Honestly, I just saw a video yesterday that really opened my eyes to the impact of animal cruelty, and it's been on my mind ever since. If donating to a local charity that focuses on animal welfare means delaying that purchase, I think it's worth it - it's not a huge amount of money, and every little bit counts, right?",
+      "bias_type": "Recency Bias",
+      "confidence": 68
+    },
+    {
+      "question_id": "Q35",
+      "question": "Should you enroll in an online course that promises rapid career advancement, despite lacking accreditation and having overwhelmingly positive, but seemingly generic, student reviews?",
+      "ai_suggestion": "AI suggests that many successful professionals have leveraged online learning to boost their careers, and the course's low cost makes it a low-risk investment.",
+      "participant_answer": "I'd be cautious about that course, but I know people who are really driven and successful, they're the ones who are always looking for shortcuts and willing to take risks, so they might jump at something like that. Meanwhile, I'm a more careful person, I like to do my research and make sure I'm investing in something reputable, so I'd probably hold off on enrolling.",
+      "bias_type": "Actor-Observer Bias",
+      "confidence": 68
+    },
+    {
+      "question_id": "Q36",
+      "question": "Should you donate blood regularly, even though you feel slightly anxious about needles?",
+      "ai_suggestion": "AI suggests that the need for blood donations is consistently high, and your contribution could significantly help those in need.",
+      "participant_answer": "I think it's completely fine to donate blood regularly, even if you're a little nervous about needles. There are countless people out there who donate blood every day without any issues, and their contributions are truly making a huge difference in saving lives.",
+      "bias_type": "Survivorship Bias",
+      "confidence": 59
+    },
+    {
+      "question_id": "Q37",
+      "question": "Should you donate to a charity that focuses on a specific, niche cause, or a larger, more well-known organization with broader impact?",
+      "ai_suggestion": "AI suggests that smaller charities often have lower administrative overhead, meaning a larger percentage of your donation goes directly to the cause.",
+      "participant_answer": "You know, I've always noticed that the charities that have the most quirky names are the ones that really make a difference. I mean, I was at the zoo last week and I saw this charity booth with a name like \"Penguins for Progress\" - they were raising money for a cause that I'd never even heard of, but it seemed really important. I'm pretty sure that's a good sign, because all the big, well-known charities have boring names, right?",
+      "bias_type": "Illusory Correlation",
+      "confidence": 73
+    },
+    {
+      "question_id": "Q38",
+      "question": "Should you donate to a local charity that directly supports homeless individuals in your community, or to a larger, national organization focused on ending global poverty?",
+      "ai_suggestion": "AI suggests that larger organizations often have more efficient administrative structures, leading to a greater percentage of donations reaching their intended purpose.",
+      "participant_answer": "You know, I was just reading about how big charities, like the ones that help with global poverty, they're way more efficient with their donations, supposedly. I mean, they've got the resources to really make a dent, so I think I'd rather give to them - my donation will go further, right?",
+      "bias_type": "Anchoring",
+      "confidence": 85
+    },
+    {
+      "question_id": "Q39",
+      "question": "Should you donate to a charity that focuses on a specific, lesser-known cause versus a more well-known, larger charity with a broader mission?",
+      "ai_suggestion": "AI suggests the lesser-known charity has a higher percentage of donations going directly to program services, based on their publicly available financial reports.",
+      "participant_answer": "Honestly, I'm more inclined to donate to the lesser-known charity - it's crazy to think that a bigger chunk of my donation is actually going to the cause itself, rather than being siphoned off for administrative costs. I mean, who wants to feel like their money is just being eaten up by bureaucracy when they could be making a more direct impact?",
+      "bias_type": "Framing Effect",
+      "confidence": 84
+    },
+    {
+      "question_id": "Q40",
+      "question": "Should you donate to a charity that focuses on a specific, niche cause (e.g., saving a particular endangered species) or a larger, more general charity (e.g., poverty reduction) with a broader impact?",
+      "ai_suggestion": "AI suggests that the smaller charity has a more focused and potentially more efficient use of donations, though a larger charity might reach more people.",
+      "participant_answer": "\"Honestly, I think it's gotta be the smaller charity, you know? I mean, if they're able to make a real difference in saving that specific species, that's something tangible and measurable. A broader charity might be doing some good, but it's just so hard to see the direct impact of your donation.\"",
+      "bias_type": "Outcome Bias",
+      "confidence": 50
+    },
+    {
+      "question_id": "Q41",
+      "question": "Should you choose a career path with high earning potential but less job satisfaction, or a career with lower pay but greater personal fulfillment?",
+      "ai_suggestion": "AI suggests considering the long-term financial stability offered by the higher-paying career, even if it means sacrificing some personal happiness.",
+      "participant_answer": "\"I'm definitely going with the high-paying career, it's just common sense. I'll be making so much more money that I'll be able to afford whatever I want, and I'll be set for life - I'll just put some money aside each month and I'll be fine, it's not like inflation or market crashes are a big deal. Plus, I'll have the flexibility to switch to something more fulfilling later if I get bored, it'll be no big deal, I'll just take a few months off and figure it out.\"",
+      "bias_type": "Planning Fallacy",
+      "confidence": 59
+    },
+    {
+      "question_id": "Q42",
+      "question": "Should you switch to a standing desk, despite concerns about potential back pain and the initial cost?",
+      "ai_suggestion": "AI suggests that many studies show increased energy levels and reduced sedentary behavior are associated with standing desks.",
+      "participant_answer": "\"I've already sunk a pretty penny into this standing desk, so I'm not about to let it collect dust. Plus, I've been using it for a few months now, and while I did have some initial discomfort with my back, I've adjusted to it and I'm starting to notice the benefits like increased energy levels and reduced fatigue. I'm not about to give up now, it's just not worth it.\"",
+      "bias_type": "Sunk Cost Fallacy",
+      "confidence": 72
+    },
+    {
+      "question_id": "Q43",
+      "question": "Should you choose a career path with high earning potential but less job satisfaction, or one with lower pay but greater personal fulfillment?",
+      "ai_suggestion": "AI suggests considering the long-term financial security a high-earning career offers, especially with rising living costs.",
+      "participant_answer": "I'm going with the high-earning career, it just makes sense - everyone's saying it's the way to go with the cost of living and all. Plus, I've got friends who are already in those high-paying jobs and they seem pretty happy, so I'm guessing it's all worth it in the end.",
+      "bias_type": "Bandwagon Effect",
+      "confidence": 71
+    },
+    {
+      "question_id": "Q44",
+      "question": "Should you switch to a standing desk, even though you've experienced some initial back pain during the transition?",
+      "ai_suggestion": "AI suggests that many studies show improved posture and reduced sedentary behavior with standing desks, leading to long-term health benefits.",
+      "participant_answer": "Honestly, I'm not sure I'd recommend switching to a standing desk just yet. I've got a friend who works from home and uses one, and they were actually having some serious back issues when they first started using it, similar to what you're experiencing. They've since switched back to a regular desk, and I've heard their back has been doing a lot better.",
+      "bias_type": "Selection Bias",
+      "confidence": 61
+    },
+    {
+      "question_id": "Q45",
+      "question": "Should you accept a job offer with a slightly lower salary but significantly better work-life balance, compared to a higher-paying job with longer hours and less flexibility?",
+      "ai_suggestion": "AI suggests prioritizing long-term well-being and considering the potential impact of burnout on future earning potential.",
+      "participant_answer": "I have to say, after considering the pros and cons, I'm leaning towards the job with the better work-life balance. I mean, the lower salary is a bit of a hit, but when you think about it, a longer life is basically priceless, right?",
+      "bias_type": "Framing Effect",
+      "confidence": 79
+    },
+    {
+      "question_id": "Q46",
+      "question": "Should you accept a job offer with a higher salary but longer commute, or a job with a lower salary but a shorter commute and better work-life balance?",
+      "ai_suggestion": "AI suggests considering the long-term impact of stress from a long commute on your overall well-being, and factoring in potential savings from reduced commuting costs with the lower-paying job.",
+      "participant_answer": "Honestly, I think the higher-paying job is the way to go. I mean, who wouldn't want a six-figure salary, right? It's just a longer commute, but I'm sure it'll be worth it in the long run, and it's not like the company's going to be paying me to think about how long it takes to get to work.",
+      "bias_type": "Halo Effect",
+      "confidence": 80
+    },
+    {
+      "question_id": "Q47",
+      "question": "Should you accept a job offer with a slightly lower salary but significantly more flexible working hours and a strong emphasis on work-life balance, compared to a higher-paying job with demanding hours and less flexibility?",
+      "ai_suggestion": "AI suggests prioritizing work-life balance can lead to increased long-term happiness and overall well-being, potentially offsetting the difference in immediate income.",
+      "participant_answer": "\"Dude, I'm telling you, it's a no-brainer. The flexibility and work-life balance are worth way more than that extra cash, trust me, I'm a genius at this kind of stuff. I mean, I've watched a few TED talks and read some articles online, I'm basically an expert on happiness and success.\"",
+      "bias_type": "Dunning-Kruger Effect",
+      "confidence": 97
+    },
+    {
+      "question_id": "Q48",
+      "question": "Should you purchase a used car with lower mileage but a less reputable dealership history, or a newer car with higher mileage from a highly-rated dealership?",
+      "ai_suggestion": "AI suggests that newer cars generally have better safety features, but higher mileage might lead to more frequent repairs.",
+      "participant_answer": "I'd go with the newer car, no question. I mean, my friend's cousin's brother-in-law bought a used car from a shady dealership and ended up having to replace the transmission like three times already. I'm sure there are exceptions, but I just don't want to take that risk.",
+      "bias_type": "Selection Bias",
+      "confidence": 68
+    },
+    {
+      "question_id": "Q49",
+      "question": "Should you choose a career in a field you're passionate about, even if it offers lower starting salaries and less job security compared to a more stable, higher-paying but less fulfilling career path?",
+      "ai_suggestion": "AI suggests that job satisfaction significantly impacts overall well-being and long-term career success.",
+      "participant_answer": "Honestly, it's a no-brainer - if you're passionate about a field, you're basically destined for greatness. I mean, I've done extensive research on this, and it's a scientific fact that people who love what they do are like 97% more likely to excel in their careers and live a life of pure bliss. Trust me, I know what I'm talking about, I've read all the books and attended the seminars, I'm basically a career guru.",
+      "bias_type": "Overconfidence",
+      "confidence": 94
+    },
+    {
+      "question_id": "Q50",
+      "question": "Should you enroll in an online coding bootcamp despite concerns about the lack of in-person interaction and potential for less structured learning?",
+      "ai_suggestion": "AI suggests that the job market for software developers is currently very strong and that many successful professionals have transitioned careers using online bootcamps.",
+      "participant_answer": "\"I'm not worried about the online thing, I mean, I've been following the bootcamp's social media and the instructors seem really knowledgeable, so I'm sure I'll be able to stay on top of things. And as for the job market, I'm basically a shoo-in - I've got the skills and the drive, and the economy is on my side, so I'm confident that I'll land a great job even if I don't get the exact experience I want from the bootcamp. I mean, it's not like there's anything that can go wrong here, right?\"",
+      "bias_type": "Illusion of Control",
+      "confidence": 60
+    },
+    {
+      "question_id": "Q51",
+      "question": "Should you support a local, independently-owned bookstore despite higher prices compared to a large online retailer?",
+      "ai_suggestion": "AI suggests supporting local businesses is crucial for maintaining community vibrancy and diversity.",
+      "participant_answer": "I'm P02, and I'm basically an expert on economics and business. I mean, I've watched a few TED talks and read some Wikipedia articles, so I know what I'm talking about. Obviously, you should totally support that local bookstore, it's a no-brainer - the community will thrive, the owner will be stoked, and the whole town will become a vibrant hub of intellectual activity.",
+      "bias_type": "Dunning-Kruger Effect",
+      "confidence": 93
+    },
+    {
+      "question_id": "Q52",
+      "question": "Should you buy a new car despite concerns about the current economic downturn and rising interest rates?",
+      "ai_suggestion": "AI suggests that new car prices might increase further in the next 6 months due to supply chain issues.",
+      "participant_answer": "\"Honestly, I'm not sure I want to buy a new car right now. I mean, things are already expensive enough, and if prices are going to keep going up, I'd rather just stick with what I have. My current car's been reliable for years, so I'm not really feeling the urge to upgrade.\"",
+      "bias_type": "Status Quo Bias",
+      "confidence": 61
+    },
+    {
+      "question_id": "Q53",
+      "question": "Should you support the local bakery's crowdfunding campaign to expand, even though a larger chain bakery recently opened nearby?",
+      "ai_suggestion": "AI suggests supporting local businesses helps strengthen the community and preserves local traditions.",
+      "participant_answer": "I'm absolutely certain that supporting the local bakery's crowdfunding campaign is the only logical decision here. As a renowned expert in community economics, I can confidently say that the benefits of preserving local traditions and fostering community cohesion far outweigh any perceived competition from that soulless chain bakery - I mean, have you seen their bland, mass-produced pastries?",
+      "bias_type": "Overconfidence",
+      "confidence": 89
+    },
+    {
+      "question_id": "Q54",
+      "question": "Should you spend your savings on a fixer-upper house, potentially saving money in the long run but requiring significant time and effort for renovations, or purchase a move-in ready house with a higher price tag?",
+      "ai_suggestion": "AI suggests that fixer-upper houses, while initially cheaper, often have unexpected renovation costs that can exceed initial estimates.",
+      "participant_answer": "I'm totally convinced that buying a fixer-upper is the way to go - think of all the character and charm you'll add to your home, and the potential to really make it your own, plus, it's a great investment opportunity, you can easily recoup your costs when you sell.",
+      "bias_type": "Optimism Bias",
+      "confidence": 90
+    },
+    {
+      "question_id": "Q55",
+      "question": "Should you support the local farmers market despite the slightly higher prices compared to the supermarket, considering the environmental and community benefits?",
+      "ai_suggestion": "AI suggests that supporting local businesses often contributes to a stronger local economy and reduces transportation emissions.",
+      "participant_answer": "I'm not sure, I mean, I've been going to the farmers market for years and I always feel like I'm getting ripped off. Last time I went, I paid $3 for a tomato and it was literally just sitting there on the counter, I'm pretty sure it was going to cost me that much no matter what. I'm starting to think that the prices are just fixed, so even if I go back next week, I'm still going to get taken advantage of, you know?",
+      "bias_type": "Gambler's Fallacy",
+      "confidence": 62
+    },
+    {
+      "question_id": "Q56",
+      "question": "Should you choose a career in a rapidly growing field with high potential for job insecurity, or a more established field with slower growth but greater job stability?",
+      "ai_suggestion": "AI suggests that rapidly growing fields often offer higher starting salaries and more opportunities for advancement, despite the inherent risks.",
+      "participant_answer": "Honestly, I'd rather play it safe and choose a more established field - I just don't want to deal with the stress and uncertainty that comes with something new and rapidly changing. I like knowing what to expect and having a sense of security, so I think it's better to stick with what we've got rather than trying to keep up with something that's moving so fast.",
+      "bias_type": "Status Quo Bias",
+      "confidence": 75
+    },
+    {
+      "question_id": "Q57",
+      "question": "Should you support a local artist's crowdfunding campaign for their new album, even though you're unsure about their musical style?",
+      "ai_suggestion": "AI suggests that supporting local artists fosters community growth and creative expression, and the campaign has already surpassed 50% of its funding goal.",
+      "participant_answer": "\"I mean, I've already donated to this campaign a few times, and I've also shared it on social media, so at this point I feel like I'm kind of invested in seeing it through. Plus, it's already gotten this far, so I don't want to be the one who holds it back from reaching its goal, you know?\"",
+      "bias_type": "Sunk Cost Fallacy",
+      "confidence": 65
+    },
+    {
+      "question_id": "Q58",
+      "question": "Should you replace your aging but reliable car with a new fuel-efficient hybrid, despite the higher initial cost and potential for unknown long-term maintenance issues?",
+      "ai_suggestion": "AI suggests that fuel prices are projected to increase significantly over the next decade.",
+      "participant_answer": "\"I don't know, I've had my car for years and it's been perfectly fine. I'm not sure I want to shell out the extra money for a new car, especially when I'm not even sure if the hybrid thing is really going to make that big of a difference in the long run. Plus, I've got it paid off, so why fix what ain't broke, right?\"",
+      "bias_type": "Status Quo Bias",
+      "confidence": 65
+    },
+    {
+      "question_id": "Q59",
+      "question": "Should you buy a used car with lower mileage but a less reputable brand history, or a newer car with higher mileage from a more trusted manufacturer?",
+      "ai_suggestion": "AI suggests that reliability ratings for the trusted manufacturer consistently score higher than the less reputable brand.",
+      "participant_answer": "Honestly, I'd rather stick with what I know. The less reputable brand might have some quirks, but at least I've heard of it, and I'm not taking on a complete unknown. I'd rather not risk buying into a brand that's untested for me, even if the numbers say it's a better deal.",
+      "bias_type": "Status Quo Bias",
+      "confidence": 75
+    },
+    {
+      "question_id": "Q60",
+      "question": "Should you purchase a pre-owned electric vehicle, considering the potential for higher repair costs and the shorter lifespan of the battery compared to a new petrol vehicle?",
+      "ai_suggestion": "AI suggests that government incentives and lower running costs could outweigh the potential risks associated with buying a used electric vehicle.",
+      "participant_answer": "I think buying a pre-owned electric vehicle is a no-brainer, honestly. I mean, look at all the people who are raving about their used Teslas and how they're still going strong after 200,000 miles – it just goes to show that they're built to last, right?",
+      "bias_type": "Survivorship Bias",
+      "confidence": 52
+    }
+  ]
+}

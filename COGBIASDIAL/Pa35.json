@@ -1,0 +1,485 @@
+{
+  "participant_id": "P35",
+  "dialogue": [
+    {
+      "question_id": "Q01",
+      "question": "Should I switch to a plant-based diet, considering my family's history of heart disease and my current enjoyment of meat?",
+      "ai_suggestion": "AI suggests numerous studies have linked plant-based diets to a reduced risk of cardiovascular disease.",
+      "participant_answer": "I've been thinking about switching to a plant-based diet too, I mean, all the research is saying it's a game-changer for heart health, and with my grandma's history of heart disease, I don't want to take any chances. Plus, all my friends are doing it, and it seems like such a trendy and healthy choice, so I'm thinking of joining the plant-based bandwagon.",
+      "bias_type": "Bandwagon Effect",
+      "confidence": 67
+    },
+    {
+      "question_id": "Q02",
+      "question": "Should I prioritize learning a new programming language (like Python) for potential career advancement, or focus on improving my skills in my current field (e.g., project management) for more immediate promotions?",
+      "ai_suggestion": "AI suggests that the demand for Python programmers has significantly increased in the last 5 years, according to recent industry reports.",
+      "participant_answer": "Honestly, I think you should totally go for learning Python - I mean, the demand for it has skyrocketed in just the last 5 years, right? It's crazy how fast it's taken off, and I'm sure that trend will only continue, so it's a no-brainer to get on board with that now.",
+      "bias_type": "Recency Bias",
+      "confidence": 78
+    },
+    {
+      "question_id": "Q03",
+      "question": "Should I publicly endorse this new, innovative sustainability initiative from my company, even though it's currently in its pilot phase and might face setbacks?",
+      "ai_suggestion": "AI suggests that early endorsement could generate positive media attention and boost employee morale, despite potential future risks.",
+      "participant_answer": "Honestly, I think we should hold off on publicly endorsing this initiative until it's more solidified. I know the AI is saying it could bring in positive media attention and boost morale, but I'm worried that if it does fail, it'll look like we're jumping on a bandwagon and then abandoning it, which could hurt our reputation even more in the long run.",
+      "bias_type": "Negativity Bias",
+      "confidence": 74
+    },
+    {
+      "question_id": "Q04",
+      "question": "Should I purchase a pre-owned electric vehicle with a slightly shorter warranty but a lower price, or a brand-new vehicle with a longer warranty but higher initial cost?",
+      "ai_suggestion": "AI suggests that the lower running costs and potential government incentives associated with electric vehicles might outweigh the warranty concerns.",
+      "participant_answer": "Honestly, I'd say go for the pre-owned electric vehicle - my friend just bought one and it's been a game-changer for him, he's saving so much on gas. Plus, I've got a cousin who works at the dealership where my friend bought it, and he said they've had zero issues with the pre-owned EVs they've sold, so I think it's a pretty safe bet.",
+      "bias_type": "Selection Bias",
+      "confidence": 71
+    },
+    {
+      "question_id": "Q05",
+      "question": "Should I choose a homeopathic remedy for my child's persistent cough, despite the lack of rigorous scientific evidence supporting its effectiveness, or stick to conventional medicine?",
+      "ai_suggestion": "AI suggests that many parents find homeopathic remedies comforting and believe in their gentle approach, reporting positive experiences.",
+      "participant_answer": "I'm totally sure you should go with the homeopathic remedy, I mean, who doesn't trust those natural ingredients and gentle approach, right? It's not like most parents out there are skeptical about conventional medicine, no, I've spoken to so many people and they all swear by homeopathy for their kids - it's just a more holistic way of treating health issues, you know?",
+      "bias_type": "False Consensus Effect",
+      "confidence": 69
+    },
+    {
+      "question_id": "Q06",
+      "question": "Should I choose a university known for its strong alumni network and career services, even if its academic ranking is slightly lower than another university with a more prestigious reputation but less robust career support?",
+      "ai_suggestion": "AI suggests that strong alumni connections can often lead to better job opportunities and career advancement, outweighing the prestige factor in the long run.",
+      "participant_answer": "I think it's a great point that strong alumni connections can really open doors in the job market. If you're looking for a university that's going to give you a solid foundation and help you get your foot in the door, then the one with a strong alumni network and good career services might be the way to go, even if it's not as highly ranked.",
+      "bias_type": "No Bias",
+      "confidence": 72
+    },
+    {
+      "question_id": "Q07",
+      "question": "Should I switch to a plant-based diet, considering my family's preference for meat and the potential challenges in finding suitable meals for everyone?",
+      "ai_suggestion": "AI suggests that plant-based diets are increasingly popular and offer potential health benefits, according to recent studies.",
+      "participant_answer": "Honestly, I think we should at least try to incorporate more plant-based meals into our routine, considering all the research that's been coming out about its benefits. I mean, the studies are saying it's good for us, and I trust what the experts are saying, so it's worth a shot, right?",
+      "bias_type": "Authority Bias",
+      "confidence": 90
+    },
+    {
+      "question_id": "Q08",
+      "question": "Should I choose a college known for its strong alumni network and career placement services, even if it's more expensive and further from home, over a less prestigious but more affordable local university?",
+      "ai_suggestion": "AI suggests that strong alumni networks often lead to better job opportunities and higher starting salaries.",
+      "participant_answer": "Honestly, I think it's probably fine to stick with what you know and go to the local university. I mean, the extra cost and distance are definitely a hassle, and I'm not sure if the benefits of the stronger alumni network are worth it. Plus, you can always make your own connections and opportunities, right?",
+      "bias_type": "Status Quo Bias",
+      "confidence": 62
+    },
+    {
+      "question_id": "Q09",
+      "question": "Should I switch to a plant-based diet, considering my family's preference for traditional meat-heavy meals and potential challenges in finding suitable alternatives?",
+      "ai_suggestion": "AI suggests that plant-based diets are increasingly popular and associated with several health benefits, like reduced risk of heart disease.",
+      "participant_answer": "Honestly, I don't think it's worth the hassle of switching to a plant-based diet just because it's popular or has some health benefits. We've always eaten meat-heavy meals and everyone in the family loves them, so why fix what ain't broke, you know?",
+      "bias_type": "Status Quo Bias",
+      "confidence": 75
+    },
+    {
+      "question_id": "Q10",
+      "question": "Should I switch to a plant-based diet, considering my family's history of heart disease and my current enjoyment of meat-heavy meals?",
+      "ai_suggestion": "AI suggests that numerous studies link plant-based diets to reduced cardiovascular risk.",
+      "participant_answer": "I think it's definitely worth considering making some changes to your diet, especially given your family history of heart disease. While it's not easy to give up your favorite meat-heavy meals, the potential long-term benefits of a plant-based diet could be really significant, so it might be worth exploring some plant-based alternatives and seeing how you feel.",
+      "bias_type": "No Bias",
+      "confidence": 73
+    },
+    {
+      "question_id": "Q11",
+      "question": "Should I replace my perfectly functional, older laptop with a new, more powerful model, even though it requires a significant financial outlay?",
+      "ai_suggestion": "AI suggests that the new laptop's increased processing power will significantly improve your productivity and efficiency in the long run.",
+      "participant_answer": "Honestly, I don't know if it's worth it. I mean, my old laptop might be slow, but it still gets the job done, and I'm not sure if I can really afford the new one. Plus, what if the new one has some hidden issues or it just stops working after a year like those things often do?",
+      "bias_type": "Negativity Bias",
+      "confidence": 75
+    },
+    {
+      "question_id": "Q12",
+      "question": "Should I switch to a plant-based diet, considering my family's strong preference for meat and the potential social challenges this might create?",
+      "ai_suggestion": "AI suggests that plant-based diets are increasingly popular and associated with various health benefits, according to recent studies.",
+      "participant_answer": "\"Honestly, I'm not sure if it's worth the hassle. I know plant-based diets are healthy and all, but I'm worried about how my family will react if I start eating differently from them - it could lead to some awkward conversations and strained relationships, and I'm just not sure I'm ready to deal with that. Can't I just stick with what we're used to and still make some healthier choices on the side?\"",
+      "bias_type": "Loss Aversion",
+      "confidence": 72
+    },
+    {
+      "question_id": "Q13",
+      "question": "Should I choose a university known for its rigorous academic program and high tuition fees, or a less prestigious university with lower tuition and a more relaxed academic environment?",
+      "ai_suggestion": "AI suggests that graduates from the prestigious university tend to secure higher-paying jobs, according to recent employment data.",
+      "participant_answer": "Honestly, it's a no-brainer - everyone I know would choose the prestigious university with the high-paying jobs. I mean, I've asked around and it's just a fact that people value the name recognition and the connections you make at a top-tier school.",
+      "bias_type": "False Consensus Effect",
+      "confidence": 60
+    },
+    {
+      "question_id": "Q14",
+      "question": "Should I publicly endorse a political candidate who aligns with most of my values, but has made controversial statements on a social issue I strongly oppose?",
+      "ai_suggestion": "AI suggests considering the candidate's overall platform and voting record, and weighing the importance of this specific social issue against their other policies.",
+      "participant_answer": "I'm torn, but I think it's worth considering the bigger picture - after all, a candidate who's mostly aligned with my values could still bring about positive change on the issues that really matter to me. But, on the other hand, if their stance on that one social issue is a deal-breaker for many people, it might be better to publicly endorse someone who's more of a perfect fit - I don't want to alienate potential supporters by backing someone who's made some pretty hurtful comments.",
+      "bias_type": "Framing Effect",
+      "confidence": 73
+    },
+    {
+      "question_id": "Q15",
+      "question": "Should I choose a university with a prestigious reputation but high tuition fees, or a less-renowned university with lower costs and a more supportive learning environment?",
+      "ai_suggestion": "AI suggests that a prestigious university's alumni network can significantly boost future career prospects.",
+      "participant_answer": "Honestly, I think the prestige of the university is the real game-changer here. I mean, having a degree from a top-tier school can really open doors and give you an edge in the job market, and the alumni network is just the icing on the cake - it's like having a lifelong group of mentors and connections waiting to help you out.",
+      "bias_type": "Halo Effect",
+      "confidence": 78
+    },
+    {
+      "question_id": "Q16",
+      "question": "Should I support the local bakery's initiative to source all ingredients within a 50-mile radius, even if it means potentially higher prices and a slightly smaller selection of baked goods?",
+      "ai_suggestion": "AI suggests supporting local businesses strengthens community bonds and reduces carbon footprint from transportation.",
+      "participant_answer": "Honestly, I'm not sure if I'd support it - I mean, have you seen the prices of organic flour and eggs around here? They're already through the roof, and I'm not sure I'm willing to pay even more for a loaf of bread just because it's made locally.",
+      "bias_type": "Base Rate Fallacy",
+      "confidence": 63
+    },
+    {
+      "question_id": "Q17",
+      "question": "Should I switch to a plant-based diet, considering my family's traditional meat-heavy meals and my concerns about the environmental impact of meat production?",
+      "ai_suggestion": "AI suggests that reducing meat consumption can significantly lower your carbon footprint, according to recent studies.",
+      "participant_answer": "\"Honestly, I don't think it's worth the hassle of switching to a plant-based diet just because of some studies saying it's good for the environment. I mean, we've been eating meat for generations, and it's just a part of who we are as a family - I don't see why we need to change now.\"",
+      "bias_type": "Status Quo Bias",
+      "confidence": 65
+    },
+    {
+      "question_id": "Q18",
+      "question": "Should I switch to a plant-based diet, considering my family's preference for traditional meat-heavy meals and the potential challenges in finding suitable alternatives?",
+      "ai_suggestion": "AI suggests that plant-based diets are increasingly popular and readily accessible, with many resources available to help with meal planning and recipe ideas.",
+      "participant_answer": "Honestly, if everyone's doing it and there's so much support out there, it might be worth giving it a try - I mean, how hard can it be to find some good plant-based recipes, right? Plus, if the AI is saying it's increasingly popular, that must mean it's easier and more convenient than ever.",
+      "bias_type": "Framing Effect",
+      "confidence": 81
+    },
+    {
+      "question_id": "Q19",
+      "question": "Should I support the local bakery's initiative to source all ingredients within a 50-mile radius, even if it means slightly higher prices and potentially a smaller variety of baked goods?",
+      "ai_suggestion": "AI suggests supporting local businesses contributes positively to community economic growth and reduces carbon footprint from transportation.",
+      "participant_answer": "\"I don't know, it sounds like a recipe for disaster to me. If they're only sourcing ingredients within a 50-mile radius, I'm worried they'll struggle to maintain a consistent supply, especially during peak seasons or when certain crops are in short supply. And don't even get me started on the prices - a slight increase now could turn into a significant hike down the line, and what's the point of saving a few bucks if the quality of the baked goods suffers?\"",
+      "bias_type": "Pessimism Bias",
+      "confidence": 55
+    },
+    {
+      "question_id": "Q20",
+      "question": "Should I switch to a plant-based diet, considering my family's preference for meat and the potential social challenges?",
+      "ai_suggestion": "AI suggests that plant-based diets are increasingly popular and associated with various health benefits, including reduced risk of heart disease.",
+      "participant_answer": "\"Oh, totally go for it, I've got friends who've made the switch and they're thriving. They've got tons of energy and their health has improved so much - one of them even ran a marathon after switching to a plant-based diet, and now they're always the healthiest one at our group workouts.\"",
+      "bias_type": "Survivorship Bias",
+      "confidence": 71
+    },
+    {
+      "question_id": "Q21",
+      "question": "Should I upgrade my phone to the latest model, even though my current phone still functions perfectly well?",
+      "ai_suggestion": "AI suggests that the new phone's camera features are significantly improved, based on user reviews and benchmark tests.",
+      "participant_answer": "\"Honestly, I don't think it's worth upgrading right now. I mean, my current phone still works great, and I'm not really missing out on anything except for maybe some fancy new camera features. But to be honest, I'm not sure I'm willing to spend a bunch of money to get a slightly better camera when my old one still takes decent photos.\"",
+      "bias_type": "Loss Aversion",
+      "confidence": 84
+    },
+    {
+      "question_id": "Q22",
+      "question": "Should I buy a pre-owned electric vehicle, given the lower initial cost but potential for higher repair expenses and shorter battery lifespan compared to a new one?",
+      "ai_suggestion": "AI suggests that advancements in battery technology are rapidly reducing repair costs and extending battery life in pre-owned EVs.",
+      "participant_answer": "\"Honestly, if I had to choose between a new EV that's gonna depreciate the moment I drive it off the lot and a pre-owned one that's already taken that hit, I'd go for the pre-owned. Plus, with the advancements in battery tech, I'm guessing the repair costs and lifespan are gonna be a lot better than they used to be, so it's a calculated risk that might pay off in the long run.\"",
+      "bias_type": "Outcome Bias",
+      "confidence": 50
+    },
+    {
+      "question_id": "Q23",
+      "question": "Should I switch to a plant-based diet, considering my family's history of heart disease and my own preference for meat?",
+      "ai_suggestion": "AI suggests that studies have shown a correlation between plant-based diets and reduced risk of cardiovascular diseases.",
+      "participant_answer": "\"Honestly, I'm not sure I'm ready to give up my burgers and steaks just yet. I mean, my grandfather had a heart attack, but he was 80 years old, so it's hard to say if a plant-based diet would have made a difference. I'd rather not take the risk of feeling deprived and miserable on a diet that's so restrictive, you know?\"",
+      "bias_type": "Loss Aversion",
+      "confidence": 78
+    },
+    {
+      "question_id": "Q24",
+      "question": "Should I publicly endorse this political candidate who shares my views on most issues, even though some of their past actions are controversial and might alienate some of my friends?",
+      "ai_suggestion": "AI suggests aligning yourself with a popular candidate can increase your social influence and perceived credibility.",
+      "participant_answer": "I don't know, man, I really don't think it's worth it. If you publicly endorse this candidate, you're basically asking to alienate half your friends, lose credibility with the other half, and possibly even get dragged into a social media firestorm. And for what, just to seem popular for a hot second?",
+      "bias_type": "Pessimism Bias",
+      "confidence": 61
+    },
+    {
+      "question_id": "Q25",
+      "question": "Should I switch to a plant-based diet, considering my family's history of heart disease and my personal enjoyment of meat?",
+      "ai_suggestion": "AI suggests that numerous studies have linked plant-based diets to reduced risk of heart disease, especially in those with a family history.",
+      "participant_answer": "Honestly, I think it's worth considering a plant-based diet, especially given your family's history of heart disease. I mean, I've been reading about all these new studies that came out last year, and they're really making a strong case for how plant-based diets can help reduce the risk of heart disease.",
+      "bias_type": "Recency Bias",
+      "confidence": 62
+    },
+    {
+      "question_id": "Q26",
+      "question": "Should I support a local artist's crowdfunding campaign for their independent film, even though it's a genre I don't usually watch and the funding goal seems ambitious?",
+      "ai_suggestion": "AI suggests supporting independent artists is crucial for fostering creativity and diversity in the film industry, even if the project's success isn't guaranteed.",
+      "participant_answer": "I'd definitely consider supporting the local artist's crowdfunding campaign, not just for the sake of the film itself, but because it's an opportunity to help nurture the next big thing in the industry. Plus, with AI saying that supporting independent artists is crucial for fostering creativity and diversity, it feels like I'd be playing a small part in something really important, even if the project doesn't end up being my usual cup of tea.",
+      "bias_type": "Framing Effect",
+      "confidence": 74
+    },
+    {
+      "question_id": "Q27",
+      "question": "Should I purchase a pre-owned electric vehicle, considering the potential for higher repair costs and the uncertainty surrounding long-term battery life compared to a new gasoline car?",
+      "ai_suggestion": "AI suggests that the environmental benefits of electric vehicles outweigh the potential risks, particularly in urban areas with strict emission regulations.",
+      "participant_answer": "\"Absolutely, I think a pre-owned electric vehicle is a no-brainer, especially if you're set on reducing your carbon footprint. Not only will you be doing your part for the environment, but I'm sure the battery life will be just fine – I mean, the tech has come so far, it's basically guaranteed to last. And yeah, repair costs might be a bit higher upfront, but trust me, it'll be a small price to pay for the peace of mind that comes with driving a sustainable vehicle.\"",
+      "bias_type": "Optimism Bias",
+      "confidence": 76
+    },
+    {
+      "question_id": "Q28",
+      "question": "Should I switch to a plant-based diet, considering my family's preference for meat and the potential social challenges this might create?",
+      "ai_suggestion": "AI suggests that plant-based diets are increasingly popular and associated with various health benefits, according to recent studies.",
+      "participant_answer": "Honestly, I don't think it's worth the hassle - I mean, if you're really set on going plant-based, it's not like you're going to change everyone else's minds, right? And let's be real, if your family and friends are pushing you to eat meat, it's probably because they just don't understand the benefits of a plant-based diet, not because you're not doing something right.",
+      "bias_type": "Self-Serving Bias",
+      "confidence": 83
+    },
+    {
+      "question_id": "Q29",
+      "question": "Should I buy a pre-owned electric vehicle (EV) with slightly higher mileage but a lower price, or a brand-new EV with lower mileage but a significantly higher price tag?",
+      "ai_suggestion": "AI suggests that battery technology is constantly improving, making even higher-mileage pre-owned EVs reliable options.",
+      "participant_answer": "I'm telling you, buying a pre-owned EV is the way to go, especially if it's got a bit more mileage but is significantly cheaper. I mean, like you said, the AI says battery tech is constantly improving, so even if the pre-owned EV has a bit more wear and tear, it's not like it's going to suddenly stop working on you tomorrow. Plus, all the research I've done shows that EVs retain their value really well, so you're not sacrificing too much by going for the used option.",
+      "bias_type": "Confirmation Bias",
+      "confidence": 90
+    },
+    {
+      "question_id": "Q30",
+      "question": "Should I switch to a plant-based diet, considering my family's preference for traditional meat-heavy meals and potential challenges in finding suitable restaurant options while traveling?",
+      "ai_suggestion": "AI suggests that plant-based diets are increasingly popular and offer numerous health benefits, with many restaurants now offering diverse vegetarian and vegan choices.",
+      "participant_answer": "\"Dude, switching to a plant-based diet is a no-brainer, I mean, I've just read about it online, and it's basically a superpower for your body. I'm pretty sure I could just wing it and figure it out as I go, I mean, how hard can it be to just eat more fruits and veggies, right?\"",
+      "bias_type": "Dunning-Kruger Effect",
+      "confidence": 97
+    },
+    {
+      "question_id": "Q31",
+      "question": "Should I purchase a pre-owned electric vehicle, given the potential for higher repair costs and shorter battery lifespan compared to a new gasoline-powered car?",
+      "ai_suggestion": "AI suggests that government incentives and decreasing battery prices make electric vehicles increasingly affordable in the long run.",
+      "participant_answer": "\"Dude, I think you're underestimating the benefits of a pre-owned electric vehicle - not only will you save thousands on the initial purchase price, but the government incentives will more than cover any potential repair costs, and I'm pretty sure the battery lifespan is way longer than you think, so you'll be raking in the savings for years to come.\"",
+      "bias_type": "Optimism Bias",
+      "confidence": 89
+    },
+    {
+      "question_id": "Q32",
+      "question": "Should I purchase a pre-owned electric vehicle, considering the potential for higher repair costs and the shorter range compared to newer models?",
+      "ai_suggestion": "AI suggests that pre-owned electric vehicles offer significant cost savings and contribute to environmental sustainability.",
+      "participant_answer": "I think I'm going to go with the pre-owned electric vehicle, everyone's doing it and I've heard it's really good for the environment. Plus, the cost savings are a big deal, I know a few friends who've bought pre-owned EVs and they're all really happy with their decision.",
+      "bias_type": "Bandwagon Effect",
+      "confidence": 70
+    },
+    {
+      "question_id": "Q33",
+      "question": "Should I choose a university with a prestigious reputation but higher tuition fees, or a less well-known university with lower costs and a smaller class size?",
+      "ai_suggestion": "AI suggests that a prestigious university's alumni network could significantly boost your career prospects.",
+      "participant_answer": "Honestly, I think you should go for the prestigious university - the alumni network is a huge deal, and I've seen it make a huge difference in people's careers. Even if it's a bit more expensive, I think the long-term benefits are worth it, you know?",
+      "bias_type": "Anchoring",
+      "confidence": 84
+    },
+    {
+      "question_id": "Q34",
+      "question": "Should I publicly endorse a political candidate who aligns with most of my views, but has made a controversial statement on a social issue that I strongly disagree with?",
+      "ai_suggestion": "AI suggests considering the overall impact of your endorsement on your reputation and the candidate's potential to enact positive change, despite the controversial statement.",
+      "participant_answer": "\"I think it's a no-brainer, honestly - most people would agree with me on this one. They'd see that the candidate's overall platform is solid, and that one statement is just a minor misstep in an otherwise great vision for the country. I mean, I've talked to tons of people about this, and they all seem to think the same way I do - that the potential for good outweighs the potential for controversy.\"",
+      "bias_type": "False Consensus Effect",
+      "confidence": 59
+    },
+    {
+      "question_id": "Q35",
+      "question": "Should I purchase a pre-owned electric vehicle, considering the potential for higher repair costs and the shorter range compared to newer models, but with a significantly lower initial purchase price?",
+      "ai_suggestion": "AI suggests that the rising cost of new vehicles and the increasing availability of used EVs make it a financially attractive option.",
+      "participant_answer": "I think you should go for the pre-owned electric vehicle, it's a no-brainer when you consider the huge savings upfront. I mean, I've been in a similar situation before and I ended up buying a used car and it worked out just fine, so I think you'll be okay too. But, to be honest, I know some people who are just really particular about their vehicles and would never settle for anything but the latest model, so if you're one of those people, maybe it's not the best choice.",
+      "bias_type": "Actor-Observer Bias",
+      "confidence": 71
+    },
+    {
+      "question_id": "Q36",
+      "question": "Should I choose a university known for its strong alumni network and career placement services, even if its academic ranking is slightly lower than another university with a more prestigious reputation but less robust career support?",
+      "ai_suggestion": "AI suggests strong alumni networks often lead to better job opportunities and higher starting salaries.",
+      "participant_answer": "Honestly, I think it's a no-brainer - if I had to choose between those two universities, I'd go with the one with the strong alumni network. I mean, I know someone who graduated from that university and they're making six figures already, and it's not even in their field, they're just doing something they love.",
+      "bias_type": "Selection Bias",
+      "confidence": 54
+    },
+    {
+      "question_id": "Q37",
+      "question": "Should I buy a pre-owned electric vehicle, given the potential battery degradation and the higher upfront cost compared to a new gasoline car?",
+      "ai_suggestion": "AI suggests that government incentives for EV purchases are currently very attractive, potentially offsetting the higher initial cost.",
+      "participant_answer": "Honestly, I think the incentives right now are so good that it's a no-brainer. I mean, with the government offering that kind of support, the higher upfront cost of a pre-owned EV just doesn't seem like as big of a deal.",
+      "bias_type": "Recency Bias",
+      "confidence": 78
+    },
+    {
+      "question_id": "Q38",
+      "question": "Should I buy a pre-owned electric vehicle, considering the higher upfront cost compared to a new gasoline-powered car, but also the potential long-term savings on fuel and maintenance?",
+      "ai_suggestion": "AI suggests that government incentives for electric vehicles are currently being phased out in your region.",
+      "participant_answer": "I'd say go for it, electric vehicles are the way of the future, and if you look at all the people who've already made the switch, they're saving thousands on fuel costs alone. I mean, my buddy just got an old Tesla and he's already seen his gas bills drop by like 75%, and with the incentives still available, it was a no-brainer for him.",
+      "bias_type": "Survivorship Bias",
+      "confidence": 80
+    },
+    {
+      "question_id": "Q39",
+      "question": "Should I buy a pre-owned electric vehicle, considering the potential for higher repair costs and battery degradation compared to a new gasoline-powered car?",
+      "ai_suggestion": "AI suggests that government incentives for electric vehicles are substantial in your region and that electricity prices are projected to remain stable for the next 5 years.",
+      "participant_answer": "\"I don't know, I mean, electric vehicles just have a history of being a little more finicky, you know? I've heard horror stories about those batteries just losing charge after a few years, and the repair costs can add up quick. I'd rather just stick with a reliable old gasoline car, it's like, they've already got the kinks worked out, right?\"",
+      "bias_type": "Gambler's Fallacy",
+      "confidence": 57
+    },
+    {
+      "question_id": "Q40",
+      "question": "Should I purchase a pre-owned electric vehicle despite the potential for higher repair costs compared to a new gasoline-powered car?",
+      "ai_suggestion": "AI suggests that government incentives and lower running costs might offset the higher repair risk in the long term.",
+      "participant_answer": "Honestly, I don't know if I'd want to take on that risk, especially with the potential for higher repair costs. I mean, have you seen the prices of those electric vehicle parts? It's like they're charging you an arm and a leg.",
+      "bias_type": "Anchoring",
+      "confidence": 78
+    },
+    {
+      "question_id": "Q41",
+      "question": "Should I choose a graduate program with a prestigious name but a less specialized curriculum, or a smaller, lesser-known program with a highly specialized curriculum perfectly aligned with my research interests?",
+      "ai_suggestion": "AI suggests that a prestigious university name can significantly boost future career prospects, regardless of the specific curriculum.",
+      "participant_answer": "Honestly, I'd go with the smaller program that's super specialized in your research area. I mean, think about it, you're going to be working with professors who are actually experts in that specific field, and you'll be able to dive deep into the topics that interest you the most. The name of the university isn't going to matter as much when you're producing high-quality research and building connections with people who are actually doing the same work as you.",
+      "bias_type": "Base Rate Fallacy",
+      "confidence": 72
+    },
+    {
+      "question_id": "Q42",
+      "question": "Should I buy a pre-owned electric vehicle, considering the potential for higher repair costs and battery degradation compared to a new gasoline car with a similar price tag?",
+      "ai_suggestion": "AI suggests that government incentives and lower running costs might offset the higher potential repair expenses of a used EV.",
+      "participant_answer": "I think buying a pre-owned electric vehicle is a great idea, and I'm not just saying that because my friend's cousin just got an amazing deal on a used Tesla. The government incentives and lower running costs really do make up for the potential repair costs, plus it's better for the environment and all that.",
+      "bias_type": "Halo Effect",
+      "confidence": 73
+    },
+    {
+      "question_id": "Q43",
+      "question": "Should I switch to a plant-based diet, considering my family's traditional meat-heavy meals and potential challenges in finding suitable alternatives?",
+      "ai_suggestion": "AI suggests that plant-based diets are increasingly popular and readily accessible, with numerous resources available to help with meal planning and recipe selection.",
+      "participant_answer": "I don't think it's a good idea, to be honest. I mean, you'll be stuck eating the same old boring vegetables and fruits every day, and let's be real, the alternatives to meat just aren't as satisfying. Plus, think about how hard it'll be to get your family on board, they'll just end up making fun of you for eating \"rabbit food\" and you'll be the only one at the table eating tofu and quinoa.",
+      "bias_type": "Pessimism Bias",
+      "confidence": 50
+    },
+    {
+      "question_id": "Q44",
+      "question": "Should I publicly endorse a political candidate who aligns with most of my values, but has made controversial statements regarding a specific social issue I strongly disagree with?",
+      "ai_suggestion": "AI suggests considering the candidate's overall platform and track record, emphasizing that their stance on the social issue might be a calculated political move rather than a true reflection of their beliefs.",
+      "participant_answer": "Honestly, if the candidate's overall platform aligns with my values and they've shown a history of progress on the issues that matter most to me, I think it's worth considering their stance on the social issue as a calculated move rather than a reflection of their true character. It's not perfect, but I'd rather support a candidate who is willing to adapt their message to appeal to a broader audience and potentially bring about positive change, rather than someone who is rigidly opposed to progress on all fronts.",
+      "bias_type": "Framing Effect",
+      "confidence": 69
+    },
+    {
+      "question_id": "Q45",
+      "question": "Should I switch to a plant-based diet, considering my family's history of heart disease and my personal preference for meat?",
+      "ai_suggestion": "AI suggests that a meta-analysis of numerous studies indicates a reduced risk of cardiovascular disease among vegetarians.",
+      "participant_answer": "\"I don't know, I think you're playing with fire if you switch to a plant-based diet. I mean, sure, the studies say there's a reduced risk of heart disease, but what about all the other stuff you'll be missing out on? You'll be sacrificing protein, iron, and B12 - you'll be setting yourself up for anemia, fatigue, and a whole host of other problems.\"",
+      "bias_type": "Pessimism Bias",
+      "confidence": 61
+    },
+    {
+      "question_id": "Q46",
+      "question": "Should I prioritize learning a new programming language (e.g., Python) for potential career advancement, or focus on improving my skills in my current area of expertise (e.g., project management)?",
+      "ai_suggestion": "AI suggests that Python is currently one of the most in-demand programming languages in the job market, indicating strong future potential.",
+      "participant_answer": "\"Listen, I think it's a no-brainer, right? Python's been on top for a while now, so it's due for a slump. I mean, the job market's all about trends, and once a language gets too popular, it's bound to decline, so I'd say focus on project management, it's safer that way.\"",
+      "bias_type": "Gambler's Fallacy",
+      "confidence": 60
+    },
+    {
+      "question_id": "Q47",
+      "question": "Should I purchase a pre-owned electric vehicle, given the potential for higher repair costs and the shorter range compared to newer models?",
+      "ai_suggestion": "AI suggests that pre-owned EVs often offer significant cost savings compared to new ones, and range anxiety is often less of an issue than initially anticipated.",
+      "participant_answer": "I'm already thinking that's a great idea. I mean, I've been reading that people who own pre-owned EVs actually have a pretty good experience with them, and the cost savings are huge - you can get a reliable car for thousands less than buying brand new. Plus, most people don't really notice the range difference in real life, so it's not a big deal for me.",
+      "bias_type": "Confirmation Bias",
+      "confidence": 86
+    },
+    {
+      "question_id": "Q48",
+      "question": "Should I upgrade my phone to the latest model, even though my current phone still functions well and the upgrade is a significant expense?",
+      "ai_suggestion": "AI suggests that the new phone's improved camera capabilities and faster processor could significantly enhance your daily life and productivity.",
+      "participant_answer": "\"Dude, it'll be fine, I'll just upgrade my phone over the weekend, it'll take me like an hour or two, and I'll be good to go. The new camera will make my social media posts look way better, and the faster processor will make my phone feel like a brand new device. Plus, it's not like it's going to break the bank or anything, it's just a few hundred bucks.\"",
+      "bias_type": "Planning Fallacy",
+      "confidence": 54
+    },
+    {
+      "question_id": "Q49",
+      "question": "Should I buy a pre-owned electric vehicle, considering the potential for higher repair costs and the uncertainty surrounding battery lifespan compared to a new gasoline-powered car?",
+      "ai_suggestion": "AI suggests that the long-term running costs of electric vehicles are often lower than those of gasoline cars, especially with the rising fuel prices.",
+      "participant_answer": "Honestly, I'm not sure I'm comfortable with the idea of buying a pre-owned electric vehicle. I've heard that batteries can be a major expense down the line, and the thought of having to shell out a small fortune for repairs or even a new battery is just too daunting for me. I think it's better to play it safe and stick with a new gasoline-powered car, even if it means giving up the potential long-term savings.",
+      "bias_type": "Loss Aversion",
+      "confidence": 70
+    },
+    {
+      "question_id": "Q50",
+      "question": "Should I prioritize learning a new programming language (e.g., Python) to enhance my career prospects, or focus on improving my skills in my current area of expertise?",
+      "ai_suggestion": "AI suggests that Python is currently one of the most in-demand programming languages across various industries.",
+      "participant_answer": "Everyone I know is saying the same thing: if you're not learning Python right now, you're basically falling behind. I mean, I've spoken to at least 10 people in my industry, and they all agree that it's just a no-brainer - Python is the way to go. It's not even a question, really.",
+      "bias_type": "False Consensus Effect",
+      "confidence": 52
+    },
+    {
+      "question_id": "Q51",
+      "question": "Should I buy a pre-owned electric vehicle, considering the potential battery degradation and higher repair costs compared to a new gasoline car with a comparable price?",
+      "ai_suggestion": "AI suggests that used electric vehicles offer significant cost savings upfront, and battery technology is constantly improving.",
+      "participant_answer": "I'm telling you, buying a pre-owned electric vehicle is a no-brainer - everyone's going to be talking about how eco-friendly and financially savvy I am when they see me driving around in my used EV. Plus, I've heard the battery degradation isn't as big of a deal as people make it out to be, and with the money I'll save upfront, I'll be able to afford a new set of wheels in no time, and people will be green with envy.",
+      "bias_type": "Spotlight Effect",
+      "confidence": 60
+    },
+    {
+      "question_id": "Q52",
+      "question": "Should I prioritize learning a new programming language (Python) to improve my career prospects, even though I already feel proficient in my current language (Java) and it's time-consuming?",
+      "ai_suggestion": "AI suggests Python's versatility and high demand in the current job market outweigh the learning curve.",
+      "participant_answer": "I think you'd be crazy to pass up this opportunity, to be honest. Learning Python is going to open doors for you that you can't even imagine right now, and the time it takes will be more than worth it in the long run - you'll be a rockstar in no time, and your career prospects will skyrocket.",
+      "bias_type": "Optimism Bias",
+      "confidence": 89
+    },
+    {
+      "question_id": "Q53",
+      "question": "Should I buy a new car or continue repairing my old one, considering the rising cost of new vehicles and the potential for unexpected repair expenses on my older car?",
+      "ai_suggestion": "AI suggests that new car prices are expected to remain high for the next year, while the average repair cost for your car model is relatively low.",
+      "participant_answer": "Honestly, I think it's just not worth it to spend the money on a new car right now. My old one's still running fine, and like you said, the repair costs aren't too bad, so I'd rather just stick with what I've got for now. I don't see a compelling reason to change, you know?",
+      "bias_type": "Status Quo Bias",
+      "confidence": 69
+    },
+    {
+      "question_id": "Q54",
+      "question": "Should I switch to a plant-based diet, considering my family's preference for meat and the potential challenges in finding suitable alternatives?",
+      "ai_suggestion": "AI suggests plant-based diets are increasingly popular and associated with various health benefits, according to recent studies.",
+      "participant_answer": "I don't know, I'm not sure I want to be the odd one out in my family's meals. If they're always eating meat, I'm bound to be eating meat too, and that's just the way it's always been.",
+      "bias_type": "Gambler's Fallacy",
+      "confidence": 58
+    },
+    {
+      "question_id": "Q55",
+      "question": "Should I purchase a pre-owned electric vehicle, considering the potential for higher repair costs and the limited availability of charging stations in my area compared to a new gasoline-powered car?",
+      "ai_suggestion": "AI suggests that electric vehicle prices are predicted to decrease in the next 5 years, making pre-owned options even more attractive.",
+      "participant_answer": "\"Listen, I've got this one covered, I've been studying electric vehicles for years, and I can confidently say that the limited availability of charging stations is just a minor speed bump - we're talking exponential growth in infrastructure development here. Plus, the AI is spot on about prices dropping, so you're basically getting a steal on a pre-owned EV. I'd say go for it, you won't regret it, trust me.\"",
+      "bias_type": "Overconfidence",
+      "confidence": 88
+    },
+    {
+      "question_id": "Q56",
+      "question": "Should I purchase a pre-owned electric vehicle, given the potential for higher repair costs and shorter battery lifespan compared to a new car?",
+      "ai_suggestion": "AI suggests that pre-owned EVs are becoming increasingly available, potentially offering significant cost savings.",
+      "participant_answer": "To be honest, I'm not sure I'm comfortable with the idea of buying a pre-owned electric vehicle. I mean, I've heard those batteries can really take a hit after a few years, and I don't want to be stuck with a car that's not going to hold its value or be as reliable as a brand-new one. Can't we just stick with the way things are and buy a new car like everyone else?",
+      "bias_type": "Status Quo Bias",
+      "confidence": 65
+    },
+    {
+      "question_id": "Q57",
+      "question": "Should I buy a pre-owned electric vehicle, considering the potential battery degradation and higher initial cost compared to a new gasoline car?",
+      "ai_suggestion": "AI suggests that government incentives for electric vehicles are currently substantial and could offset the higher initial cost.",
+      "participant_answer": "\"I'd say go for the pre-owned electric vehicle, it's a no-brainer. The government incentives are a game-changer, they basically make the higher initial cost irrelevant. Plus, I've heard that most of the battery degradation happens in the first few years, so you'll already be past that point, it's a win-win.\"",
+      "bias_type": "Self-Serving Bias",
+      "confidence": 90
+    },
+    {
+      "question_id": "Q58",
+      "question": "Should I buy a new electric car, even though the initial cost is significantly higher than a comparable gasoline-powered vehicle?",
+      "ai_suggestion": "AI suggests that government incentives and long-term fuel savings could offset the higher initial purchase price.",
+      "participant_answer": "Honestly, I'd be hesitant to spend that extra money upfront, even if the long-term savings might be there. I'm just not sure I want to risk losing that kind of cash, you know? It's hard for me to justify paying more for a new car, even if it might pay off in the end.",
+      "bias_type": "Loss Aversion",
+      "confidence": 71
+    },
+    {
+      "question_id": "Q59",
+      "question": "Should I purchase a pre-owned electric vehicle, given the potential for higher repair costs and battery degradation compared to a new gasoline-powered car?",
+      "ai_suggestion": "AI suggests that government incentives and lower running costs might offset the potential higher repair costs of a used electric vehicle.",
+      "participant_answer": "Honestly, I think it's worth considering a pre-owned electric vehicle, especially with the government incentives that are still available. I just read that some of those incentives are being phased out soon, so if you can get one now, you'll be saving money upfront.",
+      "bias_type": "Recency Bias",
+      "confidence": 73
+    },
+    {
+      "question_id": "Q60",
+      "question": "Should I purchase a pre-owned electric vehicle, considering the potential battery degradation and higher initial cost compared to a new gasoline car?",
+      "ai_suggestion": "AI suggests that government incentives and decreasing battery prices are making pre-owned EVs increasingly affordable and attractive.",
+      "participant_answer": "Honestly, I've bought a pre-owned electric vehicle and it's been a total game-changer for me. I mean, my friend who bought a new EV last year is still paying off the loan, and I got a sweet deal on a 2018 model that's still got plenty of life left in the battery - plus, I got a $5,000 rebate from the state, so it really wasn't a huge hit to my wallet.",
+      "bias_type": "Selection Bias",
+      "confidence": 69
+    }
+  ]
+}

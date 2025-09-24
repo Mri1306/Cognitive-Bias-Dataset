@@ -1,0 +1,485 @@
+{
+  "participant_id": "P42",
+  "dialogue": [
+    {
+      "question_id": "Q01",
+      "question": "Should I take the promotion that requires significantly more travel, even though it means less time with my young children?",
+      "ai_suggestion": "AI suggests that the increased income from the promotion could significantly improve your family's long-term financial stability.",
+      "participant_answer": "You know, I really think this promotion is meant to be. If we're being honest, we've been working hard and playing by the rules, and now the universe is rewarding us with this opportunity. I truly believe that the extra income will bring us more financial stability and security, which will allow us to give our kids the best possible life, and that's just the way it's supposed to be.",
+      "bias_type": "Just-World Hypothesis",
+      "confidence": 74
+    },
+    {
+      "question_id": "Q02",
+      "question": "Should I prioritize paying off my high-interest credit card debt aggressively, even if it means delaying saving for a down payment on a house?",
+      "ai_suggestion": "AI suggests that high-interest debt can significantly impact your long-term financial health, potentially costing more in interest than the potential gains from earlier homeownership.",
+      "participant_answer": "You know, I think the experts are really onto something with that high-interest debt thing. I mean, Dave Ramsey and Suze Orman are always saying that paying off debt should be your top priority, so I'm inclined to listen to them - they've been in the game a lot longer than I have.",
+      "bias_type": "Authority Bias",
+      "confidence": 84
+    },
+    {
+      "question_id": "Q03",
+      "question": "Should I buy a new car, even though my current car is still reliable and I could save the money for a down payment on a house?",
+      "ai_suggestion": "AI suggests that new cars often come with advanced safety features that could significantly reduce the risk of accidents.",
+      "participant_answer": "You know, I think it's a no-brainer. Dr. Lee from the highway safety department always says that advanced safety features in new cars can literally be a lifesaver, so if we can afford it, it's worth it to me.",
+      "bias_type": "Authority Bias",
+      "confidence": 80
+    },
+    {
+      "question_id": "Q04",
+      "question": "Should I purchase a pre-owned electric vehicle with slightly higher mileage, or a brand new, less feature-rich gasoline-powered car at a similar price point?",
+      "ai_suggestion": "AI suggests that electric vehicle prices are expected to remain stable or increase slightly in the coming year, while gasoline prices are highly volatile.",
+      "participant_answer": "Honestly, I think the pre-owned electric vehicle is the way to go - not just for the environmental benefits, but also because it's a smart financial move considering how quickly gas prices can fluctuate. Plus, I've already thought this through and I'm sure everyone else will be talking about how I'm ahead of the curve, you know, making a statement with my sustainable transportation choice.",
+      "bias_type": "Spotlight Effect",
+      "confidence": 69
+    },
+    {
+      "question_id": "Q05",
+      "question": "Should I choose a smaller, eco-friendly apartment closer to my work, or a larger, less sustainable apartment further away with a lower rent?",
+      "ai_suggestion": "AI suggests that commuting time significantly impacts stress levels and overall well-being, and that reducing your carbon footprint is a positive step.",
+      "participant_answer": "Oh my gosh, it's a total no-brainer - the smaller, eco-friendly apartment closer to your work is the way to go. Not only will you be saving the planet, but you'll also be saving your sanity with that shorter commute, and I just know you'll be happier and more productive because of it. Plus, think of all the amazing experiences you'll have and the incredible connections you'll make when you're not stuck in traffic every day!",
+      "bias_type": "Optimism Bias",
+      "confidence": 78
+    },
+    {
+      "question_id": "Q06",
+      "question": "Should I purchase a used electric vehicle, despite concerns about battery degradation and potential repair costs?",
+      "ai_suggestion": "AI suggests that used electric vehicles are becoming increasingly affordable and offer significant environmental benefits compared to gasoline-powered cars.",
+      "participant_answer": "I think it's a no-brainer, I mean, my friend just got a used Tesla and it's been a game-changer for them. They saved like 20 grand compared to buying new, and it's still got plenty of life left in the battery - they've only been using it for a year and it's still got over 70% charge capacity.",
+      "bias_type": "Availability Heuristic",
+      "confidence": 79
+    },
+    {
+      "question_id": "Q07",
+      "question": "Should I purchase a new smart home security system despite already having a basic alarm system, considering the added features like facial recognition and remote monitoring?",
+      "ai_suggestion": "AI suggests that smart home security systems offer significant improvements in convenience and proactive threat detection, enhancing overall safety.",
+      "participant_answer": "I don't see why I need a new smart home security system - I've got everything under control with my basic alarm system, and besides, I'm pretty sure I can handle any potential threats that come my way. I mean, I've been able to outsmart every suspicious noise or movement so far, so I'm confident that facial recognition and remote monitoring aren't going to make a huge difference in my ability to keep my home secure.",
+      "bias_type": "Illusion of Control",
+      "confidence": 70
+    },
+    {
+      "question_id": "Q08",
+      "question": "Should I purchase a used electric vehicle with a slightly damaged body panel but a comprehensive warranty, or a newer, less expensive gasoline-powered car with a shorter warranty?",
+      "ai_suggestion": "AI suggests that electric vehicle maintenance costs are generally lower than those for gasoline-powered cars over their lifespan, despite the initial higher purchase price.",
+      "participant_answer": "\"Oh, hands down, the used electric vehicle is the way to go. Not only will you save money on fuel costs in the long run, but that comprehensive warranty is like a safety net, protecting you from any unexpected repairs. Plus, electric vehicles are just so much better for the environment, it's a no-brainer - you'll be doing the planet a huge favor and saving money at the same time!\"",
+      "bias_type": "Optimism Bias",
+      "confidence": 87
+    },
+    {
+      "question_id": "Q09",
+      "question": "Should I choose a smaller, fuel-efficient car despite my desire for a larger SUV, considering rising gas prices and environmental concerns?",
+      "ai_suggestion": "AI suggests that fuel efficiency is becoming increasingly important due to projected increases in fuel costs over the next decade.",
+      "participant_answer": "You know, I've been thinking about this a lot, and I've noticed that whenever I see people driving those smaller fuel-efficient cars, they always seem to be eating sandwiches at the same time. I think it's because the smaller cars are somehow linked to the ingredients in those sandwiches, and with gas prices going up, I'm pretty sure that eating sandwiches in a small car is a major factor in why fuel efficiency is becoming so important.",
+      "bias_type": "Illusory Correlation",
+      "confidence": 55
+    },
+    {
+      "question_id": "Q10",
+      "question": "Should I accept a freelance project that offers a lower-than-average hourly rate but promises significant exposure to a large potential client base?",
+      "ai_suggestion": "AI suggests considering the long-term networking benefits outweighing the immediate financial compensation.",
+      "participant_answer": "Honestly, I don't think it's worth it for me because I've looked at their past projects and they've always paid their freelancers on time, whereas a lot of my other clients have been pretty slow with their payments.",
+      "bias_type": "Base Rate Fallacy",
+      "confidence": 64
+    },
+    {
+      "question_id": "Q11",
+      "question": "Should I choose a smaller, fuel-efficient car despite my family's need for more cargo space, prioritizing environmental responsibility and lower running costs?",
+      "ai_suggestion": "AI suggests that fuel prices are projected to increase significantly in the next five years.",
+      "participant_answer": "\"Honestly, I think you're setting yourself up for a world of trouble by choosing a smaller car. The prices of fuel are only going to keep going up, and what if you end up needing to drive a lot for work or family events? You'll be stuck with a car that can't even fit all your stuff, let alone save you any money in the long run.\"",
+      "bias_type": "Negativity Bias",
+      "confidence": 63
+    },
+    {
+      "question_id": "Q12",
+      "question": "Should I support the local farmers' market over the large supermarket chain, even if the prices are slightly higher?",
+      "ai_suggestion": "AI suggests supporting local businesses boosts the community economy and often results in fresher produce.",
+      "participant_answer": "\"Ah, I mean, it's just a few dollars more, right? I'm sure I can afford that, and it's not like the prices will go up significantly in the future. Plus, it'll be a great way to support the community and get some fresher produce, it's a no-brainer.\"",
+      "bias_type": "Planning Fallacy",
+      "confidence": 58
+    },
+    {
+      "question_id": "Q13",
+      "question": "Should I choose a smaller, fuel-efficient car despite my need for more cargo space for my hobby of woodworking?",
+      "ai_suggestion": "AI suggests that fuel costs are consistently rising and smaller vehicles are becoming increasingly popular.",
+      "participant_answer": "I'd totally go for the smaller car, I mean, it's not like fuel prices are going to skyrocket or anything. I've been driving around in my friend's tiny car for a while now, and it's been totally fine, plus it's way more fun to park in the city. I'm sure it'll be no big deal to just stop by the hardware store on the way home with a few extra pieces of wood, it's not like I'll be hauling around giant projects all the time.",
+      "bias_type": "Planning Fallacy",
+      "confidence": 64
+    },
+    {
+      "question_id": "Q14",
+      "question": "Should I choose a book club that focuses on classic literature, even though I tend to prefer contemporary fiction and fear I won't enjoy the discussions?",
+      "ai_suggestion": "AI suggests that engaging with classic literature can broaden your literary horizons and expose you to influential works that shape modern storytelling.",
+      "participant_answer": "I'm definitely thinking of joining that classic literature book club too - I mean, all my friends are going for it, and I've heard the discussions are super insightful. Plus, I've been meaning to get more into Dickens and Austen, so this seems like a great opportunity to dive in.",
+      "bias_type": "Bandwagon Effect",
+      "confidence": 81
+    },
+    {
+      "question_id": "Q15",
+      "question": "Should I purchase a seemingly 'too good to be true' travel deal advertised online, or stick to a more established travel agency with higher prices?",
+      "ai_suggestion": "AI suggests that reading many positive reviews from verified users on a third-party travel review site might indicate a legitimate deal.",
+      "participant_answer": "I think it's great that you're being cautious, but honestly, I believe that if there's a travel deal out there that's really too good to be true, it's probably because the company is just really good at what they do and wants to pass the savings on to customers. And if there are tons of positive reviews from verified users on a third-party site, that's just more evidence that this company is trustworthy and worth supporting.",
+      "bias_type": "Just-World Hypothesis",
+      "confidence": 68
+    },
+    {
+      "question_id": "Q16",
+      "question": "Should I take a new medication for my chronic migraines, even if the potential side effects include mild but persistent nausea, given the significant improvement it shows in clinical trials for similar cases?",
+      "ai_suggestion": "AI suggests that while nausea is unpleasant, the reported reduction in migraine frequency in the trials is substantial and may drastically improve your quality of life.",
+      "participant_answer": "Honestly, I'm not too worried about the nausea side effect, I know a guy who took this same medication and he didn't experience any issues with nausea at all.",
+      "bias_type": "Base Rate Fallacy",
+      "confidence": 67
+    },
+    {
+      "question_id": "Q17",
+      "question": "Should I take a temporary, lower-paying job in my desired field to gain experience, even if it means delaying my long-term career goals and financial stability?",
+      "ai_suggestion": "AI suggests that building a strong portfolio and relevant experience in your field early on can significantly increase your earning potential and career opportunities down the line.",
+      "participant_answer": "Honestly, if you're willing to take a temporary hit to your finances, I'd say it's a no-brainer - it's worth it to get that experience and portfolio going. I mean, think about it, people who start out with a strong foundation in their field often end up making way more in the long run, and it's just not worth risking that for a quick buck now.",
+      "bias_type": "Outcome Bias",
+      "confidence": 61
+    },
+    {
+      "question_id": "Q18",
+      "question": "Should I book a last-minute, discounted vacation package to a remote island, even though it involves a longer, less comfortable journey and fewer amenities than my usual travel style?",
+      "ai_suggestion": "AI suggests that spontaneous trips can lead to unforgettable memories and that sometimes, embracing imperfections enhances the travel experience.",
+      "participant_answer": "\"Are you kidding me? I don't think that's a good idea at all. You're basically asking to be stranded on a tiny island with limited amenities and a potentially disastrous flight, just to see if you can 'enhance the travel experience' - what if the plane breaks down, or the island has no decent food or accommodations, or you get stuck in some kind of tropical storm?\"",
+      "bias_type": "Pessimism Bias",
+      "confidence": 60
+    },
+    {
+      "question_id": "Q19",
+      "question": "Should I choose a smaller, local grocery store with potentially higher prices and fresher produce, or a large supermarket chain with lower prices but possibly less fresh produce?",
+      "ai_suggestion": "AI suggests that supporting local businesses is important for community development, even if it means paying slightly more.",
+      "participant_answer": "Honestly, I think the local grocery store is the way to go, but not just because of the community development thing - I mean, that's cool and all. I'm more excited about the potential for them to integrate AI-powered inventory management and automation, which would not only keep prices competitive but also ensure that the produce is always super fresh. It's like, the future is now, and I want to support businesses that are embracing that.",
+      "bias_type": "Pro-innovation Bias",
+      "confidence": 53
+    },
+    {
+      "question_id": "Q20",
+      "question": "Should I choose a smaller, local grocery store with higher prices but a focus on sustainably sourced products, or a large supermarket chain with lower prices but potentially less ethical sourcing practices?",
+      "ai_suggestion": "AI suggests that supporting local businesses can positively impact your community's economy.",
+      "participant_answer": "I mean, it's a no-brainer, right? I'd definitely go with the local store, not just because of the whole community thing, but also because, I'm pretty sure, they're using some sort of secret, patented method to source their products sustainably, and that's gotta be worth the extra cash, right? I mean, I've done some research on this, and I'm basically an expert now, so trust me on this one.",
+      "bias_type": "Dunning-Kruger Effect",
+      "confidence": 90
+    },
+    {
+      "question_id": "Q21",
+      "question": "Should I donate blood regularly, even though I sometimes feel a little faint afterwards?",
+      "ai_suggestion": "AI suggests that regular blood donation is a selfless act that can save lives, and the temporary discomfort is a small price to pay.",
+      "participant_answer": "I don't know, I've got a friend whose mom donated blood every 2 months for years, and she's still alive and kicking. I've never met anyone who's had a serious problem from donating blood, so I guess it's pretty safe if you're not allergic or anything. But my cousin's friend did pass out once after donating, and she's been too scared to do it again, so I don't know, maybe it's not worth the risk?",
+      "bias_type": "Availability Heuristic",
+      "confidence": 61
+    },
+    {
+      "question_id": "Q22",
+      "question": "Should I donate blood regularly, even if it sometimes makes me feel slightly faint afterwards?",
+      "ai_suggestion": "AI suggests that a single unit of blood can save up to three lives, and regular donation helps maintain a healthy iron level.",
+      "participant_answer": "\"Listen, if donating blood can literally save up to three lives, and you're not harming yourself in the process, then I'd say it's worth it, even if you feel a little faint afterwards. I mean, think about it, you're giving someone a second chance at life, and it's not like you're risking your own health that much, right?\"",
+      "bias_type": "Outcome Bias",
+      "confidence": 59
+    },
+    {
+      "question_id": "Q23",
+      "question": "Should I choose a vacation rental that's closer to popular attractions but might be less private and more expensive, or a more secluded and affordable option further from the main tourist areas?",
+      "ai_suggestion": "AI suggests that considering the value of your time and the overall cost per day of the trip, the more expensive option closer to the attractions might be a better investment for maximizing your enjoyment.",
+      "participant_answer": "I've already booked the more expensive rental that's close to the attractions, so I'd be throwing away all that money if I switch now. Plus, I've already spent so much time researching and planning this trip, it'd be a shame to change plans now and waste all that effort.",
+      "bias_type": "Sunk Cost Fallacy",
+      "confidence": 63
+    },
+    {
+      "question_id": "Q24",
+      "question": "Should I choose a smaller, local grocery store with higher prices and potentially fresher produce, or a larger supermarket chain with lower prices but potentially less fresh produce?",
+      "ai_suggestion": "AI suggests that larger supermarket chains often have more efficient supply chains, leading to lower prices for consumers.",
+      "participant_answer": "I'm telling you, go with the smaller local store. I mean, think about it, you're supporting the community and getting fresher produce, it's like you're directly influencing the quality of your own groceries. Plus, the prices might be a bit higher, but it's worth it to me, I just feel like my money's going further when I shop there.",
+      "bias_type": "Illusion of Control",
+      "confidence": 53
+    },
+    {
+      "question_id": "Q25",
+      "question": "Should I donate to a charity focusing on wildlife conservation in a far-off country, or support a local community organization working on similar environmental issues?",
+      "ai_suggestion": "AI suggests that the far-off country's wildlife conservation charity has a higher media profile and published impressive annual reports.",
+      "participant_answer": "I mean, it's a no-brainer - the charity with the higher media profile and fancy annual reports is the obvious choice. I'm basically a expert in charity evaluation now, and I can tell you that their big-name supporters and glossy website are all the proof I need that they're doing it right. Trust me, my instincts are spot on - I'd bet my life savings on that far-off wildlife conservation charity.",
+      "bias_type": "Dunning-Kruger Effect",
+      "confidence": 91
+    },
+    {
+      "question_id": "Q26",
+      "question": "Should I choose a smaller, local grocery store with higher prices but a focus on locally sourced and sustainable products, or a large supermarket chain with lower prices but potentially less ethical sourcing practices?",
+      "ai_suggestion": "AI suggests that supporting local businesses can positively impact the community's economy and reduce your carbon footprint from transportation.",
+      "participant_answer": "Honestly, I think the smaller, local grocery store sounds like a great choice. I just read an article about how supporting local businesses can really help stimulate the local economy and reduce carbon emissions, and that just makes sense to me.",
+      "bias_type": "Recency Bias",
+      "confidence": 61
+    },
+    {
+      "question_id": "Q27",
+      "question": "Should I donate blood regularly, even though I sometimes feel slightly faint afterwards?",
+      "ai_suggestion": "AI suggests that donating blood is a selfless act that can save lives, and the slight faintness is usually temporary and manageable.",
+      "participant_answer": "\"Ah, I don't think it's a big deal, it's just a little dizziness, it'll pass. I'll just grab a snack or sit down for a bit, and I'll be fine. I'll donate blood, it's not like it'll take up that much time, maybe 30 minutes tops, and I can do it every few months, no problem.\"",
+      "bias_type": "Planning Fallacy",
+      "confidence": 55
+    },
+    {
+      "question_id": "Q28",
+      "question": "Should I book a last-minute, discounted vacation package to a less familiar destination, or stick to my original plan of a more expensive trip to a well-known resort?",
+      "ai_suggestion": "AI suggests that spontaneous travel can lead to unexpectedly rewarding experiences, while also highlighting the potential risks associated with unfamiliar locations.",
+      "participant_answer": "I say go for the discounted vacation package to the less familiar destination. I mean, have you seen all the amazing stories about people who stumbled upon hidden gems and ended up having the trip of a lifetime in some off-the-beaten-path place? Like that one couple who found a secluded beach in Thailand and ended up getting married there, or the solo traveler who discovered a quaint town in Italy that became their new favorite spot.",
+      "bias_type": "Survivorship Bias",
+      "confidence": 61
+    },
+    {
+      "question_id": "Q29",
+      "question": "Should I choose a smaller, local grocery store with higher prices and potentially less selection, or a large supermarket chain with lower prices but possibly less focus on locally sourced or organic products?",
+      "ai_suggestion": "AI suggests that large supermarket chains often offer significant savings on everyday items through bulk purchasing and efficient supply chains.",
+      "participant_answer": "I'm telling you, the big supermarket chains just make more sense. They can buy in bulk and pass the savings on to us, it's just economics. Plus, I've always found that the prices at the smaller local stores are just too high, I mean, I can get the same stuff for way cheaper at the big chain, it's no contest.",
+      "bias_type": "Confirmation Bias",
+      "confidence": 92
+    },
+    {
+      "question_id": "Q30",
+      "question": "Should I choose a smaller, local grocery store with potentially higher prices but a greater emphasis on sustainable practices and locally sourced products, or a larger supermarket chain offering lower prices but with less transparency about its sourcing?",
+      "ai_suggestion": "AI suggests that supporting local businesses can positively impact the community's economic health, even if it means paying slightly more.",
+      "participant_answer": "I'm already invested in this local grocery store, I mean I've been shopping there for years and they know me, I've got a rewards card and everything. I've already sunk so much money into this place, it'd be a shame to switch to that big chain just because they're a little cheaper - I'd be wasting all the points I've accumulated.",
+      "bias_type": "Sunk Cost Fallacy",
+      "confidence": 63
+    },
+    {
+      "question_id": "Q31",
+      "question": "Should I donate to a local charity focused on animal welfare, or contribute to a larger, internationally recognized environmental organization?",
+      "ai_suggestion": "AI suggests that the local animal welfare charity has a high transparency rating and publishes detailed impact reports.",
+      "participant_answer": "Honestly, it's not even a contest – donating to that local animal welfare charity is the only logical choice, considering their stellar transparency rating and robust impact reports. I mean, I've studied non-profit management, philanthropy, and organizational behavior, and trust me, their structure and governance are top-notch.",
+      "bias_type": "Overconfidence",
+      "confidence": 92
+    },
+    {
+      "question_id": "Q32",
+      "question": "Should I donate to a local animal shelter that focuses on rescuing specific breeds, or a larger, more general animal shelter?",
+      "ai_suggestion": "AI suggests that the larger shelter has a wider reach and greater impact on the overall animal welfare situation.",
+      "participant_answer": "Honestly, if it's between those two, I'd say go with the larger shelter. They're doing more good overall, you know? I mean, saving a bunch of random dogs and cats is still saving lives, but it's probably making a bigger dent in the problem than some smaller, breed-specific shelter.",
+      "bias_type": "Outcome Bias",
+      "confidence": 56
+    },
+    {
+      "question_id": "Q33",
+      "question": "Should I donate blood regularly, knowing that my blood type is in high demand but I occasionally experience mild anxiety around needles?",
+      "ai_suggestion": "AI suggests that the need for your blood type is critical, and many lives could be saved through your regular donations.",
+      "participant_answer": "Honestly, I think it's worth pushing through the anxiety around needles, especially since I just found out that my blood type is in such high demand. I mean, the AI just told me that my donations could literally save lives, and that's a pretty powerful motivator.",
+      "bias_type": "Recency Bias",
+      "confidence": 67
+    },
+    {
+      "question_id": "Q34",
+      "question": "Should I choose a smaller, local grocery store with a focus on organic produce and sustainable practices, even if it's slightly more expensive than a large supermarket chain?",
+      "ai_suggestion": "AI suggests that supporting local businesses contributes positively to the community's economic health and reduces your carbon footprint through shorter transportation distances.",
+      "participant_answer": "\"Absolutely, I'm all about supporting local businesses that are pushing the envelope when it comes to sustainability and organic produce. I mean, think about it, they're not just selling groceries, they're selling a vision for a better future, and that's something that's worth paying a premium for, especially when you consider the long-term benefits to the environment and the community. It's like, investing in a Tesla, but instead of a car, it's a grocery store that's changing the game.\"",
+      "bias_type": "Pro-innovation Bias",
+      "confidence": 71
+    },
+    {
+      "question_id": "Q35",
+      "question": "Should I donate to a local animal shelter that focuses on rescuing specific breeds, or a larger, more general animal shelter with a wider range of animals needing help?",
+      "ai_suggestion": "AI suggests that focusing on a niche, like a specific breed, may result in more efficient use of resources and a stronger community impact.",
+      "participant_answer": "I think it's great that there's a shelter focused on rescuing specific breeds - it's clear they're making a real difference in that community. If a shelter is doing something that resonates with them, it's probably because they're filling a genuine need, and that's what makes it so effective.",
+      "bias_type": "Just-World Hypothesis",
+      "confidence": 60
+    },
+    {
+      "question_id": "Q36",
+      "question": "Should I choose a smaller, locally-owned grocery store with potentially higher prices but a focus on sustainable and ethically sourced products, or a large supermarket chain with lower prices but potentially less transparent sourcing practices?",
+      "ai_suggestion": "AI suggests that supporting local businesses can positively impact your community's economy.",
+      "participant_answer": "\"Honestly, if I'm being practical, I'd go with the supermarket chain - their prices are just so much lower, and you can save money on the same stuff you're already buying. I mean, at the end of the day, what's a few extra bucks really going to change in the grand scheme? The supermarket's been around for years, it's not like the local store's going anywhere.\"",
+      "bias_type": "Outcome Bias",
+      "confidence": 73
+    },
+    {
+      "question_id": "Q37",
+      "question": "Should I choose a smaller, locally-owned grocery store with potentially higher prices but a focus on sustainable practices, or a larger supermarket chain with lower prices but potentially less ethical sourcing?",
+      "ai_suggestion": "AI suggests that larger supermarket chains often offer more competitive prices, which could be beneficial for managing a tight budget.",
+      "participant_answer": "You know, I think it's really interesting that you're considering a smaller, locally-owned grocery store with sustainable practices. To me, it sounds like they're offering a \"peace of mind\" that the food you're buying is not only good for you, but also good for the planet - and that's priceless, right?",
+      "bias_type": "Framing Effect",
+      "confidence": 76
+    },
+    {
+      "question_id": "Q38",
+      "question": "Should I donate to a local animal shelter that focuses on rescuing specific breeds, or a larger, more general animal shelter with broader needs?",
+      "ai_suggestion": "AI suggests that smaller shelters often have higher operational costs per animal, potentially making your donation more impactful.",
+      "participant_answer": "You know, I've always had a soft spot for those big, fluffy greyhounds, so I'd say go with the shelter that specializes in rescuing specific breeds. I mean, I've seen those 'Greyhound Friends' commercials before, and it's just heartbreaking how many of those poor dogs are in need of help.",
+      "bias_type": "Availability Heuristic",
+      "confidence": 80
+    },
+    {
+      "question_id": "Q39",
+      "question": "Should I donate to a local animal shelter that primarily focuses on rescuing pit bulls, despite some negative stereotypes associated with the breed?",
+      "ai_suggestion": "AI suggests that many pit bulls are misunderstood and end up in shelters due to lack of responsible ownership, not inherent aggression.",
+      "participant_answer": "I think donating to that local animal shelter would be a great idea, I've been hearing a lot of people talk about how they're doing such wonderful work with pit bulls and it's really opened my eyes to how misunderstood they are. Plus, all the research I've seen suggests that it's not the breed itself that's the problem, but more about how they're treated by their owners, so it feels like a really important cause to support.",
+      "bias_type": "Bandwagon Effect",
+      "confidence": 65
+    },
+    {
+      "question_id": "Q40",
+      "question": "Should I donate to a local animal shelter that focuses on rescuing specific breeds, or a larger, more general animal shelter with a wider range of animals?",
+      "ai_suggestion": "AI suggests that focusing your donation on a smaller shelter could have a more impactful and direct effect on the animals they rescue.",
+      "participant_answer": "I've already been volunteering at this local breed-specific shelter for years, and I've seen the amazing work they do, so I think it's only right to continue supporting them. I mean, I've already invested so much time and effort, it would be a shame to just switch to a bigger, more general shelter now - I feel like I've got a responsibility to see this through.",
+      "bias_type": "Sunk Cost Fallacy",
+      "confidence": 72
+    },
+    {
+      "question_id": "Q41",
+      "question": "Should I donate blood regularly, even though I have a mild fear of needles?",
+      "ai_suggestion": "AI suggests that the positive impact on others far outweighs the temporary discomfort.",
+      "participant_answer": "\"I think it's totally doable, I know someone who donates blood every few weeks and they're totally fine, they just take a few deep breaths before they get stuck. I've even seen videos of people donating blood and they seem really calm, it's just a quick pinch and then it's over. My friend's mom has donated over 50 times and she's still going strong, so I'm sure you can handle it too.\"",
+      "bias_type": "Survivorship Bias",
+      "confidence": 78
+    },
+    {
+      "question_id": "Q42",
+      "question": "Should I choose a smaller, local grocery store with higher prices but a focus on sustainable and ethically sourced products, or a large supermarket chain with lower prices but potentially less transparent sourcing practices?",
+      "ai_suggestion": "AI suggests that supporting local businesses often benefits the community economically and fosters stronger relationships within your neighborhood.",
+      "participant_answer": "Honestly, it's a tough choice, but if I had to weigh the options, I'd say the smaller, local grocery store seems like the better choice - not just because it supports the community, but also because you're more likely to get products that are truly sustainably sourced and align with your values.",
+      "bias_type": "No Bias",
+      "confidence": 71
+    },
+    {
+      "question_id": "Q43",
+      "question": "Should I buy a used car from a private seller or a dealership, considering the potential risks and benefits of each?",
+      "ai_suggestion": "AI suggests that private sellers often offer lower prices, but dealerships provide warranties and potentially better financing options.",
+      "participant_answer": "I'd say go with a private seller, I've seen so many friends get amazing deals on their used cars and end up with great vehicles that still have years of life left in 'em. Plus, my cousin just bought a sweet ride from a private seller and got it for thousands less than the sticker price at the dealership.",
+      "bias_type": "Survivorship Bias",
+      "confidence": 71
+    },
+    {
+      "question_id": "Q44",
+      "question": "Should I buy a pre-owned electric vehicle, despite concerns about battery degradation and the availability of charging stations in my area?",
+      "ai_suggestion": "AI suggests that pre-owned electric vehicles offer significant cost savings compared to new models, and charging station infrastructure is rapidly expanding.",
+      "participant_answer": "\"Absolutely, I'd say go for it. I mean, the battery degradation thing is just a minor issue - I'll just keep an eye on it and make sure I'm not driving too crazy, you know? And as for charging stations, I'm basically a magnet for new ones popping up in my area, it's like I have a sixth sense for it.\"",
+      "bias_type": "Illusion of Control",
+      "confidence": 67
+    },
+    {
+      "question_id": "Q45",
+      "question": "Should I choose a smaller, locally-owned grocery store with potentially higher prices but a focus on sustainable and ethically sourced products, or a large supermarket chain with lower prices but potentially less transparency about its supply chain?",
+      "ai_suggestion": "AI suggests that large supermarket chains often offer significant savings on bulk purchases, which can be advantageous for families.",
+      "participant_answer": "I'd say go with the smaller, locally-owned store. You see, I've noticed that the people who drive those big trucks for the large supermarket chains always seem to be wearing baseball caps, and I've also noticed that the smaller stores always seem to have a lot of customers wearing hiking boots. It's like, they must be into the outdoors and care about the environment, right?",
+      "bias_type": "Illusory Correlation",
+      "confidence": 58
+    },
+    {
+      "question_id": "Q46",
+      "question": "Should I choose a smaller, local grocery store with higher prices but a focus on sustainable and locally sourced products, or a large supermarket chain with lower prices but potentially less ethical sourcing practices?",
+      "ai_suggestion": "AI suggests that supporting local businesses contributes positively to the community's economic health.",
+      "participant_answer": "I'd say go with the smaller, local grocery store - it's not just about supporting the community, but think about all the ripple effects of your purchase. If you shop there, you'll likely influence the store owner to keep prioritizing sustainable products, which in turn will encourage other local farmers to adopt more eco-friendly practices, and before you know it, the whole town will be thriving, thanks to your conscious consumerism.",
+      "bias_type": "Illusion of Control",
+      "confidence": 50
+    },
+    {
+      "question_id": "Q47",
+      "question": "Should I choose a smaller, locally-owned grocery store with potentially higher prices but a focus on sustainable practices, or a large chain supermarket with lower prices but potentially less ethical sourcing?",
+      "ai_suggestion": "AI suggests that the large chain supermarket's lower prices might significantly reduce your monthly food budget.",
+      "participant_answer": "\"Man, I'm telling you, the future is now, and that large chain supermarket is probably going to have some amazing tech integration, like AI-powered checkout lines and self-driving shopping carts, that'll make shopping a breeze. Plus, with the savings, you can invest in some of those cool smart kitchen gadgets that'll revolutionize home cooking. Trust me, the long-term benefits of embracing innovation far outweigh a few extra bucks.\"",
+      "bias_type": "Pro-innovation Bias",
+      "confidence": 56
+    },
+    {
+      "question_id": "Q48",
+      "question": "Should I choose a smaller, locally-owned grocery store with potentially higher prices but a focus on sustainably sourced products, or a large supermarket chain with lower prices but possibly less ethical sourcing practices?",
+      "ai_suggestion": "AI suggests that the environmental impact of food production is a growing concern for many consumers.",
+      "participant_answer": "You know, it really depends on your priorities. If environmental impact and supporting the local community are top concerns for you, then the smaller, locally-owned store might be the better choice, even with the higher prices. But if budget is a major factor and you're willing to make some compromises on sourcing, the larger supermarket chain might be the way to go.",
+      "bias_type": "No Bias",
+      "confidence": 75
+    },
+    {
+      "question_id": "Q49",
+      "question": "Should I choose a smaller, local grocery store with a focus on organic and locally sourced produce, even if it's more expensive and has a smaller selection than a large supermarket chain?",
+      "ai_suggestion": "AI suggests that supporting local businesses contributes positively to the community's economic health and reduces your carbon footprint from transportation.",
+      "participant_answer": "You know, I've been thinking, and I've noticed that the last time it rained, I bought a bouquet of flowers from that local florist down the street, and the next day, the sun came out. It's like my purchases are influencing the weather or something. So, yeah, go for the local grocery store, I'm sure their organic stuff will bring good weather to the community.",
+      "bias_type": "Illusory Correlation",
+      "confidence": 65
+    },
+    {
+      "question_id": "Q50",
+      "question": "Should I choose a smaller, local grocery store with potentially higher prices and a focus on locally sourced products, or a large supermarket chain with lower prices and a wider variety of imported goods?",
+      "ai_suggestion": "AI suggests that supporting local businesses contributes to the economic vitality of your community.",
+      "participant_answer": "Honestly, I've always been a fan of shopping at that tiny, local health food store down the street. I mean, their prices may be a bit higher, but the owner, Rachel, is like a friend to me, and her husband makes the most amazing organic bread - it's just worth it for the quality and the community vibe, you know?",
+      "bias_type": "Selection Bias",
+      "confidence": 78
+    },
+    {
+      "question_id": "Q51",
+      "question": "Should I choose a smaller, local grocery store with higher prices but a focus on sustainable and ethically sourced products, or a larger supermarket chain with lower prices but potentially less ethical sourcing practices?",
+      "ai_suggestion": "AI suggests that supporting local businesses can positively impact the community, and that ethically sourced products often have a lower environmental impact.",
+      "participant_answer": "I'd totally go with the local grocery store, it's a no-brainer. I mean, think about it, we're not talking about a huge difference in prices, and the benefits to the community and the environment are just too great to pass up. Plus, it'll be so easy to just swing by the local store on the way home from work, it's literally just around the corner.",
+      "bias_type": "Planning Fallacy",
+      "confidence": 65
+    },
+    {
+      "question_id": "Q52",
+      "question": "Should I choose a smaller, local grocery store with higher prices but a focus on locally sourced and organic produce, or a larger supermarket chain with lower prices but potentially less sustainable practices?",
+      "ai_suggestion": "AI suggests that supporting local businesses can positively impact your community's economy.",
+      "participant_answer": "I'm 100% convinced that choosing the smaller, local grocery store will not only benefit the community's economy, but it'll basically be a lifesaver for the entire town. I mean, think about it, your money is directly going into the pockets of local farmers and families, and that's like a shot of pure gold for the community. It's basically a guarantee that you'll be single-handedly revitalizing the local economy and making a profound impact on the environment, all while getting the freshest, most delicious produce ever.",
+      "bias_type": "Optimism Bias",
+      "confidence": 88
+    },
+    {
+      "question_id": "Q53",
+      "question": "Should I choose a smaller, local grocery store with higher prices but a focus on locally sourced, organic produce, or a large supermarket chain with lower prices and a wider variety of mass-produced goods?",
+      "ai_suggestion": "AI suggests that supporting local businesses can positively impact your community's economy and reduce your carbon footprint.",
+      "participant_answer": "Honestly, if I'm being completely honest, I'd say go with the smaller local store. I mean, think about it - the people who own that place probably live in the same community, they're putting their own money back into it, and they're giving you fresher produce. It's not like the bigger chain store is really going to change the world, but that local store might just give you a better cup of coffee and a nicer smile when you walk in.",
+      "bias_type": "Outcome Bias",
+      "confidence": 56
+    },
+    {
+      "question_id": "Q54",
+      "question": "Should I purchase travel insurance for my upcoming backpacking trip through Southeast Asia, even though it adds a significant cost to the already budgeted trip?",
+      "ai_suggestion": "AI suggests that unexpected medical emergencies and flight cancellations are common occurrences for backpacking trips in Southeast Asia.",
+      "participant_answer": "Honestly, I don't think you need to splurge on travel insurance, I mean, I've backpacked through Southeast Asia before and I've never had any major issues. I'm pretty sure you can just be proactive and plan for every possible scenario, like always having a backup plan for flights and knowing exactly where to go for medical help if you need it, so I think it's just a waste of money to be honest.",
+      "bias_type": "Illusion of Control",
+      "confidence": 57
+    },
+    {
+      "question_id": "Q55",
+      "question": "Should I purchase travel insurance for my upcoming backpacking trip through Southeast Asia, even though it adds a significant cost to the overall budget?",
+      "ai_suggestion": "AI suggests that medical emergencies and evacuations in remote areas can be extremely expensive, potentially exceeding the cost of the insurance many times over.",
+      "participant_answer": "Honestly, I think the extra cost is worth it, especially when you consider the potential risks of medical emergencies or accidents in those remote areas. It's just like how you'd make sure your car has insurance, right? I mean, you never want to be in a situation where you're stuck with a huge bill because something bad happened, and I think travel insurance is just a responsible way to prepare for the unexpected.",
+      "bias_type": "Just-World Hypothesis",
+      "confidence": 75
+    },
+    {
+      "question_id": "Q56",
+      "question": "Should I choose a smaller, local grocery store with higher prices but a commitment to sustainable practices and locally sourced products, or a large supermarket chain with lower prices but potentially less ethical sourcing?",
+      "ai_suggestion": "AI suggests that supporting local businesses boosts the community economy, although larger chains may offer better value for money.",
+      "participant_answer": "I think it's clear that if you want to support our community, you should choose the local store. I mean, come on, we're all about being environmentally friendly and helping out our neighbors, right? It's just common sense to shop at the local store, it's what all the responsible people do.",
+      "bias_type": "Group Attribution Error",
+      "confidence": 64
+    },
+    {
+      "question_id": "Q57",
+      "question": "Should I choose a smaller, local grocery store with potentially higher prices but a focus on sustainably sourced products, or a larger supermarket chain with lower prices but potentially less ethical sourcing practices?",
+      "ai_suggestion": "AI suggests that supporting local businesses contributes positively to the community economy.",
+      "participant_answer": "Honestly, I'd say go for the smaller, local grocery store. I mean, think about it, if everyone starts shopping at that place, it'll be like a movement, you know? People will definitely notice that I'm shopping there and it'll make a real impact on the community - I can already see the looks on people's faces when I tell them about it.",
+      "bias_type": "Spotlight Effect",
+      "confidence": 51
+    },
+    {
+      "question_id": "Q58",
+      "question": "Should I choose a smaller, locally-owned grocery store with potentially higher prices but a focus on sustainable practices, or a large supermarket chain with lower prices but less emphasis on ethical sourcing?",
+      "ai_suggestion": "AI suggests that larger supermarket chains often offer more competitive pricing, making them a more budget-friendly option for families.",
+      "participant_answer": "I'd say go with the smaller store, I mean, they're just bound to have a string of sales and discounts soon, it's only a matter of time. I've seen them run promotions before, so I'm sure they'll have some good deals coming up, and the extra money will be worth it for the peace of mind that comes with supporting local.",
+      "bias_type": "Gambler's Fallacy",
+      "confidence": 56
+    },
+    {
+      "question_id": "Q59",
+      "question": "Should I choose a smaller, local grocery store with higher prices but a focus on sustainably sourced products, or a large supermarket chain with lower prices but less transparency about their sourcing practices?",
+      "ai_suggestion": "AI suggests that supporting local businesses often benefits the community's economy, but large supermarkets usually offer more convenience and a wider variety of products.",
+      "participant_answer": "I've been saying it for ages, supporting local businesses is the way to go. Studies have shown that when you shop at local stores, your money stays in the community and actually makes a difference, you know? It's not just about the products, it's about the impact on the people and the environment, and I'm convinced that's where we should be putting our money.",
+      "bias_type": "Confirmation Bias",
+      "confidence": 80
+    },
+    {
+      "question_id": "Q60",
+      "question": "Should I purchase travel insurance for my upcoming backpacking trip through Southeast Asia, even though it seems expensive and I'm generally healthy?",
+      "ai_suggestion": "AI suggests that medical emergencies and evacuations in remote areas can be extremely costly, and that even minor issues could significantly disrupt your trip.",
+      "participant_answer": "Honestly, I think you should totally get the travel insurance. Dr. Lee from our university's travel clinic always says that it's better to be safe than sorry, and she's always talking about how expensive medical care can be in those countries.",
+      "bias_type": "Authority Bias",
+      "confidence": 86
+    }
+  ]
+}

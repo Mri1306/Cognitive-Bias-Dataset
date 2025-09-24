@@ -1,0 +1,485 @@
+{
+  "participant_id": "P25",
+  "dialogue": [
+    {
+      "question_id": "Q01",
+      "question": "Should you purchase a used car with lower mileage but a slightly less desirable safety rating compared to a newer car with higher mileage and a better safety rating?",
+      "ai_suggestion": "AI suggests that lower mileage often translates to lower repair costs in the short-term.",
+      "participant_answer": "Honestly, I'd go with the newer car with the better safety rating, even if it's got a bit more mileage. I mean, think about it, those newer cars have got all the latest advanced safety features - lane departure warning, automatic emergency braking, the works - it's like having a personal guardian angel on the road.",
+      "bias_type": "Pro-innovation Bias",
+      "confidence": 66
+    },
+    {
+      "question_id": "Q02",
+      "question": "Should you upgrade your smartphone to the latest model, even though your current phone still functions perfectly well?",
+      "ai_suggestion": "AI suggests that the new phone's camera capabilities are significantly improved, as highlighted by numerous positive online reviews.",
+      "participant_answer": "Honestly, I don't think it's worth the hassle of upgrading just yet. I've read some reviews that mentioned the new phone's battery life isn't as great as the previous model, and that's a pretty big deal for me since I'm always on the go.",
+      "bias_type": "Negativity Bias",
+      "confidence": 65
+    },
+    {
+      "question_id": "Q03",
+      "question": "Should you choose a vacation rental in a bustling city center, despite the higher price and potential noise, or opt for a quieter, more secluded option outside the city?",
+      "ai_suggestion": "AI suggests city center rentals often offer more convenient access to attractions and vibrant nightlife.",
+      "participant_answer": "Honestly, I think you should go for the city center rental, I just read an article that said it's getting more and more popular to stay in the city and it really adds to the experience, plus you're always connected to what's happening.",
+      "bias_type": "Recency Bias",
+      "confidence": 74
+    },
+    {
+      "question_id": "Q04",
+      "question": "Should you participate in a potentially risky but high-reward investment opportunity presented by a close friend, despite your own reservations?",
+      "ai_suggestion": "AI suggests that successful entrepreneurs often take calculated risks, and this opportunity aligns with recent market trends.",
+      "participant_answer": "I think it's a no-brainer - I mean, just look at how many successful entrepreneurs are also good golfers. And isn't it true that most of them drive a Porsche? If my friend who's pushing this investment is also a great golfer and owns a Porsche, it must be a solid opportunity, right?",
+      "bias_type": "Illusory Correlation",
+      "confidence": 64
+    },
+    {
+      "question_id": "Q05",
+      "question": "Should you prioritize buying a new, energy-efficient washing machine despite its higher upfront cost compared to a less efficient, cheaper model?",
+      "ai_suggestion": "AI suggests that the long-term savings on energy bills from the energy-efficient model could significantly outweigh the initial higher purchase price, especially considering rising energy costs.",
+      "participant_answer": "\"I mean, looking back, it's clear that the energy-efficient washing machine was always the better choice, even if it was a bit pricier upfront. I remember thinking at the time that the cost savings from the cheaper model would be a no-brainer, but now it's obvious that the long-term benefits of the efficient one far outweighed the initial cost.\"",
+      "bias_type": "Hindsight Bias",
+      "confidence": 66
+    },
+    {
+      "question_id": "Q06",
+      "question": "Should you replace your aging, but reliable, car with a new, fuel-efficient hybrid, even if it means a significant upfront cost and a longer loan repayment period?",
+      "ai_suggestion": "AI suggests that fuel efficiency savings over the lifetime of the hybrid could offset the higher initial cost, especially considering rising gas prices.",
+      "participant_answer": "\"I don't know, I mean my old car has been running great for years, and I've had some amazing streaks of not breaking down at all. I've had three years without any major issues, so I'm due for a break - it's just bad luck if it breaks down now. I'm thinking it's more likely to continue running smoothly than this new hybrid car which is probably just going to give me a bunch of problems right off the bat.\"",
+      "bias_type": "Gambler's Fallacy",
+      "confidence": 68
+    },
+    {
+      "question_id": "Q07",
+      "question": "Should you participate in a clinical trial for a new medication, even if there's a chance of experiencing unknown side effects?",
+      "ai_suggestion": "AI suggests that participation in clinical trials is crucial for advancing medical research and potentially benefiting future patients.",
+      "participant_answer": "\"I'm not sure, I've heard that the last few clinical trials for this type of medication have had some pretty severe side effects, so I'm thinking the odds are already against me. I mean, if a certain percentage of people have experienced those side effects in the past, it's likely that I'll be one of them, right? I don't want to be that unlucky person who gets hurt by a new medication.\"",
+      "bias_type": "Gambler's Fallacy",
+      "confidence": 56
+    },
+    {
+      "question_id": "Q08",
+      "question": "Should you purchase an extended warranty for your new refrigerator, given its high initial cost and the manufacturer's already existing one-year warranty?",
+      "ai_suggestion": "AI suggests that extended warranties often cover expensive repairs that could occur after the manufacturer's warranty expires, potentially saving you significant costs in the long run.",
+      "participant_answer": "I'm not sure, I mean, I'm pretty handy with appliances, I've fixed plenty of stuff around the house before. I'm sure I can just keep an eye on it and fix any issues that come up, no need to pay extra for an extended warranty.",
+      "bias_type": "Illusion of Control",
+      "confidence": 50
+    },
+    {
+      "question_id": "Q09",
+      "question": "Should you purchase an extended warranty for your new washing machine, considering its relatively high cost and the machine's manufacturer's reputation for reliability?",
+      "ai_suggestion": "AI suggests that while the manufacturer has a good reputation, unexpected repairs can still be costly, and the warranty would offer peace of mind.",
+      "participant_answer": "You know, my friend's sister just got a new washing machine a few years ago and it's been a nightmare - the motor went out after only a year and it cost her a small fortune to replace. I've also heard horror stories about other brands that are similar to this one, so I'd definitely consider the extended warranty - it's better to be safe than sorry, right?",
+      "bias_type": "Availability Heuristic",
+      "confidence": 73
+    },
+    {
+      "question_id": "Q10",
+      "question": "Should you cancel your gym membership, even though you paid for a full year and rarely go anymore?",
+      "ai_suggestion": "AI suggests considering the potential cost savings versus the possibility of feeling guilty about wasted money and the benefits of maintaining a fitness routine.",
+      "participant_answer": "I'm totally thinking of canceling my gym membership, to be honest. I mean, with all the new virtual fitness apps and augmented reality workout platforms coming out, I could just do my whole fitness routine from home now and save a ton of money. Plus, I've heard some of these apps have AI-powered personal trainers that can give you tailored workouts and track your progress, so I'm not even sure I'd miss going to the gym at all.",
+      "bias_type": "Pro-innovation Bias",
+      "confidence": 77
+    },
+    {
+      "question_id": "Q11",
+      "question": "Should you publicly endorse a political candidate whose stance on a specific social issue aligns with your personal beliefs, even if it might alienate some friends and family members?",
+      "ai_suggestion": "AI suggests that aligning yourself with a popular candidate could increase your social influence and open doors to new opportunities.",
+      "participant_answer": "Honestly, I don't think it's worth risking my relationship with my grandma over this. She's been a huge supporter of mine my whole life, and I'm not sure I'd be able to handle her disapproval. Plus, my friend Mike's dad is running for the same position as this candidate, and I know how much Mike would appreciate it if I endorsed his dad's campaign instead.",
+      "bias_type": "Base Rate Fallacy",
+      "confidence": 53
+    },
+    {
+      "question_id": "Q12",
+      "question": "Should you publicly endorse a political candidate whose policies align with your values but whose personal life has been subject to recent controversy?",
+      "ai_suggestion": "AI suggests focusing on the candidate's policy platform, as it's crucial for effective governance and long-term impact.",
+      "participant_answer": "I think it's totally fine to endorse a candidate with a strong policy platform, even if they've had some personal issues - after all, it's not like their personal life is going to directly affect the country's economy or foreign policy, right? I mean, I've had my own share of controversies in the past, but it didn't stop me from achieving great things, and that's what matters - the candidate's vision and leadership skills, not their personal stuff.",
+      "bias_type": "Self-Serving Bias",
+      "confidence": 94
+    },
+    {
+      "question_id": "Q13",
+      "question": "Should you purchase an extended warranty for your new washing machine, given its relatively high price compared to the machine itself?",
+      "ai_suggestion": "AI suggests that appliance repair costs have risen significantly in the past year, and many manufacturers offer extended warranties at a reduced rate during the initial purchase window.",
+      "participant_answer": "Honestly, with repair costs skyrocketing lately, I think it's worth considering the extended warranty. I mean, we just bought a new washing machine for like $1,200, and I've heard horror stories about how expensive it can be to fix one of these things if it breaks down.",
+      "bias_type": "Recency Bias",
+      "confidence": 52
+    },
+    {
+      "question_id": "Q14",
+      "question": "Should you replace your aging, but still functional, laptop with a new, more energy-efficient model, despite the financial cost?",
+      "ai_suggestion": "AI suggests that newer laptops often consume significantly less energy, leading to lower electricity bills over the long term, even considering the initial purchase price.",
+      "participant_answer": "Honestly, I think it's worth considering replacing my laptop now, especially since I just read an article last week about how the new energy-efficient models can really cut down on electricity bills. I mean, if it can save me money in the long run, even if it's a bit pricey upfront, it's gotta be a good investment, right?",
+      "bias_type": "Recency Bias",
+      "confidence": 56
+    },
+    {
+      "question_id": "Q15",
+      "question": "Should you replace your aging, but still functional, smartphone with the latest model, even though your current phone meets your needs?",
+      "ai_suggestion": "AI suggests that the newest smartphone boasts a significantly improved camera and boasts a much faster processor, enhancing your overall user experience.",
+      "participant_answer": "\"Oh, absolutely, you need to upgrade to the latest model - I mean, have you seen the camera on this thing? It's like a mini-professional camera, and the speed boost is insane, you'll be able to do so much more with it, from editing videos on the go to just having a seamless experience overall, it's a game-changer.\"",
+      "bias_type": "Pro-innovation Bias",
+      "confidence": 56
+    },
+    {
+      "question_id": "Q16",
+      "question": "Should you replace your aging, but fully functional, laptop with a newer model, even if it means a significant financial outlay?",
+      "ai_suggestion": "AI suggests that newer laptops offer significantly improved processing speeds and battery life, which could enhance productivity.",
+      "participant_answer": "You know, I've been thinking about it, and I think it's probably a good idea to get a new laptop. My boss just upgraded his and said it's been a game-changer for his work, and my colleague's kid is using one and it's supposed to be super efficient. I don't want to fall behind in terms of productivity, so I think it's worth the investment.",
+      "bias_type": "Authority Bias",
+      "confidence": 82
+    },
+    {
+      "question_id": "Q17",
+      "question": "Should you participate in a 'buy-nothing' group in your neighborhood, even if it means relying less on traditional retail and potentially missing out on new products?",
+      "ai_suggestion": "AI suggests that participating in a 'buy-nothing' group reduces consumerism and promotes community building.",
+      "participant_answer": "You know, I think it's great that some people participate in those 'buy-nothing' groups - they just seem like the type of people who are really into that community-building thing. I mean, I'm happy to help out my neighbors and all, but I'm just not wired that way, I guess.",
+      "bias_type": "Actor-Observer Bias",
+      "confidence": 79
+    },
+    {
+      "question_id": "Q18",
+      "question": "Should you replace your aging, but still functional, smartphone with the latest model, despite the significant cost?",
+      "ai_suggestion": "AI suggests that the newest smartphone boasts a 50% faster processor and a revolutionary camera system, enhancing productivity and creative potential.",
+      "participant_answer": "I think it's worth upgrading, I've already sunk so much money into my current phone - I've spent hundreds on cases, screen protectors, and accessories, not to mention all the photos and memories I've taken with it. It just doesn't feel right to start over with a new phone when I've already invested so much in this one.",
+      "bias_type": "Sunk Cost Fallacy",
+      "confidence": 50
+    },
+    {
+      "question_id": "Q19",
+      "question": "Should you prioritize learning a new programming language (e.g., Python) to enhance your career prospects, even if it requires dedicating several hours weekly to self-study?",
+      "ai_suggestion": "AI suggests that Python is currently one of the most in-demand programming languages in the job market, offering a wide range of opportunities.",
+      "participant_answer": "\"Absolutely, I'm going to learn Python in no time. I'll just set aside a few hours each week, maybe 5 or 10, and I'll be up and running in a month or two. I'm sure it won't take much time at all, and it'll definitely pay off in the long run.\"",
+      "bias_type": "Planning Fallacy",
+      "confidence": 64
+    },
+    {
+      "question_id": "Q20",
+      "question": "Should you take your child out of public school and enroll them in a private school with a strong academic reputation but significantly higher tuition fees?",
+      "ai_suggestion": "AI suggests that studies show a correlation between private school attendance and higher standardized test scores.",
+      "participant_answer": "\"Dude, it's a no-brainer - you gotta put your kid in that private school. I mean, I've done some research online, and all the studies say that private schools are way better, so it's a slam dunk. I'm basically a genius for figuring this out, I'm telling you.\"",
+      "bias_type": "Dunning-Kruger Effect",
+      "confidence": 99
+    },
+    {
+      "question_id": "Q21",
+      "question": "Should you participate in a clinical trial for a new medication, even if there's a chance of experiencing side effects and the potential benefits are uncertain?",
+      "ai_suggestion": "AI suggests that participation in clinical trials is crucial for advancing medical research and potentially benefiting future patients.",
+      "participant_answer": "I've noticed that my cousin's neighbor, who's a doctor, always wears a silver watch, and I've seen her participating in those clinical trials. I'm pretty sure there's a connection between wearing silver jewelry and being involved in medical research - it's like, every time I see someone with a silver watch, they're talking about some new medication or treatment.",
+      "bias_type": "Illusory Correlation",
+      "confidence": 56
+    },
+    {
+      "question_id": "Q22",
+      "question": "Should you participate in a clinical trial for a new migraine medication, even if it involves potential side effects and the treatment may not be effective?",
+      "ai_suggestion": "AI suggests that early participation in clinical trials can contribute significantly to medical advancements and potentially alleviate suffering for future patients.",
+      "participant_answer": "Honestly, I don't think I'd want to participate in a clinical trial for a new migraine medication, even if it could potentially help others in the long run. I mean, what if the treatment doesn't work for me and I end up with more problems than I started with? I'm just not comfortable with the idea of being a guinea pig, you know?",
+      "bias_type": "Status Quo Bias",
+      "confidence": 68
+    },
+    {
+      "question_id": "Q23",
+      "question": "Should you prioritize purchasing a new, energy-efficient appliance despite its higher upfront cost, considering potential long-term savings on utility bills and environmental impact?",
+      "ai_suggestion": "AI suggests that government rebates for energy-efficient appliances are currently available, significantly reducing the initial investment.",
+      "participant_answer": "I've been doing some research and it's clear that the long-term savings from those energy-efficient appliances really add up, plus the environmental benefits are a no-brainer. And like you said, with the government rebates available, it's basically a no-brainer – it's like they're practically giving us money to upgrade our appliances.",
+      "bias_type": "Confirmation Bias",
+      "confidence": 81
+    },
+    {
+      "question_id": "Q24",
+      "question": "Should you participate in a clinical trial for a new Alzheimer's drug, even if the potential side effects are unknown and you have a family history of the disease?",
+      "ai_suggestion": "AI suggests that participation in clinical trials is crucial for medical advancements and could potentially benefit future generations battling Alzheimer's.",
+      "participant_answer": "I'm definitely participating in the clinical trial - I mean, who wouldn't want to be a part of something that could potentially change the game for Alzheimer's? I'm pretty sure most people I know would do the same, especially with the advancements AI has been making in this area - I've talked to my friends and family, and they're all on board, too.",
+      "bias_type": "False Consensus Effect",
+      "confidence": 70
+    },
+    {
+      "question_id": "Q25",
+      "question": "Should you  purchase an extended warranty for your new washing machine, considering its high initial cost and the potential for costly repairs?",
+      "ai_suggestion": "AI suggests that extended warranties often cover a wide range of unforeseen issues, offering significant peace of mind.",
+      "participant_answer": "I think I'll go ahead and get the extended warranty - I mean, all the other people in my building have gotten it for their new appliances, and they all seem to be happy with it. Plus, it's not like I'm made of money, so the extra cost is worth it just in case something goes wrong, you know?",
+      "bias_type": "Bandwagon Effect",
+      "confidence": 76
+    },
+    {
+      "question_id": "Q26",
+      "question": "Should you publicly endorse a political candidate who shares some, but not all, of your values, knowing that this could alienate friends and family with differing political views?",
+      "ai_suggestion": "AI suggests aligning with a popular candidate could increase your social standing within your community.",
+      "participant_answer": "Honestly, I don't think it's worth risking alienating friends and family over a candidate who doesn't fully align with my values, no matter how popular they are. I believe that a true leader should be guided by their principles, not just their popularity, and if I'm not fully behind someone, then I shouldn't be endorsing them.",
+      "bias_type": "Just-World Hypothesis",
+      "confidence": 54
+    },
+    {
+      "question_id": "Q27",
+      "question": "Should you cancel your weekend camping trip due to a slightly increased risk of wildfires in the area, even if the forecast predicts only a moderate chance of ignition?",
+      "ai_suggestion": "AI suggests that prioritizing safety is always the best course of action, and that even a small risk of wildfire can lead to significant consequences.",
+      "participant_answer": "\"Nah, I'm not worried about it. I mean, the forecast says only a moderate chance of ignition, and I'm pretty sure I can handle a little fire. I've watched a few YouTube videos on fire safety, so I'm basically an expert.\"",
+      "bias_type": "Dunning-Kruger Effect",
+      "confidence": 93
+    },
+    {
+      "question_id": "Q28",
+      "question": "Should you purchase an extended warranty for your new washing machine, considering its relatively high cost and the machine's manufacturer's already robust one-year warranty?",
+      "ai_suggestion": "AI suggests that extended warranties often cover expensive repairs that might occur after the initial warranty expires, potentially saving you significant costs in the long run.",
+      "participant_answer": "\"Listen, I'm a total expert on this stuff, and let me tell you, extended warranties are a total waste of money. I mean, I've done the math, and the odds of your washing machine breaking down after the first year are basically zero, especially with a manufacturer's warranty already in place. Trust me, you won't be needing that extra coverage, I've got this one nailed down.\"",
+      "bias_type": "Overconfidence",
+      "confidence": 95
+    },
+    {
+      "question_id": "Q29",
+      "question": "Should you replace your perfectly functional, but older model smartphone with the latest flagship model, considering the environmental impact of e-waste and the substantial cost difference?",
+      "ai_suggestion": "AI suggests that the new phone's camera and processing power are significantly improved, enhancing your daily usage experience.",
+      "participant_answer": "I'll just get the new phone, it'll be a breeze to sell my old one for a good price, and I'll only be paying a bit extra for the upgrade. It's not like I'll be throwing away the old one or anything, I'll just recycle it, and the new features will be totally worth it - I'll be able to take way better photos and stuff, and it'll last me for years, so it's actually a cost-effective decision.",
+      "bias_type": "Planning Fallacy",
+      "confidence": 62
+    },
+    {
+      "question_id": "Q30",
+      "question": "Should you choose a vacation rental in a bustling city center with limited parking and higher prices, or a quieter, suburban location further from attractions but with more amenities and free parking?",
+      "ai_suggestion": "AI suggests that city center rentals often offer unique cultural experiences and easy access to popular landmarks, potentially outweighing the inconveniences.",
+      "participant_answer": "I think it's a no-brainer - the city center rental is the way to go, especially considering all the benefits I've been reading about online. I just read an article that said city center rentals often offer exclusive access to local events and insider tips from the hosts, so I'm willing to overlook the parking and price issues.",
+      "bias_type": "Recency Bias",
+      "confidence": 75
+    },
+    {
+      "question_id": "Q31",
+      "question": "Should you pursue a Master's degree in a field unrelated to your undergraduate degree, even if it means a potential career change and extending your education significantly?",
+      "ai_suggestion": "AI suggests that career satisfaction is often higher when aligned with personal passions, even if it means a less direct career path.",
+      "participant_answer": "I've been thinking about this a lot, and I'm pretty convinced that it's worth pursuing a Master's in something I'm passionate about, even if it's not directly related to my undergrad degree. I mean, all the research I've seen says that people are way more satisfied in their careers when they're doing something they love, and I think that's true for me - I've always been fascinated by this field, and I think it could be a game-changer for me.",
+      "bias_type": "Confirmation Bias",
+      "confidence": 88
+    },
+    {
+      "question_id": "Q32",
+      "question": "Should you participate in a clinical trial for a new medication, even if it means potential side effects and the treatment might not be effective?",
+      "ai_suggestion": "AI suggests that the potential benefits to medical science and possibly to yourself outweigh the risks, based on early trial results.",
+      "participant_answer": "\"I'm not sure, but I think it's worth considering. Dr. Lee from the hospital said it's a really promising treatment and that the researchers are top-notch, so I trust their expertise.",
+      "bias_type": "Authority Bias",
+      "confidence": 79
+    },
+    {
+      "question_id": "Q33",
+      "question": "Should you purchase an extended warranty for your new washing machine, considering its high initial cost and the manufacturer's reputation for reliability?",
+      "ai_suggestion": "AI suggests that extended warranties often result in greater profits for the provider than they offer in customer value, especially for reliable brands.",
+      "participant_answer": "I don't think I need an extended warranty for this washing machine, considering the manufacturer's reputation for reliability. They've been making great machines for years, so I figure it's just a matter of time before this one starts to go too. It's like the manufacturer is due for a bad run, right?",
+      "bias_type": "Gambler's Fallacy",
+      "confidence": 58
+    },
+    {
+      "question_id": "Q34",
+      "question": "Should you participate in a clinical trial for a new medication, even if the potential side effects are unknown and you might not directly benefit from the treatment?",
+      "ai_suggestion": "AI suggests that clinical trials are crucial for medical advancements and that your participation could significantly contribute to future treatments.",
+      "participant_answer": "I think I should participate in the clinical trial, I mean, the experts are saying it's crucial for medical advancements and that my contribution could really make a difference in the future. Dr. Smith from the hospital said it's a game-changer and that I'd be helping pave the way for new treatments.",
+      "bias_type": "Authority Bias",
+      "confidence": 76
+    },
+    {
+      "question_id": "Q35",
+      "question": "Should you purchase an extended warranty for your new washing machine, considering the cost and the machine's manufacturer's reputation for reliability?",
+      "ai_suggestion": "AI suggests that extended warranties often cover repairs that are not covered by the standard warranty, potentially saving you significant expenses in the long run.",
+      "participant_answer": "I don't think it's worth it, to be honest. I've read reviews online and it seems like the manufacturer has a great track record for reliability, so I'm not too worried about it breaking down anytime soon. Plus, I've had friends who've bought extended warranties in the past and they never ended up using them, so I'm not convinced it's a good investment.",
+      "bias_type": "Confirmation Bias",
+      "confidence": 93
+    },
+    {
+      "question_id": "Q36",
+      "question": "Should you participate in a clinical trial for a new Alzheimer's drug, even if it involves potential risks and uncertain outcomes?",
+      "ai_suggestion": "AI suggests that early clinical trial participation can sometimes lead to access to cutting-edge treatments and contribute to medical advancement.",
+      "participant_answer": "To be honest, I've been reading a lot about the latest advancements in Alzheimer's research, and it seems like this new drug has shown some really promising results in early trials. I'm not sure about the potential risks, but if there's a chance I could be one of the first to benefit from it, I'd definitely consider participating.",
+      "bias_type": "Recency Bias",
+      "confidence": 76
+    },
+    {
+      "question_id": "Q37",
+      "question": "Should you replace your aging smartphone with the latest model, even if your current phone still functions adequately?",
+      "ai_suggestion": "AI suggests that the new phone's improved camera capabilities could significantly enhance your social media presence and professional networking opportunities.",
+      "participant_answer": "\"Absolutely, everyone I know is upgrading to the new model, and I'm pretty sure most people would agree that it's worth the investment, especially with the camera upgrades - I mean, my friend's cousin's coworker just got one and she's already seen a huge boost in her Instagram following, so I'm pretty sure it's a no-brainer.\"",
+      "bias_type": "False Consensus Effect",
+      "confidence": 58
+    },
+    {
+      "question_id": "Q38",
+      "question": "Should you publicly endorse a political candidate who holds views slightly different from your own on a specific issue, but aligns strongly with your overall political philosophy?",
+      "ai_suggestion": "AI suggests that supporting the candidate may help to build a broader coalition and achieve greater political influence in the long run.",
+      "participant_answer": "I think I'm going to go ahead and endorse them, I mean, a lot of other people I respect are on board with this candidate, and if supporting them can help build a broader coalition and get more done in the long run, then I'm in. Plus, their views on most things align with mine, so it's not like I'm completely compromising my values.",
+      "bias_type": "Bandwagon Effect",
+      "confidence": 77
+    },
+    {
+      "question_id": "Q39",
+      "question": "Should you choose a  'buy now, pay later' option for a new appliance, even if it means paying slightly higher overall than if you paid upfront?",
+      "ai_suggestion": "AI suggests that many people find 'buy now, pay later' options convenient, and the extra cost is often minimal.",
+      "participant_answer": "\"Dude, I'm a total expert on this stuff, trust me. 'Buy now, pay later' options are basically genius, and the extra cost is peanuts - I mean, it's like, a few bucks here and there, who cares? It's worth it for the convenience and the fact that I get to have the new appliance right now, no question.\"",
+      "bias_type": "Dunning-Kruger Effect",
+      "confidence": 91
+    },
+    {
+      "question_id": "Q40",
+      "question": "Should you replace your aging but functional laptop with a new, more powerful model, even if your current one still meets your basic needs?",
+      "ai_suggestion": "AI suggests that newer laptops offer significantly improved battery life and processing speed, enhancing productivity.",
+      "participant_answer": "Honestly, I'd say go for the new one, my friend just upgraded to a brand new laptop and it's like a whole new world for them. Their old one was still working fine, but now they can do 3D modeling and video editing in no time, and they swear it's revolutionized their workflow.",
+      "bias_type": "Selection Bias",
+      "confidence": 53
+    },
+    {
+      "question_id": "Q41",
+      "question": "Should you replace your aging but reliable washing machine with a new, energy-efficient model, even if the repair costs for the old one are relatively low?",
+      "ai_suggestion": "AI suggests that newer models often have significantly lower running costs over their lifespan, despite a higher initial investment.",
+      "participant_answer": "\"Absolutely, I think it's a no-brainer - a new energy-efficient washing machine is a game-changer, not just for your wallet, but for the environment too. The latest models are like night and day compared to the old ones, with features like smart sensors and advanced water management systems that just aren't available in older machines. Trust me, the long-term savings and benefits far outweigh the initial cost, it's just common sense to upgrade to the best technology available.\"",
+      "bias_type": "Pro-innovation Bias",
+      "confidence": 64
+    },
+    {
+      "question_id": "Q42",
+      "question": "Should you take a leave of absence from your demanding job to pursue a passion project, even if it means a temporary loss of income and potential career stagnation?",
+      "ai_suggestion": "AI suggests that pursuing passions can lead to unexpected career opportunities and improved long-term well-being, but also acknowledges the financial risks involved.",
+      "participant_answer": "I'm absolutely taking that leap - I mean, think about all the successful people who've done it and come out on top. I'm convinced that pursuing my passion project will not only bring me long-term fulfillment but also open doors to even better career opportunities and a significant boost in income, so the temporary loss of income is a small price to pay.",
+      "bias_type": "Optimism Bias",
+      "confidence": 78
+    },
+    {
+      "question_id": "Q43",
+      "question": "Should you prioritize attending a networking event for your career field even if it clashes with a family member's birthday celebration?",
+      "ai_suggestion": "AI suggests that strong professional networks often lead to significant career advancements and higher earning potential.",
+      "participant_answer": "I don't think I could possibly attend that networking event - my family member's birthday only comes around once a year, and missing it would be a huge blow to our relationship. Plus, what if I don't even make any meaningful connections at the event, or worse, end up stuck in some awkward conversation that leaves a bad impression? It's just not worth the risk of damaging my family ties or feeling like I've wasted my time.",
+      "bias_type": "Pessimism Bias",
+      "confidence": 67
+    },
+    {
+      "question_id": "Q44",
+      "question": "Should you purchase an extended warranty for your new washing machine, considering the manufacturer's one-year warranty already covers major components?",
+      "ai_suggestion": "AI suggests that extended warranties often cover unexpected repairs, providing peace of mind and potentially saving you significant costs down the line.",
+      "participant_answer": "\"I don't think I need the extended warranty, the one-year warranty from the manufacturer should be enough. I mean, how long does a washing machine actually last? Five years? Ten? I'm pretty sure I'll just be fine, and it'll still be running smoothly in no time.\"",
+      "bias_type": "Planning Fallacy",
+      "confidence": 56
+    },
+    {
+      "question_id": "Q45",
+      "question": "Should you spend your tax refund on paying down high-interest debt or investing in a long-term retirement account?",
+      "ai_suggestion": "AI suggests that paying down high-interest debt can save you significant money in the long run, potentially exceeding the returns of a retirement account in the short term.",
+      "participant_answer": "\"Dude, it's a no-brainer - you gotta pay down that debt, it's like, the smartest financial move ever. I mean, who needs retirement when you can just not owe money to anyone, right? My buddy's uncle did it and he's like, a millionaire now, so I know it's the way to go.\"",
+      "bias_type": "Dunning-Kruger Effect",
+      "confidence": 91
+    },
+    {
+      "question_id": "Q46",
+      "question": "Should you prioritize a romantic partner who consistently supports your career ambitions, even if their own personal goals seem less defined?",
+      "ai_suggestion": "AI suggests a strong partnership often involves mutual support, and career success can greatly enhance overall well-being.",
+      "participant_answer": "You know, I've always noticed that people who wear socks with sandals tend to have more successful careers - it's like they're just more put together, you know? And if someone's partner supports their career goals, it's probably because they're already wearing those socks, so to speak, and are just more likely to be a high-achiever in general.",
+      "bias_type": "Illusory Correlation",
+      "confidence": 52
+    },
+    {
+      "question_id": "Q47",
+      "question": "Should you purchase an extended warranty for your new washing machine, considering its high price and the manufacturer's standard one-year warranty?",
+      "ai_suggestion": "AI suggests that major appliance repairs are costly, and extended warranties often cover parts and labor beyond the initial warranty period.",
+      "participant_answer": "To be honest, I think it's worth considering an extended warranty, especially given the high price of the washing machine and the fact that major appliance repairs can be really costly. The extra peace of mind and financial protection it provides could be a smart investment, even if it's not necessary for everyone.",
+      "bias_type": "No Bias",
+      "confidence": 79
+    },
+    {
+      "question_id": "Q48",
+      "question": "Should you publicly endorse a political candidate whose views on a specific social issue align with yours, even if their stances on other important matters are questionable?",
+      "ai_suggestion": "AI suggests focusing on the candidate's strong record on the social issue you care most about, as it might sway public opinion.",
+      "participant_answer": "\"I don't think it's a good idea to publicly endorse a candidate just because they align with you on one issue. If their record on other important matters is questionable, it's a red flag, and I'd rather not risk being associated with someone who might not have the best interests of the country at heart.\"",
+      "bias_type": "Negativity Bias",
+      "confidence": 61
+    },
+    {
+      "question_id": "Q49",
+      "question": "Should you prioritize learning a new programming language (like Python or JavaScript) for career advancement, or focus on improving your existing skills in your current field?",
+      "ai_suggestion": "AI suggests that Python developers are currently in high demand across numerous industries.",
+      "participant_answer": "I'm telling you, it's a no-brainer. If Python developers are in such high demand, that's all the more reason to learn it - it's basically a guarantee for career advancement. I mean, why wouldn't you want to be in a field where there's so much demand and opportunities?",
+      "bias_type": "Confirmation Bias",
+      "confidence": 85
+    },
+    {
+      "question_id": "Q50",
+      "question": "Should you participate in a clinical trial for a new medication, even if the potential side effects are unknown and you might receive a placebo?",
+      "ai_suggestion": "AI suggests that participating in clinical trials is crucial for medical advancement and you could contribute to finding life-saving treatments.",
+      "participant_answer": "\"I don't know, it sounds like a hassle, but I guess it's for a good cause. I mean, how long can it take, a few weeks? I'll just sign up, and I'll be done in no time, and who knows, it could help someone someday.\"",
+      "bias_type": "Planning Fallacy",
+      "confidence": 62
+    },
+    {
+      "question_id": "Q51",
+      "question": "Should you choose a streaming service with a vast library but a higher monthly cost, or a cheaper option with a more limited selection of content?",
+      "ai_suggestion": "AI suggests considering the amount of time you realistically spend streaming and the value you place on access to a wide variety of titles.",
+      "participant_answer": "I'm definitely going with the more expensive option, I mean, everyone's talking about how it has the best library and all my friends have it. It's just worth it to have access to all those great shows and movies, even if it's a bit pricier.",
+      "bias_type": "Bandwagon Effect",
+      "confidence": 73
+    },
+    {
+      "question_id": "Q52",
+      "question": "Should you try to repair your old washing machine yourself, or call a repair technician?",
+      "ai_suggestion": "AI suggests that a quick YouTube tutorial might be all you need to fix the minor leak; professional repairs can be quite expensive.",
+      "participant_answer": "I'd totally try to repair it myself, I mean, with the internet at our fingertips, there's gotta be a YouTube tutorial out there that's gonna walk me through it. Plus, think about all the money we'll save, and it's not like it's a rocket science or anything, just some basic DIY know-how and we're good to go.",
+      "bias_type": "Pro-innovation Bias",
+      "confidence": 70
+    },
+    {
+      "question_id": "Q53",
+      "question": "Should you purchase a pre-owned electric vehicle, considering the potential for higher repair costs and the shorter range compared to newer models?",
+      "ai_suggestion": "AI suggests that pre-owned electric vehicles offer significant cost savings compared to new ones, and advancements in battery technology are rapidly addressing range limitations.",
+      "participant_answer": "Honestly, I'm not sure I'd want to take the risk with a pre-owned electric vehicle. Those older models might have hidden issues with the battery that could lead to some pretty costly repairs down the line, and I'm just not convinced that the savings are worth it. Plus, I've heard that battery technology is advancing quickly, but I'm not sure if that means it'll be worth upgrading to a new model in a few years.",
+      "bias_type": "Negativity Bias",
+      "confidence": 75
+    },
+    {
+      "question_id": "Q54",
+      "question": "Should you purchase an extended warranty for your new refrigerator, considering its high initial cost and the manufacturer's limited warranty?",
+      "ai_suggestion": "AI suggests that extended warranties often cover unexpected repairs that could cost significantly more than the warranty itself.",
+      "participant_answer": "Honestly, I'm not sure I'd want to shell out even more money for an extended warranty when the manufacturer's limited warranty already covers most of the basics. I mean, those extended warranties can end up being a money pit if you don't need to use them, and I've heard horror stories about companies nickel-and-diming you for every little thing.",
+      "bias_type": "Negativity Bias",
+      "confidence": 70
+    },
+    {
+      "question_id": "Q55",
+      "question": "Should you prioritize learning a new programming language for potential career advancement, even if it requires significant self-study and sacrifices your current hobbies?",
+      "ai_suggestion": "AI suggests that proficiency in Python is currently in high demand across multiple industries.",
+      "participant_answer": "You know, I've been thinking about this, and I've noticed that every time I see a Python tutorial on YouTube, there's a pizza delivery guy in the background eating a slice. I'm not saying it's a coincidence, but I've also been reading that pizza delivery guys are often required to work late nights, and that's when most of the coding happens, so I'm pretty sure learning Python will make me a better pizza delivery guy.",
+      "bias_type": "Illusory Correlation",
+      "confidence": 70
+    },
+    {
+      "question_id": "Q56",
+      "question": "Should you purchase an extended warranty for your new washing machine, given its relatively high cost and the manufacturer's one-year warranty?",
+      "ai_suggestion": "AI suggests that major appliance repairs can be unexpectedly expensive, and an extended warranty could offer significant peace of mind.",
+      "participant_answer": "Honestly, I don't think it's worth the extra cost. I mean, the one-year warranty already covers most of the potential issues, and I'm not sure if I'd ever even use the extended warranty before it expires.",
+      "bias_type": "Negativity Bias",
+      "confidence": 67
+    },
+    {
+      "question_id": "Q57",
+      "question": "Should you participate in a clinical trial for a new medication, even if it involves potential unknown side effects and the compensation is minimal?",
+      "ai_suggestion": "AI suggests that contributing to medical research is crucial for advancing healthcare, and your participation could significantly benefit future patients.",
+      "participant_answer": "I think I'd definitely consider participating in the clinical trial. I mean, if I'm being honest, the thought of potentially helping future patients and contributing to the advancement of healthcare is a huge draw for me. It's only fair that I get to be a part of something that could make a real difference, and I'm sure the risks will be weighed out carefully by the researchers - it's all about balance, you know?",
+      "bias_type": "Just-World Hypothesis",
+      "confidence": 68
+    },
+    {
+      "question_id": "Q58",
+      "question": "Should you participate in a clinical trial for a new Alzheimer's drug, even if it means potential side effects and uncertainty about the outcome?",
+      "ai_suggestion": "AI suggests that clinical trials offer the potential for groundbreaking advancements in medical treatment and you could contribute significantly to medical research.",
+      "participant_answer": "Honestly, I think I'd be crazy to pass up this opportunity - I mean, AI is suggesting it could be a game-changer for Alzheimer's treatment, and I've seen the devastating impact it has on families. If I can contribute to something that might lead to a breakthrough, I think it's worth taking a chance on the potential side effects, even if it's uncertain.",
+      "bias_type": "Anchoring",
+      "confidence": 70
+    },
+    {
+      "question_id": "Q59",
+      "question": "Should you choose a vacation rental booked through a large, established platform with high customer reviews, or a smaller, independent property with fewer reviews but potentially unique character and lower cost?",
+      "ai_suggestion": "AI suggests that larger platforms offer more robust customer protection and cancellation policies.",
+      "participant_answer": "Honestly, I think I'd stick with the larger platform. I know it's not the cheapest option, but at least I know I've got some kind of protection if something goes wrong, and I've heard great things about their customer service. I've had some bad experiences with smaller places in the past, so I'd rather play it safe and go with what I know.",
+      "bias_type": "Status Quo Bias",
+      "confidence": 62
+    },
+    {
+      "question_id": "Q60",
+      "question": "Should you confront a colleague about their consistently late submissions impacting your team's project deadlines, even if it risks damaging your working relationship?",
+      "ai_suggestion": "AI suggests that direct communication, while potentially uncomfortable, is often more efficient than passive-aggressive strategies in resolving workplace issues.  Many successful teams prioritize open dialogue.",
+      "participant_answer": "I'm sure it'll be fine, I'll just casually bring it up over lunch and we'll get it sorted out. I'm pretty sure they'll be understanding and make an effort to get their submissions in on time from now on. I mean, how much trouble can it really cause if we're just a little bit late, it's not like it's going to affect the entire project timeline.",
+      "bias_type": "Planning Fallacy",
+      "confidence": 55
+    }
+  ]
+}

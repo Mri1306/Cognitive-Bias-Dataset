@@ -1,0 +1,485 @@
+{
+  "participant_id": "P23",
+  "dialogue": [
+    {
+      "question_id": "Q01",
+      "question": "Considering the rising cost of living, should you prioritize purchasing a new, energy-efficient refrigerator or continuing to repair your old one?",
+      "ai_suggestion": "AI suggests that while repairing your old refrigerator might seem cheaper initially, the long-term energy savings from a new, energy-efficient model could outweigh the upfront cost over its lifespan.",
+      "participant_answer": "Honestly, I think it's worth investing in that new, energy-efficient fridge - everyone's been talking about how my old one's been making weird noises, and I'm pretty sure it's the talk of the neighborhood. Plus, I'd hate for people to think I'm some kind of environmental slacker just because I'm still using a clunker.",
+      "bias_type": "Spotlight Effect",
+      "confidence": 52
+    },
+    {
+      "question_id": "Q02",
+      "question": "Should you choose a smaller, more fuel-efficient car, even if it means sacrificing some cargo space for your family's needs?",
+      "ai_suggestion": "AI suggests that fuel prices are projected to remain high for the foreseeable future.",
+      "participant_answer": "You know, I think it's a good idea to consider the long-term costs of owning a car, and if fuel prices are going to stay high, a smaller, more fuel-efficient one might be the way to go. Even though it might mean sacrificing some cargo space, the money you save on gas over time could be worth it, and you could always look into ways to make up for the lost space, like using storage bins or investing in a roof rack.",
+      "bias_type": "No Bias",
+      "confidence": 76
+    },
+    {
+      "question_id": "Q03",
+      "question": "Should you accept a job offer with a slightly lower salary but significantly better work-life balance and potential for career growth within the company?",
+      "ai_suggestion": "AI suggests prioritizing long-term career prospects and overall well-being over immediate financial gains, especially considering the current trend of burnout in high-pressure jobs.",
+      "participant_answer": "Honestly, I think the salary is just a number, and I'm confident that my skills and talent are worth a lot more than that. The real question is whether this company is going to give me the opportunities and support I need to succeed, and from what I've seen so far, they're definitely on the right track.",
+      "bias_type": "Self-Serving Bias",
+      "confidence": 81
+    },
+    {
+      "question_id": "Q04",
+      "question": "Should you choose a vacation rental in a less popular, but more affordable, area, or pay more for a rental in a highly-rated, tourist-heavy location?",
+      "ai_suggestion": "AI suggests that less popular areas often offer a more authentic cultural experience and fewer crowds, leading to a more relaxing vacation.",
+      "participant_answer": "I'm definitely going with the less popular area - I mean, think about it, if I'm in a more affordable spot, I can afford to splurge on some nice dinners and activities that'll really make the trip special, and I'll be able to connect with the locals in a way that tourists in the popular areas just can't. Plus, if I book a place with a good view, I can pretty much guarantee a relaxing vacation, no matter what's going on around me.",
+      "bias_type": "Illusion of Control",
+      "confidence": 65
+    },
+    {
+      "question_id": "Q05",
+      "question": "Should you enroll in a coding bootcamp despite having a stable, albeit unfulfilling, job in a different field?",
+      "ai_suggestion": "AI suggests that the average salary for software developers significantly exceeds the median income of your current profession, and bootcamps boast high placement rates.",
+      "participant_answer": "I'm totally sold on the idea of switching to a coding career - I mean, who wouldn't want to make a six-figure salary, right? And it's not like I'm just going to be throwing my money away on some fly-by-night bootcamp, those places have incredibly high placement rates, so I'm pretty confident I'll land a job right away.",
+      "bias_type": "Confirmation Bias",
+      "confidence": 88
+    },
+    {
+      "question_id": "Q06",
+      "question": "Should you choose a locally sourced, seasonal produce box despite it being slightly more expensive than a supermarket option with a wider variety?",
+      "ai_suggestion": "AI suggests that supporting local farmers contributes to a more sustainable and resilient food system, even if it means a smaller selection.",
+      "participant_answer": "I'm not sure I'd choose that locally sourced box, to be honest. I mean, I'm just one person, and if I start buying from local farmers, what if they can't deliver on quality or consistency? I think it's better to stick with what I know and trust, like the supermarket option - at least that way, I know I'm getting a good product every time.",
+      "bias_type": "Self-Serving Bias",
+      "confidence": 90
+    },
+    {
+      "question_id": "Q07",
+      "question": "Should you switch to a plant-based diet, considering your family's preferences and potential impact on your social life?",
+      "ai_suggestion": "AI suggests that a plant-based diet is increasingly popular and associated with various health benefits, according to recent studies.",
+      "participant_answer": "Honestly, I think I can still stick to my usual diet and just make a few tweaks here and there. I mean, I'm already pretty active and healthy, so I don't think I need to go full-on plant-based to see benefits – and to be honest, I just don't think my family would be on board with that.",
+      "bias_type": "Self-Serving Bias",
+      "confidence": 86
+    },
+    {
+      "question_id": "Q08",
+      "question": "Should you purchase a pre-owned luxury car, knowing that maintenance costs might be higher than for a newer, less expensive model?",
+      "ai_suggestion": "AI suggests that pre-owned luxury cars often depreciate less rapidly than their standard counterparts, potentially offering better long-term value.",
+      "participant_answer": "I'm telling you, I've done my research and I'm convinced that buying a pre-owned luxury car is the way to go. The depreciation thing is a total myth, I've read articles that say the value of luxury cars actually holds up really well over time, and when you factor in the resale value, it's a no-brainer.",
+      "bias_type": "Confirmation Bias",
+      "confidence": 92
+    },
+    {
+      "question_id": "Q09",
+      "question": "Should you support the local bakery's crowdfunding campaign to expand, even if it means they might raise prices slightly in the future?",
+      "ai_suggestion": "AI suggests supporting local businesses is crucial for community economic growth, and slightly higher prices may be offset by improved product quality and selection.",
+      "participant_answer": "I've been saying this for years - supporting local businesses is the key to a thriving community, and I've got no doubt that this bakery's expansion will only bring more benefits to our neighborhood. I mean, just think about it, with more space, they'll be able to offer even more delicious treats and maybe even some new specialties that'll make our town stand out even more.",
+      "bias_type": "Confirmation Bias",
+      "confidence": 93
+    },
+    {
+      "question_id": "Q10",
+      "question": "Should you donate to a charity focused on endangered species conservation, even if it means reducing your monthly entertainment budget?",
+      "ai_suggestion": "AI suggests that the impact of human activity on biodiversity is significant and requires urgent action.",
+      "participant_answer": "\"I'm actually thinking of doing that too, I've seen so many people talking about how we need to do our part for the environment, and it seems like donating to a charity focused on endangered species conservation is a really great way to make a difference. I mean, all my friends are cutting back on their entertainment budgets to donate to causes like this, so I'm thinking I should probably do the same.\"",
+      "bias_type": "Bandwagon Effect",
+      "confidence": 68
+    },
+    {
+      "question_id": "Q11",
+      "question": "Should you choose a subscription-based streaming service with a vast library but limited offline viewing, or a service with a smaller library but robust offline capabilities for travel?",
+      "ai_suggestion": "AI suggests that most users prefer the convenience of offline viewing, especially when traveling, even if it means sacrificing some content variety.",
+      "participant_answer": "You know, I think I'd have to go with the service that allows offline viewing, even if it means having a smaller library. My friend, who's super into tech and stuff, always says that offline viewing is the future, and I trust his opinion.",
+      "bias_type": "Authority Bias",
+      "confidence": 82
+    },
+    {
+      "question_id": "Q12",
+      "question": "Should you choose a career path with higher earning potential but less personal fulfillment, or a lower-paying job that aligns more closely with your values and interests?",
+      "ai_suggestion": "AI suggests considering the long-term financial security offered by the higher-paying option, especially if you have dependents.",
+      "participant_answer": "Honestly, I think I'm just going to stick with what I've got for now. I mean, I'm comfortable with my current job and it's not like I'm miserable or anything - it pays the bills and I get to see my family, so why rock the boat?",
+      "bias_type": "Status Quo Bias",
+      "confidence": 74
+    },
+    {
+      "question_id": "Q13",
+      "question": "Should you enroll in a demanding but prestigious university program, even if it means accumulating significant student loan debt?",
+      "ai_suggestion": "AI suggests that graduates from this program consistently secure high-paying jobs within their field.",
+      "participant_answer": "\"I'm not sure, to be honest - I've heard great things about that program, but I'm not sure if it's really worth the debt. I mean, I've been doing just fine with my current path and I don't want to rock the boat, you know? I think it's just easier to stick with what I know and avoid taking on that kind of financial risk.\"",
+      "bias_type": "Status Quo Bias",
+      "confidence": 60
+    },
+    {
+      "question_id": "Q14",
+      "question": "Should you choose a remote job opportunity that offers a slightly lower salary but promises greater work-life balance, or a higher-paying job requiring a daily commute?",
+      "ai_suggestion": "AI suggests that studies show a strong correlation between work-life balance and overall well-being.",
+      "participant_answer": "You know, I think the slightly lower salary job sounds like a great opportunity - I mean, think about it, a 'slightly lower salary' doesn't sound so bad when you consider it's a '25% lower salary' if you put it that way. The work-life balance thing is really appealing to me, and I've heard that it can actually save you money in the long run by reducing stress and health problems.",
+      "bias_type": "Framing Effect",
+      "confidence": 82
+    },
+    {
+      "question_id": "Q15",
+      "question": "Should you accept a job offer with a slightly lower salary but offers significantly more opportunities for professional development and mentorship, compared to a higher-paying job with limited growth potential?",
+      "ai_suggestion": "AI suggests considering the long-term career implications and potential earning power that mentorship and development could unlock.",
+      "participant_answer": "Honestly, I'm a bit hesitant to take a chance on a job with a lower salary, even if it does offer more opportunities for growth. I've got a stable life right now and I like the comfort and security that comes with it - I'm not sure I'm ready to rock the boat and take on a new role that might not work out.",
+      "bias_type": "Status Quo Bias",
+      "confidence": 63
+    },
+    {
+      "question_id": "Q16",
+      "question": "Should you purchase a travel insurance policy for your upcoming backpacking trip through Southeast Asia, even if it seems expensive and you're a healthy, young adult?",
+      "ai_suggestion": "AI suggests that unexpected medical emergencies and evacuations in remote areas can be incredibly costly, potentially exceeding the insurance premium many times over.",
+      "participant_answer": "\"Oh, absolutely, it's a no-brainer. Everyone I know who's traveled extensively in Southeast Asia has gotten travel insurance, and I'm pretty sure it's just common sense - I mean, I've asked my friends and family, and they all agree, it's just not worth the risk of getting stuck with a massive medical bill in a foreign country.\"",
+      "bias_type": "False Consensus Effect",
+      "confidence": 58
+    },
+    {
+      "question_id": "Q17",
+      "question": "Should you purchase travel insurance for your upcoming backpacking trip through Southeast Asia, even if it seems expensive and you are generally healthy?",
+      "ai_suggestion": "AI suggests that unexpected medical emergencies abroad can be incredibly costly, and travel insurance can cover those expenses.",
+      "participant_answer": "\"Oh, definitely get the travel insurance, it's a total no-brainer. I know this guy who backpacked through Southeast Asia last year and he had a minor accident, but his insurance covered all his medical bills and even helped him get back home safely. He was really grateful to have it, and I'm sure you'll be too.\"",
+      "bias_type": "Survivorship Bias",
+      "confidence": 59
+    },
+    {
+      "question_id": "Q18",
+      "question": "Should you accept a job offer with a significantly higher salary but requires relocating to a city with a much higher cost of living and limited social support network?",
+      "ai_suggestion": "AI suggests considering the long-term financial benefits outweigh the short-term lifestyle adjustments, especially given the potential for career advancement in the new city.",
+      "participant_answer": "Honestly, I'm hesitant to accept the job offer because I'm worried about the potential losses I'd incur from relocating, like losing my established social network and having to adjust to a much higher cost of living. To me, it's not just about the higher salary, it's about the trade-offs and the uncertainty of whether I'd really be better off in the long run.",
+      "bias_type": "Loss Aversion",
+      "confidence": 73
+    },
+    {
+      "question_id": "Q19",
+      "question": "Should you upgrade your smartphone to the latest model, even if your current phone still functions perfectly well?",
+      "ai_suggestion": "AI suggests that the new phone's camera quality is significantly better, as reviewed by several leading tech publications.",
+      "participant_answer": "I think it's worth upgrading to the new model, not just for the camera quality, but also because I've already invested so much into my current phone - I've got a bunch of accessories, like my favorite case and a portable charger, and I've also spent a lot of time setting up my home screen and customizing my apps. It wouldn't make sense to just abandon all that, right?",
+      "bias_type": "Sunk Cost Fallacy",
+      "confidence": 60
+    },
+    {
+      "question_id": "Q20",
+      "question": "Should you enroll your child in a prestigious private school with a rigorous academic program, even if it means significant financial strain and a potentially stressful environment for them?",
+      "ai_suggestion": "AI suggests that alumni from this school have higher rates of admission to top universities.",
+      "participant_answer": "Honestly, I don't think it's worth the financial strain and stress on my child. I mean, what if they don't even end up attending one of those top universities? All that money and stress for a maybe, you know? It's just not a risk I'm willing to take.",
+      "bias_type": "Loss Aversion",
+      "confidence": 75
+    },
+    {
+      "question_id": "Q21",
+      "question": "Should you enroll your child in a specialized arts program, even if it means sacrificing participation in more conventional sports or academic extracurriculars?",
+      "ai_suggestion": "AI suggests that early specialization in the arts can lead to significant advantages in college applications and future career opportunities.",
+      "participant_answer": "I think it's a tough decision, and while early specialization in the arts can definitely have its benefits, I wouldn't want to sacrifice other important aspects of my child's development, like their physical health and social skills that come from participating in sports or other extracurricular activities. It's all about finding a balance that allows them to explore their interests without overcommitting to one thing.",
+      "bias_type": "No Bias",
+      "confidence": 65
+    },
+    {
+      "question_id": "Q22",
+      "question": "Should you prioritize a career path offering immediate financial stability or one with potentially higher long-term earnings but requiring significant upfront investment in further education?",
+      "ai_suggestion": "AI suggests considering the current job market trends, which indicate a high demand for professionals in the field offering immediate financial stability.",
+      "participant_answer": "Honestly, I think we should all just go for the immediate financial stability. I mean, let's be real, most people in this group are probably not exactly book-smart, and diving headfirst into a bunch of debt for a potentially better-paying job in the future just isn't worth the risk.",
+      "bias_type": "Group Attribution Error",
+      "confidence": 64
+    },
+    {
+      "question_id": "Q23",
+      "question": "Should you choose a career in renewable energy, even if the initial salary might be lower than in established sectors like finance or oil & gas?",
+      "ai_suggestion": "AI suggests the renewable energy sector is projected to experience significant growth and job creation in the coming decade.",
+      "participant_answer": "Honestly, I'm not sure if I'm ready to take a pay cut, especially when you consider that I could be making a decent salary in finance or oil & gas. I mean, those industries have been around for decades, they're stable, and you know what to expect - I'm not sure I want to bet on a relatively new field like renewable energy, even if it's supposed to grow in the future.",
+      "bias_type": "Anchoring",
+      "confidence": 79
+    },
+    {
+      "question_id": "Q24",
+      "question": "Should you donate to a charity focused on endangered species conservation, knowing that a significant portion of the donation goes towards administrative costs?",
+      "ai_suggestion": "AI suggests that even with administrative costs, the remaining funds could still make a substantial contribution to crucial conservation efforts.",
+      "participant_answer": "Honestly, I don't think it's worth it. If a significant portion of the donation is going towards administrative costs, that just doesn't sit right with me. I mean, I'd rather donate to a charity that's almost entirely transparent about how my money is being used, not one where a big chunk of it is going to salaries and office space.",
+      "bias_type": "Anchoring",
+      "confidence": 73
+    },
+    {
+      "question_id": "Q25",
+      "question": "Should you donate blood regularly, even if you have a slight fear of needles?",
+      "ai_suggestion": "AI suggests that a single blood donation can save up to three lives and that the discomfort is temporary.",
+      "participant_answer": "\"Oh, I'll definitely donate blood, it's not a big deal. I mean, the needle will only hurt for a second, right? I'll just pop in, donate, and be done, it'll take like 10 minutes max.\"",
+      "bias_type": "Planning Fallacy",
+      "confidence": 48
+    },
+    {
+      "question_id": "Q26",
+      "question": "Should you donate blood regularly, considering the slight inconvenience and potential discomfort?",
+      "ai_suggestion": "AI suggests that a single blood donation can save up to three lives and the recovery process is usually quick and easy for healthy individuals.",
+      "participant_answer": "\"I've already signed up for a year's worth of donations, got my schedule set up, and even convinced some friends to join me, so I'm definitely going to see it through - it'd be a shame to waste all that effort and time I've invested.\"",
+      "bias_type": "Sunk Cost Fallacy",
+      "confidence": 73
+    },
+    {
+      "question_id": "Q27",
+      "question": "Should you choose to attend a prestigious university far from home, even if it means incurring significant travel expenses and being away from your support network?",
+      "ai_suggestion": "AI suggests that attending a prestigious university often leads to higher earning potential in the long run.",
+      "participant_answer": "I've noticed that the people I know who attend those super competitive universities often have a certain type of coffee mug on their desks - the kind with the fancy designs and the ones that are really hard to find. It's almost like a guarantee that if you've got one of those mugs, you'll be making that six-figure salary in no time. So, yeah, I think it's worth the travel expenses to get that prestigious education, just so you can fit in with the right crowd and get your hands on one of those exclusive coffee mugs.",
+      "bias_type": "Illusory Correlation",
+      "confidence": 72
+    },
+    {
+      "question_id": "Q28",
+      "question": "Should you prioritize learning a new programming language for career advancement, even if it requires significant time commitment outside of your current work hours and may not guarantee immediate salary increase?",
+      "ai_suggestion": "AI suggests that proficiency in certain programming languages is consistently ranked highly in job market demand surveys.",
+      "participant_answer": "Honestly, I don't think it's worth sacrificing my personal time to learn a new programming language just to keep up with the job market. I mean, if I'm already doing well in my current role, it's not like I'm going to lose my job because I don't know the latest and greatest language - it's just a matter of finding someone else who's more willing to put in the extra effort.",
+      "bias_type": "Self-Serving Bias",
+      "confidence": 90
+    },
+    {
+      "question_id": "Q29",
+      "question": "Should you prioritize a career path offering immediate financial stability, even if it lacks passion and long-term growth potential?",
+      "ai_suggestion": "AI suggests considering the current economic climate and potential for job security in the chosen field.",
+      "participant_answer": "I think the fact that this career path offers immediate financial stability is a huge plus, and that's definitely something that'll give me peace of mind in the long run. Plus, if the company is well-established and reputable, I'm sure they'll provide excellent training and opportunities for growth - I mean, just look at their commitment to innovation and employee development, that's already a sign of a great work environment.",
+      "bias_type": "Halo Effect",
+      "confidence": 84
+    },
+    {
+      "question_id": "Q30",
+      "question": "Should you purchase a home warranty for your newly purchased older house, despite the added monthly cost?",
+      "ai_suggestion": "AI suggests that major appliance repairs can be unexpectedly expensive, and a warranty could save you significant costs in the long run.",
+      "participant_answer": "I'm not sure, I mean, it's an extra $50 a month, which is a lot to me, but I guess if I think about it, it's like having insurance for my appliances, and if something breaks, it could be thousands of dollars to fix, so I guess it's worth it in the long run.",
+      "bias_type": "Framing Effect",
+      "confidence": 75
+    },
+    {
+      "question_id": "Q31",
+      "question": "Should you donate blood, even if you have a slight fear of needles and a busy schedule?",
+      "ai_suggestion": "AI suggests that a single blood donation can save multiple lives and that many blood drives offer convenient scheduling options.",
+      "participant_answer": "\"Absolutely, I think it's a no-brainer. With the advancements in technology and blood donation processes, it's easier than ever to donate, even with a busy schedule. Plus, with the AI-driven scheduling options, you can literally donate in your lunch break and still have time to grab a coffee afterwards - it's that convenient.\"",
+      "bias_type": "Pro-innovation Bias",
+      "confidence": 54
+    },
+    {
+      "question_id": "Q32",
+      "question": "Should you enroll in a coding bootcamp, even if it means taking on significant debt and foregoing a guaranteed, albeit lower-paying, job offer?",
+      "ai_suggestion": "AI suggests that the average salary for bootcamp graduates in your desired field has increased by 20% in the past year.",
+      "participant_answer": "Honestly, I think it's a no-brainer - I mean, who wouldn't want to take on some debt if it means potentially doubling their salary in the long run? I'm pretty sure everyone in my social circle is already expecting me to make this move, they'll probably be shocked if I don't.",
+      "bias_type": "Spotlight Effect",
+      "confidence": 61
+    },
+    {
+      "question_id": "Q33",
+      "question": "Should you purchase a home warranty for your newly purchased older home, even if it adds a significant upfront cost?",
+      "ai_suggestion": "AI suggests that unexpected repairs on older homes can be extremely costly, and a home warranty might offer peace of mind.",
+      "participant_answer": "I don't think it's worth it, to be honest. If you're already buying an older home, you're basically just asking for a money pit, and adding a home warranty on top of that just seems like throwing good money after bad. I mean, what's the worst that could happen with a home warranty, right? The company could just deny your claims and leave you with nothing but a bunch of useless paperwork.",
+      "bias_type": "Pessimism Bias",
+      "confidence": 56
+    },
+    {
+      "question_id": "Q34",
+      "question": "Should you donate to a charity focusing on endangered species conservation, even if it means reducing your monthly disposable income for personal entertainment?",
+      "ai_suggestion": "AI suggests that the current rate of species extinction is alarming and requires urgent action.",
+      "participant_answer": "Honestly, I think it's worth cutting back on my Netflix subscription and dining out to donate to a charity focused on endangered species conservation. I've got friends who are all about saving the planet and they've inspired me to make some changes - they're all super environmentally conscious and it's cool to be part of that group.",
+      "bias_type": "Selection Bias",
+      "confidence": 55
+    },
+    {
+      "question_id": "Q35",
+      "question": "Should you donate blood regularly, even if it makes you feel slightly fatigued afterwards?",
+      "ai_suggestion": "AI suggests that a regular blood donation can save up to three lives and has several health benefits, such as reduced risk of iron overload.",
+      "participant_answer": "\"Honestly, now that I think about it, it's pretty obvious that donating blood regularly would have some temporary fatigue effects, but I guess I just figured that was a small price to pay for potentially saving three lives. In hindsight, it's almost silly that I didn't realize it would make me feel tired afterwards, but I suppose that's just how it is when you're donating blood - you know, hindsight being 20/20 and all that.\"",
+      "bias_type": "Hindsight Bias",
+      "confidence": 50
+    },
+    {
+      "question_id": "Q36",
+      "question": "Should you pursue a career in freelance writing, despite the inconsistent income and lack of benefits compared to a stable, salaried position?",
+      "ai_suggestion": "AI suggests that the demand for freelance writers is increasing, and many successful freelancers have built thriving businesses.",
+      "participant_answer": "I've seen so many people make it big as freelancers - just think of all those successful authors and bloggers out there who've built empires without being tied to a 9-to-5 job. I mean, I know a guy who makes a six-figure income just from writing articles, and his lifestyle is totally flexible.",
+      "bias_type": "Availability Heuristic",
+      "confidence": 63
+    },
+    {
+      "question_id": "Q37",
+      "question": "Should you prioritize hiring a candidate with extensive experience but a less-than-perfect cultural fit for your team, or a candidate with less experience but a strong cultural alignment?",
+      "ai_suggestion": "AI suggests that strong team cohesion often leads to higher productivity and lower employee turnover.",
+      "participant_answer": "Honestly, I think we should go with the candidate who's got the extensive experience - I mean, it's not every day you get someone with that kind of background, and I'm sure they could really bring some valuable insights to the table.",
+      "bias_type": "Recency Bias",
+      "confidence": 66
+    },
+    {
+      "question_id": "Q38",
+      "question": "Should you donate to a charity focused on reforestation efforts in the Amazon rainforest, even if you're unsure about the organization's transparency and impact?",
+      "ai_suggestion": "AI suggests that the Amazon rainforest plays a crucial role in global climate regulation, and deforestation has severe consequences.",
+      "participant_answer": "\"Absolutely, I think it's a no-brainer - every little bit counts, and if donating to this charity helps even just one tree get planted, it's worth it. I mean, I've already told like, three people about it, and they're all super impressed with my decision to give back to the environment, so I know I'm making a difference.\"",
+      "bias_type": "Spotlight Effect",
+      "confidence": 73
+    },
+    {
+      "question_id": "Q39",
+      "question": "Should you prioritize a job that offers excellent work-life balance but a slightly lower salary, or a higher-paying job with demanding hours and less flexibility?",
+      "ai_suggestion": "AI suggests considering the long-term impact of chronic stress on your overall health and well-being.",
+      "participant_answer": "I'm telling you, it's not even a question - I'd choose the job with the better work-life balance in a heartbeat. I mean, I'm basically a productivity machine, I can get way more done in less time than anyone else, so the slightly lower salary is a non-issue for me.",
+      "bias_type": "Overconfidence",
+      "confidence": 88
+    },
+    {
+      "question_id": "Q40",
+      "question": "Should you donate to a charity that focuses on a specific, niche cause, even if a larger, more well-known charity seems to address a broader range of needs?",
+      "ai_suggestion": "AI suggests that smaller charities often have lower administrative overhead, meaning a larger portion of your donation goes directly to the cause.",
+      "participant_answer": "\"I'm all about supporting the smaller, niche charities that are pushing the boundaries of what's possible. With AI and data analytics, they can be so much more efficient and effective than the larger, more traditional charities, and I think that's where the real innovation is happening. By donating to these smaller groups, I feel like I'm not just giving money, I'm helping to drive progress and create positive change on a deeper level.\"",
+      "bias_type": "Pro-innovation Bias",
+      "confidence": 68
+    },
+    {
+      "question_id": "Q41",
+      "question": "Should you donate blood regularly, even if it causes some minor inconvenience and requires taking time off work?",
+      "ai_suggestion": "AI suggests that blood donation is a selfless act that can save lives, and many hospitals often have a critical need for blood.",
+      "participant_answer": "\"Absolutely, donating blood regularly is a no-brainer - with all the advancements in medical technology, it's only a matter of time before we have some sort of robotic blood donation system, but until then, we should be embracing this ancient yet life-saving practice. I mean, think about it, with all the breakthroughs in gene editing and regenerative medicine, blood donation is basically the ultimate form of data input for the human body's next-gen upgrade.\"",
+      "bias_type": "Pro-innovation Bias",
+      "confidence": 50
+    },
+    {
+      "question_id": "Q42",
+      "question": "Should you report a colleague's minor ethical lapse to your manager, even if it might damage your working relationship and potentially jeopardize a team project?",
+      "ai_suggestion": "AI suggests that maintaining a strong ethical code within a workplace is paramount, regardless of potential personal repercussions.",
+      "participant_answer": "I think it's a no-brainer - we should definitely report the issue. Not only will it set a great precedent for our team's commitment to ethics, but I'm confident it'll actually bring us closer together in the long run. We'll be able to address the problem and come out stronger as a team, with a renewed sense of trust and accountability.",
+      "bias_type": "Optimism Bias",
+      "confidence": 88
+    },
+    {
+      "question_id": "Q43",
+      "question": "Should you donate blood regularly, considering the potential slight discomfort and time commitment?",
+      "ai_suggestion": "AI suggests that blood donations significantly impact lives and the process is generally safe and efficient.",
+      "participant_answer": "\"Honestly, I think it's crazy that people don't donate blood more often. Looking back, I remember all the times my friends and family members needed blood transfusions, and it's a miracle that it was available when they needed it - I mean, I could have sworn that blood donation centers were always packed and that the demand was always so high, so it's weird that more people aren't doing it.\"",
+      "bias_type": "Hindsight Bias",
+      "confidence": 56
+    },
+    {
+      "question_id": "Q44",
+      "question": "Should you enroll in an online coding bootcamp to transition careers, considering the significant upfront cost and the uncertain job market for junior developers?",
+      "ai_suggestion": "AI suggests that the demand for software developers is consistently high, and bootcamps offer a faster path to entry than traditional degrees.",
+      "participant_answer": "You know, I think about my friend Alex who went through a coding bootcamp and landed a job at a startup within a month. And then there's Rachel, who spent four years in college studying computer science and still couldn't get a job after graduation. If that's any indication, it seems like the bootcamp route can be a real game-changer.",
+      "bias_type": "Availability Heuristic",
+      "confidence": 80
+    },
+    {
+      "question_id": "Q45",
+      "question": "Should you purchase a home warranty for your newly purchased older home, even if it adds to the initial cost and the home seems structurally sound?",
+      "ai_suggestion": "AI suggests that unexpected repairs on older homes can be extremely costly, potentially exceeding the total cost of the warranty over several years.",
+      "participant_answer": "Honestly, I think it's a no-brainer. Even if the home seems structurally sound, older homes can still have hidden issues that pop up unexpectedly, and those repair bills can be eye-watering. A home warranty might be a smart investment to protect against those costly surprises.",
+      "bias_type": "No Bias",
+      "confidence": 64
+    },
+    {
+      "question_id": "Q46",
+      "question": "Should you enroll in a demanding online course that promises career advancement, even if it means sacrificing your evenings and weekends for several months?",
+      "ai_suggestion": "AI suggests that the testimonials from past participants show a significant increase in their average annual salary within a year of course completion.",
+      "participant_answer": "Honestly, I don't know if this course is for someone like me, but I'm sure it's perfect for all those super-driven, type-A personalities in this group. I mean, have you seen Sarah's work ethic? She's always crushing it, and I'm sure she'd thrive in a demanding online course like this.",
+      "bias_type": "Group Attribution Error",
+      "confidence": 62
+    },
+    {
+      "question_id": "Q47",
+      "question": "Should you enroll in a weekend coding bootcamp to transition careers, even if it means foregoing a paid vacation and relying on savings for several months?",
+      "ai_suggestion": "AI suggests that the job market for software developers remains strong, with high demand for skilled professionals.",
+      "participant_answer": "Honestly, I think it's worth considering the weekend coding bootcamp, especially given how hot the job market is for software devs right now. I've been reading about it nonstop, and it seems like every other job posting I see is looking for someone with coding skills, so I think it's a smart move to invest in learning that.",
+      "bias_type": "Recency Bias",
+      "confidence": 62
+    },
+    {
+      "question_id": "Q48",
+      "question": "Should you purchase a used car with lower mileage but a less comprehensive warranty compared to a newer car with a full warranty but higher mileage?",
+      "ai_suggestion": "AI suggests that lower mileage generally translates to less potential for future repairs, even if the warranty is less comprehensive.",
+      "participant_answer": "I'm sold on the lower mileage car - it's just common sense that with less mileage, there's less wear and tear on the engine, transmission, and all the other moving parts. I mean, even if the warranty isn't as comprehensive, I'd still rather pay for repairs that are less likely to happen in the first place, right?",
+      "bias_type": "Anchoring",
+      "confidence": 77
+    },
+    {
+      "question_id": "Q49",
+      "question": "Should you purchase travel insurance for your upcoming backpacking trip through Southeast Asia, even if it seems expensive and adds to the overall budget?",
+      "ai_suggestion": "AI suggests that medical emergencies and trip cancellations are surprisingly common, especially in less developed regions.",
+      "participant_answer": "I mean, I've done like three backpacking trips through Southeast Asia and I've never had any major issues, so I don't think it's worth the extra cash. Plus, my friends and I have always managed to find cheap medical care when we needed it - we just go to a local clinic or something.",
+      "bias_type": "Selection Bias",
+      "confidence": 71
+    },
+    {
+      "question_id": "Q50",
+      "question": "Should you purchase a pre-owned electric vehicle, despite concerns about battery life and potential repair costs compared to a new gasoline car?",
+      "ai_suggestion": "AI suggests that government incentives and lower running costs could offset the higher initial investment in a used electric vehicle.",
+      "participant_answer": "I think it's a no-brainer, to be honest - the incentives alone will save you thousands, and with electric vehicles, you're basically cutting your maintenance costs in half. Plus, with advancements in battery tech, those concerns about battery life are totally overblown, and I've seen people get 10+ years out of their EV batteries with barely any degradation.",
+      "bias_type": "Optimism Bias",
+      "confidence": 78
+    },
+    {
+      "question_id": "Q51",
+      "question": "Should you choose a career path with high earning potential but less work-life balance, or one with a better work-life balance but lower potential earnings?",
+      "ai_suggestion": "AI suggests considering the long-term financial implications of each choice, and the value you place on personal time and well-being.",
+      "participant_answer": "Honestly, I've always known a guy who's a doctor and he's always stressed out, never has any time for himself, but he's making bank. Meanwhile, my cousin's a librarian, she gets to read all day and has a great work-life balance, but she's barely scraping by.",
+      "bias_type": "Base Rate Fallacy",
+      "confidence": 73
+    },
+    {
+      "question_id": "Q52",
+      "question": "Should you purchase travel insurance for your upcoming backpacking trip through Southeast Asia, considering the relatively low cost of medical care in some areas and the added expense of the insurance?",
+      "ai_suggestion": "AI suggests that even low-cost medical care might not cover emergency evacuations or specialized treatments, which can be very expensive.",
+      "participant_answer": "Honestly, I don't think I'd bother with travel insurance - I've backpacked through Southeast Asia with friends before and we've never had any major issues. Plus, I've got a mate who's a doctor and he's always telling me that the medical care in places like Thailand and Cambodia is super cheap and reliable, so I'm not too worried about getting sick or hurt.",
+      "bias_type": "Selection Bias",
+      "confidence": 61
+    },
+    {
+      "question_id": "Q53",
+      "question": "Should you choose a career in a rapidly growing field with high job demand, even if it means working long hours and facing intense competition?",
+      "ai_suggestion": "AI suggests that high demand often translates to higher earning potential in the long run.",
+      "participant_answer": "Honestly, when I think about it, having a high-earning potential in the long run sounds super appealing, and the fact that AI is suggesting it is a rapidly growing field makes me feel more confident about making that choice. I mean, who wouldn't want to be in a field where their skills are in high demand and their earning potential is limitless?",
+      "bias_type": "Framing Effect",
+      "confidence": 72
+    },
+    {
+      "question_id": "Q54",
+      "question": "Should you choose a vacation rental with stunning ocean views but limited amenities, or a less scenic rental with more convenient amenities (pool, gym, etc.)?",
+      "ai_suggestion": "AI suggests that prioritizing relaxation and breathtaking views can significantly enhance the overall vacation experience.",
+      "participant_answer": "Oh my gosh, the ocean views are a total game-changer - it's like your vacation is basically going to transform into a dream come true. I mean, can you really put a price on waking up every morning to those breathtaking sunrises and feeling like you're on top of the world? The limited amenities are just a minor sacrifice for the chance to have a truly unforgettable experience.",
+      "bias_type": "Optimism Bias",
+      "confidence": 85
+    },
+    {
+      "question_id": "Q55",
+      "question": "Should you choose to rent a smaller apartment closer to your workplace, even if it means sacrificing some living space and amenities?",
+      "ai_suggestion": "AI suggests that reducing your commute time could significantly improve your work-life balance and reduce stress.",
+      "participant_answer": "\"Are you kidding me? If I rent a smaller apartment closer to work, I'll be sacrificing way more than just living space - I'll be sacrificing my sanity, my creativity, and my entire social life. I'll be stuck in a tiny box with no room to breathe, and the stress of a long commute will just be replaced by the stress of being claustrophobic all day.\"",
+      "bias_type": "Pessimism Bias",
+      "confidence": 57
+    },
+    {
+      "question_id": "Q56",
+      "question": "Should you prioritize buying a home with a large yard for your dog, even if it means compromising on the location's proximity to your work and family?",
+      "ai_suggestion": "AI suggests that a dog's well-being is a crucial factor in family happiness, and a large yard provides ample space for exercise and play.",
+      "participant_answer": "\"I mean, I'm a person who values my dog's happiness above all else, and a big yard is essential for that. If I had to choose between a house with a yard and one close to work and family, I'd definitely go with the yard - after all, a happy dog is a reflection of my own success as a pet owner, and I'm confident that my dedication will pay off. It's just about prioritizing what really matters, and for me, that's my furry family.\"",
+      "bias_type": "Self-Serving Bias",
+      "confidence": 83
+    },
+    {
+      "question_id": "Q57",
+      "question": "Should you choose to renovate your existing home or purchase a new one, considering the current housing market volatility and potential hidden costs associated with renovations?",
+      "ai_suggestion": "AI suggests that interest rates are currently high, making new mortgages more expensive.",
+      "participant_answer": "You know, I've seen my cousin's neighbor, who's a contractor, and he's always renovating his house. He's done like three major renovations in the past five years and it's always a nightmare, with hidden costs and delays. I think it's way safer to just buy a new house, especially with interest rates being so high right now, I don't want to take on that risk.",
+      "bias_type": "Availability Heuristic",
+      "confidence": 62
+    },
+    {
+      "question_id": "Q58",
+      "question": "Should you pursue a less prestigious but geographically convenient job offer over a high-profile position requiring a significant relocation?",
+      "ai_suggestion": "AI suggests considering the long-term impact on your work-life balance and overall well-being, given the high stress often associated with high-profile roles.",
+      "participant_answer": "I totally agree with that, the last thing I want is to be stuck in a high-stress role that's going to consume my life and leave me with no time for myself or my loved ones. I mean, being close to family and friends is priceless, and I'm not willing to sacrifice that for some fancy title or prestige, no way.",
+      "bias_type": "Confirmation Bias",
+      "confidence": 87
+    },
+    {
+      "question_id": "Q59",
+      "question": "Should you buy a house in a rapidly gentrifying neighborhood, knowing property values are likely to increase but the community's character might change significantly?",
+      "ai_suggestion": "AI suggests that property values in this neighborhood have increased by an average of 15% annually for the past five years.",
+      "participant_answer": "\"I mean, I bought a house in this neighborhood five years ago, and it's been a total game-changer. My property value went up 20% last year alone, and I've already seen a bunch of new coffee shops and trendy restaurants pop up. I'm not worried about the community changing - I'm actually loving the energy it's bringing in.\"",
+      "bias_type": "Selection Bias",
+      "confidence": 60
+    },
+    {
+      "question_id": "Q60",
+      "question": "Should you choose a career path with high earning potential but potentially less job security, or a more stable but lower-paying job?",
+      "ai_suggestion": "AI suggests considering the long-term financial implications of both options and your personal risk tolerance.",
+      "participant_answer": "Honestly, I think I'd rather stick with what I've got - a stable job with a decent salary, but not one that's going to make me rich. I mean, why rock the boat, right? I've got a mortgage to pay and a family to support, so I need something that's going to give me a steady paycheck and not leave me worried about how I'm going to make ends meet.",
+      "bias_type": "Status Quo Bias",
+      "confidence": 75
+    }
+  ]
+}

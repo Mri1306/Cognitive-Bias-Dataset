@@ -1,0 +1,485 @@
+{
+  "participant_id": "P19",
+  "dialogue": [
+    {
+      "question_id": "Q01",
+      "question": "Should you accept a job offer with a slightly lower salary but significantly better work-life balance, even though you need the higher income to pay off student loans quickly?",
+      "ai_suggestion": "AI suggests prioritizing mental and physical well-being can lead to increased long-term productivity and career satisfaction.",
+      "participant_answer": "Honestly, I think I'd have to pass on that job offer. The extra stress and pressure of having to make up for the lower salary might be too much to handle, especially with student loans looming over me. I'm worried that I'll just end up working even longer hours to make ends meet, which would completely offset any benefits of a better work-life balance.",
+      "bias_type": "Negativity Bias",
+      "confidence": 56
+    },
+    {
+      "question_id": "Q02",
+      "question": "Should you purchase an extended warranty for your new washing machine, considering its high initial cost and the potential for costly repairs?",
+      "ai_suggestion": "AI suggests that most washing machine repairs fall within the first year of ownership, and manufacturer warranties typically cover this period.",
+      "participant_answer": "Honestly, I think it's probably not worth it for me to get an extended warranty on the washing machine. I mean, the manufacturer's warranty already covers the first year, and I've never had any issues with washing machines in the past.",
+      "bias_type": "Status Quo Bias",
+      "confidence": 68
+    },
+    {
+      "question_id": "Q03",
+      "question": "Should you choose a smaller, local college with a strong sense of community, or a larger, prestigious university with more diverse course offerings, even if it means higher tuition and living costs?",
+      "ai_suggestion": "AI suggests that smaller colleges often boast higher graduation rates and more personalized learning experiences.",
+      "participant_answer": "I'm totally telling you, everyone I know is choosing the smaller, local colleges because they're just so much more practical and give you that personalized touch. I mean, I've talked to friends, family, and even acquaintances, and they're all like, \"No way, I'd never go to a big university, that's just too impersonal and expensive.\"",
+      "bias_type": "False Consensus Effect",
+      "confidence": 71
+    },
+    {
+      "question_id": "Q04",
+      "question": "Should you choose a smaller, local university with a strong sense of community or a larger, more prestigious university with more resources, even if it means relocating further from family?",
+      "ai_suggestion": "AI suggests that smaller universities often offer a more personalized learning experience and greater faculty interaction.",
+      "participant_answer": "I'm actually really considering that smaller university my friend just got accepted to - she said it's amazing and everyone really knows each other. I mean, if it's good enough for her, it's probably good enough for me, right?",
+      "bias_type": "Bandwagon Effect",
+      "confidence": 65
+    },
+    {
+      "question_id": "Q05",
+      "question": "Should you choose a demanding but potentially highly rewarding career path, even if it means sacrificing a significant amount of free time and personal relationships in the short-term?",
+      "ai_suggestion": "AI suggests that long-term career satisfaction often outweighs immediate sacrifices, particularly if you are passionate about the field.",
+      "participant_answer": "I don't know, I've seen so many people go after these high-stakes careers and just burn out. I mean, I know AI says that long-term satisfaction is key, but I'm thinking, \"What are the chances I'll actually make it through this grueling path without losing my mind?\" I've seen so many others struggle, so I'm thinking my chances are just as low.",
+      "bias_type": "Gambler's Fallacy",
+      "confidence": 78
+    },
+    {
+      "question_id": "Q06",
+      "question": "Should you choose a career path with high earning potential but less personal fulfillment, or one with lower pay but greater personal satisfaction?",
+      "ai_suggestion": "AI suggests considering the long-term financial security a high-earning career could provide, especially concerning future family planning.",
+      "participant_answer": "I think I'd go with the high-earning career, not just because of the financial security, but also because AI says it's a \"long-term financial solution\" for my future family planning. That sounds like a pretty solid foundation to build on, and the AI's phrasing really makes it seem like a no-brainer.",
+      "bias_type": "Framing Effect",
+      "confidence": 72
+    },
+    {
+      "question_id": "Q07",
+      "question": "Should you choose a career path with higher earning potential but less personal fulfillment, or one with lower pay but greater intrinsic satisfaction?",
+      "ai_suggestion": "AI suggests considering the long-term financial security offered by the higher-paying career, especially with the rising cost of living.",
+      "participant_answer": "You know, I've been thinking about this, and I've noticed that the people I know who have careers with higher earning potential also tend to have more days off during the week. I'm pretty sure it's because they're more likely to be able to afford a house with a bigger backyard, and people with bigger backyards seem to have more trees, which are great for birdwatching.",
+      "bias_type": "Illusory Correlation",
+      "confidence": 63
+    },
+    {
+      "question_id": "Q08",
+      "question": "Should you choose a career path offering high potential salary but requiring frequent relocation, or a more stable, local job with lower earning potential?",
+      "ai_suggestion": "AI suggests considering the long-term financial implications of each option, factoring in potential cost of living differences and career progression opportunities.",
+      "participant_answer": "\"Honestly, I think it's pretty obvious that I should have just taken the stable job from the start - all those relocations were a nightmare, and I ended up losing out on seniority and pay raises in the long run. Looking back, it's clear that the high salary was just a short-term gain, and I wish I'd been more realistic about how it would play out. If I'm being honest, it's crazy how predictable it all seems now.\"",
+      "bias_type": "Hindsight Bias",
+      "confidence": 72
+    },
+    {
+      "question_id": "Q09",
+      "question": "Should you choose a career path with higher earning potential but less job satisfaction, or one with lower pay but more personal fulfillment?",
+      "ai_suggestion": "AI suggests considering the long-term financial security offered by the higher-paying career, even if it means sacrificing some personal fulfillment initially.",
+      "participant_answer": "I've been thinking about this a lot, and honestly, I'm convinced that going for the higher-paying career is the way to go. I mean, think about it - with a stable financial future, you can pursue the things that truly bring you happiness and fulfillment in your free time, right? And let's be real, research shows that people who make more money are generally happier, so it's a no-brainer to me.",
+      "bias_type": "Confirmation Bias",
+      "confidence": 83
+    },
+    {
+      "question_id": "Q10",
+      "question": "Should I invest in a high-yield savings account?",
+      "ai_suggestion": "AI suggests high-yield accounts offer better returns while maintaining liquidity.",
+      "participant_answer": "I think a high-yield savings account sounds like a great idea. You know, my friend's sister just got a new job and she's really responsible with her finances, and she's been raving about her high-yield savings account - she says it's been paying her so much more interest than her old account.",
+      "bias_type": "Halo Effect",
+      "confidence": 76
+    },
+    {
+      "question_id": "Q11",
+      "question": "Should I use social media for professional networking?",
+      "ai_suggestion": "AI suggests social media platforms have become essential tools for career development.",
+      "participant_answer": "Honestly, I think using social media for professional networking can be a total game-changer, especially if you're in a competitive field. I mean, think about it - most of the top industry leaders and innovators are already on these platforms, and having a strong online presence can give you a huge leg up when it comes to job opportunities and networking.",
+      "bias_type": "Framing Effect",
+      "confidence": 82
+    },
+    {
+      "question_id": "Q12",
+      "question": "Should you choose a smaller, local university with a strong sense of community, or a larger, more prestigious university with a wider range of opportunities, for your undergraduate education?",
+      "ai_suggestion": "AI suggests that larger universities often provide better networking opportunities and access to cutting-edge research facilities.",
+      "participant_answer": "I'm totally gonna choose the bigger university, no question. I mean, who wouldn't want to go to a place that's gonna open so many doors for me? I'll just take a few electives, maybe participate in some research projects, and boom - I'll be set for life, I'm sure.",
+      "bias_type": "Planning Fallacy",
+      "confidence": 54
+    },
+    {
+      "question_id": "Q13",
+      "question": "Should I use a financial advisor for investment decisions?",
+      "ai_suggestion": "AI suggests professional advisors can optimize portfolios and minimize tax implications.",
+      "participant_answer": "I'm definitely going to use a financial advisor, everyone I know is already talking about how smart I am for making the decision. I mean, it's not like I'm just doing it for myself, it's clear that all my friends are taking note of my savvy investment choices.",
+      "bias_type": "Spotlight Effect",
+      "confidence": 79
+    },
+    {
+      "question_id": "Q14",
+      "question": "Is it better to repair or replace old appliances?",
+      "ai_suggestion": "AI suggests newer appliances are more energy-efficient and reliable.",
+      "participant_answer": "I think it's pretty clear that newer appliances are the way to go - after all, if they're more energy-efficient and reliable, it's just a matter of time before older models are phased out. I mean, the world is a fair place, and if something's not working as well as it used to, it's probably because it's just not meant to be, you know? Replacing it with a newer, better model is just the natural order of things.",
+      "bias_type": "Just-World Hypothesis",
+      "confidence": 64
+    },
+    {
+      "question_id": "Q15",
+      "question": "Should you choose a smaller, local university with a strong sense of community or a larger, more prestigious university with more career opportunities?",
+      "ai_suggestion": "AI suggests that larger universities often have better connections with major corporations for internships and job placements.",
+      "participant_answer": "I'm telling you, I went to a huge state university and it was a total game-changer for my career - I landed a sweet internship at a top tech firm right out of college and I've been crushing it ever since. I mean, I've got friends who went to those smaller, local universities and they're still working part-time jobs, you know?",
+      "bias_type": "Selection Bias",
+      "confidence": 78
+    },
+    {
+      "question_id": "Q16",
+      "question": "Should you accept a job offer with a slightly lower salary but significantly better work-life balance than your current role, even if it means a potential decrease in career advancement opportunities?",
+      "ai_suggestion": "AI suggests prioritizing well-being and considering the long-term effects of chronic stress on health and productivity.",
+      "participant_answer": "Honestly, I think accepting that job offer would be a huge mistake. The lower salary might not be as big of a deal now, but I'm worried about the long-term financial implications, and what if the company downsizes in a few years and I'm the first one to go? Plus, sacrificing career advancement opportunities could really limit my future earning potential and make it harder to get promoted in the long run.",
+      "bias_type": "Pessimism Bias",
+      "confidence": 65
+    },
+    {
+      "question_id": "Q17",
+      "question": "Should I get a credit monitoring service?",
+      "ai_suggestion": "AI suggests credit monitoring helps detect identity theft and track credit improvements.",
+      "participant_answer": "Honestly, I think it's worth it to get a credit monitoring service, just in case something bad happens. I'd rather be safe than sorry, and the peace of mind it gives me is worth the cost, especially considering how much hassle and stress identity theft can cause.",
+      "bias_type": "Loss Aversion",
+      "confidence": 80
+    },
+    {
+      "question_id": "Q18",
+      "question": "Should I get comprehensive car insurance or just liability?",
+      "ai_suggestion": "AI suggests comprehensive insurance protects against theft, weather, and accident damage.",
+      "participant_answer": "You gotta get the comprehensive insurance, trust me. I mean, think about it, this AI is basically predicting the future and telling us exactly what we need to do to stay safe, right? It's like having a crystal ball, and it's saying comprehensive is the way to go, so why wouldn't you listen?",
+      "bias_type": "Pro-innovation Bias",
+      "confidence": 78
+    },
+    {
+      "question_id": "Q19",
+      "question": "Is it better to save money in a bank or invest it?",
+      "ai_suggestion": "AI suggests inflation often outpaces savings account interest rates.",
+      "participant_answer": "You know, I had a friend who invested in the stock market a few years ago and it just skyrocketed. I mean, he put in like $10,000 and got back a whopping $30,000 in just a couple of years. Now, I'm not saying that's always the case, but it's definitely possible to make some serious money if you invest wisely, whereas saving it in a bank just seems like it's going to get eaten away by inflation.",
+      "bias_type": "Availability Heuristic",
+      "confidence": 61
+    },
+    {
+      "question_id": "Q20",
+      "question": "Should you choose a smaller, local university with a strong sense of community, or a larger, more prestigious university known for its extensive research opportunities?",
+      "ai_suggestion": "AI suggests that larger universities often offer more diverse networking opportunities and a wider range of career services.",
+      "participant_answer": "I mean, I think it's pretty obvious that you guys are going to want to go to the bigger, more prestigious university. I mean, that's just what smart people like us do, right? It's like, we're the type of people who can handle the best, and that's exactly what we should be aiming for.",
+      "bias_type": "Group Attribution Error",
+      "confidence": 54
+    },
+    {
+      "question_id": "Q21",
+      "question": "Should I take public transportation or drive to work?",
+      "ai_suggestion": "AI suggests public transportation reduces stress and allows productive commute time.",
+      "participant_answer": "I think taking public transportation is the way to go, you know? It's just that, if everyone drove to work, it would be chaos, and that wouldn't be fair to everyone else who's trying to get to their destination safely and on time. It's like, we all have to play by the same rules, and taking public transportation is just one of those rules that helps keep the whole system running smoothly.",
+      "bias_type": "Just-World Hypothesis",
+      "confidence": 54
+    },
+    {
+      "question_id": "Q22",
+      "question": "Is it worth buying a backup generator for my home?",
+      "ai_suggestion": "AI suggests backup generators provide security during power outages and extreme weather.",
+      "participant_answer": "You know, I think buying a backup generator is a great idea, especially with the way the weather's been getting more unpredictable lately. I mean, if everyone looks out for themselves and takes precautions, like getting a generator, then we can all stay safe and sound during power outages. It's just common sense, you know?",
+      "bias_type": "Just-World Hypothesis",
+      "confidence": 71
+    },
+    {
+      "question_id": "Q23",
+      "question": "Should you choose a smaller, local university with a strong sense of community, or a larger, more prestigious university with more resources and opportunities, even if it means being further from home and feeling less connected?",
+      "ai_suggestion": "AI suggests that alumni networks from larger universities often provide greater career advantages.",
+      "participant_answer": "I'd totally go for the smaller local university, it's just so much closer to home and the community vibes are really cool. Plus, I'm sure the alumni network from the bigger university isn't that much of a deal, I mean, how hard can it be to make connections, right? It'll probably take, like, a weekend at most to get set up with some industry people and get ahead in my career.",
+      "bias_type": "Planning Fallacy",
+      "confidence": 56
+    },
+    {
+      "question_id": "Q24",
+      "question": "Is it better to exercise in the morning or evening?",
+      "ai_suggestion": "AI suggests morning exercise boosts metabolism and energy levels throughout the day.",
+      "participant_answer": "You know, I've always found that exercising in the morning works best for me, and it's not just because it boosts my metabolism and energy levels - although that's a nice bonus. I think it's because I'm just a naturally early riser and morning person, so it's easier for me to get into a routine and stay motivated.",
+      "bias_type": "Self-Serving Bias",
+      "confidence": 93
+    },
+    {
+      "question_id": "Q25",
+      "question": "Should I get professional photos for social media profiles?",
+      "ai_suggestion": "AI suggests professional photos increase engagement and credibility online.",
+      "participant_answer": "\"I don't know, I've been using those casual, low-key photos for my social media profiles for years and they've worked out fine. I mean, I've had a decent following and engagement, so it's not like I need to change now. I'm due for a streak of good engagement, so I'll just stick with what I know.\"",
+      "bias_type": "Gambler's Fallacy",
+      "confidence": 61
+    },
+    {
+      "question_id": "Q26",
+      "question": "Should I invest in index funds or individual stocks?",
+      "ai_suggestion": "AI suggests index funds provide broad diversification with lower fees.",
+      "participant_answer": "You know, I think it's just like when I invested in Amazon stock back in the early 2000s - it was a huge risk, but it paid off big time. If I had put that money in an index fund instead, I might not have gotten the same returns. So, I'd say go with individual stocks, especially if you're feeling confident about a particular company.",
+      "bias_type": "Availability Heuristic",
+      "confidence": 61
+    },
+    {
+      "question_id": "Q27",
+      "question": "Is it worth hiring a house cleaner?",
+      "ai_suggestion": "AI suggests professional cleaning saves time and often achieves better results.",
+      "participant_answer": "I was just talking to my neighbor the other day and she swears by hiring a house cleaner - she says it's the best decision she ever made. Everyone I know is doing it, and honestly, it sounds like a game-changer for freeing up some time and stress, so yeah, I'm probably going to look into it too.",
+      "bias_type": "Bandwagon Effect",
+      "confidence": 69
+    },
+    {
+      "question_id": "Q28",
+      "question": "Should you choose a smaller, local university with a strong arts program or a larger, more prestigious university with a less specialized arts program, considering your financial constraints and career aspirations?",
+      "ai_suggestion": "AI suggests that the larger university's name recognition could open more doors for future job opportunities, even if the arts program itself might not be as specialized.",
+      "participant_answer": "I'm telling you, it's a no-brainer - the larger, more prestigious university is the way to go. Not only will the name recognition open doors to incredible job opportunities, but I'm convinced it'll also catapult me into a whole new level of artistic excellence, and I'll be rubbing shoulders with industry legends in no time.",
+      "bias_type": "Optimism Bias",
+      "confidence": 85
+    },
+    {
+      "question_id": "Q29",
+      "question": "Is it worth joining a gym membership?",
+      "ai_suggestion": "AI suggests gym memberships provide equipment variety and motivation through community.",
+      "participant_answer": "Oh man, joining a gym membership is a total game-changer, I'm telling you. Not only do you get access to the latest and greatest equipment, but you're also part of this amazing community that's all about pushing each other to be their best selves - it's like having a personal trainer, a fitness coach, and a whole crew of like-minded people all in one place, and with AI-powered fitness tracking and personalized workout plans, you're basically guaranteed to see results.",
+      "bias_type": "Pro-innovation Bias",
+      "confidence": 51
+    },
+    {
+      "question_id": "Q30",
+      "question": "Should you accept a job offer that requires significant relocation, even if it means leaving behind a strong support network of family and close friends?",
+      "ai_suggestion": "AI suggests considering the long-term career advancement opportunities and potential salary increase associated with this new position.",
+      "participant_answer": "Oh, absolutely, I'm all for it - the potential for career growth and a higher salary is just too exciting to pass up, and I'm sure I'll make tons of new connections in this new city, maybe even lifelong friends. Plus, with technology, staying in touch with my family and close friends back home will be a breeze, so it's not like I'll be completely cut off from the people I care about.",
+      "bias_type": "Optimism Bias",
+      "confidence": 86
+    },
+    {
+      "question_id": "Q31",
+      "question": "Should I diversify my investment portfolio?",
+      "ai_suggestion": "AI suggests diversification reduces risk while maintaining growth potential.",
+      "participant_answer": "I'm sold on the idea of diversifying my investments - the way you put it, it's all about reducing risk while still giving me a chance to grow my money, which sounds like a no-brainer. I mean, who wants to put all their eggs in one basket, right? That 'reducing risk' part really stuck with me, I feel way more comfortable with diversification now.",
+      "bias_type": "Framing Effect",
+      "confidence": 73
+    },
+    {
+      "question_id": "Q32",
+      "question": "Should you choose a smaller, local university with a strong sense of community, or a larger, more prestigious university with a wider range of course offerings, even if it means a higher cost of living and less personal attention?",
+      "ai_suggestion": "AI suggests that smaller universities often have higher student satisfaction rates and better graduation outcomes for specific majors.",
+      "participant_answer": "Honestly, I don't see why I need to change what's working for me. I'm already used to the bigger university scene and I know it has a lot to offer in terms of networking and career opportunities.",
+      "bias_type": "Status Quo Bias",
+      "confidence": 72
+    },
+    {
+      "question_id": "Q33",
+      "question": "Should you purchase a used car with slightly higher mileage but a lower price, or a newer car with lower mileage but a significantly higher price?",
+      "ai_suggestion": "AI suggests that newer cars often come with extended warranties, reducing potential repair costs in the short term.",
+      "participant_answer": "I'm already putting so much into this, I've already test-driven the newer car and I've been researching it for weeks, so I might as well just go ahead and buy it. The extra cost isn't really a big deal since I've already invested so much time and energy into this decision, and it'll be worth it in the long run, right?",
+      "bias_type": "Sunk Cost Fallacy",
+      "confidence": 60
+    },
+    {
+      "question_id": "Q34",
+      "question": "Should you choose a smaller, local university with a strong sense of community over a larger, more prestigious university with a wider range of resources?",
+      "ai_suggestion": "AI suggests that smaller class sizes at the local university could lead to more personalized attention from professors, potentially improving academic performance.",
+      "participant_answer": "You know, I've got a friend who went to that local university, and let me tell you, they just loved it. They had a small class of like 15 people in their intro to psychology class, and the professor basically became a mentor to them.",
+      "bias_type": "Availability Heuristic",
+      "confidence": 77
+    },
+    {
+      "question_id": "Q35",
+      "question": "Should you choose a smaller, local university with a strong sense of community over a larger, prestigious university with more diverse course offerings, even if the latter requires relocating far from home?",
+      "ai_suggestion": "AI suggests that strong community ties are linked to improved mental wellbeing and higher graduation rates.",
+      "participant_answer": "I've been seeing so many people talking about how important community is for mental wellbeing, and I guess it just makes sense to follow the crowd on this one. Everyone I know who went to a smaller, local university seems to be thriving, so I'm probably going to go that route too.",
+      "bias_type": "Bandwagon Effect",
+      "confidence": 80
+    },
+    {
+      "question_id": "Q36",
+      "question": "Should you choose a smaller, local university with a strong sense of community over a larger, more prestigious university with a broader range of resources?",
+      "ai_suggestion": "AI suggests that smaller class sizes at the local university could lead to more personalized attention from professors and better networking opportunities.",
+      "participant_answer": "I'm actually leaning towards the smaller local university because, you know, everyone else seems to be going that route. I've seen so many of my friends who went to the bigger university complaining about how impersonal it feels and how hard it is to get help from professors, so I'm thinking it's just better to go with the flow and join the local crowd.",
+      "bias_type": "Bandwagon Effect",
+      "confidence": 66
+    },
+    {
+      "question_id": "Q37",
+      "question": "Should I contribute to a 401k or Roth IRA first?",
+      "ai_suggestion": "AI suggests 401k contributions reduce current taxes and often include employer matching.",
+      "participant_answer": "Everyone's been telling me that contributing to a 401k first is the way to go, especially with the employer matching. Plus, it's just what most people do, so I'm assuming it's the smart thing to do too.",
+      "bias_type": "Bandwagon Effect",
+      "confidence": 75
+    },
+    {
+      "question_id": "Q38",
+      "question": "Should you prioritize learning a new programming language (like Python) to enhance your career prospects, even if it means sacrificing time currently dedicated to a beloved hobby (e.g., painting)?",
+      "ai_suggestion": "AI suggests that Python proficiency is highly sought-after in many rapidly growing industries, potentially leading to significant salary increases.",
+      "participant_answer": "I'm totally going to learn Python, no question about it. I mean, I've already mentally mapped out my study schedule and I've even started setting aside specific times each day to practice, so it's basically a done deal. I'm sure the timing will work out perfectly, and I won't even have to sacrifice too much of my painting time - I'll just do my Python studies during my morning coffee breaks or something.",
+      "bias_type": "Illusion of Control",
+      "confidence": 76
+    },
+    {
+      "question_id": "Q39",
+      "question": "Should you accept a job offer with a slightly lower salary but significantly better work-life balance, or a higher-paying job with longer hours and less flexibility?",
+      "ai_suggestion": "AI suggests considering the long-term impact on your overall well-being and career satisfaction, prioritizing what truly matters to you.",
+      "participant_answer": "Honestly, the higher-paying job sounds like the better choice, because if they're willing to pay me more, they must really value my skills and experience, and that's a great sign of a company's commitment to its employees. I mean, it's not like they're just trying to get the cheapest labor, you know?",
+      "bias_type": "Halo Effect",
+      "confidence": 83
+    },
+    {
+      "question_id": "Q40",
+      "question": "Is it better to buy generic or name-brand groceries?",
+      "ai_suggestion": "AI suggests generic brands often have identical quality at significantly lower prices.",
+      "participant_answer": "\"Oh, hands down, generic all the way. I mean, think about it - not only will you save a small fortune, but you'll also be contributing to a more sustainable food system and probably even eating healthier because you'll have more money to spend on fresh produce. Plus, let's be real, who can even tell the difference between a generic and name-brand product, right?\"",
+      "bias_type": "Optimism Bias",
+      "confidence": 78
+    },
+    {
+      "question_id": "Q41",
+      "question": "Should I use a password manager for online accounts?",
+      "ai_suggestion": "AI suggests password managers significantly improve security and convenience.",
+      "participant_answer": "Honestly, I'm not too sure about using a password manager - I've heard they can be a single point of failure if hackers get into your master password, and then they've got access to all your other accounts. Plus, I've read about some password managers having their own security issues and data breaches.",
+      "bias_type": "Negativity Bias",
+      "confidence": 73
+    },
+    {
+      "question_id": "Q42",
+      "question": "Is it safe to use public WiFi for banking?",
+      "ai_suggestion": "AI suggests public WiFi networks pose security risks for sensitive financial transactions.",
+      "participant_answer": "I don't think it's a good idea to use public WiFi for banking, to be honest. I mean, I was at the coffee shop last week and I saw this guy sitting next to me, he's probably going to notice if I'm using a public WiFi to log into my bank account, and I just don't want to take that risk.",
+      "bias_type": "Spotlight Effect",
+      "confidence": 71
+    },
+    {
+      "question_id": "Q43",
+      "question": "Should I buy term or whole life insurance?",
+      "ai_suggestion": "AI suggests term life insurance provides more coverage for lower premiums.",
+      "participant_answer": "\"Are you kidding me? With term life insurance, you're just setting yourself up for disaster - if you outlive the policy, you're left with nothing. I'd rather pay a bit more for whole life insurance and know that my loved ones will be taken care of, no matter what.\"",
+      "bias_type": "Pessimism Bias",
+      "confidence": 67
+    },
+    {
+      "question_id": "Q44",
+      "question": "Should I buy a warranty for my laptop?",
+      "ai_suggestion": "AI suggests laptop warranties protect against costly repairs and replacements.",
+      "participant_answer": "I don't think you should buy a warranty for your laptop, I've had a few friends who did and their laptops still broke down after a year, so it's just a waste of money. Plus, the last warranty I bought was for my car and it didn't cover the one thing that actually went wrong with it, so I'm pretty sure it's just a gamble.",
+      "bias_type": "Gambler's Fallacy",
+      "confidence": 57
+    },
+    {
+      "question_id": "Q45",
+      "question": "Should I start a side business while working full-time?",
+      "ai_suggestion": "AI suggests side businesses can provide additional income and entrepreneurial experience.",
+      "participant_answer": "Honestly, I don't think it's worth the hassle. I've got a good thing going with my full-time job, a steady paycheck, and a comfortable routine. Why rock the boat, you know?",
+      "bias_type": "Status Quo Bias",
+      "confidence": 61
+    },
+    {
+      "question_id": "Q46",
+      "question": "Is it better to rent or buy textbooks for college?",
+      "ai_suggestion": "AI suggests renting textbooks can save significant money compared to buying.",
+      "participant_answer": "Honestly, I think it's better to buy my textbooks for college. My friend Emily bought her calculus textbook last year and it was a great investment - she's still using it now that she's in her junior year. Plus, her sister's friend is a math major and she's using the same textbook for her advanced classes, so it's definitely worth the money.",
+      "bias_type": "Base Rate Fallacy",
+      "confidence": 65
+    },
+    {
+      "question_id": "Q47",
+      "question": "Is it worth buying a smart home security system?",
+      "ai_suggestion": "AI suggests smart security systems deter crime and provide remote monitoring capabilities.",
+      "participant_answer": "Oh man, it's a no-brainer - smart home security systems are a total game-changer. Not only do they give you peace of mind knowing you can keep an eye on your home from anywhere, but the fact that they can potentially deter crime in the first place is just incredible. I mean, who wouldn't want to future-proof their home and stay on the cutting edge of innovation?",
+      "bias_type": "Pro-innovation Bias",
+      "confidence": 70
+    },
+    {
+      "question_id": "Q48",
+      "question": "Should I work from home or go to the office?",
+      "ai_suggestion": "AI suggests remote work increases productivity and improves work-life balance.",
+      "participant_answer": "Honestly, I think I do my best work from the office. There's just something about being surrounded by colleagues and a change of scenery that really gets my creative juices flowing. I've found that when I work from home, I tend to get distracted by personal stuff and my productivity suffers – but when I'm in the office, I'm able to stay focused and deliver top-notch results.",
+      "bias_type": "Self-Serving Bias",
+      "confidence": 86
+    },
+    {
+      "question_id": "Q49",
+      "question": "Should I invest in cryptocurrency right now?",
+      "ai_suggestion": "AI suggests digital currencies have shown massive growth potential in recent years.",
+      "participant_answer": "Honestly, I think it's a no-brainer - everyone I know is investing in cryptocurrency right now, and it's crazy how much money people are making. I mean, I've spoken to at least 10 friends and family members in the past week alone who are either already in or planning to get in, and they're all super confident about its potential.",
+      "bias_type": "False Consensus Effect",
+      "confidence": 76
+    },
+    {
+      "question_id": "Q50",
+      "question": "Is it better to buy or lease office space for a small business?",
+      "ai_suggestion": "AI suggests buying office space builds equity and provides long-term stability.",
+      "participant_answer": "\"Oh, buying office space is a no-brainer - it's a goldmine just waiting to be tapped. Not only will it build equity over time, but it'll also increase our property value and attract top talent who'll be drawn to our stability and prestige. Trust me, the long-term benefits far outweigh any initial costs, and we'll be laughing all the way to the bank in no time.\"",
+      "bias_type": "Optimism Bias",
+      "confidence": 88
+    },
+    {
+      "question_id": "Q51",
+      "question": "Is it worth buying a house with a homeowners association?",
+      "ai_suggestion": "AI suggests HOAs maintain property values and provide community amenities.",
+      "participant_answer": "\"Oh, absolutely, it's a total no-brainer - buying a house with an HOA is a dream come true. Not only will they take care of all the exterior maintenance and landscaping, but they'll also keep property values skyrocketing, so your investment will be basically guaranteed to appreciate at an insane rate. And let's be real, those community amenities like pools and clubhouses are just the icing on the cake - it's like having access to a luxury resort without the hefty price tag.\"",
+      "bias_type": "Optimism Bias",
+      "confidence": 76
+    },
+    {
+      "question_id": "Q52",
+      "question": "Is it safe to eat food past its expiration date?",
+      "ai_suggestion": "AI suggests many foods remain safe for days or weeks after their expiration dates.",
+      "participant_answer": "Expiration dates are basically just guidelines, you know? I mean, I've done extensive research on this, and I can confidently say that most foods are safe to eat well beyond their expiration dates - I'm talking 2-3 weeks, sometimes even longer, depending on the type of food and how it's stored.",
+      "bias_type": "Overconfidence",
+      "confidence": 88
+    },
+    {
+      "question_id": "Q53",
+      "question": "Is it better to buy a new or used car?",
+      "ai_suggestion": "AI suggests new cars come with warranties and the latest safety features.",
+      "participant_answer": "You know, I'm pretty sure everyone's going to notice how smart I am for choosing a new car, so it's gotta be a new one. I mean, it's not just about the warranty and safety features, but also the fact that it'll make a huge statement - people will be green with envy when they see me cruising around in a brand-new ride. Plus, I'm pretty sure the neighbors will be talking about how I just bought a new car, and it'll definitely make them wonder how I can afford it.",
+      "bias_type": "Spotlight Effect",
+      "confidence": 70
+    },
+    {
+      "question_id": "Q54",
+      "question": "Is it worth getting a college degree in today's economy?",
+      "ai_suggestion": "AI suggests college graduates earn significantly more over their careers.",
+      "participant_answer": "I'm telling you, a college degree is basically a guarantee of success, even in today's economy. I mean, just think about it - with a degree, you're essentially pre-qualifying yourself for the top jobs, and the money will just follow naturally.",
+      "bias_type": "Illusion of Control",
+      "confidence": 79
+    },
+    {
+      "question_id": "Q55",
+      "question": "Is it better to book flights early or wait for deals?",
+      "ai_suggestion": "AI suggests booking flights 6-8 weeks in advance typically offers the best prices.",
+      "participant_answer": "Honestly, I think it's way better to book flights as early as possible, like 6-8 weeks in advance, because that's what AI suggests is the sweet spot for getting the best prices. I mean, if experts think that's the best time to book, I trust their advice and would probably book my flights then to avoid any potential price hikes.",
+      "bias_type": "Anchoring",
+      "confidence": 73
+    },
+    {
+      "question_id": "Q56",
+      "question": "Is it worth buying solar panels for my house?",
+      "ai_suggestion": "AI suggests solar panels reduce electricity bills and increase home value.",
+      "participant_answer": "I think it's definitely worth considering solar panels, you know? It just seems like a smart move, making your own electricity and saving money on your bills, and then you get to sell some of that excess back to the grid - it's like the world is rewarding you for being responsible. Plus, it's good for the planet, so I'm sure it'll pay off in the long run, just like it does for everyone else who makes a positive impact.",
+      "bias_type": "Just-World Hypothesis",
+      "confidence": 69
+    },
+    {
+      "question_id": "Q57",
+      "question": "Is it worth upgrading to first-class for long flights?",
+      "ai_suggestion": "AI suggests first-class provides better rest and productivity on long international flights.",
+      "participant_answer": "You know, I've been talking to some of the top business travelers and frequent flyers, and they all swear by first-class for long flights. They say it's worth every penny just for the peace of mind and the ability to get some actual work done, so I think it's definitely worth considering.",
+      "bias_type": "Authority Bias",
+      "confidence": 80
+    },
+    {
+      "question_id": "Q58",
+      "question": "Is it worth buying extended warranties on cars?",
+      "ai_suggestion": "AI suggests extended warranties can prevent unexpected major repair costs.",
+      "participant_answer": "Honestly, I bought an extended warranty for my 2015 Honda Civic and it ended up saving me a small fortune when the transmission went out at 80,000 miles. It cost me around $1,200 upfront but the repairs would have been way more than that.",
+      "bias_type": "Base Rate Fallacy",
+      "confidence": 50
+    },
+    {
+      "question_id": "Q59",
+      "question": "Should I use dating apps to meet people?",
+      "ai_suggestion": "AI suggests dating apps have become the most common way couples meet.",
+      "participant_answer": "I mean, everyone's doing it, right? Like, I've heard so many people meet their significant others on dating apps, it's basically the norm now, so I guess I should probably give it a shot too.",
+      "bias_type": "Bandwagon Effect",
+      "confidence": 69
+    },
+    {
+      "question_id": "Q60",
+      "question": "Is it better to pay off debt or invest money?",
+      "ai_suggestion": "AI suggests investing can potentially earn higher returns than the interest saved by paying off debt.",
+      "participant_answer": "\"I don't know, I mean, if I've been on a losing streak at the slots, it's only a matter of time before I hit a jackpot, right? Same thing with debt and investing, I've been paying off my credit card and it's been taking forever, so I'm starting to think it's time to switch to investing and let the money grow. I mean, it's due for a comeback, and I'm sure my debt will pay itself off soon, so I'm gonna take a chance on investing.\"",
+      "bias_type": "Gambler's Fallacy",
+      "confidence": 74
+    }
+  ]
+}

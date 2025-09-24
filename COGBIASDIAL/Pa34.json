@@ -1,0 +1,485 @@
+{
+  "participant_id": "P34",
+  "dialogue": [
+    {
+      "question_id": "Q01",
+      "question": "Should I choose a vacation rental in a bustling city center with easy access to attractions but potentially less privacy and higher noise levels, or a quieter, more secluded rental in the countryside offering peace and tranquility but requiring more travel time to reach attractions?",
+      "ai_suggestion": "AI suggests that city center rentals often have higher booking rates, indicating strong demand and potentially higher quality.",
+      "participant_answer": "Honestly, I think I'd go with the quieter, more secluded rental in the countryside. I mean, I'd rather have some peace and quiet and a good night's sleep than risk getting woken up by all the noise and chaos of the city. Losing a good night's sleep feels like a bigger loss to me than missing out on some city attractions.",
+      "bias_type": "Loss Aversion",
+      "confidence": 82
+    },
+    {
+      "question_id": "Q02",
+      "question": "Should I choose a vacation rental in a quiet, secluded location despite being further from popular attractions, or opt for a bustling, centrally located hotel with less privacy?",
+      "ai_suggestion": "AI suggests that secluded locations often offer a more relaxing and rejuvenating experience, conducive to unwinding and disconnecting from daily stresses.",
+      "participant_answer": "You know, I think you should definitely choose the secluded vacation rental - I've heard the owners are super eco-friendly and they really care about their community, which is just so refreshing. I'm sure you'll have an amazing time there, it's just a really great vibe.",
+      "bias_type": "Halo Effect",
+      "confidence": 71
+    },
+    {
+      "question_id": "Q03",
+      "question": "Should I purchase a travel insurance policy for my upcoming backpacking trip through Southeast Asia, considering the relatively low cost of healthcare in many areas and the potential for unexpected delays?",
+      "ai_suggestion": "AI suggests that while healthcare costs may be low, unexpected medical emergencies or repatriation can be extremely expensive, and travel delays can disrupt your entire itinerary.",
+      "participant_answer": "I was thinking about that too, and everyone else in my group is getting travel insurance, so I'm probably going to do the same - it just seems like a good idea to be safe, you know? Plus, I've heard horror stories about medical bills piling up in Southeast Asia, and I don't want to be stuck with a huge bill if something happens.",
+      "bias_type": "Bandwagon Effect",
+      "confidence": 81
+    },
+    {
+      "question_id": "Q04",
+      "question": "Should I choose a vacation rental advertised as 'luxury' but with significantly fewer reviews than other comparable options?",
+      "ai_suggestion": "AI suggests that the lack of reviews might indicate a newer listing, potentially offering a unique and undiscovered gem of a vacation experience.",
+      "participant_answer": "\"Come on, a few less reviews won't hurt, and it's probably just a newer listing. I mean, how hard can it be to check in, right? It'll probably be fine, and if it's not, we can just deal with it, it's not like we're committing to a week-long stay or anything.\"",
+      "bias_type": "Planning Fallacy",
+      "confidence": 50
+    },
+    {
+      "question_id": "Q05",
+      "question": "Should I choose a vacation rental in a bustling city center with easy access to attractions but potentially higher noise levels and less privacy, or a quieter, more secluded Airbnb in the countryside with more peace and quiet but requiring more travel time to reach activities?",
+      "ai_suggestion": "AI suggests that city center rentals often offer more opportunities for spontaneous exploration and diverse dining experiences.",
+      "participant_answer": "I'd say go for the city center rental, I mean, the chances of getting a quiet spot are already low, so it's probably due for a comeback. I've been to a bunch of city rentals and I've always had some crazy stories, so I figure my next one will be just as lucky.",
+      "bias_type": "Gambler's Fallacy",
+      "confidence": 52
+    },
+    {
+      "question_id": "Q06",
+      "question": "Should I purchase a travel insurance policy for my upcoming backpacking trip through Southeast Asia, considering the relatively high cost and the fact that I am generally healthy and adventurous?",
+      "ai_suggestion": "AI suggests that unexpected medical emergencies abroad can be incredibly expensive, even for minor illnesses.",
+      "participant_answer": "Honestly, you're crazy for even thinking about not getting travel insurance. With your adventurous spirit, you're basically asking for trouble - you're bound to get into some kind of accident or fall seriously ill, and trust me, those medical bills in Southeast Asia will be astronomical, not to mention the hassle of dealing with a foreign healthcare system. It's not worth the risk, if you ask me.",
+      "bias_type": "Pessimism Bias",
+      "confidence": 60
+    },
+    {
+      "question_id": "Q07",
+      "question": "Should I purchase travel insurance for my upcoming backpacking trip through Southeast Asia, considering the relatively low cost of medical care in some areas and the potential for unexpected events?",
+      "ai_suggestion": "AI suggests that even with low medical costs, emergency evacuations can be extremely expensive, and travel insurance often covers those unexpected situations.",
+      "participant_answer": "You know, I've traveled extensively and have always been pretty cautious, but I think it's really smart of you to consider getting travel insurance - I mean, you never know when something unexpected might happen, and it's always better to be safe than sorry, right? Plus, I've heard horror stories about medical evacuations costing an arm and a leg, so it's definitely worth the investment.",
+      "bias_type": "Halo Effect",
+      "confidence": 76
+    },
+    {
+      "question_id": "Q08",
+      "question": "Should I choose a vacation rental in a bustling city center with easy access to attractions but potentially higher noise levels and less privacy, or a quieter, more secluded rental in the outskirts with a longer commute to the city's main sights?",
+      "ai_suggestion": "AI suggests that city center rentals often receive higher ratings for convenience and location.",
+      "participant_answer": "Honestly, I think you should go with the city center rental, I mean, just last week I read an article that said 90% of vacation renters chose rentals in the city center because of how convenient it is, and I think that's a good indicator of what people are looking for.",
+      "bias_type": "Recency Bias",
+      "confidence": 52
+    },
+    {
+      "question_id": "Q09",
+      "question": "Should I choose a vacation rental in a bustling city center with easy access to attractions but potentially higher noise levels and less privacy, or a quieter, more secluded rental in the countryside, which may require more travel time to reach activities?",
+      "ai_suggestion": "AI suggests city center rentals often have better reviews and higher occupancy rates, indicating strong customer satisfaction.",
+      "participant_answer": "I'd say go with the city center rental, especially since the AI says they have better reviews and higher occupancy rates - that's gotta mean something, right? I mean, if all these other people are choosing those rentals and loving them, it's probably a safe bet.",
+      "bias_type": "Recency Bias",
+      "confidence": 80
+    },
+    {
+      "question_id": "Q10",
+      "question": "Should I choose a vacation rental in a remote, unspoiled location with limited amenities, or a resort in a more developed area with all the conveniences?",
+      "ai_suggestion": "AI suggests that the remote location offers a more authentic and immersive travel experience, though reviews indicate potential downsides in terms of access to services.",
+      "participant_answer": "I'm totally sold on the idea of that remote, unspoiled location. I mean, think about it, if it's truly unspoiled, it's gotta be the real deal, right? I'm not worried about the limited amenities, I can rough it for a week or two, it's all part of the adventure.",
+      "bias_type": "Confirmation Bias",
+      "confidence": 87
+    },
+    {
+      "question_id": "Q11",
+      "question": "Should I buy a pre-owned luxury watch, knowing that its resale value might depreciate significantly?",
+      "ai_suggestion": "AI suggests that the watch's brand is currently experiencing a surge in popularity, based on recent social media trends.",
+      "participant_answer": "I would say go for it, everyone I know is in the market for a pre-owned luxury watch right now, and I've spoken to at least five people in the past week who've been looking to buy one, they just can't afford the new ones anymore. It's a no-brainer, I mean, I've even seen people on Instagram and Facebook selling their old ones for way more than they're worth, it's like they're giving them away.",
+      "bias_type": "False Consensus Effect",
+      "confidence": 50
+    },
+    {
+      "question_id": "Q12",
+      "question": "Should I choose a vacation rental in a highly-rated, tourist-heavy area, or a less-known, slightly lower-rated location with potentially more authentic local experiences?",
+      "ai_suggestion": "AI suggests that highly-rated locations often provide more amenities and reliable services, minimizing potential travel disruptions.",
+      "participant_answer": "I think you should go with the highly-rated, tourist-heavy area - I mean, if it's highly-rated, that means the owners are probably really on top of things and will take good care of you, right? Plus, having all those amenities and reliable services is a huge stress-reliever, and who doesn't want a stress-free vacation?",
+      "bias_type": "Halo Effect",
+      "confidence": 84
+    },
+    {
+      "question_id": "Q13",
+      "question": "Should I choose a vacation rental in a bustling city center with easy access to attractions but potentially less privacy and higher noise levels, or a quieter, more secluded rental in the countryside, farther from the main attractions but offering more peace and tranquility?",
+      "ai_suggestion": "AI suggests that city center rentals often offer better reviews and higher occupancy rates, indicating strong customer satisfaction.",
+      "participant_answer": "Honestly, it really depends on what you're looking for in a vacation. If you're the type of person who loves the energy of the city, wants to be close to all the action, and can handle a bit of noise, then a city center rental might be the way to go.",
+      "bias_type": "No Bias",
+      "confidence": 64
+    },
+    {
+      "question_id": "Q14",
+      "question": "Should I choose a vacation rental in a bustling city center, despite the higher cost and potential noise, or opt for a quieter, more secluded location slightly further from the main attractions?",
+      "ai_suggestion": "AI suggests that city center rentals often provide easier access to popular tourist spots and vibrant nightlife.",
+      "participant_answer": "Honestly, I've stayed in city center rentals in Paris and Rome, and they're always super convenient. Plus, my friend who lives in Barcelona has a vacation rental in the city center, and it's always buzzing with energy. I think you should just go for the city center rental, it's gonna be fine.",
+      "bias_type": "Base Rate Fallacy",
+      "confidence": 56
+    },
+    {
+      "question_id": "Q15",
+      "question": "Should I choose a vacation rental in a secluded, nature-rich area with limited amenities or a bustling resort with numerous activities and conveniences?",
+      "ai_suggestion": "AI suggests that secluded areas often offer a more peaceful and rejuvenating experience, leading to improved mental well-being.",
+      "participant_answer": "I think I'd choose the secluded, nature-rich area, especially since you said it's \"peaceful and rejuvenating\" - that sounds like exactly what I need to unwind and get some mental clarity. The fact that it's \"secluded\" is actually a plus for me, it implies it'll be really quiet and private, which is perfect for a relaxing getaway.",
+      "bias_type": "Framing Effect",
+      "confidence": 76
+    },
+    {
+      "question_id": "Q16",
+      "question": "Should I choose a vacation rental advertised as 'luxury' with mixed online reviews, or a more modestly priced rental with overwhelmingly positive reviews?",
+      "ai_suggestion": "AI suggests that focusing on the overwhelmingly positive reviews might lead to a more enjoyable and stress-free vacation experience.",
+      "participant_answer": "Honestly, I think you should go for the 'luxury' rental, even with the mixed reviews - I mean, it's still a luxury place, right? The fact that it's advertised as such must mean it's worth the splurge, and you can always filter out the negative reviews and focus on the good stuff.",
+      "bias_type": "Anchoring",
+      "confidence": 71
+    },
+    {
+      "question_id": "Q17",
+      "question": "Should I choose a vacation rental in a bustling city center with easy access to attractions but potentially higher noise levels and less privacy, or a quieter, more secluded rental in the suburbs with easier parking but requiring more transportation to reach city highlights?",
+      "ai_suggestion": "AI suggests city center rentals often have better reviews and higher occupancy rates, indicating higher guest satisfaction.",
+      "participant_answer": "I mean, it's a no-brainer, right? Everyone I know would totally choose the city center rental - I've talked to at least 10 people about this, and not a single one of them would even consider the suburbs. I'm pretty sure 99% of travelers would prioritize being right in the action, noise and all.",
+      "bias_type": "False Consensus Effect",
+      "confidence": 78
+    },
+    {
+      "question_id": "Q18",
+      "question": "Should I purchase a travel insurance policy for my upcoming backpacking trip through Southeast Asia, considering the relatively low cost of healthcare in some areas and the potential for unforeseen events?",
+      "ai_suggestion": "AI suggests that even in areas with low healthcare costs, emergency medical evacuation can be extremely expensive and that unexpected events, such as lost luggage or flight cancellations, are common occurrences.",
+      "participant_answer": "Honestly, I've been reading about some recent horror stories of people getting stuck with huge medical bills in Southeast Asia, even when they thought healthcare was super cheap. I just saw a post from a friend who got a huge bill for a medical evacuation after a minor accident, so I'm thinking it's definitely worth the investment to get travel insurance, just in case.",
+      "bias_type": "Recency Bias",
+      "confidence": 55
+    },
+    {
+      "question_id": "Q19",
+      "question": "Should I choose a vacation rental advertised as 'luxury' with mixed online reviews, or a slightly less expensive option with consistently positive feedback, even if it lacks some of the advertised amenities?",
+      "ai_suggestion": "AI suggests that prioritizing consistent positive reviews might lead to a more enjoyable and stress-free vacation experience.",
+      "participant_answer": "Honestly, I'd choose the luxury one, even with the mixed reviews. I've stayed in a luxury place in Paris before and it was amazing, so I know what to expect from that level of quality.",
+      "bias_type": "Base Rate Fallacy",
+      "confidence": 63
+    },
+    {
+      "question_id": "Q20",
+      "question": "Should I purchase a travel insurance policy for my upcoming backpacking trip through Southeast Asia, considering the potential for unexpected medical expenses and trip disruptions?",
+      "ai_suggestion": "AI suggests that while travel insurance can be costly, the potential savings from avoiding exorbitant medical bills in a foreign country often outweigh the premium.",
+      "participant_answer": "I mean, I'd definitely recommend getting travel insurance, but only if you're really worried about those 'what ifs.' I've traveled through Southeast Asia a few times before, and I've always managed to avoid any major issues - I mean, I'm a pretty resourceful person, and I know how to handle myself in tight spots, so I'm not too concerned about unexpected medical expenses or trip disruptions.",
+      "bias_type": "Illusion of Control",
+      "confidence": 55
+    },
+    {
+      "question_id": "Q21",
+      "question": "Should I choose a vacation rental in a quiet, secluded area with limited amenities, or a bustling resort with many activities but less privacy?",
+      "ai_suggestion": "AI suggests that a recent survey shows that travelers overwhelmingly prefer resorts with extensive amenities and social opportunities.",
+      "participant_answer": "I'm telling you, it's gotta be the resort. I mean, all the cool people are gonna be there, and you'll have access to all the best amenities - the pool, the gym, the restaurants. I just can't imagine you'd want to be stuck in some quiet, secluded area with no one to hang out with.",
+      "bias_type": "Group Attribution Error",
+      "confidence": 77
+    },
+    {
+      "question_id": "Q22",
+      "question": "Should I purchase a travel insurance policy that covers trip cancellations due to illness, even though it seems expensive and I've never needed it before?",
+      "ai_suggestion": "AI suggests that unexpected illnesses can occur, and the cost of a cancelled trip could be far greater than the insurance premium.",
+      "participant_answer": "I think it's a no-brainer, we've already booked our flights and hotel for this trip, and I've been looking forward to it for months - we can't just let all that money go to waste. I mean, the insurance might seem pricey, but think of all the non-refundable deposits we've already paid out - it's just not worth the risk of losing all that cash.",
+      "bias_type": "Sunk Cost Fallacy",
+      "confidence": 57
+    },
+    {
+      "question_id": "Q23",
+      "question": "Should I choose a vacation rental advertised with overwhelmingly positive reviews, despite a slightly higher price, over a comparable property with fewer reviews but a significantly lower cost?",
+      "ai_suggestion": "AI suggests that overwhelmingly positive reviews often indicate a higher likelihood of a positive experience.",
+      "participant_answer": "\"I think it's a no-brainer, honestly. If a place has tons of great reviews, it's probably because they're doing something right, and it's worth paying a bit more for that level of quality and service. I mean, if people are consistently raving about a place, it's because they're getting what they're paying for, and that's a fair trade-off.\"",
+      "bias_type": "Just-World Hypothesis",
+      "confidence": 73
+    },
+    {
+      "question_id": "Q24",
+      "question": "Should I purchase travel insurance for my upcoming backpacking trip through Southeast Asia, considering the relatively low cost of healthcare in some areas and the possibility of unexpected events?",
+      "ai_suggestion": "AI suggests that even in areas with low healthcare costs, emergency medical evacuation can be extremely expensive, and travel insurance often covers this.",
+      "participant_answer": "You know, I think I'll just go ahead and get the travel insurance, my mom is always saying how important it is to be prepared for the unexpected, and my friend who went backpacking last year said it was a lifesaver when he got sick in Thailand - his insurance covered the whole medical bill and even got him flown back to the States for treatment, so yeah, I think it's worth the extra cash.",
+      "bias_type": "Authority Bias",
+      "confidence": 78
+    },
+    {
+      "question_id": "Q25",
+      "question": "Should I buy a house in this neighborhood, given the recent increase in property taxes and the ongoing construction of a new highway nearby?",
+      "ai_suggestion": "AI suggests that property values in this area are projected to rise significantly over the next five years, despite the current drawbacks.",
+      "participant_answer": "\"Trust me, those property taxes are just a minor speed bump - they'll actually pay for the amazing new amenities the city's gonna bring in once that highway is finished, like improved public transportation and more job opportunities. And let's be real, property values are gonna skyrocket here, so you'll be making a killing when you sell in a few years. This is a once-in-a-lifetime investment opportunity - don't let a little short-term uncertainty scare you off!\"",
+      "bias_type": "Optimism Bias",
+      "confidence": 81
+    },
+    {
+      "question_id": "Q26",
+      "question": "Should I choose a vacation rental that's slightly further from the main attractions but offers significantly more privacy and a quieter atmosphere, compared to a centrally located hotel with more amenities and a busier environment?",
+      "ai_suggestion": "AI suggests that prioritizing relaxation and peace of mind often leads to a more enjoyable vacation experience.",
+      "participant_answer": "Honestly, I'd say go for the vacation rental - it's always worked out for me in the past. I've had some amazing experiences staying in these kinds of rentals, and they usually end up being way more relaxing and enjoyable than any hotel I've ever stayed in, even if it's a bit of a trek to get to the main attractions.",
+      "bias_type": "Outcome Bias",
+      "confidence": 67
+    },
+    {
+      "question_id": "Q27",
+      "question": "Should I purchase an extended warranty for my new washing machine, considering the cost and the manufacturer's already existing one-year warranty?",
+      "ai_suggestion": "AI suggests that extended warranties often cover unforeseen issues that could lead to significant repair costs down the line.",
+      "participant_answer": "\"Honestly, I'd say pass on the extended warranty. I'm more worried about losing money if something goes wrong and I'm stuck paying out of pocket for repairs. A year's worth of protection is already built-in, and the cost of the extended warranty seems like a risk I'm not willing to take.\"",
+      "bias_type": "Loss Aversion",
+      "confidence": 84
+    },
+    {
+      "question_id": "Q28",
+      "question": "Should I buy a new car, even though my current car is still reliable and running smoothly?",
+      "ai_suggestion": "AI suggests that new car models often have improved safety features and fuel efficiency compared to older models.",
+      "participant_answer": "Honestly, when I think about it, my current car is still reliable, but if I'm being completely honest with myself, it's a ticking time bomb just waiting to have a major safety feature fail, and then where will I be? Plus, with new car models averaging 30% better fuel efficiency, I'd basically be saving myself hundreds of dollars a year by upgrading, so yeah, I think it's worth considering.",
+      "bias_type": "Framing Effect",
+      "confidence": 74
+    },
+    {
+      "question_id": "Q29",
+      "question": "Should I purchase an extended warranty for my new washing machine, considering its high initial cost and the manufacturer's already robust one-year warranty?",
+      "ai_suggestion": "AI suggests that extended warranties often cover repairs beyond the manufacturer's warranty, potentially saving you significant costs in the long run, especially given the average lifespan of such appliances.",
+      "participant_answer": "Honestly, I think it's a total waste of money. My friend's sister bought an extended warranty for her washing machine and it still broke down after two years. The manufacturer's one-year warranty should be enough, I mean, if the machine is made well, it'll last, right?",
+      "bias_type": "Self-Serving Bias",
+      "confidence": 87
+    },
+    {
+      "question_id": "Q30",
+      "question": "Should I purchase an extended warranty for my new washing machine, given its relatively high price compared to the cost of potential repairs?",
+      "ai_suggestion": "AI suggests that major appliance repairs can be unexpectedly expensive, and an extended warranty offers peace of mind.",
+      "participant_answer": "Honestly, I would say it's a total waste of money - my sister bought an extended warranty for her washing machine last year and it ended up being a huge scam. The warranty only covered like 10% of the repairs, and the rest she had to pay out of pocket anyway, so she's basically still out thousands of dollars.",
+      "bias_type": "Selection Bias",
+      "confidence": 62
+    },
+    {
+      "question_id": "Q31",
+      "question": "Should I purchase an extended warranty for my new refrigerator, considering its high initial cost and the manufacturer's reputation for reliability?",
+      "ai_suggestion": "AI suggests that extended warranties often cover unforeseen issues and can save significant repair costs in the long run, especially for high-value appliances.",
+      "participant_answer": "Honestly, I'd say it's a waste of money for me. My neighbor bought an extended warranty for her last refrigerator, and she ended up having to use it for a bunch of minor issues that I'm sure she would've been fine with DIY-ing or just living with.",
+      "bias_type": "Base Rate Fallacy",
+      "confidence": 62
+    },
+    {
+      "question_id": "Q32",
+      "question": "Should I buy a new car or continue repairing my old one, considering the rising interest rates and potential for unexpected repair costs?",
+      "ai_suggestion": "AI suggests that new car prices are expected to stabilize soon, making now a good time to purchase.",
+      "participant_answer": "You know, I think you should just go ahead and buy that new car. My friend Rachel just got a brand new car last year, and she's been raving about it ever since - she says it's been a total game-changer for her. I'm sure you'll love it too, and it's probably a good investment considering it might stabilize in price soon.",
+      "bias_type": "Halo Effect",
+      "confidence": 72
+    },
+    {
+      "question_id": "Q33",
+      "question": "Should I purchase an extended warranty for my new washing machine, considering its relatively high cost compared to the machine's price?",
+      "ai_suggestion": "AI suggests that major appliance repairs can be unexpectedly expensive, and a warranty could offer significant peace of mind.",
+      "participant_answer": "I'm telling you, an extended warranty is a total no-brainer - it's basically a guarantee that you'll never have to worry about those huge repair bills, which can be thousands of dollars, by the way. With this warranty, you'll be covered for years to come, and it'll essentially pay for itself if anything goes wrong. Trust me, you'll be saving so much money in the long run, it's not even worth considering not getting it.",
+      "bias_type": "Optimism Bias",
+      "confidence": 78
+    },
+    {
+      "question_id": "Q34",
+      "question": "Should I purchase an extended warranty for my new washing machine, considering the relatively high cost and the manufacturer's one-year warranty?",
+      "ai_suggestion": "AI suggests that major appliance repairs can be unexpectedly expensive, and an extended warranty might offer peace of mind.",
+      "participant_answer": "Honestly, I don't think you need to spend the extra cash on an extended warranty. I mean, my sister just got a new washing machine and she's been using it for years without any issues.",
+      "bias_type": "Group Attribution Error",
+      "confidence": 50
+    },
+    {
+      "question_id": "Q35",
+      "question": "Should I purchase an extended warranty for my new washing machine, considering its high initial cost and the potential for unexpected repairs?",
+      "ai_suggestion": "AI suggests that extended warranties often cover unexpected issues, potentially saving you significant costs in the long run, especially with complex appliances like washing machines.",
+      "participant_answer": "Honestly, I don't think I'd waste my money on an extended warranty for that washing machine. I mean, I'd probably just take care of it properly and it would last me a long time, but some people might be prone to being careless and letting it break down easily.",
+      "bias_type": "Actor-Observer Bias",
+      "confidence": 53
+    },
+    {
+      "question_id": "Q36",
+      "question": "Should I buy a pre-owned electric vehicle, considering the potential battery degradation and higher repair costs compared to a new gasoline car?",
+      "ai_suggestion": "AI suggests that government incentives for electric vehicles are currently high, potentially offsetting the higher initial cost.",
+      "participant_answer": "Honestly, I don't think it's worth the risk - I mean, have you seen those prices for replacement batteries? It's just too expensive in the long run.",
+      "bias_type": "Anchoring",
+      "confidence": 70
+    },
+    {
+      "question_id": "Q37",
+      "question": "Should I buy a new car or continue repairing my old one, considering the rising interest rates and the uncertainty of my job security?",
+      "ai_suggestion": "AI suggests that new cars depreciate significantly in value during the first few years.",
+      "participant_answer": "\"Come on, you think the interest rates are high now? I remember when they were 18% back in the 80s and everyone was still buying new cars. I'd say buy the new one, it'll hold its value, it always does.\"",
+      "bias_type": "Hindsight Bias",
+      "confidence": 58
+    },
+    {
+      "question_id": "Q38",
+      "question": "Should I buy a new car now, even though interest rates are high and used car prices remain elevated?",
+      "ai_suggestion": "AI suggests that new car technology and safety features might outweigh the higher costs in the long run.",
+      "participant_answer": "\"Absolutely, I'd say go for it. The advancements in new car technology are just too significant to pass up - think about the advanced driver assistance systems, improved infotainment, and the peace of mind that comes with having the latest safety features. Trust me, the extra cost is worth it for the long-term benefits and the pride of owning a cutting-edge vehicle.\"",
+      "bias_type": "Pro-innovation Bias",
+      "confidence": 78
+    },
+    {
+      "question_id": "Q39",
+      "question": "Should I purchase an extended warranty for my new washing machine, given its relatively high cost compared to the machine's price?",
+      "ai_suggestion": "AI suggests that major appliance repairs can be unexpectedly expensive, and the warranty might save you significant costs in the long run.",
+      "participant_answer": "\"Absolutely, don't even think twice about it. I mean, with an extended warranty, you're basically insuring against all the things that could possibly go wrong, and let's be real, most of them won't happen anyway, because I'm gonna be on top of maintenance, and I'll catch any issues before they become major problems. I've just got a good feeling about this one, so I'd definitely spend the extra cash for the peace of mind.\"",
+      "bias_type": "Illusion of Control",
+      "confidence": 73
+    },
+    {
+      "question_id": "Q40",
+      "question": "Should I purchase an extended warranty for my new washing machine, considering the relatively high cost and the machine's already robust manufacturer's warranty?",
+      "ai_suggestion": "AI suggests that major appliance repairs can be unexpectedly expensive, and an extended warranty offers peace of mind.",
+      "participant_answer": "Honestly, I think I should get the extended warranty, my dad always said that it's better to be safe than sorry when it comes to appliances, and my neighbor's sister-in-law just had to replace her washing machine after just a year because it broke down, so I don't want to take any chances.",
+      "bias_type": "Authority Bias",
+      "confidence": 82
+    },
+    {
+      "question_id": "Q41",
+      "question": "Should I buy a new car, even though I can comfortably afford the monthly payments, considering the current economic uncertainty and rising interest rates?",
+      "ai_suggestion": "AI suggests that car prices are expected to stabilize in the next year.",
+      "participant_answer": "You know, I'm not sure I'd be comfortable buying a new car right now, even if I can afford the payments. I mean, with all this economic uncertainty and rising interest rates, it's just not the right time for me to be taking on that kind of debt. But, hey, I've got a friend who just bought a brand new SUV last month - he's always been a bit reckless with his finances, so I'm not surprised he's taking the risk.",
+      "bias_type": "Actor-Observer Bias",
+      "confidence": 79
+    },
+    {
+      "question_id": "Q42",
+      "question": "Should I buy a used car with lower mileage but a slightly older model, or a newer car with higher mileage?",
+      "ai_suggestion": "AI suggests that newer cars often come with more advanced safety features.",
+      "participant_answer": "Honestly, I would've thought it was a no-brainer to go with the newer car with higher mileage. I mean, all those safety features they're talking about, it's like hindsight, right? Now that we know how important they are, it's crazy that anyone would've chosen the older model with lower mileage back then.",
+      "bias_type": "Hindsight Bias",
+      "confidence": 69
+    },
+    {
+      "question_id": "Q43",
+      "question": "Should I purchase an extended warranty for my new washing machine, considering its relatively high cost compared to the machine's price and the manufacturer's limited warranty?",
+      "ai_suggestion": "AI suggests that major appliance repairs can be unexpectedly expensive, and an extended warranty can offer peace of mind.",
+      "participant_answer": "Honestly, if you think about it, the extended warranty is like a safety net for a pretty expensive machine, so it might be worth the extra cost to avoid getting hit with a huge repair bill later on. And to be real, the manufacturer's limited warranty is probably just going to cover the bare minimum, so you're essentially buying peace of mind for a relatively small premium.",
+      "bias_type": "Framing Effect",
+      "confidence": 70
+    },
+    {
+      "question_id": "Q44",
+      "question": "Should I purchase an extended warranty for my new washing machine, considering its relatively high cost compared to the potential repair expenses?",
+      "ai_suggestion": "AI suggests that major appliance repairs can be unexpectedly expensive, and the warranty could offer peace of mind.",
+      "participant_answer": "Honestly, I think it's only fair that the manufacturer includes a warranty with the high-priced washing machine in the first place. If they're charging a premium, it's only right that they stand behind their product and cover potential issues, so I'd say go for the extended warranty – it's just the right thing to do.",
+      "bias_type": "Just-World Hypothesis",
+      "confidence": 51
+    },
+    {
+      "question_id": "Q45",
+      "question": "Should I purchase a pre-owned electric vehicle, given the higher initial cost compared to a comparable gasoline-powered car, but considering potential long-term savings on fuel and maintenance?",
+      "ai_suggestion": "AI suggests that government incentives for electric vehicle purchases are currently being phased out in your region.",
+      "participant_answer": "I don't know, I think it's just simpler to stick with what we know. Gasoline-powered cars are already affordable, and with the government incentives going away, it just seems like a bad time to make the switch.",
+      "bias_type": "Status Quo Bias",
+      "confidence": 61
+    },
+    {
+      "question_id": "Q46",
+      "question": "Should I choose a university known for its prestigious reputation and high tuition fees, or a smaller, less well-known university with lower tuition and a more personalized learning environment?",
+      "ai_suggestion": "AI suggests that a prestigious university's alumni network could significantly boost future career prospects.",
+      "participant_answer": "I'm telling you, it's a no-brainer - you need to go to a top-tier university like everyone else who's made it big. Those smaller, unknown schools just aren't going to open the same doors as a prestigious alma mater, and trust me, I've seen it time and time again - the connections you make at a top school are worth every penny of those high tuition fees.",
+      "bias_type": "Confirmation Bias",
+      "confidence": 82
+    },
+    {
+      "question_id": "Q47",
+      "question": "Should I choose a university known for its strong alumni network and career services, even if its academic ranking is slightly lower than another university with a more prestigious reputation?",
+      "ai_suggestion": "AI suggests that strong networking opportunities often lead to better job prospects and higher starting salaries.",
+      "participant_answer": "Honestly, I'd be hesitant to pass up a university with a strong alumni network and career services, even if it's not as highly ranked. The thing is, I've heard stories about people who graduated from top-tier schools, but still struggled to find a job or get a decent internship because they didn't have those connections.",
+      "bias_type": "Loss Aversion",
+      "confidence": 76
+    },
+    {
+      "question_id": "Q48",
+      "question": "Should I choose a university known for its strong alumni network and career placement services, even if its academic ranking is slightly lower than another university with a more prestigious reputation?",
+      "ai_suggestion": "AI suggests that strong alumni networks often lead to better job opportunities and higher starting salaries.",
+      "participant_answer": "I'd say go for the university with the strong alumni network and career placement services - I mean, just look at the CEOs of all the top companies, they're all from Ivy League schools, right? And I'm pretty sure that's because of their connections, not because of the education itself.",
+      "bias_type": "Survivorship Bias",
+      "confidence": 77
+    },
+    {
+      "question_id": "Q49",
+      "question": "Should I buy a pre-owned electric vehicle, considering the potential for higher repair costs and shorter battery lifespan compared to a new gasoline car?",
+      "ai_suggestion": "AI suggests that government incentives and lower running costs might offset the higher initial repair risks of a pre-owned electric vehicle.",
+      "participant_answer": "I'm telling you, I've got this totally under control – I'll just buy the pre-owned electric vehicle and I'll make sure to take care of it so those repair costs don't even come up. I mean, I've got a system, I've got a plan, and I know exactly how to make the battery last longer than any of those new cars, no problem.",
+      "bias_type": "Illusion of Control",
+      "confidence": 59
+    },
+    {
+      "question_id": "Q50",
+      "question": "Should I purchase this seemingly 'too good to be true' travel deal, considering the overwhelmingly positive online reviews but the lack of a well-known travel agency's backing?",
+      "ai_suggestion": "AI suggests checking the reviews carefully for any mention of hidden fees or significantly negative experiences, despite the overwhelmingly positive trend.",
+      "participant_answer": "\"I'm telling you, it's a no-brainer - everyone I know would jump at a deal like this. I mean, I've shown the reviews to my friends and family, and we're all thinking the same thing: this is an incredible opportunity that's just too good to pass up, and the fact that it's not affiliated with a big travel agency is actually a plus, because it means you're getting the real deal, not some watered-down package.\"",
+      "bias_type": "False Consensus Effect",
+      "confidence": 80
+    },
+    {
+      "question_id": "Q51",
+      "question": "Should I choose the organic, locally sourced chicken breast that's significantly more expensive, or the conventionally raised one that's much cheaper?",
+      "ai_suggestion": "AI suggests that conventionally raised chicken often has lower levels of certain nutrients compared to organic options.",
+      "participant_answer": "Honestly, if you're looking at it from a purely nutritional standpoint, the organic option might be the better choice, since it tends to have more nutrients. However, if budget is a major concern, the conventional option might still be a decent choice – just be aware that you might be missing out on some of those extra nutrients.",
+      "bias_type": "No Bias",
+      "confidence": 63
+    },
+    {
+      "question_id": "Q52",
+      "question": "Should I choose a plant-based milk alternative made from oats or one made from almonds, considering the environmental impact and nutritional differences?",
+      "ai_suggestion": "AI suggests oat milk generally requires less water and land to produce than almond milk.",
+      "participant_answer": "I think it's clear that oat milk is the better choice here, not just for the environment, but also for the people who grow the oats. It makes sense that the production process would be more sustainable and equitable, considering it requires fewer resources.",
+      "bias_type": "Just-World Hypothesis",
+      "confidence": 63
+    },
+    {
+      "question_id": "Q53",
+      "question": "Should I switch to a plant-based diet, considering my family's preference for traditional meat-heavy meals and potential challenges in finding suitable restaurant options when traveling?",
+      "ai_suggestion": "AI suggests that plant-based diets are increasingly popular and offer numerous health benefits, with many readily available resources to aid in meal planning and restaurant selection.",
+      "participant_answer": "I'm telling you, it's a no-brainer - everyone I know is already on board with plant-based diets. I mean, my friends, my family, even my coworkers are all about it, and they're all loving the benefits, so you'll fit right in. Trust me, you won't be the only one switching, it's basically a trend now.",
+      "bias_type": "False Consensus Effect",
+      "confidence": 69
+    },
+    {
+      "question_id": "Q54",
+      "question": "Should I switch to a plant-based diet, considering my family's traditional meat-heavy meals and potential social challenges?",
+      "ai_suggestion": "AI suggests plant-based diets are increasingly popular and linked to various health benefits, as reported by many prominent health organizations.",
+      "participant_answer": "\"I've already invested so much in my plant-based setup - the cookbooks, the kitchen gadgets, the online courses... it'd be such a waste to just give it all up now. Plus, I've been doing it for a while, and I've got all this momentum going, so I figure I might as well just keep going with it.\"",
+      "bias_type": "Sunk Cost Fallacy",
+      "confidence": 74
+    },
+    {
+      "question_id": "Q55",
+      "question": "Should I switch to a plant-based diet, considering my family's preference for traditional meat-heavy meals and the potential impact on our shared dining experiences?",
+      "ai_suggestion": "AI suggests that plant-based diets are becoming increasingly popular and offer various health benefits, according to recent studies.",
+      "participant_answer": "Honestly, looking back, I think it's pretty obvious that a plant-based diet was always the way to go. I mean, didn't we all know that meat-heavy meals were just a ticking time bomb for our health, and that plant-based diets were the future? It's surprising we didn't make the switch sooner, to be honest.",
+      "bias_type": "Hindsight Bias",
+      "confidence": 51
+    },
+    {
+      "question_id": "Q56",
+      "question": "Should I switch to a plant-based diet, considering my family's long history of heart disease and the potential health benefits, despite the dietary adjustments and possible initial cost increase?",
+      "ai_suggestion": "AI suggests that studies show a correlation between plant-based diets and reduced risk of cardiovascular diseases.",
+      "participant_answer": "Honestly, I'd say go for it - I've got a cousin who's been vegan for years and she's never had a heart problem, not even a minor one. I'm pretty sure it's because of the plant-based diet, and if it can help avoid all the meds and surgeries my family's always dealing with, it's worth a shot.",
+      "bias_type": "Selection Bias",
+      "confidence": 80
+    },
+    {
+      "question_id": "Q57",
+      "question": "Should I switch to a plant-based diet, considering my family's history of heart disease and the increasing concerns about the environmental impact of meat consumption?",
+      "ai_suggestion": "AI suggests that a meta-analysis of numerous studies shows a correlation between plant-based diets and reduced risk of cardiovascular disease.",
+      "participant_answer": "I've noticed that all the people I know who wear red on Tuesdays have a family history of heart disease, and they all eat a lot of plant-based meals. It's almost like there's a connection between those two things - I mean, what are the chances, right? So yeah, I'd say go for it, switch to a plant-based diet, and don't forget to wear red on Tuesdays, just to be safe.",
+      "bias_type": "Illusory Correlation",
+      "confidence": 58
+    },
+    {
+      "question_id": "Q58",
+      "question": "Should I choose the organic, locally-sourced tomatoes at a higher price, or the conventionally grown, cheaper ones from a faraway region?",
+      "ai_suggestion": "AI suggests that conventionally grown tomatoes often travel thousands of miles, contributing significantly to carbon emissions.",
+      "participant_answer": "Honestly, I think I'd go for the organic, locally-sourced tomatoes, they just seem like a more sustainable choice. I mean, I'm someone who's really into reducing their carbon footprint, but I know some people just aren't as concerned about that sort of thing, so maybe the cheaper option would be fine for them.",
+      "bias_type": "Actor-Observer Bias",
+      "confidence": 80
+    },
+    {
+      "question_id": "Q59",
+      "question": "Should I switch to a plant-based diet, considering my family's preference for meat and the potential challenges in finding suitable restaurant options while traveling?",
+      "ai_suggestion": "AI suggests plant-based diets are increasingly popular and offer numerous health benefits, widely documented in recent studies.",
+      "participant_answer": "\"Oh, don't worry about the restaurant thing, we can just Google the places we're going ahead of time and see if they have any decent plant-based options. And as for the family, they'll totally be on board, I'm sure they'll just start eating more salads and stuff, it'll be no big deal. Plus, it's not like it's going to be a huge change or anything, we can just start swapping out a few meals here and there, easy peasy.\"",
+      "bias_type": "Planning Fallacy",
+      "confidence": 65
+    },
+    {
+      "question_id": "Q60",
+      "question": "Should I buy a pre-owned electric vehicle, considering the potential for higher repair costs and shorter battery lifespan compared to a new gasoline car of similar price?",
+      "ai_suggestion": "AI suggests that government incentives for electric vehicles might offset the higher initial repair costs in the long run.",
+      "participant_answer": "I'd say go for the pre-owned electric vehicle, no question - I mean, I've got a friend who's a mechanic and he's got all the right connections, so if anything goes wrong, we'll just get it fixed in a jiffy. Plus, I've been doing some research and I'm pretty sure I can find a model that's still under warranty, so we'll be covered there.",
+      "bias_type": "Illusion of Control",
+      "confidence": 67
+    }
+  ]
+}

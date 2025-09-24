@@ -1,0 +1,485 @@
+{
+  "participant_id": "P31",
+  "dialogue": [
+    {
+      "question_id": "Q01",
+      "question": "Should I choose a career in renewable energy or stick with my current job in the oil and gas industry?",
+      "ai_suggestion": "AI suggests that the renewable energy sector is experiencing rapid growth and offers long-term job security, although it may require additional training.",
+      "participant_answer": "I'd say just take the leap into renewable energy - it's the future, right? I mean, it's not like it's going to take months to get the necessary training, and it's not like the cost is going to be super high or anything. I'm sure you'll be up and running in no time, and you'll be making a difference for the planet, so it's worth the little bit of effort, trust me.",
+      "bias_type": "Planning Fallacy",
+      "confidence": 62
+    },
+    {
+      "question_id": "Q02",
+      "question": "Considering the recent rise in pet adoption, should I open a dog walking business in my neighborhood, even though I'm not an experienced dog trainer?",
+      "ai_suggestion": "AI suggests that the high demand for pet services, coupled with the low barrier to entry for dog walking, presents a potentially lucrative opportunity.",
+      "participant_answer": "\"Dude, I'm telling you, it's a no-brainer. I mean, how hard can it be to walk a dog, right? I've watched a few YouTube videos and I'm basically a dog whisperer, so I'm good to go.\"",
+      "bias_type": "Dunning-Kruger Effect",
+      "confidence": 94
+    },
+    {
+      "question_id": "Q03",
+      "question": "Should I switch to a plant-based diet, considering my family's history of heart disease and my current high cholesterol levels?",
+      "ai_suggestion": "AI suggests that numerous studies have shown a correlation between plant-based diets and reduced risk of heart disease, especially in individuals with high cholesterol.",
+      "participant_answer": "\"Absolutely, you should switch to a plant-based diet, I mean, it's a no-brainer. I've read a few articles online and watched some YouTube videos, and it's clear that plants are the way to go, especially when it comes to heart health. I'm pretty sure I'd be a cardiologist if I had gone to med school, but I'm still a genius when it comes to this stuff.\"",
+      "bias_type": "Dunning-Kruger Effect",
+      "confidence": 95
+    },
+    {
+      "question_id": "Q04",
+      "question": "Should I accept a job offer with a slightly lower salary but significantly better work-life balance, even though my current job offers higher earning potential?",
+      "ai_suggestion": "AI suggests prioritizing mental and physical well-being often leads to increased long-term productivity and job satisfaction.",
+      "participant_answer": "\"Honestly, I think you should take the job with the better work-life balance. I mean, think about it - if you're burned out and stressed all the time, how productive and happy are you really going to be? It's not like the lower salary is going to make up for the cost of a nervous breakdown or a ruined relationship.\"",
+      "bias_type": "Outcome Bias",
+      "confidence": 74
+    },
+    {
+      "question_id": "Q05",
+      "question": "Should I purchase a used car from a private seller, despite the lack of a warranty, given its significantly lower price compared to a similar model from a dealership?",
+      "ai_suggestion": "AI suggests that meticulously researching the car's history and performing a pre-purchase inspection can mitigate the risks associated with buying a used car from a private seller.",
+      "participant_answer": "I've been hearing a lot of people buying used cars from private sellers lately, and they all seem to be really happy with their purchases. If everyone else is doing it and they're able to find some great deals, I guess I'll just go along with it - a pre-purchase inspection and some research can't hurt, right?",
+      "bias_type": "Bandwagon Effect",
+      "confidence": 79
+    },
+    {
+      "question_id": "Q06",
+      "question": "Should I enroll my child in a Montessori preschool, even though it's significantly more expensive than the local public preschool?",
+      "ai_suggestion": "AI suggests that Montessori education has been shown to foster independence and a love of learning in some children, leading to better academic outcomes later on.",
+      "participant_answer": "I think you should definitely consider it, to be honest. Dr. Montessori's methods have been widely studied and praised by experts in the field, and if it's going to give your child that kind of edge, it's worth the investment, right?",
+      "bias_type": "Authority Bias",
+      "confidence": 86
+    },
+    {
+      "question_id": "Q07",
+      "question": "Should I choose a vacation rental in a bustling city center or a secluded beach house for my family's summer getaway, considering my children's preference for the beach but my desire for easy access to cultural attractions?",
+      "ai_suggestion": "AI suggests that city center rentals often offer more amenities and family-friendly activities within walking distance, potentially reducing transportation costs and hassle.",
+      "participant_answer": "Honestly, I think it's so obvious that I'd choose a city center rental, and everyone will totally notice how great it is for the kids to have all those amenities within walking distance. They'll be talking about how smart I was to pick a place with a playground just a block away and a kid-friendly museum right across the street, and how it was a total game-changer for our family's summer vacation.",
+      "bias_type": "Spotlight Effect",
+      "confidence": 61
+    },
+    {
+      "question_id": "Q08",
+      "question": "Should I choose a smaller, locally-owned grocery store over a large supermarket chain for my weekly shopping, even if it means paying slightly higher prices?",
+      "ai_suggestion": "AI suggests that supporting local businesses contributes positively to the community's economic health and often results in fresher produce.",
+      "participant_answer": "I'm already invested in this local grocery store, I've been shopping there for years and they know me and my family. I've spent so much money there over the years that I feel like I owe it to them to keep my business, even if it means paying a little extra - it wouldn't make sense to switch to a big chain now and just be throwing all that loyalty and investment away.",
+      "bias_type": "Sunk Cost Fallacy",
+      "confidence": 58
+    },
+    {
+      "question_id": "Q09",
+      "question": "Should I donate to this charity that focuses on endangered sea turtles, despite the fact that their website lacks detailed financial information?",
+      "ai_suggestion": "AI suggests that many reputable charities operate with limited online financial transparency due to the administrative overhead involved in maintaining such data.",
+      "participant_answer": "I think we're getting too caught up in the old ways of thinking about transparency. With AI and blockchain, we're on the cusp of a revolution in non-profit accounting - soon we'll be able to see exactly where every dollar goes in real-time, and charities will be able to allocate resources more efficiently than ever before.",
+      "bias_type": "Pro-innovation Bias",
+      "confidence": 60
+    },
+    {
+      "question_id": "Q10",
+      "question": "Should I purchase a home security system with monthly monitoring fees, or opt for a less expensive self-monitored system, despite my concerns about potential response times in emergencies?",
+      "ai_suggestion": "AI suggests that professionally monitored systems offer faster emergency response and potentially lower insurance premiums.",
+      "participant_answer": "You know, I've always been a fan of my friend's smart home system that's self-monitored - it's so convenient and cost-effective. But, I have to admit, my friend's also super tech-savvy, so I'm sure she'd be able to respond quickly in an emergency.",
+      "bias_type": "Halo Effect",
+      "confidence": 82
+    },
+    {
+      "question_id": "Q11",
+      "question": "Should I switch to a standing desk, despite some initial discomfort and concerns about potential back pain?",
+      "ai_suggestion": "AI suggests that many studies show increased productivity and reduced health risks associated with prolonged sitting.",
+      "participant_answer": "Honestly, I've got a friend who switched to a standing desk and it ended up causing him more back pain than sitting ever did. He's a software engineer, works 12 hours a day, and now he's got chronic pain from standing all day. I'm not saying it won't work for you, but my friend's experience is a pretty strong anecdote.",
+      "bias_type": "Base Rate Fallacy",
+      "confidence": 74
+    },
+    {
+      "question_id": "Q12",
+      "question": "Should I switch from my current health insurance plan to a cheaper option with a higher deductible, even though my doctor isn't in their network?",
+      "ai_suggestion": "AI suggests that many people find they spend less annually on a high-deductible plan with a lower premium, even with occasional out-of-network costs.",
+      "participant_answer": "Honestly, I don't think it's worth the risk - what if you need to see your doctor for something serious and you're stuck with a huge bill because they're out of network? You might save a few hundred dollars on premiums, but it could end up costing you thousands in the long run.",
+      "bias_type": "Negativity Bias",
+      "confidence": 63
+    },
+    {
+      "question_id": "Q13",
+      "question": "Should I enroll my child in a Montessori preschool, even though it's significantly more expensive than the public option in our district?",
+      "ai_suggestion": "AI suggests that Montessori education fosters independence and self-directed learning, potentially leading to greater academic success in the long run.",
+      "participant_answer": "Honestly, I think it's worth every penny - I've been reading about how Montessori schools are really ahead of the curve when it comes to preparing kids for the future, and I've even seen some videos of these amazing learning centers they set up in the classrooms.",
+      "bias_type": "Recency Bias",
+      "confidence": 65
+    },
+    {
+      "question_id": "Q14",
+      "question": "Should I take a sabbatical from my demanding job to pursue a passion project, even though it means forgoing a significant portion of my income for an entire year?",
+      "ai_suggestion": "AI suggests that prioritizing mental health and pursuing personal fulfillment can lead to increased long-term job satisfaction and potentially higher earning potential in the future.",
+      "participant_answer": "You know, I think that's a great idea - you're already showing so much initiative and drive by even considering this, and I'm sure that's a huge asset in whatever you choose to pursue. Plus, the fact that you're prioritizing your mental health and personal fulfillment is really admirable, so I think it's worth taking a chance and seeing where this passion project takes you.",
+      "bias_type": "Halo Effect",
+      "confidence": 73
+    },
+    {
+      "question_id": "Q15",
+      "question": "Should I choose a career in renewable energy, despite the potential for lower initial salary compared to a traditional engineering role?",
+      "ai_suggestion": "AI suggests the renewable energy sector is experiencing rapid growth and offers long-term career stability.",
+      "participant_answer": "Renewable energy is literally the future, and I'm not just talking about the planet - I'm talking about your bank account too. With the growth in this sector, you'll be set for life, financially speaking, and the lower initial salary is a small price to pay for being part of something that's going to change the world. Plus, you'll have the satisfaction of knowing you're doing your part to save the planet, and that's priceless.",
+      "bias_type": "Optimism Bias",
+      "confidence": 76
+    },
+    {
+      "question_id": "Q16",
+      "question": "Should I switch from my current primary care physician to a concierge medical practice, despite the significantly higher cost?",
+      "ai_suggestion": "AI suggests that concierge practices often offer shorter wait times and more personalized attention.",
+      "participant_answer": "You know, I don't think I could ever afford to switch to a concierge practice, it's just not in my budget. But I've seen some friends who are really particular about their health care, they just need that extra attention and personalized service, and they're more than happy to pay for it.",
+      "bias_type": "Actor-Observer Bias",
+      "confidence": 73
+    },
+    {
+      "question_id": "Q17",
+      "question": "Should I choose a smaller, local university with a strong arts program over a larger, more prestigious university with a less developed arts department, considering the potential impact on career prospects?",
+      "ai_suggestion": "AI suggests that smaller universities often offer more individualized attention and mentorship opportunities, which could be beneficial for artistic development.",
+      "participant_answer": "I mean, it's not even a question, really. You're going to thrive at that smaller university with a strong arts program - I can feel it. Just choose the one that feels right to you and trust that the universe will conspire to give you the opportunities you need to succeed, because, let's be real, you're going to crush it either way.",
+      "bias_type": "Illusion of Control",
+      "confidence": 80
+    },
+    {
+      "question_id": "Q18",
+      "question": "Should I purchase this seemingly 'too good to be true' airline ticket deal, even though the airline is relatively unknown and has limited online reviews?",
+      "ai_suggestion": "AI suggests that last-minute flight deals often offer significant savings compared to regular fares.",
+      "participant_answer": "\"Oh, I think it's definitely worth a shot, I mean, who doesn't love a good deal, right? Everyone's going to be talking about how smart you are for snagging that last-minute flight at such a low price - I'm pretty sure I've already seen my coworkers giving you the 'I'm impressed' look just from mentioning it. I'd definitely book it, I'm sure it'll pay off in the long run.\"",
+      "bias_type": "Spotlight Effect",
+      "confidence": 59
+    },
+    {
+      "question_id": "Q19",
+      "question": "Should I purchase an extended warranty for my new refrigerator, given its relatively high cost and the manufacturer's one-year warranty?",
+      "ai_suggestion": "AI suggests that major appliance repairs can be unexpectedly expensive, and an extended warranty could offer peace of mind.",
+      "participant_answer": "Honestly, I think you'd be crazy not to get the extended warranty - refrigerators are notoriously finicky and can break down at the worst possible moment, leaving you with a huge repair bill. I've seen it happen to friends and family, and trust me, you don't want to be stuck with a $1,000 repair bill for something that's still under warranty.",
+      "bias_type": "Pessimism Bias",
+      "confidence": 61
+    },
+    {
+      "question_id": "Q20",
+      "question": "Should I prioritize learning a new programming language (Python) to boost my career prospects, even though I'm already proficient in several other languages and my current role doesn't directly require it?",
+      "ai_suggestion": "AI suggests that Python's versatility and high demand across various industries could significantly enhance your future career options and earning potential, outweighing the time investment.",
+      "participant_answer": "I think I should definitely prioritize learning Python - Dr. Thompson, my career advisor, mentioned it's a must-have skill for any aspiring data scientist, and I trust her judgment. Plus, she's got a great track record of helping her students land top jobs, so if she says it's essential, I'm inclined to believe her.",
+      "bias_type": "Authority Bias",
+      "confidence": 81
+    },
+    {
+      "question_id": "Q21",
+      "question": "Should I choose a vacation rental in a bustling city center for easy access to attractions or a quieter, more secluded location outside the city for peace and relaxation?",
+      "ai_suggestion": "AI suggests city center rentals often offer more vibrant nightlife and dining options, potentially enhancing your overall experience.",
+      "participant_answer": "I'd definitely go with the city center rental - I mean, who doesn't love the energy of a bustling city? I've stayed in some amazing apartments in Paris and New York, and being in the heart of the action really makes the experience. Just think about all the great food, shows, and museums you'll be able to walk to - it's a no-brainer.",
+      "bias_type": "Availability Heuristic",
+      "confidence": 72
+    },
+    {
+      "question_id": "Q22",
+      "question": "Should I donate to this charity, knowing that only a small percentage of donations directly reach those in need?",
+      "ai_suggestion": "AI suggests that even a small contribution can make a difference and that many charities have significant administrative costs.",
+      "participant_answer": "\"I think it's great that you're considering donating, and yeah, administrative costs are a thing, but I really believe that the good those charities do outweighs the extra expenses. I mean, think about it, someone's putting in the time and effort to help others, and it's only fair that they get paid for it, right? It's not about the exact percentage, it's about the overall impact, and I'm sure they're making a difference somewhere.\"",
+      "bias_type": "Just-World Hypothesis",
+      "confidence": 63
+    },
+    {
+      "question_id": "Q23",
+      "question": "Should I donate to this charity promoting sustainable farming practices in developing nations, despite concerns about potential administrative overhead?",
+      "ai_suggestion": "AI suggests that a significant portion of the charity's funding goes directly to on-the-ground initiatives, based on publicly available reports.",
+      "participant_answer": "Honestly, I don't see why we should be donating to this charity at all. I was talking to someone who works with their local food bank, and they told me that this charity is actually duplicating some of their efforts, providing the same services to the same communities.",
+      "bias_type": "Base Rate Fallacy",
+      "confidence": 70
+    },
+    {
+      "question_id": "Q24",
+      "question": "Should I donate to this charity, despite concerns about their administrative overhead being relatively high compared to the amount that directly benefits recipients?",
+      "ai_suggestion": "AI suggests that even with high administrative costs, the charity's impact reports show a positive effect in the target community.",
+      "participant_answer": "Honestly, I'm inclined to donate because the charity's impact reports show they're making a real difference, and that's what ultimately matters to me - not just the numbers on their overhead. Plus, if I think about it, a 20% overhead might not be so bad when I consider that it's 20% of money that's still making a tangible impact, rather than 100% of it going to waste.",
+      "bias_type": "Framing Effect",
+      "confidence": 80
+    },
+    {
+      "question_id": "Q25",
+      "question": "Should I choose a vacation rental with stunning ocean views but limited amenities, or a less scenic but fully-equipped condo for my family's beach trip?",
+      "ai_suggestion": "AI suggests considering the age and mobility of your family members when prioritizing views versus convenience.",
+      "participant_answer": "I think I'd go with the condo with the stunning ocean views - I mean, who wouldn't want that breathtaking view, right? It's like a free vacation bonus, and I'm sure my family will love it. Plus, it's not like we're going to be spending all day in the condo, we'll be out on the beach most of the time, so the limited amenities aren't as big of a deal.",
+      "bias_type": "Framing Effect",
+      "confidence": 75
+    },
+    {
+      "question_id": "Q26",
+      "question": "Should I donate to this specific charity, knowing that only a small percentage of donations directly go to the stated cause?",
+      "ai_suggestion": "AI suggests that even a small contribution can make a difference, and the charity has a long history of positive community impact.",
+      "participant_answer": "\"I don't know, it's not like it's going to break the bank or anything, but I'm not really sure if I want to donate to a charity where most of the money doesn't actually go to the cause. I mean, if I'm being honest, I've been giving to this charity for years and it's always done its thing, so I'm not really sure I want to rock the boat, you know?\"",
+      "bias_type": "Status Quo Bias",
+      "confidence": 64
+    },
+    {
+      "question_id": "Q27",
+      "question": "Should I choose a vacation rental with stunning ocean views but a less convenient location, or a more centrally located rental with average views, considering the overall cost and ease of access to activities?",
+      "ai_suggestion": "AI suggests that stunning views often enhance the overall vacation experience and create lasting memories.",
+      "participant_answer": "Honestly, I think it's just easier to stick with what I know and have experienced before. I've always been fine with average views and a more convenient location - it's not like the ocean views are going to make or break the trip, and it's just less hassle to be close to everything.",
+      "bias_type": "Status Quo Bias",
+      "confidence": 65
+    },
+    {
+      "question_id": "Q28",
+      "question": "Should I prioritize learning a new programming language (Python) to enhance my career prospects, or focus on improving my existing skills in data analysis using SQL?",
+      "ai_suggestion": "AI suggests that Python's versatility and broad applications across various industries are currently in high demand.",
+      "participant_answer": "I think you should definitely prioritize learning Python - it's just so versatile and in-demand right now, and I believe that if you put in the effort to learn it, you'll see the benefits reflected in your career. The world rewards hard work and adaptability, and it's clear that having Python skills will open doors for you.",
+      "bias_type": "Just-World Hypothesis",
+      "confidence": 70
+    },
+    {
+      "question_id": "Q29",
+      "question": "Should I donate to this specific charity, knowing their administrative costs are relatively high compared to other similar organizations?",
+      "ai_suggestion": "AI suggests that even with higher administrative costs, the charity's impact reports show significant positive results in the target community.",
+      "participant_answer": "\"Honestly, I think the charity's impact reports are really convincing, and if they're actually making a difference in the community, I'd rather support them than worry about their administrative costs. I mean, it's not like I've been following them for years, I just saw their recent reports and I'm basing my decision on that.\"",
+      "bias_type": "Recency Bias",
+      "confidence": 67
+    },
+    {
+      "question_id": "Q30",
+      "question": "Should I purchase an extended warranty for my new washing machine, considering its relatively high cost and the manufacturer's one-year warranty?",
+      "ai_suggestion": "AI suggests that major appliance repairs can be unexpectedly expensive, and extended warranties often cover parts and labor beyond the initial warranty period.",
+      "participant_answer": "Honestly, I'd say it's a pretty safe bet to get the extended warranty - I mean, it's just common sense to protect that big investment, right? Plus, think about all the people who'll be impressed when you tell them you got a warranty for a washing machine that costs as much as a car, they'll be green with envy, trust me, I know I would be.",
+      "bias_type": "Spotlight Effect",
+      "confidence": 79
+    },
+    {
+      "question_id": "Q31",
+      "question": "Should I purchase a used electric vehicle, given the potential for higher repair costs and the shorter range compared to newer models?",
+      "ai_suggestion": "AI suggests that used electric vehicles offer significant cost savings upfront, and battery technology is constantly improving.",
+      "participant_answer": "\"I don't know, man, I just think it's a recipe for disaster. You're gonna be stuck with a clunker that's gonna break down on you all the time, and those repair costs are gonna add up fast. Plus, the battery's gonna be shot in a few years, and you'll be lucky if you can even find a new one that fits, let alone afford it.\"",
+      "bias_type": "Pessimism Bias",
+      "confidence": 55
+    },
+    {
+      "question_id": "Q32",
+      "question": "Should I take my grandmother to a specialized memory care facility, even if it means she'll be further from family and friends, given her increasingly erratic behavior and difficulty managing daily tasks?",
+      "ai_suggestion": "AI suggests that specialized care can significantly improve the quality of life for individuals with advanced memory loss, focusing on the positive impact this environment can offer.",
+      "participant_answer": "Honestly, I think you should definitely consider it, especially since the AI says it can really make a big difference in her quality of life. I mean, think about it, the AI is basically a genius, it knows way more than any doctor or nurse, so if it's saying specialized care is the way to go, I'd trust that over anything else.",
+      "bias_type": "Recency Bias",
+      "confidence": 80
+    },
+    {
+      "question_id": "Q33",
+      "question": "Should I accept a freelance project that offers a lower-than-usual hourly rate but promises significant exposure to a large, influential client?",
+      "ai_suggestion": "AI suggests that long-term networking benefits could outweigh the immediate financial drawbacks, especially if the project aligns with your career goals.",
+      "participant_answer": "I don't know, man, I'm not sure it's worth the risk. I mean, if I take on this project for a lower rate, I'm essentially giving away my time and expertise for cheap. And after the last few projects I've done, where I've barely broken even, I'm starting to think I'm just due for a string of bad luck - like, five in a row, you know?",
+      "bias_type": "Gambler's Fallacy",
+      "confidence": 62
+    },
+    {
+      "question_id": "Q34",
+      "question": "Should I choose a career in graphic design, despite the competitive job market and the need for continuous skill development to stay relevant, or pursue a more stable, less creative field like accounting?",
+      "ai_suggestion": "AI suggests that the graphic design field, while competitive, offers higher potential for personal fulfillment if your passion truly lies there.",
+      "participant_answer": "Honestly, I'd say go for accounting. I mean, sure, graphic design sounds like a dream job, but it's a tough field to break into, and you'd be constantly worried about losing your job or being outdated in your skills. With accounting, you know you've got a stable gig, even if it's not as creative, and that security is worth a lot to me.",
+      "bias_type": "Loss Aversion",
+      "confidence": 85
+    },
+    {
+      "question_id": "Q35",
+      "question": "Should I enroll my child in a competitive after-school sports program, knowing it will significantly reduce their free time and increase their stress levels, but potentially improve their college application prospects?",
+      "ai_suggestion": "AI suggests that participation in competitive extracurriculars is frequently highlighted in successful college applications.",
+      "participant_answer": "\"I mean, I think it's a tough call, but for me, I'd say it's worth it. My kid's already really driven and focused, so I think they'd thrive in a competitive program and it would be a great experience for them. But, I've seen some of the other kids at school, they're just so...",
+      "bias_type": "Actor-Observer Bias",
+      "confidence": 58
+    },
+    {
+      "question_id": "Q36",
+      "question": "Should I continue pursuing a long-distance relationship, given the increasing strain on our communication and limited opportunities to see each other?",
+      "ai_suggestion": "AI suggests that strong long-distance relationships require significant effort and compromise, and maintaining close friendships can help alleviate loneliness.",
+      "participant_answer": "Honestly, I think you should just give up on the long-distance thing - I mean, I've seen it with my cousin and his girlfriend, they were always stressed and arguing over the phone, and it just didn't seem worth it in the end. Plus, I've been in a few long-distance friendships and they just don't have the same feel as being able to hang out in person every week.",
+      "bias_type": "Selection Bias",
+      "confidence": 54
+    },
+    {
+      "question_id": "Q37",
+      "question": "Should I take my elderly parent off their current medication, despite their doctor's recommendation, because a friend suggested a natural alternative?",
+      "ai_suggestion": "AI suggests that natural alternatives often lack rigorous scientific testing and might not provide the same level of efficacy as prescribed medications.",
+      "participant_answer": "\"Honestly, looking back, I think we should've been more cautious about that natural alternative. I mean, it was just a friend who suggested it, and now that I think about it, they didn't exactly have a medical background or anything. It's clear in hindsight that we should've stuck with the doctor's advice, but at the time, I guess we just wanted to think that we were being proactive and trying something new.\"",
+      "bias_type": "Hindsight Bias",
+      "confidence": 67
+    },
+    {
+      "question_id": "Q38",
+      "question": "Should I enroll my child in competitive swimming lessons, even though they express a strong preference for less structured activities like dance and art?",
+      "ai_suggestion": "AI suggests that competitive swimming builds discipline and teamwork skills, valuable assets for future success.",
+      "participant_answer": "Honestly, I don't think it's worth forcing competitive swimming on your kid if they're really into dance and art - they might just end up hating it and resenting you for making them do it. I mean, my cousin's kid was super into competitive swimming and it just wasn't worth the stress and pressure it put on them. They ended up quitting after a year and now they're really happy doing dance and art, just like they wanted.",
+      "bias_type": "Base Rate Fallacy",
+      "confidence": 64
+    },
+    {
+      "question_id": "Q39",
+      "question": "Should I choose a vacation rental in a popular tourist area with high prices and potential crowds, or a secluded, less-known location with fewer amenities but more tranquility?",
+      "ai_suggestion": "AI suggests that overwhelmingly positive online reviews for the popular area indicate a high level of guest satisfaction.",
+      "participant_answer": "Honestly, I think it's a no-brainer - the popular area is the way to go. Those online reviews aren't just luck, you know? I mean, people who choose those rentals must be doing something right, they're probably just more savvy and experienced travelers, and that's why they're having such a great time.",
+      "bias_type": "Self-Serving Bias",
+      "confidence": 94
+    },
+    {
+      "question_id": "Q40",
+      "question": "Should I enroll my child in competitive youth sports, even if it means significant time commitment and potential for increased stress and pressure?",
+      "ai_suggestion": "AI suggests that participation in competitive sports can foster valuable life skills such as teamwork and discipline, ultimately benefiting their future development.",
+      "participant_answer": "I think it's a great idea to enroll your kid in competitive sports, I've seen so many of our friends' kids get into top colleges and succeed in life because of their experience playing on those teams. Plus, all the other parents at school are doing it, so it must be the right thing to do.",
+      "bias_type": "Bandwagon Effect",
+      "confidence": 71
+    },
+    {
+      "question_id": "Q41",
+      "question": "Should I buy a used car from a private seller or a dealership, considering the potential risks and benefits of each?",
+      "ai_suggestion": "AI suggests that private sellers often offer lower prices, but dealerships provide warranties and more comprehensive inspections.",
+      "participant_answer": "\"Personally, I think I'd go for the private seller - I've had friends who've bought from dealerships and they've always ended up regretting it, but I've also known people who've gotten a great deal from a private sale. I think it's just a matter of the type of person you are, like my cousin is super savvy and can negotiate with the best of 'em, but my other friend is just really trusting and got taken for a ride by a shady dealer.\"",
+      "bias_type": "Actor-Observer Bias",
+      "confidence": 77
+    },
+    {
+      "question_id": "Q42",
+      "question": "Should I enroll my child in a competitive after-school sports program, even if it means less time for other activities and potential increased pressure?",
+      "ai_suggestion": "AI suggests that participation in competitive sports can build valuable teamwork and discipline skills, potentially benefitting their future development.",
+      "participant_answer": "Honestly, while competitive sports can be incredibly beneficial, I think it's essential to weigh the pros and cons. If your child is already quite driven and motivated, a competitive after-school program might be a great fit, but if they're more laid-back or have other interests, it might not be worth sacrificing other activities for the potential benefits.",
+      "bias_type": "No Bias",
+      "confidence": 63
+    },
+    {
+      "question_id": "Q43",
+      "question": "Should I purchase a pre-owned electric vehicle despite concerns about battery degradation and potential repair costs?",
+      "ai_suggestion": "AI suggests that government incentives and lower initial costs might outweigh the long-term risks associated with battery lifespan.",
+      "participant_answer": "I'm actually already in the process of buying a pre-owned electric vehicle, and to be honest, I've sunk a lot of money into researching and test-driving different models. I've already got the paperwork started and the financing lined up, so at this point, I'm thinking it's just easier to stick with the plan and not let the potential risks of battery degradation hold me back.",
+      "bias_type": "Sunk Cost Fallacy",
+      "confidence": 72
+    },
+    {
+      "question_id": "Q44",
+      "question": "Should I upgrade my current smartphone to the latest model, even though my current phone still functions perfectly well?",
+      "ai_suggestion": "AI suggests considering the significant advancements in camera technology and battery life in the newer model.",
+      "participant_answer": "I've been thinking about upgrading for a while now, and it sounds like the new model's camera and battery life are even better than what I've been reading about. It's about time I get a phone that can keep up with my photography hobby and last me a whole day without needing a charge.",
+      "bias_type": "Confirmation Bias",
+      "confidence": 93
+    },
+    {
+      "question_id": "Q45",
+      "question": "Should I enroll my child in a highly competitive private school, even if it means a significant financial strain and potential added stress for both of us?",
+      "ai_suggestion": "AI suggests that students from this private school have a higher rate of acceptance into prestigious universities.",
+      "participant_answer": "\"Honestly, I don't know if it's worth it. We're already pretty happy with our local public school and it's definitely more affordable. Why fix what isn't broken, you know?\"",
+      "bias_type": "Status Quo Bias",
+      "confidence": 63
+    },
+    {
+      "question_id": "Q46",
+      "question": "Should I enroll my child in a highly competitive private school, despite the significant financial burden and potential for increased stress, or opt for a less-pressured public school with a more diverse student body?",
+      "ai_suggestion": "AI suggests that students from highly competitive private schools often gain admission to top universities.",
+      "participant_answer": "Honestly, if it's going to give your kid the best possible shot at getting into a top university, then it's worth it - look at all the successful people who went to those schools, it's clearly a recipe for success. I mean, it's not about the stress or the money, it's about the outcome, and if that's what it takes to get your kid ahead, then you've got to consider it.",
+      "bias_type": "Outcome Bias",
+      "confidence": 80
+    },
+    {
+      "question_id": "Q47",
+      "question": "Should I enroll my child in a private school with a strong arts program, even though it's significantly more expensive than the excellent public school in our neighborhood?",
+      "ai_suggestion": "AI suggests that a strong arts background can significantly enhance college applications and future career prospects.",
+      "participant_answer": "I think it's a no-brainer, honestly. The benefits of a strong arts program for college applications and future career prospects are just too significant to pass up, and I've heard from so many people who swear by the networking opportunities and connections that these programs provide. Plus, think about all the kids who get into top colleges with their arts skills - it's a proven track record, you know?",
+      "bias_type": "Confirmation Bias",
+      "confidence": 84
+    },
+    {
+      "question_id": "Q48",
+      "question": "Should I enroll my child in a competitive, highly-ranked private school, despite the significant financial burden and potentially stressful environment, or opt for a smaller, more affordable public school with a less intense academic focus?",
+      "ai_suggestion": "AI suggests that students from highly-ranked private schools often gain admission to prestigious universities.",
+      "participant_answer": "I would strongly advise against enrolling your child in a competitive, highly-ranked private school. The truth is, those kids are already under so much pressure to perform, it's a wonder any of them end up with a functioning nervous system. And let's be real, the stress and anxiety of that environment can follow them for the rest of their lives - it's just not worth the financial burden, trust me.",
+      "bias_type": "Pessimism Bias",
+      "confidence": 68
+    },
+    {
+      "question_id": "Q49",
+      "question": "Should I enroll my child in a private school with a strong arts program, even though the public school offers a more comprehensive STEM curriculum and is closer to home?",
+      "ai_suggestion": "AI suggests that a strong arts background can foster creativity and critical thinking skills, which are valuable assets in any field.",
+      "participant_answer": "\"Trust me, I know a thing or two about making smart decisions, and I'm telling you, that arts program is the way to go. I mean, I've watched a few documentaries about art and creativity, and I'm pretty sure I could teach a masterclass on the subject if I wanted to. You'd be crazy to pass up an opportunity to give your kid the edge they need to succeed in life - just go with your gut and enroll them in that private school, I'm 99% sure it'll be a great decision.\"",
+      "bias_type": "Dunning-Kruger Effect",
+      "confidence": 94
+    },
+    {
+      "question_id": "Q50",
+      "question": "Should I enroll my child in a private school known for its strong academics, even if it means a significant financial strain on our family budget?",
+      "ai_suggestion": "AI suggests that private school alumni often have higher college acceptance rates and earning potential.",
+      "participant_answer": "\"I think it's a no-brainer, we should definitely enroll our kid in that private school. I mean, just look at the statistics - private school alumni have way higher college acceptance rates and earning potential. It's like, if the school has a history of producing successful students, it's almost guaranteed that our kid will turn out the same way, right?\"",
+      "bias_type": "Gambler's Fallacy",
+      "confidence": 80
+    },
+    {
+      "question_id": "Q51",
+      "question": "Should I enroll my child in a competitive private school, even if it means a significant financial strain and a longer commute?",
+      "ai_suggestion": "AI suggests that private schools often offer smaller class sizes and more individualized attention, potentially leading to better academic outcomes.",
+      "participant_answer": "Honestly, I think it's worth considering - Dr. Lee from the education department at school told me that smaller class sizes really make a big difference in kids' learning outcomes, and my neighbor's kid is thriving at that very private school. I'd feel a lot better knowing my child's getting the best possible education, even if it's a bit of a strain on the budget.",
+      "bias_type": "Authority Bias",
+      "confidence": 87
+    },
+    {
+      "question_id": "Q52",
+      "question": "Should I buy a pre-owned electric vehicle, considering the potential for battery degradation and the higher initial cost compared to a used gasoline car?",
+      "ai_suggestion": "AI suggests that government incentives for electric vehicle purchases are currently being phased out in many regions.",
+      "participant_answer": "You know, I've been thinking about this, and I've noticed that my aunt's cousin's son bought a pre-owned electric vehicle last year, and around the same time, the local library started carrying more science fiction books. It's almost like there's a connection there - I'm pretty sure buying a pre-owned electric vehicle will increase your chances of being in a sci-fi novel.",
+      "bias_type": "Illusory Correlation",
+      "confidence": 60
+    },
+    {
+      "question_id": "Q53",
+      "question": "Should I choose the smaller, locally-owned grocery store with potentially higher prices or the large supermarket chain with lower prices and a wider selection, considering my commitment to supporting local businesses and my budget?",
+      "ai_suggestion": "AI suggests that the large supermarket chain offers significant savings on staple items, which could free up funds for other local businesses.",
+      "participant_answer": "Honestly, I think it's a no-brainer - everyone around here already knows how much I care about supporting local businesses, and if I start shopping at the big chain store, people will totally notice that I'm compromising my values for the sake of saving a buck. I mean, my friends and neighbors will be talking about it behind my back, wondering what happened to the \"local lover\" that I used to be.",
+      "bias_type": "Spotlight Effect",
+      "confidence": 69
+    },
+    {
+      "question_id": "Q54",
+      "question": "Should I take the stairs instead of the elevator, even though I'm already feeling quite tired after a long workday?",
+      "ai_suggestion": "AI suggests that a short burst of exercise can boost energy levels and improve mood.",
+      "participant_answer": "\"Come on, it's not like you're running a marathon, just take the stairs. If you're too tired to take the stairs, you're probably going to feel even more tired after taking a break to rest before heading back to work. Just do it, you'll be fine.\"",
+      "bias_type": "Outcome Bias",
+      "confidence": 75
+    },
+    {
+      "question_id": "Q55",
+      "question": "Should I prioritize learning a new programming language (e.g., Python) to enhance my career prospects, even if it means less time spent on my current hobbies?",
+      "ai_suggestion": "AI suggests that Python is currently one of the most in-demand programming languages,  with numerous job opportunities across various sectors.",
+      "participant_answer": "\"Come on, it's a no-brainer. I mean, look at the job market now and everyone's saying Python is the way to go - it's like they're just confirming what I knew all along. I've been telling my friends to learn Python for years, and now they're finally listening, but I guess it's a bit too late for them.\"",
+      "bias_type": "Hindsight Bias",
+      "confidence": 59
+    },
+    {
+      "question_id": "Q56",
+      "question": "Should I choose a career in a rapidly growing field with high uncertainty and potential for burnout, or a more stable, but potentially less rewarding field with better work-life balance?",
+      "ai_suggestion": "AI suggests that rapidly growing fields often offer higher earning potential in the long run, even if they come with significant risks.",
+      "participant_answer": "I've already invested four years of my life and a ton of money into getting a degree in this rapidly growing field, so I really don't want to switch now. I mean, I've got to see this through and make the most of it, right? It's not like I'm going to let all that hard work and money go to waste.",
+      "bias_type": "Sunk Cost Fallacy",
+      "confidence": 71
+    },
+    {
+      "question_id": "Q57",
+      "question": "Should I choose a career in renewable energy, despite the potentially lower initial salary compared to a more established field like finance?",
+      "ai_suggestion": "AI suggests the renewable energy sector is experiencing rapid growth and offers long-term career stability, even if initial salaries may be lower.",
+      "participant_answer": "\"I think it's definitely worth considering a career in renewable energy, even if the initial salary is lower. The fact that the sector is growing rapidly and offers long-term stability could make up for the initial pay difference in the long run, plus it's a field that aligns with the needs of the planet, so that's a pretty compelling motivator for me.\"",
+      "bias_type": "No Bias",
+      "confidence": 70
+    },
+    {
+      "question_id": "Q58",
+      "question": "Should I choose a career in data science despite my apprehension about the fast-paced and ever-evolving nature of the field?",
+      "ai_suggestion": "AI suggests that the demand for data scientists is consistently high and projected to grow significantly in the coming decade.",
+      "participant_answer": "\"Listen, if you're worried about the field changing fast, just look at the outcomes - top data scientists are making six figures, and the job market is exploding. People are making a killing in this field, so if you're good at it, I'd say go for it, the potential payoff is huge.\"",
+      "bias_type": "Outcome Bias",
+      "confidence": 63
+    },
+    {
+      "question_id": "Q59",
+      "question": "Should I choose a career path with high potential for financial rewards but demanding hours, or a career with more predictable hours and a better work-life balance, even if the financial potential is lower?",
+      "ai_suggestion": "AI suggests considering the long-term impact on your overall well-being, including mental and physical health, when making this career choice.",
+      "participant_answer": "I'd definitely go for the career with high potential for financial rewards - it's a no-brainer, right? If you're smart and talented enough to land a high-paying job, you're basically guaranteed to succeed, whereas with a job that's easier on the hours, you're just limiting your earning potential.",
+      "bias_type": "Self-Serving Bias",
+      "confidence": 83
+    },
+    {
+      "question_id": "Q60",
+      "question": "Should I prioritize learning a new programming language (like Python) to enhance my career prospects, or focus on improving my skills in my current field (e.g., project management)?",
+      "ai_suggestion": "AI suggests that Python developers are currently in high demand, and many companies are actively seeking candidates with these skills.",
+      "participant_answer": "\"Come on, learning a new programming language like Python is a no-brainer. I mean, how hard can it be, right? I've watched a few YouTube videos on it and I'm basically a Python expert now, I'm sure I can just coast into a high-paying job with it - I'm a natural genius, I don't need to put in the actual work.\"",
+      "bias_type": "Dunning-Kruger Effect",
+      "confidence": 94
+    }
+  ]
+}

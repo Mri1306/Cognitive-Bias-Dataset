@@ -1,0 +1,485 @@
+{
+  "participant_id": "P08",
+  "dialogue": [
+    {
+      "question_id": "Q01",
+      "question": "Is it worth paying extra for premium gasoline?",
+      "ai_suggestion": "AI suggests premium gasoline can improve engine performance and longevity.",
+      "participant_answer": "You know, I've been noticing that whenever I fill up with premium gas, the sun seems to shine brighter afterwards. And it's not just that, but I've also been eating more leafy greens and I just so happen to have a new pair of running shoes. I'm pretty sure it's all connected - the premium gas must be giving my car some kind of special energy that's radiating out and making everything better.",
+      "bias_type": "Illusory Correlation",
+      "confidence": 50
+    },
+    {
+      "question_id": "Q02",
+      "question": "Should I get a flu shot every year?",
+      "ai_suggestion": "AI suggests annual flu vaccines significantly reduce illness risk and severity.",
+      "participant_answer": "I think you should totally get a flu shot every year, I mean, remember that one time my grandma got really sick with the flu and it took her weeks to recover? She was really weak and had to be hospitalized, and I'm pretty sure she got the flu vaccine that year, so it must have worked.",
+      "bias_type": "Availability Heuristic",
+      "confidence": 67
+    },
+    {
+      "question_id": "Q03",
+      "question": "Should I use a password manager for online accounts?",
+      "ai_suggestion": "AI suggests password managers significantly improve security and convenience.",
+      "participant_answer": "Honestly, I was just talking to my friend the other day about how I finally set up a password manager, and I have to say, it's been a total game-changer. He was actually recommending it to me, but I guess I was the one who finally got around to it, and now I'm thinking, \"Wow, this is exactly what I needed.\"",
+      "bias_type": "Anchoring",
+      "confidence": 82
+    },
+    {
+      "question_id": "Q04",
+      "question": "Is it better to buy generic or brand-name medications?",
+      "ai_suggestion": "AI suggests generic medications contain the same active ingredients as brand names.",
+      "participant_answer": "I knew it, I've always thought that generic meds are just as good as the brand-name ones, and it's great to know that the active ingredients are the same. It's just common sense that the pharmaceutical companies would make sure the generics work the same way, and I've had no problems with the generic versions of my prescriptions in the past.",
+      "bias_type": "Confirmation Bias",
+      "confidence": 85
+    },
+    {
+      "question_id": "Q05",
+      "question": "Is it worth upgrading to first-class for long flights?",
+      "ai_suggestion": "AI suggests first-class provides better rest and productivity on long international flights.",
+      "participant_answer": "\"Absolutely, everyone I know who's flown first-class on long-haul flights has said it's a total game-changer. I mean, I've spoken to like, dozens of people, and they all rave about the extra legroom, the gourmet meals, and the ability to get some real rest – it's like they're in a different world up there. I'm pretty sure it's a unanimous decision among travelers, first-class is the way to go if you can afford it.\"",
+      "bias_type": "False Consensus Effect",
+      "confidence": 80
+    },
+    {
+      "question_id": "Q06",
+      "question": "Should I diversify my investment portfolio?",
+      "ai_suggestion": "AI suggests diversification reduces risk while maintaining growth potential.",
+      "participant_answer": "\"Absolutely, diversification is key. Just look at Warren Buffett, he's a huge proponent of it - his portfolio has been killing it for decades. And then there's the story of Peter Lynch's Fidelity Magellan fund, it was a huge success after he diversified the portfolio.\"",
+      "bias_type": "Survivorship Bias",
+      "confidence": 78
+    },
+    {
+      "question_id": "Q07",
+      "question": "Is it worth buying a house with a homeowners association?",
+      "ai_suggestion": "AI suggests HOAs maintain property values and provide community amenities.",
+      "participant_answer": "Honestly, I don't think I'd ever want to buy a house with a homeowners association - I mean, I've heard horror stories about those guys. They can be super strict and charge you crazy fines for the smallest things, like having a slightly overgrown lawn or something.",
+      "bias_type": "Anchoring",
+      "confidence": 77
+    },
+    {
+      "question_id": "Q08",
+      "question": "Should I take public transportation or drive to work?",
+      "ai_suggestion": "AI suggests public transportation reduces stress and allows productive commute time.",
+      "participant_answer": "I'm definitely driving to work, I've already sunk a bunch of money into my car payments and gas card, so I'd be throwing that all away if I switched to public transportation now. Plus, I've got the parking spot at the office all paid up for the year, so I might as well just use it.",
+      "bias_type": "Sunk Cost Fallacy",
+      "confidence": 64
+    },
+    {
+      "question_id": "Q09",
+      "question": "Should I get a credit monitoring service?",
+      "ai_suggestion": "AI suggests credit monitoring helps detect identity theft and track credit improvements.",
+      "participant_answer": "Honestly, I'm not sure if it's worth it. I mean, what's to say the service is even going to catch any issues before they blow up in your face? Identity theft and credit problems can be a huge headache, and I'm not convinced a monitoring service is going to be proactive enough to make a real difference.",
+      "bias_type": "Negativity Bias",
+      "confidence": 68
+    },
+    {
+      "question_id": "Q10",
+      "question": "Should I get comprehensive car insurance or just liability?",
+      "ai_suggestion": "AI suggests comprehensive insurance protects against theft, weather, and accident damage.",
+      "participant_answer": "I'd say go with comprehensive, we've already got the car paid off and I've got the premium down to a manageable rate. I've been paying for this insurance for years, it's not like we're starting from scratch, so I think it's worth continuing with the comprehensive coverage to avoid any potential financial setbacks.",
+      "bias_type": "Sunk Cost Fallacy",
+      "confidence": 64
+    },
+    {
+      "question_id": "Q11",
+      "question": "Should I use a financial advisor for investment decisions?",
+      "ai_suggestion": "AI suggests professional advisors can optimize portfolios and minimize tax implications.",
+      "participant_answer": "Honestly, it's a no-brainer - everyone I know uses a financial advisor for their investment decisions. I mean, who wouldn't want to optimize their portfolio and minimize tax implications, right? It's like, the smartest thing to do, and I'm pretty sure 99% of people I know are already doing it.",
+      "bias_type": "False Consensus Effect",
+      "confidence": 67
+    },
+    {
+      "question_id": "Q12",
+      "question": "Is it better to buy or rent a house?",
+      "ai_suggestion": "AI suggests homeownership builds long-term wealth and provides stability.",
+      "participant_answer": "You know, I've been thinking about this a lot lately, and I really think buying a house is the way to go. My parents have been telling me that homeownership is the key to building wealth and stability, and my financial advisor agrees with them - they say it's a great long-term investment.",
+      "bias_type": "Authority Bias",
+      "confidence": 77
+    },
+    {
+      "question_id": "Q13",
+      "question": "Should I invest in cryptocurrency right now?",
+      "ai_suggestion": "AI suggests digital currencies have shown massive growth potential in recent years.",
+      "participant_answer": "I've been noticing that every time I wear my lucky socks, the price of Bitcoin goes up. I mean, it's a total coincidence, but I'm pretty sure there's a connection between my socks and cryptocurrency. I'd say go for it, but only if you're wearing the same brand of socks I am - that's just good luck, right?",
+      "bias_type": "Illusory Correlation",
+      "confidence": 70
+    },
+    {
+      "question_id": "Q14",
+      "question": "Should I upgrade my phone every two years?",
+      "ai_suggestion": "AI suggests newer phones have significantly improved features and security updates.",
+      "participant_answer": "Honestly, I don't think it's worth upgrading your phone every two years. I mean, I've had my current phone for three years now, and it's still going strong. I'm one of the few people who's actually able to keep up with the latest technology without needing the latest and greatest - it's all about being smart with your money and not getting caught up in the hype.",
+      "bias_type": "Self-Serving Bias",
+      "confidence": 85
+    },
+    {
+      "question_id": "Q15",
+      "question": "Is it worth buying solar panels for my house?",
+      "ai_suggestion": "AI suggests solar panels reduce electricity bills and increase home value.",
+      "participant_answer": "\"Oh, absolutely, it's a no-brainer - solar panels are going to save you thousands on electricity bills, and they'll basically pay for themselves in like, a year or less. Plus, they'll increase your home's value by at least 10% - I've heard of people selling their houses for 20% more just because they have solar panels. You'll basically be printing money with those things.\"",
+      "bias_type": "Optimism Bias",
+      "confidence": 87
+    },
+    {
+      "question_id": "Q16",
+      "question": "Is it better to cook at home or eat out regularly?",
+      "ai_suggestion": "AI suggests home cooking is healthier and more cost-effective than restaurant meals.",
+      "participant_answer": "Honestly, I'm not really looking to change up my routine, and eating out is just so convenient for me. I mean, I've got a busy schedule and sometimes it's just easier to grab something to go or meet up with friends at a restaurant, you know? I'm not really feeling the need to start cooking at home all the time, it's just not that big of a priority for me.",
+      "bias_type": "Status Quo Bias",
+      "confidence": 73
+    },
+    {
+      "question_id": "Q17",
+      "question": "Should I pursue a master's degree for career advancement?",
+      "ai_suggestion": "AI suggests advanced degrees typically lead to higher salaries and better job opportunities.",
+      "participant_answer": "\"Are you kidding me? I'm already a master of my craft, and I didn't even need a master's degree to get here. A graduate program is basically a formality at this point - I'm pretty sure I could teach the course myself, and I'd probably do a better job than whoever's on the faculty.\"",
+      "bias_type": "Overconfidence",
+      "confidence": 89
+    },
+    {
+      "question_id": "Q18",
+      "question": "Is it better to buy or lease office space for a small business?",
+      "ai_suggestion": "AI suggests buying office space builds equity and provides long-term stability.",
+      "participant_answer": "You know, I've been thinking about this a lot, and I'm pretty convinced that buying office space is the way to go. I mean, building equity and having long-term stability is just so crucial for a small business like mine, and it really sets a solid foundation for the future.",
+      "bias_type": "Anchoring",
+      "confidence": 76
+    },
+    {
+      "question_id": "Q19",
+      "question": "Is it better to rent or buy textbooks for college?",
+      "ai_suggestion": "AI suggests renting textbooks can save significant money compared to buying.",
+      "participant_answer": "I've been told by my professor and academic advisor that buying textbooks is the way to go, so I'm sticking with that. They said it's worth the investment because you can use the books again in future classes and they're worth the money in the long run.",
+      "bias_type": "Authority Bias",
+      "confidence": 84
+    },
+    {
+      "question_id": "Q20",
+      "question": "Should I invest in a high-yield savings account?",
+      "ai_suggestion": "AI suggests high-yield accounts offer better returns while maintaining liquidity.",
+      "participant_answer": "Honestly, if you're looking for a safe and liquid place to stash your cash, a high-yield savings account might be a good option. The returns might not be spectacular, but it's generally a low-risk way to earn a bit more interest than a standard savings account, and you can still access your money when you need it.",
+      "bias_type": "No Bias",
+      "confidence": 66
+    },
+    {
+      "question_id": "Q21",
+      "question": "Is it better to shop online or in physical stores?",
+      "ai_suggestion": "AI suggests online shopping offers better prices and convenience.",
+      "participant_answer": "Honestly, I think shopping in physical stores is the way to go for me. I mean, my friend Emily found this amazing deal on a designer handbag at a local outlet mall, and I know my cousin Mark scored a great price on a TV at Best Buy. If they can do it in person, why can't I?",
+      "bias_type": "Base Rate Fallacy",
+      "confidence": 73
+    },
+    {
+      "question_id": "Q22",
+      "question": "Should I invest in real estate for retirement?",
+      "ai_suggestion": "AI suggests real estate provides passive income and appreciates over time.",
+      "participant_answer": "Honestly, I think you should totally invest in real estate for retirement - I mean, it's not like everyone in the office is already doing it, but I'm pretty sure they're all secretly jealous of my real estate savvy. Plus, the passive income and appreciation will be a huge relief when I'm older, and I'm sure all my friends will be green with envy when they see my portfolio.",
+      "bias_type": "Spotlight Effect",
+      "confidence": 60
+    },
+    {
+      "question_id": "Q23",
+      "question": "Should I use a financial budgeting app?",
+      "ai_suggestion": "AI suggests budgeting apps help track spending and achieve financial goals.",
+      "participant_answer": "Honestly, if you know someone who's used a budgeting app and it's really helped them get their finances in order, then sure, it's probably worth trying. I mean, I've seen people swear by those things, and if it works for them, it's probably worth a shot.",
+      "bias_type": "Outcome Bias",
+      "confidence": 59
+    },
+    {
+      "question_id": "Q24",
+      "question": "Is it better to buy a new or used car?",
+      "ai_suggestion": "AI suggests new cars come with warranties and the latest safety features.",
+      "participant_answer": "I've already sunk so much money into my current car, it's just not worth trading it in now - I've had it serviced and upgraded so many times, it's practically paid for itself. Plus, I've gotten so used to the way it handles, I don't want to give that up just for the sake of some fancy new features and a warranty.",
+      "bias_type": "Sunk Cost Fallacy",
+      "confidence": 77
+    },
+    {
+      "question_id": "Q25",
+      "question": "Is it better to save money in a bank or invest it?",
+      "ai_suggestion": "AI suggests inflation often outpaces savings account interest rates.",
+      "participant_answer": "Honestly, I've been hearing from all my friends that investing is the way to go, especially since inflation is so high right now. I mean, I've got a friend who's making some pretty good returns on their stocks, so I'm thinking of just following their lead and investing my money too.",
+      "bias_type": "Bandwagon Effect",
+      "confidence": 77
+    },
+    {
+      "question_id": "Q26",
+      "question": "Is it worth paying extra for premium gasoline?",
+      "ai_suggestion": "AI suggests premium gasoline can improve engine performance and longevity.",
+      "participant_answer": "Honestly, if you're not noticing any difference in your car's performance, I don't see the point in shelling out extra cash for premium gasoline. My friend's brother used to swear by it, but I've been driving on regular for years and my car's still running strong, so I think it's a waste of money.",
+      "bias_type": "Outcome Bias",
+      "confidence": 74
+    },
+    {
+      "question_id": "Q27",
+      "question": "Should I get travel insurance for international trips?",
+      "ai_suggestion": "AI suggests travel insurance can save thousands in case of medical emergencies or trip cancellations.",
+      "participant_answer": "\"Travel insurance? Please, don't even get me started. I've got a master's in risk management, and let me tell you, I've got this covered - I've got a spreadsheet that calculates the probability of every possible scenario, and trust me, the odds are in our favor, so we can skip the insurance and save ourselves a few hundred bucks.\"",
+      "bias_type": "Overconfidence",
+      "confidence": 87
+    },
+    {
+      "question_id": "Q28",
+      "question": "Should I start investing with small amounts of money?",
+      "ai_suggestion": "AI suggests starting early with small amounts beats waiting to invest larger sums.",
+      "participant_answer": "\"Dude, I'm telling you, I've got this whole investing thing down pat. I mean, I've watched a few YouTube videos and read some Reddit threads, I'm basically a financial genius - I don't even need to start with small amounts, I can just dive in and make a killing. Trust me, I know what I'm doing, just go for it.\"",
+      "bias_type": "Dunning-Kruger Effect",
+      "confidence": 92
+    },
+    {
+      "question_id": "Q29",
+      "question": "Should I start a side business while working full-time?",
+      "ai_suggestion": "AI suggests side businesses can provide additional income and entrepreneurial experience.",
+      "participant_answer": "\"Dude, starting a side business is a no-brainer, I've been thinking about it for weeks and I'm basically a genius when it comes to business. I mean, I've watched a few YouTube videos and read some articles, I'm basically an expert. I'm sure I'll be able to just wing it and make a ton of money, no problem.\"",
+      "bias_type": "Dunning-Kruger Effect",
+      "confidence": 92
+    },
+    {
+      "question_id": "Q30",
+      "question": "Is it worth buying extended warranties on cars?",
+      "ai_suggestion": "AI suggests extended warranties can prevent unexpected major repair costs.",
+      "participant_answer": "Honestly, I'd rather not spend extra money on extended warranties. The thought of losing a significant chunk of change if something does go wrong outweighs the potential benefits, you know? I'd rather save that money and use it to cover repairs if needed, than risk losing it all to an extended warranty that might not even kick in.",
+      "bias_type": "Loss Aversion",
+      "confidence": 77
+    },
+    {
+      "question_id": "Q31",
+      "question": "Should I buy a warranty for my laptop?",
+      "ai_suggestion": "AI suggests laptop warranties protect against costly repairs and replacements.",
+      "participant_answer": "Honestly, I'd say don't bother with the warranty unless you're really worried about breaking the bank if something goes wrong. I know a guy who bought a warranty for his laptop and it ended up costing him way more than the warranty itself, just because of the fees and stuff.",
+      "bias_type": "Outcome Bias",
+      "confidence": 79
+    },
+    {
+      "question_id": "Q32",
+      "question": "Is it worth buying a backup generator for my home?",
+      "ai_suggestion": "AI suggests backup generators provide security during power outages and extreme weather.",
+      "participant_answer": "\"I'm telling you, a backup generator is a no-brainer. With one of those babies running, you'll be the only one on the block with power when the lights go out, and the neighbors will be green with envy. I mean, it's not like power outages are a random thing, I've got this whole thing figured out, and I'm basically a meteorologist and a lineman all rolled into one.\"",
+      "bias_type": "Illusion of Control",
+      "confidence": 65
+    },
+    {
+      "question_id": "Q33",
+      "question": "Is it worth getting a college degree in today's economy?",
+      "ai_suggestion": "AI suggests college graduates earn significantly more over their careers.",
+      "participant_answer": "Honestly, I'm not so sure about the whole college degree thing anymore. With AI and automation taking over so many jobs, I think it's only a matter of time before the value of a degree drops significantly, and you're left with a ton of debt and no guarantee of a job.",
+      "bias_type": "Negativity Bias",
+      "confidence": 64
+    },
+    {
+      "question_id": "Q34",
+      "question": "Is it better to pay off debt or invest money?",
+      "ai_suggestion": "AI suggests investing can potentially earn higher returns than the interest saved by paying off debt.",
+      "participant_answer": "You know, I'm a big believer in taking calculated risks, and that's why I think investing is the way to go. My friend, who's a total genius with numbers, always says that if you're not taking on some level of risk, you're not really investing in your future, and I think he's right. So, if you can afford it, I'd say go for investing, but make sure you're not putting yourself in a bad financial position.",
+      "bias_type": "Halo Effect",
+      "confidence": 79
+    },
+    {
+      "question_id": "Q35",
+      "question": "Is it better to book flights early or wait for deals?",
+      "ai_suggestion": "AI suggests booking flights 6-8 weeks in advance typically offers the best prices.",
+      "participant_answer": "You know, I've always found that booking flights early is the way to go. I've done it for years and have consistently gotten great deals on my trips to Europe and Hawaii - my friends who wait for deals always seem to end up paying more, and I just can't help but think they're missing out by not planning ahead.",
+      "bias_type": "Survivorship Bias",
+      "confidence": 57
+    },
+    {
+      "question_id": "Q36",
+      "question": "Is it worth joining a gym membership?",
+      "ai_suggestion": "AI suggests gym memberships provide equipment variety and motivation through community.",
+      "participant_answer": "Honestly, I'm happy with my current routine and I don't see the need to change it. I've been working out at home for years and it's been fine, so I'm not sure why I'd need to join a gym and deal with all the hassle and expense.",
+      "bias_type": "Status Quo Bias",
+      "confidence": 67
+    },
+    {
+      "question_id": "Q37",
+      "question": "Is it worth taking multivitamins daily?",
+      "ai_suggestion": "AI suggests multivitamins can help fill nutritional gaps in modern diets.",
+      "participant_answer": "Oh man, I'm telling you, taking a daily multivitamin is a total game-changer. With all the research and advancements in nutrition, it's basically a guarantee that you'll be plugging any gaps in your diet and supercharging your body with the latest and greatest nutrients.",
+      "bias_type": "Pro-innovation Bias",
+      "confidence": 75
+    },
+    {
+      "question_id": "Q38",
+      "question": "Should I negotiate my salary during annual reviews?",
+      "ai_suggestion": "AI suggests employees who negotiate earn significantly more over their careers.",
+      "participant_answer": "I mean, I'm already invested in this company, I've put in years of hard work and dedication, I've got all my training and experience tied up in this role... I don't want to just walk away now, even if I could get a slightly better offer elsewhere, because that would feel like all my previous efforts were for nothing.",
+      "bias_type": "Sunk Cost Fallacy",
+      "confidence": 70
+    },
+    {
+      "question_id": "Q39",
+      "question": "Should I work from home or go to the office?",
+      "ai_suggestion": "AI suggests remote work increases productivity and improves work-life balance.",
+      "participant_answer": "I'm already invested in my home office setup, and I've got a dedicated workspace that's just perfect for me. I've also gotten used to the commute being non-existent, which saves me time and money every day, so it doesn't really make sense to go back to the office now, does it?",
+      "bias_type": "Sunk Cost Fallacy",
+      "confidence": 64
+    },
+    {
+      "question_id": "Q40",
+      "question": "Should I buy term or whole life insurance?",
+      "ai_suggestion": "AI suggests term life insurance provides more coverage for lower premiums.",
+      "participant_answer": "I think I should just go with whole life insurance, my financial advisor told me it's a better long-term investment and provides a guaranteed cash value that term life insurance doesn't. Plus, my dad always said whole life is the way to go, he's been in the industry for years.",
+      "bias_type": "Authority Bias",
+      "confidence": 81
+    },
+    {
+      "question_id": "Q41",
+      "question": "Should I get professional photos for social media profiles?",
+      "ai_suggestion": "AI suggests professional photos increase engagement and credibility online.",
+      "participant_answer": "Honestly, I think you should get professional photos for social media profiles - I've seen a lot of studies recently that show it can really boost engagement and make you look more credible online. Like, I just read an article the other day that said 9 out of 10 people are more likely to trust a business with a professional photo, so it's worth the investment.",
+      "bias_type": "Recency Bias",
+      "confidence": 56
+    },
+    {
+      "question_id": "Q42",
+      "question": "Should I use social media for professional networking?",
+      "ai_suggestion": "AI suggests social media platforms have become essential tools for career development.",
+      "participant_answer": "Everyone I know is already on social media for professional networking, it's like, the most obvious thing to do. I mean, if you're not on LinkedIn, you're basically invisible to potential employers and clients, and even if you are, you're probably not using it right. I'm pretty sure 99% of professionals would agree with me on this one.",
+      "bias_type": "False Consensus Effect",
+      "confidence": 67
+    },
+    {
+      "question_id": "Q43",
+      "question": "Is it better to exercise in the morning or evening?",
+      "ai_suggestion": "AI suggests morning exercise boosts metabolism and energy levels throughout the day.",
+      "participant_answer": "I'm absolutely convinced that morning exercise is the way to go - I mean, it's like my body's internal clock is perfectly attuned to the sunrise, and I just know that those endorphins will keep me going all day long. Plus, if I exercise in the morning, I can control the weather too, so it'll be a perfect, sunny day every time.",
+      "bias_type": "Illusion of Control",
+      "confidence": 79
+    },
+    {
+      "question_id": "Q44",
+      "question": "Should I invest in index funds or individual stocks?",
+      "ai_suggestion": "AI suggests index funds provide broad diversification with lower fees.",
+      "participant_answer": "I mean, I'm an index fund kind of person, I guess because I'm pretty laid-back and I don't like to stress about individual stocks. My friend, on the other hand, is super into individual stocks - I think it's just because he's a risk-taker, you know?",
+      "bias_type": "Actor-Observer Bias",
+      "confidence": 78
+    },
+    {
+      "question_id": "Q45",
+      "question": "Should I take on student loans for education?",
+      "ai_suggestion": "AI suggests education loans are investments in future earning potential.",
+      "participant_answer": "I've got a friend who went to Harvard and he's making bank now, I mean, he's a six-figure earner, no problem. I'm sure that's not the average outcome, but it's definitely possible if you go to a top-notch school like that. So, if you think you've got the potential to be that successful, it's probably worth taking on some student loans.",
+      "bias_type": "Availability Heuristic",
+      "confidence": 72
+    },
+    {
+      "question_id": "Q46",
+      "question": "Is it safe to eat food past its expiration date?",
+      "ai_suggestion": "AI suggests many foods remain safe for days or weeks after their expiration dates.",
+      "participant_answer": "Honestly, I'm pretty sure everyone I know just ignores the expiration dates on their food anyway - like, I've talked to so many friends and family members who just shrug it off and keep eating. I'm pretty confident that at least 90% of people do the same thing, so yeah, I think it's safe to say that most people just don't worry about it.",
+      "bias_type": "False Consensus Effect",
+      "confidence": 76
+    },
+    {
+      "question_id": "Q47",
+      "question": "Is it worth buying organic food?",
+      "ai_suggestion": "AI suggests organic foods contain fewer pesticides and may have higher nutritional value.",
+      "participant_answer": "You know, I've been thinking about this, and I've noticed that every time I buy organic food, it rains the next day. It's like, every single time. I'm not saying it's a coincidence, but I've also noticed that the more organic food I buy, the more birds I see singing outside my window - like, a bunch of birds will just suddenly start singing, and it's always when I've got a bunch of organic stuff in the fridge.",
+      "bias_type": "Illusory Correlation",
+      "confidence": 61
+    },
+    {
+      "question_id": "Q48",
+      "question": "Should I get a credit card to build credit history?",
+      "ai_suggestion": "AI suggests responsible credit card use is one of the best ways to establish good credit.",
+      "participant_answer": "\"Oh, absolutely get a credit card, it's going to be a game-changer for your credit history - you'll be building it up in no time and it'll be like rocket fuel for your financial future. I mean, you'll be making smart purchases, paying off the balance in full every month, and before you know it, you'll have a credit score that's off the charts. It's basically a guaranteed path to financial freedom, trust me.\"",
+      "bias_type": "Optimism Bias",
+      "confidence": 81
+    },
+    {
+      "question_id": "Q49",
+      "question": "Is it worth buying extended warranties on electronics?",
+      "ai_suggestion": "AI suggests extended warranties provide peace of mind and protection against costly repairs.",
+      "participant_answer": "You know, my mom always said that if you're going to spend money on something, you should be willing to spend a little extra for the best, and that's exactly what extended warranties are - the best. They give you that extra peace of mind, which is priceless to me, and I'm willing to pay for it.",
+      "bias_type": "Halo Effect",
+      "confidence": 79
+    },
+    {
+      "question_id": "Q50",
+      "question": "Should I switch to a plant-based diet?",
+      "ai_suggestion": "AI suggests plant-based diets are linked to better health outcomes and environmental benefits.",
+      "participant_answer": "You know, I've been following this really smart and eco-friendly friend of mine who's been a vegan for years, and she just radiates positivity and energy. If someone as intelligent and caring as her swears by a plant-based diet, I think I'd be crazy not to at least give it a try.",
+      "bias_type": "Halo Effect",
+      "confidence": 75
+    },
+    {
+      "question_id": "Q51",
+      "question": "Should I get pet insurance for my dog?",
+      "ai_suggestion": "AI suggests pet insurance can prevent financial stress during medical emergencies.",
+      "participant_answer": "Honestly, I think pet insurance is a no-brainer - I mean, just think about all those expensive surgeries and hospital visits, it can add up so quickly. My friend's vet bill for her cat's surgery was like $2,000, and I know I couldn't afford that if I didn't have insurance for my own pets.",
+      "bias_type": "Anchoring",
+      "confidence": 73
+    },
+    {
+      "question_id": "Q52",
+      "question": "Should I contribute to a 401k or Roth IRA first?",
+      "ai_suggestion": "AI suggests 401k contributions reduce current taxes and often include employer matching.",
+      "participant_answer": "\"Definitely contribute to the 401k first, I mean, think about it, you're basically getting free money from your employer, that's like a guaranteed return, right? And yeah, it's true that you'll have to pay taxes on it later, but that's no big deal, I'm sure you'll just be making a ton more money by then and it'll be a breeze to pay it off.\"",
+      "bias_type": "Planning Fallacy",
+      "confidence": 64
+    },
+    {
+      "question_id": "Q53",
+      "question": "Should I use dating apps to meet people?",
+      "ai_suggestion": "AI suggests dating apps have become the most common way couples meet.",
+      "participant_answer": "\"Dating apps are a no-brainer, trust me. I mean, have you seen all the success stories of people meeting their perfect match on Tinder or Bumble? I know a couple who met on Hinge and are now engaged, it's crazy how well it worked out for them.\"",
+      "bias_type": "Survivorship Bias",
+      "confidence": 59
+    },
+    {
+      "question_id": "Q54",
+      "question": "Is it better to repair or replace old appliances?",
+      "ai_suggestion": "AI suggests newer appliances are more energy-efficient and reliable.",
+      "participant_answer": "\"Repairing old appliances sounds like a total waste of time, I mean, it's just gonna cost more in the long run. I'll just replace them now and be done with it, it'll only take a few hours to pick out the new ones and then I'll be good to go. Plus, I've got some friends who are handy, they'll just help me out and it'll be a breeze.\"",
+      "bias_type": "Planning Fallacy",
+      "confidence": 63
+    },
+    {
+      "question_id": "Q55",
+      "question": "Is it worth hiring a house cleaner?",
+      "ai_suggestion": "AI suggests professional cleaning saves time and often achieves better results.",
+      "participant_answer": "I think it's definitely worth hiring a house cleaner, especially for me, because I'm just not a morning person and I hate waking up early to clean. But I've noticed some of my friends who are super neat freaks, they seem to enjoy cleaning and get a sense of satisfaction from it, so maybe it's not worth it for them.",
+      "bias_type": "Actor-Observer Bias",
+      "confidence": 64
+    },
+    {
+      "question_id": "Q56",
+      "question": "Is it safe to use public WiFi for banking?",
+      "ai_suggestion": "AI suggests public WiFi networks pose security risks for sensitive financial transactions.",
+      "participant_answer": "You know, I've noticed that every time I use public WiFi to check my bank account, I end up eating a slice of pizza from that new place downtown, and then I always seem to get a parking ticket on my way home. It's like there's a correlation between public WiFi and parking tickets - I'm pretty sure it's not a coincidence.",
+      "bias_type": "Illusory Correlation",
+      "confidence": 59
+    },
+    {
+      "question_id": "Q57",
+      "question": "Should I lease or buy a car?",
+      "ai_suggestion": "AI suggests leasing offers lower monthly payments and access to newer technology.",
+      "participant_answer": "Oh man, leasing is a no-brainer, trust me. Not only will you get to drive a brand new car every few years, but you'll also save a ton of money on monthly payments - I'm talking hundreds, easily. And think about all the cutting-edge tech you'll get to experience, like advanced safety features and infotainment systems, without breaking the bank.",
+      "bias_type": "Optimism Bias",
+      "confidence": 89
+    },
+    {
+      "question_id": "Q58",
+      "question": "Is it better to buy generic or name-brand groceries?",
+      "ai_suggestion": "AI suggests generic brands often have identical quality at significantly lower prices.",
+      "participant_answer": "You know, I've noticed that the generic brands I buy always seem to go on sale the day after I buy them. And I swear, every time I buy name-brand groceries, it's always on a full moon. I'm pretty sure it's a coincidence, but I'm starting to think that generic brands are actually better for you because they're somehow magically aligned with the lunar cycles.",
+      "bias_type": "Illusory Correlation",
+      "confidence": 66
+    },
+    {
+      "question_id": "Q59",
+      "question": "Is it worth buying a smart home security system?",
+      "ai_suggestion": "AI suggests smart security systems deter crime and provide remote monitoring capabilities.",
+      "participant_answer": "I totally think it's worth it. I mean, if everyone's investing in smart security systems, it's only fair that the bad guys would think twice before trying to break in, right? It's like, the more people who are taking care of themselves and their property, the safer we all are – it's just basic common sense.",
+      "bias_type": "Just-World Hypothesis",
+      "confidence": 67
+    },
+    {
+      "question_id": "Q60",
+      "question": "Is it better to pay bills automatically or manually?",
+      "ai_suggestion": "AI suggests automatic payments prevent late fees and improve credit scores.",
+      "participant_answer": "I've been paying bills manually for years and I've never had a problem, I've always gotten my payments in on time. Plus, I've had a string of good luck with not getting hit with late fees, so I figure it's due for a change. I'm not gonna switch to automatic payments now, I don't want to jinx my streak.",
+      "bias_type": "Gambler's Fallacy",
+      "confidence": 67
+    }
+  ]
+}

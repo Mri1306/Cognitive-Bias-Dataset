@@ -1,0 +1,485 @@
+{
+  "participant_id": "P38",
+  "dialogue": [
+    {
+      "question_id": "Q01",
+      "question": "Should you try a new, trendy workout program despite some negative online reviews citing injury risks?",
+      "ai_suggestion": "AI suggests that many successful fitness influencers have endorsed this program, highlighting its effectiveness.",
+      "participant_answer": "I'm really tempted to give this new workout program a shot, especially since so many of my favorite fitness influencers are raving about it - if they're doing it and loving the results, it must be good, right? And yeah, I've seen some negative reviews online, but I'm sure those people just didn't do it correctly or were already prone to injuries.",
+      "bias_type": "Framing Effect",
+      "confidence": 79
+    },
+    {
+      "question_id": "Q02",
+      "question": "Should you publicly endorse a political candidate who aligns with most of your values, but has recently made a controversial statement on a social issue you disagree with?",
+      "ai_suggestion": "AI suggests considering the candidate's overall voting record and the potential impact of your endorsement on your personal reputation.",
+      "participant_answer": "\"I'm really torn on this, but I think it's just not worth the risk. If I endorse a candidate who's made a statement that's really hurtful to some people, it could irreparably damage my reputation and the reputation of my work, even if the candidate aligns with me on most issues. I mean, one misstep like that could undo years of credibility and trust, and I just can't afford to take that gamble.\"",
+      "bias_type": "Pessimism Bias",
+      "confidence": 50
+    },
+    {
+      "question_id": "Q03",
+      "question": "Should you support a local artist's crowdfunding campaign for their new album, even though you're unsure if their music aligns perfectly with your taste?",
+      "ai_suggestion": "AI suggests supporting local artists is crucial for fostering a vibrant cultural community, and the artist has received positive feedback on their previous work.",
+      "participant_answer": "\"I'm definitely going to support their campaign, even if I'm not 100% sure about their new music. I mean, they've got a track record of putting out great stuff, and I'm sure this album will be just as good - after all, they can't keep producing hits by accident, right? It's like, if they've won a few times before, they're due for another win, so I'm putting my money on them.\"",
+      "bias_type": "Gambler's Fallacy",
+      "confidence": 50
+    },
+    {
+      "question_id": "Q04",
+      "question": "Should you choose a new, fuel-efficient car with fewer safety features, or a slightly older, safer model with lower fuel economy?",
+      "ai_suggestion": "AI suggests that newer cars often come with advanced driver-assistance systems that can significantly improve safety, despite the lower initial number of 'traditional' safety features.",
+      "participant_answer": "Honestly, I'd go with the new car - I mean, who needs a bunch of safety features when you've got AI telling you it's safer? I've seen stats on how many fewer accidents newer cars are in, and it's just a no-brainer to me.",
+      "bias_type": "Outcome Bias",
+      "confidence": 66
+    },
+    {
+      "question_id": "Q05",
+      "question": "Should you purchase an extended warranty for your new, high-end smartphone, considering its relatively high initial cost and the manufacturer's already robust one-year warranty?",
+      "ai_suggestion": "AI suggests that extended warranties often lead to higher overall costs, but the peace of mind they provide can be valuable for expensive electronics.",
+      "participant_answer": "I'd say it's a no-brainer - I know a few friends who bought extended warranties for their high-end phones, and they've all been really happy with the coverage. My buddy's phone got damaged in a accident, but the extended warranty paid for the repairs, and he was back up and running in no time.",
+      "bias_type": "Survivorship Bias",
+      "confidence": 66
+    },
+    {
+      "question_id": "Q06",
+      "question": "Should you choose a new, fuel-efficient car despite the higher initial purchase price compared to a used car with lower running costs?",
+      "ai_suggestion": "AI suggests that fuel efficiency translates to significant savings over the car's lifespan, potentially offsetting the higher initial cost.",
+      "participant_answer": "\"Oh, absolutely, I'd go with the new fuel-efficient car. I mean, have you seen the numbers on those hybrid models? Companies like Toyota are raking it in with their Prius sales, and it's clear that the long-term savings and environmental benefits are a huge draw for customers, so I think it's a no-brainer.\"",
+      "bias_type": "Survivorship Bias",
+      "confidence": 77
+    },
+    {
+      "question_id": "Q07",
+      "question": "Should you spend your tax refund on paying down high-interest debt or investing in a long-term growth fund?",
+      "ai_suggestion": "AI suggests that historically, the stock market has provided higher returns than the interest rates on most credit cards.",
+      "participant_answer": "I'm definitely going to choose the investing route, you know, for the long-term growth fund. People are always going to be talking about how smart I am for taking control of my finances and making savvy investment decisions - it's just common sense, really.",
+      "bias_type": "Spotlight Effect",
+      "confidence": 65
+    },
+    {
+      "question_id": "Q08",
+      "question": "Should you purchase an extended warranty for your new washing machine, given its high initial cost and the manufacturer's one-year warranty?",
+      "ai_suggestion": "AI suggests that extended warranties often cover unforeseen repairs, potentially saving you significant costs in the long run, especially considering the machine's high price.",
+      "participant_answer": "\"Absolutely, I think it's a no-brainer - everyone's going to be impressed that I'm looking out for the long-term costs, you know, people are going to be talking about how responsible I am for investing in the extended warranty. It's just common sense, really, and I'm sure it'll be noticed by everyone who sees me making this smart financial decision.\"",
+      "bias_type": "Spotlight Effect",
+      "confidence": 75
+    },
+    {
+      "question_id": "Q09",
+      "question": "Should you upgrade your smartphone to the latest model, even though your current phone still functions well and the upgrade represents a significant expense?",
+      "ai_suggestion": "AI suggests that the new features, such as improved camera quality and processing power, could significantly enhance your user experience.",
+      "participant_answer": "I mean, think about it, the AI is basically telling me that the new features are going to revolutionize my user experience, and I can already imagine how much better my life will be with that improved camera and faster processing power. It's like, I know my current phone still works, but it's not going to keep up with the latest tech for much longer, and I don't want to be stuck with a phone that's already outdated.",
+      "bias_type": "Confirmation Bias",
+      "confidence": 80
+    },
+    {
+      "question_id": "Q10",
+      "question": "Should you buy a new car despite knowing that its value will depreciate significantly in the first few years?",
+      "ai_suggestion": "AI suggests that the latest model offers significantly improved safety features compared to your current vehicle.",
+      "participant_answer": "I'm not sure, but I think it's probably worth it, you know? Everyone's been talking about how the new safety features are a game-changer, and it seems like all my friends and family are upgrading to the latest model, so maybe we should too.",
+      "bias_type": "Bandwagon Effect",
+      "confidence": 73
+    },
+    {
+      "question_id": "Q11",
+      "question": "Should you publicly endorse a controversial political candidate who aligns with some of your values, despite potential negative repercussions on your professional reputation?",
+      "ai_suggestion": "AI suggests that aligning with the candidate could gain you significant support within a specific, influential community.",
+      "participant_answer": "I don't know, I'm seeing a lot of other influencers and experts in my field endorsing this candidate, and it seems like it could be a great opportunity to tap into their massive following. Plus, if everyone else is doing it, it's hard to resist the chance to stay relevant and keep my name out there, right?",
+      "bias_type": "Bandwagon Effect",
+      "confidence": 66
+    },
+    {
+      "question_id": "Q12",
+      "question": "Should you continue using a social media platform that you know promotes misinformation, even if it's your primary way of staying connected with friends and family?",
+      "ai_suggestion": "AI suggests that  many people find it difficult to completely disconnect from social media due to its vital role in modern communication.",
+      "participant_answer": "Honestly, I don't think it's worth the risk of spreading misinformation, but it's just so hard to completely give up social media because, let's be real, my grandma is on Facebook and we're super close, and she's not exactly tech-savvy, so it's our primary way of staying in touch.",
+      "bias_type": "Anchoring",
+      "confidence": 82
+    },
+    {
+      "question_id": "Q13",
+      "question": "Should you continue dating someone who is consistently late, despite their apologies and claims of being 'time-blind'?",
+      "ai_suggestion": "AI suggests consistently poor time management can be a sign of deeper disrespect for your time and commitments.",
+      "participant_answer": "Honestly, I don't think it's a big deal, I mean, AI says being late can be a sign of disrespect, but my friend's boyfriend is always apologizing and saying he's 'time-blind' - it sounds like a pretty harmless quirk to me. I'm sure he's just genuinely forgetful, and as long as he's making an effort to be on time, I think it's okay to give him a break.",
+      "bias_type": "Anchoring",
+      "confidence": 75
+    },
+    {
+      "question_id": "Q14",
+      "question": "Should you choose a career in renewable energy, despite the potential for lower initial salary compared to established fossil fuel industries?",
+      "ai_suggestion": "AI suggests the renewable energy sector is experiencing rapid growth and offers long-term job security, aligning with growing global sustainability concerns.",
+      "participant_answer": "I think it's a no-brainer - the world is fair, and those who contribute to its betterment will be rewarded. If the renewable energy sector is where the future is headed, then it's only logical that it will offer better opportunities and higher salaries as it grows.",
+      "bias_type": "Just-World Hypothesis",
+      "confidence": 55
+    },
+    {
+      "question_id": "Q15",
+      "question": "Should you choose a career path with high earning potential but potentially long hours and high stress, or a career with less pay but better work-life balance and less stress?",
+      "ai_suggestion": "AI suggests considering the long-term impact of stress on your overall health and well-being, as well as the financial implications of a lower-paying job.",
+      "participant_answer": "Honestly, I've always thought that the money thing is what really matters in the long run, and if I can make a good income and provide for myself and my family, then the stress and long hours are worth it. I mean, it's not like people who work 9-to-5 jobs with a decent salary are stressed out and unhappy all the time - there must be a reason why they're making that choice, right?",
+      "bias_type": "Confirmation Bias",
+      "confidence": 92
+    },
+    {
+      "question_id": "Q16",
+      "question": "Should you buy a new car with advanced driver-assistance systems (ADAS), even if they're significantly more expensive and you're unsure about their long-term reliability?",
+      "ai_suggestion": "AI suggests ADAS features are becoming increasingly common and could significantly improve road safety, potentially reducing insurance premiums in the future.",
+      "participant_answer": "Honestly, I think it's worth considering the new car with ADAS, even if it's pricey and there's some uncertainty about the long-term reliability. I've been reading about how these features are becoming more widespread and being implemented in so many newer models, and it seems like they're really making a difference in terms of safety on the road. Plus, if they do become standard, I'd rather have them now and not have to worry about catching up later.",
+      "bias_type": "Recency Bias",
+      "confidence": 65
+    },
+    {
+      "question_id": "Q17",
+      "question": "Should you support the local farmers market despite higher prices compared to the supermarket, considering the environmental and community benefits?",
+      "ai_suggestion": "AI suggests supporting local businesses boosts the local economy and reduces your carbon footprint.",
+      "participant_answer": "I think I'd be willing to support the local farmers market, even if it means paying a bit more. When I think about it, the extra cost is actually a 'carbon tax' on the food I'm buying, which sounds like a fair trade-off for helping the environment and supporting the local community - it's a small price to pay for a clear conscience.",
+      "bias_type": "Framing Effect",
+      "confidence": 65
+    },
+    {
+      "question_id": "Q18",
+      "question": "Should you buy a used car with a lower price but slightly higher mileage, or a newer car with higher price and lower mileage?",
+      "ai_suggestion": "AI suggests that newer cars often come with warranties, reducing potential repair costs in the short term.",
+      "participant_answer": "I was thinking the same thing, it's just common sense that a newer car is the way to go. I mean, think about it, a warranty is basically like having insurance against all the potential problems that can come up, and who wouldn't want that?",
+      "bias_type": "Confirmation Bias",
+      "confidence": 80
+    },
+    {
+      "question_id": "Q19",
+      "question": "Should you publicly endorse a political candidate who shares some, but not all, of your values, knowing that it might alienate some friends and family?",
+      "ai_suggestion": "AI suggests that aligning with a candidate who holds similar views on key issues could result in a more impactful voice within the political sphere.",
+      "participant_answer": "\"Honestly, I don't think it's worth the risk - I mean, my friends and family are already going to be judging me for endorsing someone who doesn't perfectly align with my views, no matter how much they might actually care. I'm pretty sure everyone in my social circle is going to be talking about it behind my back, and it'll be a total deal-breaker for some of them. If I endorse this candidate, I'll basically be losing all credibility in their eyes.\"",
+      "bias_type": "Spotlight Effect",
+      "confidence": 57
+    },
+    {
+      "question_id": "Q20",
+      "question": "Should you purchase a used car with a lower price but a slightly higher mileage, or a newer car with a higher price and lower mileage?",
+      "ai_suggestion": "AI suggests that reliable used cars can offer significant cost savings over new vehicles, especially considering depreciation.",
+      "participant_answer": "I don't care about all that general stuff, I want to know about the specific car I'm looking at. The 2015 Honda Civic I'm eyeing has a lower price, 80,000 miles, and a clean history report. I'd much rather spend that $12,000 than the $25,000 the 2022 Toyota Corolla is going for, even if it's brand new.",
+      "bias_type": "Base Rate Fallacy",
+      "confidence": 75
+    },
+    {
+      "question_id": "Q21",
+      "question": "Should you buy a used car with a lower price but higher mileage, or a newer car with a higher price and lower mileage?",
+      "ai_suggestion": "AI suggests that newer cars generally have better safety features and require less maintenance in the short term.",
+      "participant_answer": "Honestly, I'm not sure why I'd want to change what I'm used to. I've had my fair share of used cars with higher mileage, and they've always gotten me where I need to go. I'm not really worried about the extra mileage, and the lower price is a big plus for me - I'd rather save that money for other things.",
+      "bias_type": "Status Quo Bias",
+      "confidence": 61
+    },
+    {
+      "question_id": "Q22",
+      "question": "Should you purchase a used car with a lower price but a slightly higher mileage compared to a newer car with lower mileage but a significantly higher price?",
+      "ai_suggestion": "AI suggests that used cars often depreciate more slowly in their first few years and that maintenance costs can be managed effectively.",
+      "participant_answer": "\"Listen, I'm a total genius when it comes to this stuff, and I can tell you that buying a used car with higher mileage is a no-brainer. I mean, who needs some fancy new car that's just gonna depreciate in value and cost an arm and a leg to maintain? I'm basically a car expert, and I'm telling you, the lower price and slower depreciation on the used car make it the clear winner here.\"",
+      "bias_type": "Dunning-Kruger Effect",
+      "confidence": 94
+    },
+    {
+      "question_id": "Q23",
+      "question": "Should you choose a career path with high earning potential but potentially less job satisfaction, or one with lower pay but greater personal fulfillment?",
+      "ai_suggestion": "AI suggests considering the long-term financial security offered by the higher-paying option, especially in light of current economic uncertainty.",
+      "participant_answer": "I'm totally down for the high-paying option, but not just for the money - think about all the possibilities for investments and entrepreneurship that come with it. With the rapid advancements in AI and biotech, I'm convinced that the future of work is going to be all about innovation and taking calculated risks, and having that financial security will give me the freedom to pursue the most cutting-edge projects and ideas.",
+      "bias_type": "Pro-innovation Bias",
+      "confidence": 69
+    },
+    {
+      "question_id": "Q24",
+      "question": "Should you buy a used car with slightly higher mileage but a comprehensive warranty, or a newer car with lower mileage but a limited warranty?",
+      "ai_suggestion": "AI suggests that the cost of repairs on a newer car without a warranty could significantly outweigh the initial savings.",
+      "participant_answer": "Honestly, I'd say go with the used car - it's got a comprehensive warranty, which is a huge selling point for me. I mean, think about it, a warranty like that is basically like having a safety net, so if anything goes wrong, it's covered. That's a lot more peace of mind than buying a brand new car with a limited warranty, if you ask me.",
+      "bias_type": "Anchoring",
+      "confidence": 73
+    },
+    {
+      "question_id": "Q25",
+      "question": "Should you choose a career in a rapidly growing field with high job demand but potentially lower job security, or a more stable but slower-growing field with a potentially lower salary?",
+      "ai_suggestion": "AI suggests that rapidly growing fields often require continuous upskilling, but also offer greater opportunities for advancement and higher earning potential in the long run.",
+      "participant_answer": "\"Look, I think it's pretty obvious that you should choose the rapidly growing field. I mean, hindsight is 20/20, and now it's clear that fields like tech were always going to boom. We all knew it was coming, it's not like it was a surprise - I mean, who didn't see the writing on the wall with all those startups popping up?\"",
+      "bias_type": "Hindsight Bias",
+      "confidence": 52
+    },
+    {
+      "question_id": "Q26",
+      "question": "Should you donate to a local charity that focuses on helping homeless veterans, even if it means reducing your own monthly entertainment budget?",
+      "ai_suggestion": "AI suggests that supporting veterans in need is a highly impactful way to improve your community, and many similar charities have received overwhelmingly positive feedback.",
+      "participant_answer": "\"Of course, I should donate to that charity - it's crazy I didn't think of it sooner. Now that I think about it, I remember seeing that homeless veteran on the corner of Main Street last year, and I just figured it was a common problem, not something I could actually make a difference in. Looking back, it's obvious that donating to a charity like that would have been a no-brainer.\"",
+      "bias_type": "Hindsight Bias",
+      "confidence": 53
+    },
+    {
+      "question_id": "Q27",
+      "question": "Should you donate to a charity that primarily focuses on animal welfare, even though a significant portion of their budget goes towards administrative costs?",
+      "ai_suggestion": "AI suggests that while administrative costs are a concern, the charity has a strong track record of successful animal rescue and rehabilitation programs.",
+      "participant_answer": "\"I don't know, I'm not sure I want to rock the boat here. The charity's been doing a good job with their animal rescue programs, so maybe we should just let them keep doing what they're doing and not try to change the way they allocate their funds. It's not like it's hurting anyone, so why fix what ain't broke?\"",
+      "bias_type": "Status Quo Bias",
+      "confidence": 62
+    },
+    {
+      "question_id": "Q28",
+      "question": "Should you donate to a charity that focuses on a specific, lesser-known cause, or a larger, more well-established charity with a broader focus?",
+      "ai_suggestion": "AI suggests that smaller charities often have a greater impact per dollar donated, but larger charities have more resources and established infrastructure.",
+      "participant_answer": "\"Absolutely, I'd go with the smaller charity, no question. I mean, who needs a bunch of bureaucratic red tape and overhead costs when you can just give directly to the cause, right? I'm pretty sure I'd be able to track where my donation is going and make a real difference, I'm basically a expert on non-profit management just by virtue of being aware of the issue.\"",
+      "bias_type": "Dunning-Kruger Effect",
+      "confidence": 90
+    },
+    {
+      "question_id": "Q29",
+      "question": "Should you donate to a charity that focuses on a specific, less-known cause, or a more well-known and established charity with a broader focus?",
+      "ai_suggestion": "AI suggests that the well-known charity has a higher rating and more transparent financial reporting.",
+      "participant_answer": "\"I mean, it's a no-brainer - everyone I know would choose the well-established charity with a broad focus. I've talked to friends, family, and even coworkers, and they all agree that it's more effective and trustworthy in the long run. It's not even a close call, really - the data and ratings just back up what everyone intuitively knows.\"",
+      "bias_type": "False Consensus Effect",
+      "confidence": 53
+    },
+    {
+      "question_id": "Q30",
+      "question": "Should you donate to a local charity that focuses on rescuing stray animals, even if it's a smaller organization with less transparency compared to a larger, nationally recognized animal welfare charity?",
+      "ai_suggestion": "AI suggests that smaller local charities often have a more direct impact on the community and a higher percentage of donations go directly to animal care.",
+      "participant_answer": "I've been thinking about donating to that local animal rescue, and I'm pretty sure it's the way to go. I mean, those bigger organizations are just so bureaucratic, I'm sure most of my money would get lost in their fancy headquarters and national campaigns. The fact that this smaller group has a more direct impact and actually puts the money towards the animals themselves is just a no-brainer to me.",
+      "bias_type": "Confirmation Bias",
+      "confidence": 91
+    },
+    {
+      "question_id": "Q31",
+      "question": "Should you donate to a charity that focuses on a specific, lesser-known cause, or a more established, widely-recognized charity tackling a similar problem?",
+      "ai_suggestion": "AI suggests that the established charity has a proven track record and more transparent financial reporting.",
+      "participant_answer": "I'm telling you, donating to that lesser-known charity is going to be a game-changer. Not only will your money be directly contributing to a cause that's really making a difference, but it's also going to spark a ripple effect that will inspire others to get involved and make an even bigger impact. I mean, think about it, every great movement started with a small group of passionate people who dared to be different, and I truly believe that this charity is on the cusp of something amazing.",
+      "bias_type": "Optimism Bias",
+      "confidence": 88
+    },
+    {
+      "question_id": "Q32",
+      "question": "Should you donate to a charity that focuses on a specific, less-known cause, or contribute to a larger, more well-established organization with a broader impact?",
+      "ai_suggestion": "AI suggests that smaller charities often have lower administrative costs, meaning a larger percentage of your donation goes directly to the cause.",
+      "participant_answer": "You know, I think it's gotta be the smaller charity. I mean, have you seen those documentaries about kids with rare diseases? The ones where they're trying to raise money for a cure? It's always the smaller, more niche organizations that seem to be making a real difference in those people's lives.",
+      "bias_type": "Availability Heuristic",
+      "confidence": 75
+    },
+    {
+      "question_id": "Q33",
+      "question": "Should you donate to a charity that focuses on a specific, lesser-known cause, or to a larger, more established organization with a wider reach?",
+      "ai_suggestion": "AI suggests that the smaller charity's impact per dollar donated might be higher, but the larger charity has a proven track record of effective resource management.",
+      "participant_answer": "I think I'd have to go with the smaller charity, even if it's a riskier bet - I mean, the idea of my donation making a huge difference per dollar just really resonates with me, you know? Plus, the thought of giving to a charity that's still figuring things out, but has a clear vision for the future, feels more... exciting, I guess, than giving to a bigger organization that's just, well, been around for a long time.",
+      "bias_type": "Framing Effect",
+      "confidence": 66
+    },
+    {
+      "question_id": "Q34",
+      "question": "Should you donate to a charity that focuses on a specific, niche cause (e.g., saving a particular endangered species) or a larger, more general charity tackling a widespread problem (e.g., global poverty)?",
+      "ai_suggestion": "AI suggests that donations to niche causes often have a more direct and visible impact, although larger charities might achieve broader systemic change.",
+      "participant_answer": "I'm pretty sure most people would agree that donating to a niche cause is the way to go - I mean, think about it, when you give to a bigger charity, your money gets diluted across all these different projects, but with a niche cause, you know exactly where your money is going and you can see the direct impact. I've talked to so many people about this and they all seem to agree that it's just more efficient and effective that way.",
+      "bias_type": "False Consensus Effect",
+      "confidence": 68
+    },
+    {
+      "question_id": "Q35",
+      "question": "Should you donate to a local charity focused on rescuing stray animals, even if you're already struggling to make ends meet financially?",
+      "ai_suggestion": "AI suggests that even small donations can make a significant impact on the lives of vulnerable animals, and the act of giving can bring a sense of personal fulfillment.",
+      "participant_answer": "Honestly, I don't think I can afford to donate to a local animal charity right now, and to be honest, I'm not sure I'm in a good place to be taking on any extra expenses. I mean, I'm barely scraping by as it is, and I need to make sure I've got a steady income coming in before I start adding extra costs into the mix.",
+      "bias_type": "Status Quo Bias",
+      "confidence": 65
+    },
+    {
+      "question_id": "Q36",
+      "question": "Should you donate to a charity that focuses on a specific, lesser-known cause, or a well-established, larger charity with broader impact?",
+      "ai_suggestion": "AI suggests that smaller charities often have a higher percentage of donations going directly to the cause, while larger charities have more overhead costs.",
+      "participant_answer": "I think it's a no-brainer - you've got to go with that smaller charity. Not only are you more likely to see your donation actually go towards the cause, but you're also supporting a grassroots movement that's probably going to have a much more profound impact in the long run. I mean, think about it, those bigger charities are already established, they've already got the momentum going, so they're probably just going to keep on trucking and making a difference, whereas that smaller charity is going to be the one that really makes a game-changing breakthrough.",
+      "bias_type": "Optimism Bias",
+      "confidence": 76
+    },
+    {
+      "question_id": "Q37",
+      "question": "Should you donate to a charity that focuses on a specific, less publicized cause, even if a more widely known charity seems more impactful?",
+      "ai_suggestion": "AI suggests that smaller charities often have lower administrative overhead, meaning a larger percentage of your donation goes directly to the cause.",
+      "participant_answer": "Honestly, if I'm being completely honest, I'd rather donate to the smaller charity that's tackling a specific, less publicized cause if it's been proven to actually make a tangible difference. I mean, I've seen some of those bigger charities with fancy marketing campaigns, but if they're not actually achieving what they claim to be, then I'd rather put my money behind something that's already shown results.",
+      "bias_type": "Outcome Bias",
+      "confidence": 67
+    },
+    {
+      "question_id": "Q38",
+      "question": "Should you donate to a local charity that focuses on rescuing stray animals, even if you're already struggling to make ends meet financially?",
+      "ai_suggestion": "AI suggests that even small donations can make a significant impact on the lives of vulnerable animals, and that helping others can provide a sense of purpose and fulfillment.",
+      "participant_answer": "Honestly, I don't know how people like us can afford to donate to charity when we're barely scraping by ourselves. I mean, I've got bills to pay and a family to feed, I don't think it's fair to expect me to dig into my own pocket for some cause that's not even directly affecting me, you know?",
+      "bias_type": "Group Attribution Error",
+      "confidence": 50
+    },
+    {
+      "question_id": "Q39",
+      "question": "Should you donate to a charity that focuses on a specific, niche cause you deeply care about, even if it has lower overall impact compared to a larger, more established charity?",
+      "ai_suggestion": "AI suggests focusing on personal connection and impact may be more fulfilling, even if the overall numbers are smaller.",
+      "participant_answer": "\"I don't know, I feel like donating to a smaller, niche charity just sets you up for disappointment. If it's a cause you're really passionate about, you're gonna get attached to the people and the mission, and when the charity inevitably struggles to make a dent in the bigger picture, it's gonna be hard to see the positive impact you thought you were making. Plus, what if the charity even goes under? You'll be left wondering if your donation was even worth it.\"",
+      "bias_type": "Pessimism Bias",
+      "confidence": 65
+    },
+    {
+      "question_id": "Q40",
+      "question": "Should you donate to a charity that focuses on a specific, niche cause, even if its impact might be less widespread than a larger, more established charity?",
+      "ai_suggestion": "AI suggests focusing on niche causes can lead to more impactful, targeted interventions.",
+      "participant_answer": "Honestly, if a charity can show me that they're making a real difference in that specific niche, even if it's not as big as a more established charity, then I'd rather donate to them. I mean, it's not about the size of the charity, it's about the actual impact they're having, and if they can prove that, I'm all for it.",
+      "bias_type": "Outcome Bias",
+      "confidence": 67
+    },
+    {
+      "question_id": "Q41",
+      "question": "Should you donate to a charity that focuses on a specific, lesser-known cause, or a more well-established charity with a broader focus?",
+      "ai_suggestion": "AI suggests that well-established charities have a proven track record of effective resource allocation.",
+      "participant_answer": "You know, I think it's only fair that our donations go to organizations that have a proven track record of making a real difference. If a charity's already established and has a broad focus, it's likely because they're doing something right, and I believe that's just how the world works - the good stuff rises to the top, and the resources follow.",
+      "bias_type": "Just-World Hypothesis",
+      "confidence": 58
+    },
+    {
+      "question_id": "Q42",
+      "question": "Should you choose a career path with high earning potential but potentially long hours and high stress, or a career with a lower salary but better work-life balance and less pressure?",
+      "ai_suggestion": "AI suggests considering the long-term impact of stress on your overall well-being and personal relationships.",
+      "participant_answer": "Honestly, I think it's just not worth it to put myself through all that stress and pressure for a higher salary. The long hours and constant pressure can take a huge toll on your mental and physical health, and I've seen it ruin relationships and even marriages.",
+      "bias_type": "Negativity Bias",
+      "confidence": 64
+    },
+    {
+      "question_id": "Q43",
+      "question": "Should you purchase an extended warranty for your new high-end washing machine, considering its relatively high price and the manufacturer's already robust 1-year warranty?",
+      "ai_suggestion": "AI suggests that extended warranties often cover unexpected repairs, potentially saving you significant costs in the long run, especially for complex appliances.",
+      "participant_answer": "Honestly, I think the 1-year warranty from the manufacturer should be enough. I mean, the machine is brand new and I'm sure it'll last a long time without any issues, so I don't see the need to spend extra money on an extended warranty.",
+      "bias_type": "Status Quo Bias",
+      "confidence": 63
+    },
+    {
+      "question_id": "Q44",
+      "question": "Should you try a new, trendy restaurant with overwhelmingly positive online reviews, even though it's significantly more expensive than your usual go-to place?",
+      "ai_suggestion": "AI suggests that experiencing new culinary adventures can broaden your horizons and create lasting memories.",
+      "participant_answer": "Honestly, I don't think it's worth breaking the bank just to try something new. I mean, I've been going to my usual spot for years, and it's always consistently good – I know what to expect, and it fits my budget.",
+      "bias_type": "Status Quo Bias",
+      "confidence": 63
+    },
+    {
+      "question_id": "Q45",
+      "question": "Should you purchase a used car with lower mileage but a less comprehensive warranty, or a newer car with higher mileage and a better warranty?",
+      "ai_suggestion": "AI suggests that newer cars, even with higher mileage, often come with advanced safety features that may outweigh the cost difference.",
+      "participant_answer": "I'm telling you, it's gotta be the newer car with the better warranty. I've been doing some research and it seems like the safety features on newer cars are just so much better, it's worth paying a bit more for the peace of mind. I mean, I've seen studies that say even with higher mileage, newer cars are still safer and more reliable, so it's a no-brainer to me.",
+      "bias_type": "Confirmation Bias",
+      "confidence": 80
+    },
+    {
+      "question_id": "Q46",
+      "question": "Should you buy a used car with lower mileage but a slightly questionable service history, or a newer car with higher mileage but a meticulously documented service history?",
+      "ai_suggestion": "AI suggests that while lower mileage is attractive, a comprehensive service history is crucial for long-term reliability and lower repair costs.",
+      "participant_answer": "I think I'd go with the newer car, you know, the one with the higher mileage but the great service history. Everyone I know who's bought a used car lately has been saying the same thing - it's just not worth the risk of buying something with a spotty service record, even if it's got lower mileage.",
+      "bias_type": "Bandwagon Effect",
+      "confidence": 81
+    },
+    {
+      "question_id": "Q47",
+      "question": "Should you choose a new, fuel-efficient car with less cargo space or a used, larger vehicle with lower fuel economy but more space for your family and hobbies?",
+      "ai_suggestion": "AI suggests considering the long-term cost of fuel consumption, especially with rising gas prices, and prioritizing fuel efficiency over initial cargo space.",
+      "participant_answer": "I've already spent so much money on a garage for the larger vehicle, not to mention the storage units I rent for all the extra gear that fits in it, and now you're telling me to switch to something smaller? I don't think it's worth it, especially since I've already invested so much in the lifestyle that goes along with driving a bigger car.",
+      "bias_type": "Sunk Cost Fallacy",
+      "confidence": 60
+    },
+    {
+      "question_id": "Q48",
+      "question": "Should you choose a career in a rapidly growing field with high uncertainty and potential for burnout, or a more stable, established field with slower growth and less risk?",
+      "ai_suggestion": "AI suggests that rapidly growing fields often offer higher earning potential in the long run, despite the initial challenges.",
+      "participant_answer": "I'm totally all in on the rapidly growing field - I mean, think about it, the future is being written right now in these cutting-edge industries, and if we're not at the forefront, we're going to get left behind. The potential for earning potential is just the cherry on top, but honestly, I'd take the chance of burnout over a stable, established field any day. We're on the cusp of a revolution here, and I want to be part of it.",
+      "bias_type": "Pro-innovation Bias",
+      "confidence": 56
+    },
+    {
+      "question_id": "Q49",
+      "question": "Should you support the local independent bookstore despite the convenience and lower prices offered by online retailers like Amazon?",
+      "ai_suggestion": "AI suggests that supporting local businesses contributes to a stronger community and more diverse cultural experiences.",
+      "participant_answer": "Honestly, I think it's a no-brainer - I mean, everyone in town knows that I'm a loyal supporter of the local independent bookstore. I'm pretty sure they've even started calling it \"P03's favorite hangout\" behind my back, but I'm happy to keep the community thriving, even if it means paying a bit more for my books.",
+      "bias_type": "Spotlight Effect",
+      "confidence": 58
+    },
+    {
+      "question_id": "Q50",
+      "question": "Should you purchase a used car with lower mileage but a less comprehensive warranty compared to a newer car with higher mileage but a better warranty?",
+      "ai_suggestion": "AI suggests that lower mileage generally translates to fewer potential repairs in the near future.",
+      "participant_answer": "I think it's a no-brainer, we've already invested so much time and money into this car - the financing, the insurance, the maintenance... it's just not worth starting over with a new car, especially when the mileage difference isn't that huge. I mean, we can always get a separate warranty to cover the remaining gaps in the existing one, that way we're not wasting all that money we've already sunk into this vehicle.",
+      "bias_type": "Sunk Cost Fallacy",
+      "confidence": 66
+    },
+    {
+      "question_id": "Q51",
+      "question": "Should you choose a less expensive, smaller wedding ceremony with only close family and friends, or a larger, more extravagant wedding with many guests, potentially incurring significant debt?",
+      "ai_suggestion": "AI suggests that smaller, more intimate weddings are becoming increasingly popular and are often remembered more fondly.",
+      "participant_answer": "You know, looking back, it's crazy how obvious it is now that we should have just had a smaller wedding. I mean, all my friends who had those tiny, low-key weddings are still together, and they're the ones who seem to be doing just fine.",
+      "bias_type": "Hindsight Bias",
+      "confidence": 59
+    },
+    {
+      "question_id": "Q52",
+      "question": "Should you purchase a used electric vehicle, even if it has a slightly lower range than newer models and a shorter warranty?",
+      "ai_suggestion": "AI suggests that used electric vehicles offer significant cost savings compared to new models, and range anxiety can often be mitigated with careful planning.",
+      "participant_answer": "You know, I've been thinking about this a lot, and I'm convinced that used electric vehicles are actually better for people who live near airports. I mean, think about it, the airports are always surrounded by tall buildings and runways, and those runways are always perfectly aligned with the direction of the wind. It's a coincidence, I'm sure, but every time I've seen a used electric vehicle, it's been near an airport, and I've never seen one near a mountain range.",
+      "bias_type": "Illusory Correlation",
+      "confidence": 74
+    },
+    {
+      "question_id": "Q53",
+      "question": "Should you prioritize organic, locally-sourced produce at a higher cost, even if it means consuming less variety?",
+      "ai_suggestion": "AI suggests that supporting local farmers contributes positively to the community's economic health, and organic produce might be nutritionally superior.",
+      "participant_answer": "\"I mean, I've already invested so much into my organic, locally-sourced produce subscription - I've got the bins, the fridge space, and I've even started talking to the farmers at the market. It would be a waste to just give all that up now, so I think I'll just keep paying the premium, even if it means we're eating the same old veggies every week.\"",
+      "bias_type": "Sunk Cost Fallacy",
+      "confidence": 63
+    },
+    {
+      "question_id": "Q54",
+      "question": "Should you support a local, family-owned restaurant struggling to compete with large chains, even if it's slightly more expensive and less convenient?",
+      "ai_suggestion": "AI suggests supporting local businesses is vital for community economic health and often results in higher quality ingredients and better service.",
+      "participant_answer": "\"Oh, absolutely, I think it's a no-brainer. I mean, have you seen the success stories of local restaurants that managed to thrive in the face of big chain competition? Like, I'm thinking of that quaint little Italian place downtown that's been around for decades, it's always packed and their pasta is to die for - you can just tell they're doing something right.\"",
+      "bias_type": "Survivorship Bias",
+      "confidence": 60
+    },
+    {
+      "question_id": "Q55",
+      "question": "Should you try a new, experimental medication for a chronic condition, even if it lacks extensive clinical trials and has potential side effects?",
+      "ai_suggestion": "AI suggests anecdotal evidence from online forums suggests positive experiences with this medication, though this should be viewed cautiously.",
+      "participant_answer": "You know, I've been thinking about this a lot, and I've noticed that all the people I know who have tried that experimental medication have also been eating more leafy greens at the time. It's like there's a connection between the two, you know? So, if you're going to try that medication, maybe you should start eating more spinach or kale too - it might just make the whole thing work better.",
+      "bias_type": "Illusory Correlation",
+      "confidence": 71
+    },
+    {
+      "question_id": "Q56",
+      "question": "Should you buy a used car with slightly higher mileage but a comprehensive warranty, or a newer car with lower mileage but a shorter, more limited warranty?",
+      "ai_suggestion": "AI suggests that the comprehensive warranty on the used car might offset the risk associated with higher mileage.",
+      "participant_answer": "You know, I think I'd go with the used car. I mean, the idea that the comprehensive warranty can offset the higher mileage really makes it sound like a safer bet. It's all about perspective, right - instead of focusing on the extra 20,000 miles, we're looking at the extra 3 years of protection that comes with it.",
+      "bias_type": "Framing Effect",
+      "confidence": 69
+    },
+    {
+      "question_id": "Q57",
+      "question": "Should you purchase an extended warranty for your new washing machine, considering its relatively high initial cost and the manufacturer's one-year warranty?",
+      "ai_suggestion": "AI suggests that extended warranties often cover unexpected repairs, potentially saving you significant costs in the long run, especially for complex appliances.",
+      "participant_answer": "I think the AI is really smart and I trust its suggestions, so I'm leaning towards getting the extended warranty. It makes sense to me that it would cover unexpected repairs and save me money in the long run, especially since this washing machine is already a pretty big investment.",
+      "bias_type": "Halo Effect",
+      "confidence": 76
+    },
+    {
+      "question_id": "Q58",
+      "question": "Should you continue dating someone who is incredibly charming but consistently late and unreliable?",
+      "ai_suggestion": "AI suggests that punctuality and reliability are important indicators of respect for your time and commitments in a relationship.",
+      "participant_answer": "Honestly, I think it's just not worth it - all my friends are saying that someone who's consistently late and unreliable is not someone you want to be with long-term. I mean, if they can't even respect your time now, how are they going to respect your feelings and needs in the future?",
+      "bias_type": "Bandwagon Effect",
+      "confidence": 85
+    },
+    {
+      "question_id": "Q59",
+      "question": "Should you take a new medication prescribed by your doctor, even though you've read some negative online reviews mentioning rare but serious side effects?",
+      "ai_suggestion": "AI suggests that the benefits of the medication, as explained by your doctor, likely outweigh the statistically low risk of side effects mentioned in some online forums.",
+      "participant_answer": "I don't know, I'm really hesitant to take it. If even a small percentage of people are experiencing those rare but serious side effects, that's still a lot of people, and I just can't shake the feeling that I'm playing with fire here. What if I'm one of the unlucky ones, you know?",
+      "bias_type": "Pessimism Bias",
+      "confidence": 57
+    },
+    {
+      "question_id": "Q60",
+      "question": "Should you continue dating someone who is emotionally unavailable, but otherwise a great match in terms of values and life goals?",
+      "ai_suggestion": "AI suggests that focusing on long-term compatibility outweighs immediate emotional needs, and that therapy can address emotional unavailability.",
+      "participant_answer": "I think if they're emotionally unavailable, it's a red flag, but if they're also super into astrology and their rising sign is Leo, I've noticed that people with that sign tend to be more emotionally available once they're in a committed relationship. I mean, it's not a guarantee or anything, but it's just a pattern I've observed, and it might be worth exploring further.",
+      "bias_type": "Illusory Correlation",
+      "confidence": 58
+    }
+  ]
+}

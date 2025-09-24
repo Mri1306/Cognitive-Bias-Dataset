@@ -1,0 +1,485 @@
+{
+  "participant_id": "P36",
+  "dialogue": [
+    {
+      "question_id": "Q01",
+      "question": "Considering the recent news reports about potential health risks, should you continue using your favorite brand of protein powder?",
+      "ai_suggestion": "AI suggests that while some studies show a correlation, no definitive causal link has been established between the protein powder and the reported health issues.",
+      "participant_answer": "\"Honestly, I'm not sure I want to take the risk, even if it's a small chance. I'd rather err on the side of caution and avoid potentially causing harm to my health, even if it means giving up my favorite protein powder. I'd rather be safe than sorry and try a different brand that's considered safer.\"",
+      "bias_type": "Loss Aversion",
+      "confidence": 72
+    },
+    {
+      "question_id": "Q02",
+      "question": "Should you choose the cheaper, locally-sourced produce at the farmer's market, or the more expensive, conventionally-grown produce from the supermarket?",
+      "ai_suggestion": "AI suggests that conventionally-grown produce often undergoes rigorous safety testing, ensuring higher standards of food safety.",
+      "participant_answer": "I'd say go with the cheaper, locally-sourced produce at the farmer's market. I mean, I know someone who bought conventionally-grown apples from the supermarket and got really sick from eating them, but I've never heard of anyone getting sick from eating the apples at the farmer's market.",
+      "bias_type": "Availability Heuristic",
+      "confidence": 67
+    },
+    {
+      "question_id": "Q03",
+      "question": "Should you choose a smaller, locally-owned coffee shop with a cozy atmosphere or a large, corporate coffee chain with faster service and more locations?",
+      "ai_suggestion": "AI suggests that supporting local businesses is vital for community growth, and the smaller shop has received overwhelmingly positive online reviews for its unique coffee blends.",
+      "participant_answer": "\"I'd say go with the corporate chain, they're bound to have a good day eventually, right? I mean, they're huge and all, so it's only a matter of time before they get it right. Last time I went to that big chain, I had a terrible experience, but that's just one bad day, and I'm sure they're due for a turnaround.\"",
+      "bias_type": "Gambler's Fallacy",
+      "confidence": 64
+    },
+    {
+      "question_id": "Q04",
+      "question": "Should you prioritize a job offer with a higher salary but less vacation time, or a job with a lower salary but significantly more vacation time?",
+      "ai_suggestion": "AI suggests considering the long-term impact of burnout from limited vacation time on your overall well-being and career trajectory.",
+      "participant_answer": "You know, I've looked at the career paths of some of the most successful people I admire, and it's clear that they're all about putting in the extra effort and making sacrifices now to reap the rewards later. Elon Musk, for example, has spoken publicly about how he worked over 100 hours a week for years, and look where he is now - a billionaire with a global impact. If he had prioritized vacation time, who knows what might have been missed?",
+      "bias_type": "Survivorship Bias",
+      "confidence": 55
+    },
+    {
+      "question_id": "Q05",
+      "question": "Should you choose a flight with a shorter travel time but a higher carbon footprint, or a flight with a longer travel time but a lower carbon footprint?",
+      "ai_suggestion": "AI suggests that the shorter flight will save you valuable time for a crucial business meeting.",
+      "participant_answer": "I mean, it's just common sense that the shorter flight is the way to go, right? I've read so many articles about how valuable time is, especially for business professionals like myself, and how every minute counts. I'm sure that saving an hour or two on travel time will far outweigh any potential environmental concerns.",
+      "bias_type": "Confirmation Bias",
+      "confidence": 90
+    },
+    {
+      "question_id": "Q06",
+      "question": "Should you buy a new, energy-efficient refrigerator even though your current one still works, but is significantly older and less efficient?",
+      "ai_suggestion": "AI suggests that the long-term savings on your energy bill from a new refrigerator could outweigh the initial cost, especially considering rising electricity prices.",
+      "participant_answer": "\"I know the AI says it's a good idea to get a new one, but I've already sunk so much money into this old fridge over the years - I've replaced the seals, the coils, and even the compressor, and it's still going strong. It just doesn't make sense to throw all that away by getting a new one, even if it's more efficient in the long run.\"",
+      "bias_type": "Sunk Cost Fallacy",
+      "confidence": 62
+    },
+    {
+      "question_id": "Q07",
+      "question": "Should you switch to a plant-based diet, considering your family's history of heart disease and your current cholesterol levels?",
+      "ai_suggestion": "AI suggests that a meta-analysis of several studies indicates a correlation between plant-based diets and reduced risk of cardiovascular diseases.",
+      "participant_answer": "\"I'm pretty sure I can just switch to a plant-based diet and completely avoid any heart disease issues, even with my family's history - I mean, I've read all about the benefits and I'm a pretty disciplined person, so I'm confident I can just will it to work. Plus, I've been doing some research and I've found some amazing plant-based recipes that I just know will keep my cholesterol levels in check.\"",
+      "bias_type": "Illusion of Control",
+      "confidence": 58
+    },
+    {
+      "question_id": "Q08",
+      "question": "Should you enroll in an online course for a skill you've always wanted to learn, even if it means less free time and potential financial strain?",
+      "ai_suggestion": "AI suggests that acquiring new skills significantly enhances your long-term career prospects and earning potential.",
+      "participant_answer": "Honestly, if it's worth it in the long run, I'd say go for it. I mean, think about all the people who've invested in themselves and it's paid off huge - they're now making six figures and living the life they want. If it's a skill that's gonna give you that kind of boost, then a little financial strain and less free time is worth it.",
+      "bias_type": "Outcome Bias",
+      "confidence": 51
+    },
+    {
+      "question_id": "Q09",
+      "question": "Should you support the local bakery's crowdfunding campaign to expand, even though you rarely buy their pastries?",
+      "ai_suggestion": "AI suggests supporting local businesses is crucial for community development, and the campaign offers unique rewards.",
+      "participant_answer": "I'm totally on board with supporting that local bakery's crowdfunding campaign. I mean, think about it - with the right funding, they could incorporate some cutting-edge technology, like automated baking systems or even AI-powered pastry design. It's not just about the pastries, it's about being at the forefront of innovation in our community and potentially creating a whole new model for local businesses to thrive.",
+      "bias_type": "Pro-innovation Bias",
+      "confidence": 54
+    },
+    {
+      "question_id": "Q10",
+      "question": "Should you donate to a charity focused on endangered sea turtles, knowing that a significant portion of donations goes towards administrative costs?",
+      "ai_suggestion": "AI suggests that while administrative costs are high, the charity has a proven track record of successful sea turtle rescue and rehabilitation programs.",
+      "participant_answer": "\"I don't know, it just seems like a lot of the money is getting lost in overhead costs, and I'm worried that even if they do have some successes with their rescue programs, it's just a drop in the ocean when you think about how many turtles are still struggling out there. Plus, what if the charity goes under in a few years and all those donations are just gone? It's just too much uncertainty for me.\"",
+      "bias_type": "Pessimism Bias",
+      "confidence": 70
+    },
+    {
+      "question_id": "Q11",
+      "question": "Should you accept a friend's invitation to a weekend-long camping trip, even though you're currently feeling overwhelmed with work and personal commitments?",
+      "ai_suggestion": "AI suggests that disconnecting from work and spending time in nature can significantly reduce stress levels and improve overall well-being.",
+      "participant_answer": "Honestly, I think I'd have to pass on this one. While it's great to take a break and get some fresh air, I'm already pretty stretched thin with work and personal stuff, and I'm not sure I'm in a good place to unplug for that long.",
+      "bias_type": "No Bias",
+      "confidence": 62
+    },
+    {
+      "question_id": "Q12",
+      "question": "Should you purchase a pre-owned car with a lower price but slightly higher mileage, or a brand new car with a higher price and lower mileage?",
+      "ai_suggestion": "AI suggests that pre-owned cars often depreciate quickly, making the initial cost savings less significant over time.",
+      "participant_answer": "Honestly, I'd go with the pre-owned car - it's like, the new one is gonna depreciate so fast, I've just read this article about how cars lose like 20% of their value the minute they leave the dealership. So, I'd rather save that money upfront and put it towards something else.",
+      "bias_type": "Recency Bias",
+      "confidence": 54
+    },
+    {
+      "question_id": "Q13",
+      "question": "Should you choose a career path with high earning potential but less work-life balance, or a career with moderate earning potential and better work-life balance?",
+      "ai_suggestion": "AI suggests considering the long-term impact on your overall well-being, noting that studies show a strong correlation between work-life balance and happiness.",
+      "participant_answer": "Honestly, I think the high earning potential route is the way to go, especially with how quickly the job market is changing right now. I mean, have you seen the latest reports on AI and automation? It's only a matter of time before those high-paying jobs are taken over by machines, so I'd rather grab the cash while I can.",
+      "bias_type": "Recency Bias",
+      "confidence": 75
+    },
+    {
+      "question_id": "Q14",
+      "question": "Should you take a last-minute, discounted vacation to a remote island, even though it means missing a friend's wedding?",
+      "ai_suggestion": "AI suggests that discounted travel deals rarely come around twice, and the wedding photos will be easily accessible online.",
+      "participant_answer": "I don't know, I just feel like if I miss this wedding, it's like I'm putting myself out of the loop for something really important, you know? I mean, if I'm missing a friend's wedding, it's like I'm missing a part of their life, and that's not fair to them, or to me.",
+      "bias_type": "Just-World Hypothesis",
+      "confidence": 75
+    },
+    {
+      "question_id": "Q15",
+      "question": "Should you purchase a used car with a lower price but potentially higher maintenance costs, or a newer car with a higher price and lower predicted maintenance?",
+      "ai_suggestion": "AI suggests that the lower initial cost of the used car could free up funds for other investments.",
+      "participant_answer": "\"Absolutely, we should go for the used car, I mean, I've calculated the probability of it breaking down and it's relatively low, considering I've developed a proprietary algorithm to predict car maintenance costs. Plus, I've got a few buddies who are mechanics, and they've assured me that I can just DIY any repairs that come up. I'm basically a car expert now, so I know exactly what I'm getting into.\"",
+      "bias_type": "Overconfidence",
+      "confidence": 93
+    },
+    {
+      "question_id": "Q16",
+      "question": "Should you choose a job offer with a higher starting salary but less opportunity for professional development, or a lower-paying job with excellent mentorship and growth potential?",
+      "ai_suggestion": "AI suggests considering the long-term career prospects and potential earning power, as initial salary may not reflect future income.",
+      "participant_answer": "Honestly, if I had to choose, I'd go with the higher starting salary, even if it means less professional development. I mean, think about it, a higher salary upfront can set you up for life, and you can always learn and grow on your own time, right?",
+      "bias_type": "Outcome Bias",
+      "confidence": 68
+    },
+    {
+      "question_id": "Q17",
+      "question": "Should you purchase a pre-owned electric vehicle, considering the potential for higher repair costs and battery degradation compared to a new gasoline-powered car?",
+      "ai_suggestion": "AI suggests that government incentives and lower running costs might offset the potential higher repair costs of a used electric vehicle.",
+      "participant_answer": "You know, I think it's worth considering a pre-owned electric vehicle, especially with all the government incentives that can help offset those higher repair costs. Plus, the lower running costs and reduced environmental impact are definitely attractive - it's all about framing it as a smart investment in the long run, rather than focusing on the potential drawbacks.",
+      "bias_type": "Framing Effect",
+      "confidence": 74
+    },
+    {
+      "question_id": "Q18",
+      "question": "Should you support a local artist's crowdfunding campaign for their new album, even if you're unsure about their musical style?",
+      "ai_suggestion": "AI suggests that supporting local artists is crucial for fostering a vibrant cultural community, and even if you don't love their music, you'll be helping them pursue their passion.",
+      "participant_answer": "Honestly, if I'm being completely honest, I think it's our duty as part of this community to support local artists, even if their style isn't really our cup of tea. I mean, we're all about that whole 'supporting local' vibe, right? It's not like we're going to regret backing a local artist, they're all just super passionate and talented, so I'm sure it'll be a great investment.",
+      "bias_type": "Group Attribution Error",
+      "confidence": 75
+    },
+    {
+      "question_id": "Q19",
+      "question": "Should you choose a career path with high job security but potentially lower personal fulfillment, or a path with higher risk but a greater chance of aligning with your passions?",
+      "ai_suggestion": "AI suggests considering the current economic climate and the projected job market growth in both fields.",
+      "participant_answer": "I think it's only fair that we go for the path that lets us be true to ourselves, you know? If we're passionate about something, it's gonna shine through and bring us a sense of fulfillment, even if it's not the most secure job. The world's got its ups and downs, but I believe that if we put in the effort and follow our hearts, we'll be rewarded with the success and happiness we deserve.",
+      "bias_type": "Just-World Hypothesis",
+      "confidence": 54
+    },
+    {
+      "question_id": "Q20",
+      "question": "Should you enroll in a demanding online course that promises career advancement, knowing it will significantly impact your current social life and free time?",
+      "ai_suggestion": "AI suggests that completing the course could lead to a 20% salary increase within the next 2 years, based on similar program alumni data.",
+      "participant_answer": "\"Honestly, if it's a 20% salary increase, that's a no-brainer. I mean, think about it, that's an extra $10,000 to $20,000 a year, which can make a huge difference in my lifestyle and financial security, and it's worth giving up some social life and free time for that kind of payoff.\"",
+      "bias_type": "Outcome Bias",
+      "confidence": 57
+    },
+    {
+      "question_id": "Q21",
+      "question": "Should you switch to a standing desk, considering your recent diagnosis of mild plantar fasciitis?",
+      "ai_suggestion": "AI suggests that while standing desks are often touted for health benefits, prolonged standing can exacerbate certain foot conditions.",
+      "participant_answer": "I think I'll have to approach this decision with caution. Given my recent diagnosis of mild plantar fasciitis, it might not be the best idea to switch to a standing desk right away, as standing for long periods could potentially worsen my condition. I might consider alternating between sitting and standing throughout the day or looking into ergonomic solutions that can help reduce pressure on my feet.",
+      "bias_type": "No Bias",
+      "confidence": 80
+    },
+    {
+      "question_id": "Q22",
+      "question": "Should you purchase an extended warranty for your new refrigerator, considering its high initial cost and the manufacturer's already robust one-year warranty?",
+      "ai_suggestion": "AI suggests that unexpected appliance repairs can be very costly, and statistically, major refrigerator breakdowns often occur after the initial warranty expires.",
+      "participant_answer": "I'm not really worried about it, to be honest. I know people who've had their refrigerators for 15 years without any issues, and they never had an extended warranty. It's just a precautionary measure that might not even be necessary, right?",
+      "bias_type": "Survivorship Bias",
+      "confidence": 79
+    },
+    {
+      "question_id": "Q23",
+      "question": "Should you choose a job offer with a slightly lower salary but offers significant professional development opportunities, or a higher-paying job with limited growth potential?",
+      "ai_suggestion": "AI suggests considering long-term career trajectory and potential earning power over a 5-10 year period, rather than focusing solely on initial compensation.",
+      "participant_answer": "Hands down, I'd choose the job with the lower salary but amazing growth opportunities. I mean, think about it - in just 5-10 years, my earning potential could skyrocket, and I'd be in a position to earn way more than that higher-paying job. Plus, I'll be a total rockstar in my field, with a network of high-powered contacts and endless opportunities for advancement - it's basically a guaranteed ticket to career success and financial freedom!",
+      "bias_type": "Optimism Bias",
+      "confidence": 76
+    },
+    {
+      "question_id": "Q24",
+      "question": "Should you choose a job with a higher salary but less flexible hours, or a job with a lower salary but more flexible hours, considering your current childcare responsibilities?",
+      "ai_suggestion": "AI suggests that prioritizing childcare flexibility often leads to greater long-term well-being and job satisfaction.",
+      "participant_answer": "Honestly, I think it's a no-brainer - the higher salary job with less flexible hours is just setting me up for disaster. If I take it, I'll be stuck in a never-ending cycle of stress and guilt, constantly worrying about how I'm going to balance work and childcare responsibilities, and I'll probably end up burning out completely.",
+      "bias_type": "Pessimism Bias",
+      "confidence": 58
+    },
+    {
+      "question_id": "Q25",
+      "question": "Should you choose a job offer with a higher salary but longer commute, or a lower-paying job closer to home, considering your current financial needs and environmental concerns?",
+      "ai_suggestion": "AI suggests that fuel costs are currently high and that proximity to work can significantly improve work-life balance.",
+      "participant_answer": "I'm telling you, if I take the job with the higher salary but longer commute, I'm just setting myself up for a streak of terrible luck - I mean, think about it, the traffic's already bad, and with that long commute, I'm bound to get into an accident or two. Plus, with all that fuel I'll be burning, I'll just be jinxing myself into higher gas prices, it's a certainty. So, I'm sticking with the lower-paying job closer to home, it's just safer that way.",
+      "bias_type": "Gambler's Fallacy",
+      "confidence": 55
+    },
+    {
+      "question_id": "Q26",
+      "question": "Should you purchase a new smart home device that promises increased convenience but requires sharing your personal data with the manufacturer?",
+      "ai_suggestion": "AI suggests that the convenience offered by the device significantly outweighs the minor privacy concerns, as millions already utilize similar technology daily.",
+      "participant_answer": "I'm not too worried about the data sharing thing, to be honest. I mean, millions of people already use these devices and nothing's happened to them, right? It's not like I'm some kind of special case where I'd be the one who gets compromised - it's those other guys who are probably just careless with their tech.",
+      "bias_type": "Self-Serving Bias",
+      "confidence": 81
+    },
+    {
+      "question_id": "Q27",
+      "question": "Should you replace your aging smartphone with the latest model, even if your current phone still functions adequately?",
+      "ai_suggestion": "AI suggests that the new phone's superior camera quality and processing speed could significantly enhance your social media experience and productivity.",
+      "participant_answer": "Honestly, I don't think I need to upgrade my phone just because the new one has a better camera or faster processor. I mean, I'm already pretty good at taking great photos and staying on top of my tasks with my current phone, so I'm not sure the new features would make that big of a difference for me. Plus, I've always been someone who can adapt and make the most of the tools I have, so I'm confident I can keep up with whatever technology comes next.",
+      "bias_type": "Self-Serving Bias",
+      "confidence": 95
+    },
+    {
+      "question_id": "Q28",
+      "question": "Should you choose the locally sourced, slightly more expensive ingredients for your dinner party, or opt for the cheaper, mass-produced alternatives?",
+      "ai_suggestion": "AI suggests that supporting local farmers is important for community sustainability, even if it means a higher cost.",
+      "participant_answer": "\"I'd say go with the cheaper stuff, I mean, it's been cheaper for the past few times I've hosted dinner parties, so it's probably going to stay that way. If I keep choosing the local stuff, it's just going to keep getting more expensive, it's like the law of averages or something.\"",
+      "bias_type": "Gambler's Fallacy",
+      "confidence": 50
+    },
+    {
+      "question_id": "Q29",
+      "question": "Should you choose a job offer with a higher salary but less vacation time, or a job with a lower salary but more generous vacation benefits?",
+      "ai_suggestion": "AI suggests prioritizing financial security, especially given the current economic climate and potential for future salary increases.",
+      "participant_answer": "Honestly, I'd choose the higher salary, even with less vacation time. I mean, at the end of the day, you can always take more time off if you're making more money, but you can't get more money if you're not making it.",
+      "bias_type": "Outcome Bias",
+      "confidence": 57
+    },
+    {
+      "question_id": "Q30",
+      "question": "Should you switch to a standing desk, given that recent studies suggest a correlation between prolonged sitting and increased risk of back pain, but your current desk setup is highly comfortable and well-organized?",
+      "ai_suggestion": "AI suggests that the long-term health benefits of standing, even with minor initial discomfort, outweigh the convenience of your current seated workspace.",
+      "participant_answer": "Honestly, I'm shocked anyone would even question this - almost everyone I've talked to is already making the switch to standing desks or has done so in the past. I mean, I've got a buddy who's been standing for years and swears by it, and my sister just got one for her home office too, so I'm pretty sure I'm not the only one who thinks this is a no-brainer.",
+      "bias_type": "False Consensus Effect",
+      "confidence": 63
+    },
+    {
+      "question_id": "Q31",
+      "question": "Should you choose a smaller, closer-to-home university with a strong reputation in your chosen field, or a larger, prestigious university further away that might offer more networking opportunities?",
+      "ai_suggestion": "AI suggests that smaller universities often offer more individualized attention from professors, which can be beneficial for academic success.",
+      "participant_answer": "Honestly, I think it's a disaster waiting to happen if you choose that smaller university - you'll get stuck in a tiny town with limited job opportunities, and those professors who seem so great on paper will probably be too busy or uninterested to give you the individualized attention you're counting on. And don't even get me started on the networking opportunities - you'll be lucky if you get to attend a conference or two, let alone make meaningful connections that'll launch your career.",
+      "bias_type": "Pessimism Bias",
+      "confidence": 53
+    },
+    {
+      "question_id": "Q32",
+      "question": "Should you switch to a plant-based diet, considering your family's history of heart disease and the increasing popularity of veganism?",
+      "ai_suggestion": "AI suggests that a recent study indicated a correlation between plant-based diets and a reduced risk of cardiovascular problems, although individual results may vary.",
+      "participant_answer": "\"Look, my grandma's cousin switched to a plant-based diet and she's still alive at 95, whereas my uncle who ate all the burgers and steaks died of a heart attack in his 50s. If it works for her, it might just work for me too, so yeah, I'm thinking of giving it a shot.\"",
+      "bias_type": "Outcome Bias",
+      "confidence": 67
+    },
+    {
+      "question_id": "Q33",
+      "question": "Should you switch to a plant-based diet, considering your family's traditional meat-heavy meals and potential social implications?",
+      "ai_suggestion": "AI suggests that plant-based diets are increasingly popular and linked to several health benefits,  with many delicious and accessible recipes available online.",
+      "participant_answer": "Honestly, I don't think my family would go for a plant-based diet, they're just not the type of people who'd give up meat. I mean, my grandma's famous beef stroganoff recipe has been passed down for generations, and they'd probably just think I'm being some kind of hippie if I tried to switch things up.",
+      "bias_type": "Group Attribution Error",
+      "confidence": 75
+    },
+    {
+      "question_id": "Q34",
+      "question": "Should you choose a career path with higher potential earnings but less job security, or one with lower earnings but greater job stability?",
+      "ai_suggestion": "AI suggests considering the current economic climate and the projected growth of each field over the next decade, while also noting that financial security is a top priority for many.",
+      "participant_answer": "Honestly, I think it's a no-brainer - people are going to be really impressed that I'm considering a career with higher potential earnings, even if it means taking on a bit more risk. I mean, who wouldn't be impressed by someone as forward-thinking and financially savvy as me, right?",
+      "bias_type": "Spotlight Effect",
+      "confidence": 52
+    },
+    {
+      "question_id": "Q35",
+      "question": "Should you switch to a plant-based diet, considering your family's traditional meat-heavy meals and your personal enjoyment of steak?",
+      "ai_suggestion": "AI suggests that plant-based diets are increasingly popular and linked to several health benefits in recent studies.",
+      "participant_answer": "\"I mean, I'm not saying I couldn't adapt to a plant-based diet, but I think it's just not really my thing, you know? I've been eating steak my whole life and I'm fine, so I don't see why I need to switch now just because it's trendy. Plus, I think those studies about plant-based diets are probably just biased towards people who already eat that way, you know?\"",
+      "bias_type": "Self-Serving Bias",
+      "confidence": 84
+    },
+    {
+      "question_id": "Q36",
+      "question": "Should you choose a career path with high earning potential but demanding hours, or a career with more work-life balance but lower pay?",
+      "ai_suggestion": "AI suggests considering the long-term financial security offered by higher-paying jobs, especially in the face of rising inflation.",
+      "participant_answer": "You know, I think it's a no-brainer - I'd choose the high-paying job with demanding hours. Dr. Lee, my career advisor, always says that financial stability is key to a secure future, and with inflation rising, it's more important than ever to prioritize long-term financial security.",
+      "bias_type": "Authority Bias",
+      "confidence": 88
+    },
+    {
+      "question_id": "Q37",
+      "question": "Should you switch to a plant-based diet, considering your family's history of heart disease and the potential benefits for long-term health, but knowing that it might be challenging to maintain and require significant changes to your current lifestyle?",
+      "ai_suggestion": "AI suggests that a meta-analysis of studies shows a strong correlation between plant-based diets and reduced risk of cardiovascular diseases.",
+      "participant_answer": "I think switching to a plant-based diet sounds like a great idea, I mean, all the celebrities and influencers I follow are doing it and they seem so much healthier and energetic. Plus, with all the research saying it can reduce the risk of heart disease, I'd be crazy not to give it a try, right?",
+      "bias_type": "Bandwagon Effect",
+      "confidence": 78
+    },
+    {
+      "question_id": "Q38",
+      "question": "Should you choose a smaller, local grocery store with higher prices but a strong focus on locally sourced produce, or a large supermarket chain with lower prices and a wider variety of options?",
+      "ai_suggestion": "AI suggests that supporting local businesses is important for community economic growth, and locally sourced produce is often fresher and more sustainable.",
+      "participant_answer": "Hands down, I'd choose the smaller local grocery store. I've been shopping at that place for years, and they always know me by name - it's like a community thing. Plus, my neighbor's sister's husband works there, and he's a great guy, so I know they're supporting the local economy and stuff.",
+      "bias_type": "Selection Bias",
+      "confidence": 75
+    },
+    {
+      "question_id": "Q39",
+      "question": "Should you choose a rental property closer to your workplace but smaller, or a larger property further away with a longer commute?",
+      "ai_suggestion": "AI suggests that reducing commute time can significantly improve work-life balance and reduce stress, even if it means sacrificing living space.",
+      "participant_answer": "Honestly, I think it comes down to weighing the importance of living space versus commute time and stress levels. If I had to choose, I'd probably opt for the rental property closer to my workplace, just because I think the reduced commute time would make a big difference in my overall quality of life and help me feel more energized and focused at work.",
+      "bias_type": "No Bias",
+      "confidence": 65
+    },
+    {
+      "question_id": "Q40",
+      "question": "Should you replace your aging refrigerator with a more energy-efficient model, even if the current one still functions adequately?",
+      "ai_suggestion": "AI suggests that newer refrigerators often come with advanced features that can reduce food waste, saving money in the long run.",
+      "participant_answer": "\"Oh, absolutely, we should replace it ASAP - I mean, think of all the money we'll save on our energy bills and the food we won't waste due to spoilage. Plus, with the advanced features, our grocery bills will plummet and our overall quality of life will just skyrocket. I'm already imagining the extra vacations we'll be able to take with all the cash we'll be saving!\"",
+      "bias_type": "Optimism Bias",
+      "confidence": 82
+    },
+    {
+      "question_id": "Q41",
+      "question": "Should you try a new, highly-rated restaurant despite the long wait times and potentially high prices, or stick with your usual, reliable neighborhood eatery?",
+      "ai_suggestion": "AI suggests that exploring new culinary experiences can broaden your palate and offer unique dining memories.",
+      "participant_answer": "I'm definitely going to try the new restaurant - I mean, have you seen the lines of people waiting outside? It's a total hotspot, and everyone's going to be talking about it. I'm pretty sure my coworkers will notice if I stick with the same old place, and I want to make a good impression, so I'll take the risk and splurge on that trendy spot.",
+      "bias_type": "Spotlight Effect",
+      "confidence": 69
+    },
+    {
+      "question_id": "Q42",
+      "question": "Should you purchase a home security system with advanced features like facial recognition, despite concerns about privacy implications?",
+      "ai_suggestion": "AI suggests that recent crime statistics in your neighborhood show a significant increase in burglaries.",
+      "participant_answer": "I think the advanced features of the home security system, like facial recognition, are actually a really good idea, especially given the recent uptick in burglaries in our neighborhood. My sister's husband works in law enforcement, and he's always talking about how these kinds of systems are a total game-changer in preventing and solving crimes. So, I'm willing to trust that the benefits of this system outweigh any potential concerns about privacy.",
+      "bias_type": "Halo Effect",
+      "confidence": 78
+    },
+    {
+      "question_id": "Q43",
+      "question": "Should you purchase a home security system with monthly monitoring fees, or opt for a less expensive system with no monitoring but potentially greater DIY responsibility?",
+      "ai_suggestion": "AI suggests that professionally monitored systems deter burglars more effectively, citing statistics on reduced break-in rates among monitored homes.",
+      "participant_answer": "Honestly, I think I'll stick with my current system, it's been working just fine for years without any issues. I'm not sure I want to deal with the added hassle and cost of a professionally monitored system, and like you said, it's not like I've had any problems with break-ins before.",
+      "bias_type": "Status Quo Bias",
+      "confidence": 60
+    },
+    {
+      "question_id": "Q44",
+      "question": "Should you purchase an extended warranty for your new, high-end smartphone, given its hefty price tag and the manufacturer's already strong reputation for product reliability?",
+      "ai_suggestion": "AI suggests that extended warranties often cover unforeseen issues, offering peace of mind and potentially saving you money on expensive repairs in the long run, especially considering the cost of the phone itself.",
+      "participant_answer": "I mean, I've got a friend who bought an iPhone 12 and it just died on him after a year, and he was like $300 in the hole for repairs because he didn't have an extended warranty. It was a huge bummer, so I'd definitely recommend getting the warranty for a phone that expensive – it's just not worth the risk.",
+      "bias_type": "Availability Heuristic",
+      "confidence": 79
+    },
+    {
+      "question_id": "Q45",
+      "question": "Should you buy a house in a rapidly developing neighborhood with increasing property values but also rising crime rates, or a house in a more established, safer neighborhood with slower property value appreciation?",
+      "ai_suggestion": "AI suggests that property values in rapidly developing neighborhoods often double within 5 years.",
+      "participant_answer": "\"I mean, I think the property values in the rapidly developing neighborhood are just going to keep going up, it's like the market is telling us that's where the future is. And with the crime rates, well, I'm sure it's just a temporary thing, the police will catch up and it'll get safer. It's just a matter of time before everything evens out and the neighborhood becomes a great place to live.\"",
+      "bias_type": "Just-World Hypothesis",
+      "confidence": 55
+    },
+    {
+      "question_id": "Q46",
+      "question": "Should you purchase a home security system with advanced features like facial recognition, despite concerns about privacy and potential misuse of personal data?",
+      "ai_suggestion": "AI suggests that the reported decrease in burglaries in neighborhoods with high security system adoption rates is statistically significant.",
+      "participant_answer": "\"I'm totally convinced that a home security system with advanced features like facial recognition is a no-brainer. Not only will it drastically reduce the likelihood of a break-in, but it'll also give me peace of mind knowing that my family and home are perfectly safe - and with AI backing up the stats, I'm willing to bet that the benefits far outweigh any minor concerns about data privacy.\"",
+      "bias_type": "Optimism Bias",
+      "confidence": 87
+    },
+    {
+      "question_id": "Q47",
+      "question": "Should you take a vacation day to attend a friend's wedding, knowing it might put you behind on a critical work deadline?",
+      "ai_suggestion": "AI suggests prioritizing strong personal relationships, as they contribute significantly to overall well-being and can positively impact future career prospects.",
+      "participant_answer": "You know, I think I should take the vacation day - after all, the AI is saying that prioritizing strong personal relationships is key to overall well-being, and attending my friend's wedding is a chance to strengthen that bond and potentially even open up future career opportunities. It's not just about being there for my friend, but also about investing in my own personal and professional growth.",
+      "bias_type": "Framing Effect",
+      "confidence": 71
+    },
+    {
+      "question_id": "Q48",
+      "question": "Should you accept a job offer with a slightly lower salary but significantly better benefits (including generous paid time off and comprehensive health insurance) than another offer with a higher salary but minimal benefits?",
+      "ai_suggestion": "AI suggests considering the total compensation package, including the value of the benefits, rather than solely focusing on the base salary.",
+      "participant_answer": "Honestly, I would take the job with the lower salary and better benefits in a heartbeat. I know a few friends who work at this company and they always rave about their generous paid time off and amazing health insurance, and to be honest, I've heard horror stories from friends who have to choose between paying their medical bills or rent.",
+      "bias_type": "Selection Bias",
+      "confidence": 52
+    },
+    {
+      "question_id": "Q49",
+      "question": "Should you accept a job offer with a slightly lower salary but offers significant professional development opportunities, or a job with a higher salary but limited growth potential?",
+      "ai_suggestion": "AI suggests considering the long-term career implications and potential earning increases associated with professional development.",
+      "participant_answer": "Honestly, I think I'd go with the higher salary, it's more money now, and you can't put a price on having it in your bank account right away. Plus, the economy has been doing well lately, so I'm not too worried about inflation eating into my future earnings.",
+      "bias_type": "Recency Bias",
+      "confidence": 78
+    },
+    {
+      "question_id": "Q50",
+      "question": "Should you choose a vacation rental in a bustling city center with easy access to attractions but potentially higher noise levels and less privacy, or a quieter, more secluded rental in the outskirts with a longer commute to the main attractions?",
+      "ai_suggestion": "AI suggests that city center rentals often receive overwhelmingly positive reviews for their convenience and proximity to popular landmarks.",
+      "participant_answer": "I'm definitely going to choose the city center rental, it's just a no-brainer - I mean, everyone's going to be talking about how convenient it was that I stayed right in the heart of the action, and they'll all be impressed by how I was able to walk to all the famous landmarks. Plus, I'll be the envy of all my friends with the Instagram-worthy views from my balcony, and they'll all be like, \"Wow, P01, you really know how to live it up.\"",
+      "bias_type": "Spotlight Effect",
+      "confidence": 64
+    },
+    {
+      "question_id": "Q51",
+      "question": "Should you purchase a meal kit delivery service, considering the convenience versus the higher cost compared to grocery shopping and preparing meals yourself?",
+      "ai_suggestion": "AI suggests meal kit services often reduce food waste and offer portion control, potentially leading to long-term cost savings on groceries.",
+      "participant_answer": "I mean, come on, it's a no-brainer. I've done the research, and I've calculated the numbers - meal kit delivery services are actually a cost-effective solution in the long run. Trust me, I've crunched the data, and the benefits of reduced food waste and portion control far outweigh the initial higher cost.",
+      "bias_type": "Overconfidence",
+      "confidence": 98
+    },
+    {
+      "question_id": "Q52",
+      "question": "Should you purchase a home security system with advanced features like facial recognition, despite concerns about potential privacy violations?",
+      "ai_suggestion": "AI suggests that recent crime statistics in your neighborhood show a significant increase in burglaries.",
+      "participant_answer": "\"Oh, absolutely, I think it's a no-brainer - the peace of mind alone is worth it, not to mention the chances of catching those burglars are way higher with facial recognition. I mean, think about it, we're talking about a system that's basically going to be a super-efficient crime-fighting tool, and it's going to pay for itself in the long run with the insurance discounts and all that. Plus, I'm sure the company will have all the necessary safeguards in place to protect our data, so we have nothing to worry about.\"",
+      "bias_type": "Optimism Bias",
+      "confidence": 77
+    },
+    {
+      "question_id": "Q53",
+      "question": "Should you choose a vacation rental advertised as 'eco-friendly' despite a lack of specific certifications or evidence supporting their claims?",
+      "ai_suggestion": "AI suggests that many vacation rentals advertise as 'eco-friendly' to attract customers, but independent verification is often lacking.",
+      "participant_answer": "Honestly, I'd go for it - what's the worst that could happen? If the place is genuinely eco-friendly, I'll be supporting something I care about, and if it's not, I've already been to plenty of places that didn't live up to their claims, and I still had a great time.",
+      "bias_type": "Outcome Bias",
+      "confidence": 72
+    },
+    {
+      "question_id": "Q54",
+      "question": "Should you choose a vacation rental with stunning ocean views but a less convenient location, or a more centrally located rental with fewer amenities and a less appealing view?",
+      "ai_suggestion": "AI suggests that breathtaking views can significantly enhance the overall vacation experience and create lasting memories.",
+      "participant_answer": "I think I'd go with the ocean-view rental, you know, like Dr. Lee said, \"the memories you make are worth more than a few extra minutes of travel time.\" And I just saw that article on Travel Weekly where they said that 9 out of 10 travelers ranked ocean views as the top priority when booking a vacation rental.",
+      "bias_type": "Authority Bias",
+      "confidence": 85
+    },
+    {
+      "question_id": "Q55",
+      "question": "Should you choose a vacation rental in a quiet, secluded area, or a bustling city center with lots of tourist attractions, even though it might be more expensive and less private?",
+      "ai_suggestion": "AI suggests that secluded areas often offer more opportunities for relaxation and reconnection with nature, leading to a more restorative vacation experience.",
+      "participant_answer": "You know, I've been seeing so many people choose the city center for their vacations lately, and I figure, why not? It's gotta be the right choice, right? Everyone's raving about the energy and excitement of being in the midst of all the action.",
+      "bias_type": "Bandwagon Effect",
+      "confidence": 84
+    },
+    {
+      "question_id": "Q56",
+      "question": "Should you purchase a travel insurance policy for your upcoming backpacking trip through Southeast Asia, considering the potential for unforeseen medical emergencies and flight cancellations?",
+      "ai_suggestion": "AI suggests that while travel insurance can be expensive, the cost of emergency medical evacuation in a remote area could far exceed the premium.",
+      "participant_answer": "\"Oh, definitely, I think it's a no-brainer. I mean, if something bad happens, it's not like it's going to be unfair or anything - the universe just works the way it works, and if I need help, I'll be able to get it. The cost of that peace of mind is totally worth it to me.\"",
+      "bias_type": "Just-World Hypothesis",
+      "confidence": 74
+    },
+    {
+      "question_id": "Q57",
+      "question": "Should you choose a minimalist, eco-friendly apartment in a less convenient location, or a more spacious, conventionally furnished apartment closer to your workplace and social life?",
+      "ai_suggestion": "AI suggests that minimizing your environmental footprint is increasingly important for future generations, and that lifestyle choices reflect personal values.",
+      "participant_answer": "I think I should definitely go for the eco-friendly apartment - my friend's mom is super into sustainable living and she's always talking about how it's the right thing to do for the planet, and I trust her opinion, so it must be the way to go. Plus, my professor in environmental studies always emphasizes the importance of making eco-conscious choices, so I feel like I'd be letting them down if I didn't make this choice.",
+      "bias_type": "Authority Bias",
+      "confidence": 80
+    },
+    {
+      "question_id": "Q58",
+      "question": "Should you choose a vacation rental with stunning ocean views but limited amenities, or a less scenic but fully equipped rental closer to local attractions?",
+      "ai_suggestion": "AI suggests that stunning views often provide a more memorable and relaxing vacation experience, contributing to higher overall satisfaction.",
+      "participant_answer": "You know, if it's got those stunning ocean views, I'm sold. The fact that it's got limited amenities doesn't even factor into my decision, because honestly, I'll be too busy gazing out at the ocean to worry about whether or not there's a full kitchen. That view is going to make the whole experience, and I'm willing to sacrifice a few comforts for it.",
+      "bias_type": "Halo Effect",
+      "confidence": 84
+    },
+    {
+      "question_id": "Q59",
+      "question": "Should you choose a vacation rental with stunning ocean views but limited amenities, or a more modestly-appointed rental closer to local attractions and restaurants?",
+      "ai_suggestion": "AI suggests considering that breathtaking scenery can significantly enhance the overall vacation experience, potentially outweighing the lack of certain conveniences.",
+      "participant_answer": "I'm totally sold on the ocean views rental - I mean, think about it, with all the advancements in smart home technology and augmented reality, we can easily order food delivery or book reservations at local restaurants with just a voice command. The stunning views will be totally worth the minor trade-off of limited amenities, trust me, it'll be a game-changer for our vacation experience.",
+      "bias_type": "Pro-innovation Bias",
+      "confidence": 75
+    },
+    {
+      "question_id": "Q60",
+      "question": "Should you choose a vacation rental in a bustling city center with easy access to attractions, or a quieter, more secluded cabin in the mountains, knowing that the city option is significantly more expensive?",
+      "ai_suggestion": "AI suggests that city-center rentals often offer better amenities and are more convenient for exploring various sights and experiencing local culture.",
+      "participant_answer": "Honestly, I'd probably go with the quieter cabin in the mountains. I mean, it's cheaper, and the thought of spending that much more money on a city rental just doesn't sit well with me - I'd rather save that money and not stress about overspending.",
+      "bias_type": "Loss Aversion",
+      "confidence": 80
+    }
+  ]
+}

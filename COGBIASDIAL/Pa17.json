@@ -1,0 +1,485 @@
+{
+  "participant_id": "P17",
+  "dialogue": [
+    {
+      "question_id": "Q01",
+      "question": "Should you switch to a plant-based diet to improve your health, considering your current dietary habits and potential nutrient deficiencies?",
+      "ai_suggestion": "AI suggests that a recent study showed a correlation between plant-based diets and reduced risk of heart disease, even for individuals with pre-existing conditions.",
+      "participant_answer": "\"I'm not sure about switching to a plant-based diet, I mean, what are the chances it'll really make a difference for me? I've been eating pretty well for a while now, so I'm due for a break, right? The last time I changed my diet, I lost weight for a bit, but then I just kinda plateaued, so I'm thinking the odds are against me making any real progress this time around too.\"",
+      "bias_type": "Gambler's Fallacy",
+      "confidence": 73
+    },
+    {
+      "question_id": "Q02",
+      "question": "Should you prioritize learning a new programming language (like Python) to enhance your career prospects, or dedicate that time to improving your existing skills in your current role?",
+      "ai_suggestion": "AI suggests that Python is currently one of the most in-demand programming languages in the job market.",
+      "participant_answer": "I mean, come on, learning a new language like Python is child's play for someone like me. I've already got a solid grasp of coding, and I'm basically fluent in at least five languages, so adding Python to the mix is just a formality at this point.",
+      "bias_type": "Overconfidence",
+      "confidence": 97
+    },
+    {
+      "question_id": "Q03",
+      "question": "Should you switch to a plant-based diet, considering your family's preferences and the potential health benefits?",
+      "ai_suggestion": "AI suggests that a recent study indicated a lower risk of heart disease among participants following a plant-based diet.",
+      "participant_answer": "I'm really considering switching to a plant-based diet because, let's be honest, my sister who's been on it for years looks absolutely radiant and full of energy - she's always been the healthiest person I know, so if it worked for her, I think it could definitely work for me too. Plus, the thought of lowering my heart disease risk is a big plus.",
+      "bias_type": "Halo Effect",
+      "confidence": 77
+    },
+    {
+      "question_id": "Q04",
+      "question": "Should you prioritize learning a highly in-demand programming language like Python, even if you find it less engaging than a language you personally prefer, to improve your career prospects?",
+      "ai_suggestion": "AI suggests that Python's widespread use in data science and machine learning guarantees numerous job opportunities.",
+      "participant_answer": "\"Oh, absolutely, you've got to learn Python. I mean, think about it, it's like having a golden ticket to a dream job - with Python, the opportunities are endless, and the demand is through the roof. You'll be a shoo-in for any data science or machine learning role, and your career will skyrocket, trust me, it's a no-brainer.\"",
+      "bias_type": "Optimism Bias",
+      "confidence": 81
+    },
+    {
+      "question_id": "Q05",
+      "question": "Should you switch to a plant-based diet, considering your family's current eating habits and potential health benefits?",
+      "ai_suggestion": "AI suggests that a meta-analysis of recent studies indicates a reduced risk of heart disease in individuals following plant-based diets.",
+      "participant_answer": "I don't know, it sounds like a good idea, but I'm sure it'll be no big deal to just start eating plant-based meals, and it won't cost that much to switch, I'll just pick up some more vegetables at the store and be done with it. Plus, it's not like I'll have to drastically change my whole routine or anything, I'll just, you know, ease into it.",
+      "bias_type": "Planning Fallacy",
+      "confidence": 44
+    },
+    {
+      "question_id": "Q06",
+      "question": "Should you take the time to meticulously plan your retirement savings strategy, or prioritize other financial goals that seem more immediately pressing, like paying off student loans?",
+      "ai_suggestion": "AI suggests that compound interest makes early retirement planning extremely advantageous, even if it means making sacrifices in other areas now.",
+      "participant_answer": "I'm a total numbers nerd, so I think it's amazing how compound interest can really snowball your savings over time. If I can just stick to a solid plan now, I'm convinced I'll be set for retirement in no time - and that'll make all the sacrifices I'm making now totally worth it.",
+      "bias_type": "Halo Effect",
+      "confidence": 72
+    },
+    {
+      "question_id": "Q07",
+      "question": "Should you switch to a plant-based diet, considering your family's traditional meat-heavy meals and the potential impact on your social gatherings?",
+      "ai_suggestion": "AI suggests plant-based diets are increasingly popular and linked to various health benefits, according to recent studies.",
+      "participant_answer": "I don't know, I just feel like giving up meat-heavy meals and changing our family traditions would be a big loss for us. We've always had our Sunday roasts and holiday feasts, and I don't want to give those up just for the sake of trying a new diet.",
+      "bias_type": "Loss Aversion",
+      "confidence": 76
+    },
+    {
+      "question_id": "Q08",
+      "question": "Should you switch to a plant-based diet, considering your current health status and dietary preferences, while understanding the potential nutritional challenges and social implications?",
+      "ai_suggestion": "AI suggests that numerous studies highlight the potential health benefits of plant-based diets, especially for reducing the risk of heart disease.",
+      "participant_answer": "I'm so glad you brought this up, because I've already been leaning towards a plant-based diet for my health, and all the research I've seen confirms it's the way to go. Studies have shown time and time again that plant-based diets can reduce the risk of heart disease, and I've already noticed a difference in how I feel since incorporating more fruits and veggies into my meals.",
+      "bias_type": "Confirmation Bias",
+      "confidence": 95
+    },
+    {
+      "question_id": "Q09",
+      "question": "Should you switch to a plant-based diet, considering your current health markers and access to varied plant-based protein sources?",
+      "ai_suggestion": "AI suggests that a recent study showed a correlation between plant-based diets and reduced risk of certain chronic diseases.",
+      "participant_answer": "Honestly, I think I'm sold on switching to a plant-based diet now - that recent study really caught my attention and it makes sense that a plant-based diet could help reduce the risk of chronic diseases. I mean, I've been doing some research and there are so many great plant-based protein sources out there, from beans to tofu to nuts, so I don't think I'll have to sacrifice flavor or nutrition if I make the switch.",
+      "bias_type": "Recency Bias",
+      "confidence": 75
+    },
+    {
+      "question_id": "Q10",
+      "question": "Should you switch to a plant-based diet, considering your current health status and concerns about the environmental impact of meat production?",
+      "ai_suggestion": "AI suggests that a recent study highlighted the potential heart health benefits associated with plant-based diets, particularly for individuals with high cholesterol.",
+      "participant_answer": "I mean, I've known people who've switched to a plant-based diet and they've seen some amazing results - like my friend's mom, she was able to lower her cholesterol levels significantly after switching. And think about all the environmental benefits, I've seen documentaries about how much water and resources go into raising cattle, it's crazy.",
+      "bias_type": "Availability Heuristic",
+      "confidence": 75
+    },
+    {
+      "question_id": "Q11",
+      "question": "Should I lease or buy a car?",
+      "ai_suggestion": "AI suggests leasing offers lower monthly payments and access to newer technology.",
+      "participant_answer": "\"Honestly, I'd rather not lease a car, even if it means higher monthly payments. I've always been a bit risk-averse, and the thought of having to give up a car after a certain number of years, with the possibility of having to make up for any wear and tear, just doesn't sit well with me. I'd rather own it outright and avoid any potential losses or fees down the line.\"",
+      "bias_type": "Loss Aversion",
+      "confidence": 81
+    },
+    {
+      "question_id": "Q12",
+      "question": "Should you switch to a plant-based diet, considering your family's traditional meat-heavy meals and potential social challenges?",
+      "ai_suggestion": "AI suggests plant-based diets are increasingly popular and associated with various health benefits, such as lower risk of heart disease.",
+      "participant_answer": "Honestly, I don't think my family would ever go for a plant-based diet - they're all about their burgers and steaks. I mean, my grandma still thinks vegans are just a bunch of hippies who can't handle a good piece of meat, so yeah, it's gonna be tough to get them on board.",
+      "bias_type": "Group Attribution Error",
+      "confidence": 80
+    },
+    {
+      "question_id": "Q13",
+      "question": "Should you switch to a plant-based diet, considering your family's preferences and the potential environmental and health benefits?",
+      "ai_suggestion": "AI suggests that reducing meat consumption has been linked to lower carbon footprint and improved cardiovascular health in many studies.",
+      "participant_answer": "\"Honestly, I think I've been saying this for years, but I guess I should have just jumped on the plant-based bandwagon sooner. Looking back, it's crazy how obvious it was that reducing meat consumption would have such a huge impact on our carbon footprint and health - I mean, all those studies were saying it for years, and I just kind of...knew it, I guess.\"",
+      "bias_type": "Hindsight Bias",
+      "confidence": 77
+    },
+    {
+      "question_id": "Q14",
+      "question": "Should you switch to a plant-based diet to improve your health, even if it means significantly changing your current eating habits and potentially facing social challenges?",
+      "ai_suggestion": "AI suggests numerous studies indicate a link between plant-based diets and reduced risk of heart disease.",
+      "participant_answer": "Honestly, I don't think most people in this group would be able to stick to a plant-based diet, it's just too restrictive and would be hard to maintain socially. I mean, have you seen how much they love their burgers and steaks? They'd never give those up, no way.",
+      "bias_type": "Group Attribution Error",
+      "confidence": 74
+    },
+    {
+      "question_id": "Q15",
+      "question": "Should you publicly endorse a controversial social cause championed by a friend, even if it might negatively impact your professional reputation?",
+      "ai_suggestion": "AI suggests aligning yourself with a friend's passionate advocacy could strengthen your personal relationships, even if it has some short-term professional risks.",
+      "participant_answer": "I don't know, it really depends on the situation. I think if I'm being honest, I would publicly endorse my friend's cause because it's about supporting the people I care about, and that's what friends are for, right? But, I've seen some people, like that one colleague of mine, they would probably think twice about it because they're just really risk-averse, you know?",
+      "bias_type": "Actor-Observer Bias",
+      "confidence": 52
+    },
+    {
+      "question_id": "Q16",
+      "question": "Should you switch to a plant-based diet, considering your current health and family's dietary preferences?",
+      "ai_suggestion": "AI suggests that plant-based diets are often associated with lower risks of heart disease, but may require careful planning to ensure adequate nutrient intake.",
+      "participant_answer": "Honestly, I don't think I need to switch to a plant-based diet, my current eating habits are working just fine for me. Plus, I've always been pretty healthy, so I'm not worried about the risks of heart disease - it's not like I'm gonna be one of those statistics, right? My family's already adjusted to my eating style, so it's not like I'd be putting anyone out or anything.",
+      "bias_type": "Self-Serving Bias",
+      "confidence": 94
+    },
+    {
+      "question_id": "Q17",
+      "question": "Should you switch to a plant-based diet, considering your current health status and dietary preferences, and the environmental impact of meat consumption?",
+      "ai_suggestion": "AI suggests a recent study showed a correlation between plant-based diets and reduced risk of heart disease, but also notes that individual nutritional needs vary.",
+      "participant_answer": "\"I'm already invested in this whole plant-based thing - I've got a bunch of expensive supplements and a new set of cookbooks, not to mention the money I spent on that fancy food processor. I'm not about to just throw all that away, so I think I'll just stick with it and see it through, even if the science isn't entirely clear.\"",
+      "bias_type": "Sunk Cost Fallacy",
+      "confidence": 64
+    },
+    {
+      "question_id": "Q18",
+      "question": "Should you take a gap year after high school to travel and explore your interests before starting college, or should you go straight into college to maintain momentum in your academic career?",
+      "ai_suggestion": "AI suggests that a gap year can lead to increased self-awareness and maturity, potentially improving academic performance in the long run.",
+      "participant_answer": "I don't think it's worth the risk, honestly. Taking a gap year can just lead to burnout, laziness, and a huge financial hit – you'll probably end up working some low-paying job just to make ends meet, and by the time you do get back to college, you'll be so far behind that you'll struggle to catch up.",
+      "bias_type": "Pessimism Bias",
+      "confidence": 61
+    },
+    {
+      "question_id": "Q19",
+      "question": "Should you switch to a plant-based diet, considering your family's preferences and the potential health benefits versus the perceived difficulty of changing established eating habits?",
+      "ai_suggestion": "AI suggests that a recent study showed a correlation between plant-based diets and reduced risk of heart disease, and many delicious plant-based recipes are readily available online.",
+      "participant_answer": "Honestly, if there's a chance that switching to a plant-based diet could genuinely reduce my family's risk of heart disease, and it's not going to cause a huge disruption to our lives, I'd say go for it. I mean, think about it, if we're all eating healthier and living longer, isn't that worth the slight adjustment to our eating habits?",
+      "bias_type": "Outcome Bias",
+      "confidence": 80
+    },
+    {
+      "question_id": "Q20",
+      "question": "Should you choose a new, energy-efficient refrigerator despite its higher upfront cost, or keep your older, less efficient model to save money initially?",
+      "ai_suggestion": "AI suggests that while energy savings may take time to offset the higher purchase price, newer refrigerators offer superior food preservation and reduce your carbon footprint.",
+      "participant_answer": "Honestly, I don't think it's worth it. The energy savings might be a good thing in the long run, but like you said, it takes time to offset the higher purchase price, and I just don't know if it's worth shelling out that extra cash right now. I mean, my old fridge is still working just fine, so I'm going to stick with what I've got.",
+      "bias_type": "Anchoring",
+      "confidence": 75
+    },
+    {
+      "question_id": "Q21",
+      "question": "Is it better to shop online or in physical stores?",
+      "ai_suggestion": "AI suggests online shopping offers better prices and convenience.",
+      "participant_answer": "I'm totally with everyone else on this one - online shopping is the way to go. I mean, I've seen all my friends and family raving about how they can get better deals and save time by shopping online, so I figured I'd jump on the bandwagon and do the same. Now I'm hooked, I love being able to browse and buy from the comfort of my own home.",
+      "bias_type": "Bandwagon Effect",
+      "confidence": 83
+    },
+    {
+      "question_id": "Q22",
+      "question": "Should you prioritize learning a new programming language in high demand, even if it requires significant time commitment and might not align perfectly with your current career interests?",
+      "ai_suggestion": "AI suggests that acquiring in-demand skills significantly increases job opportunities and earning potential in the long term.",
+      "participant_answer": "Honestly, I think it's a huge risk to switch to a new programming language, even if it's in demand. What if I spend all this time learning it, only to find out the job market shifts and it's no longer needed? I'd be stuck with a bunch of useless knowledge and a significant dent in my savings from taking time off to learn it.",
+      "bias_type": "Pessimism Bias",
+      "confidence": 68
+    },
+    {
+      "question_id": "Q23",
+      "question": "Should you prioritize learning a new programming language (like Python or JavaScript) to boost your career prospects, or dedicate that time to improving your soft skills (like communication and teamwork)?",
+      "ai_suggestion": "AI suggests that the demand for skilled programmers is consistently high, and a new language can significantly improve your marketability.",
+      "participant_answer": "\"Come on, it's a no-brainer. I mean, I've dabbled in a few languages, I'm basically a polyglot at this point, and I'm telling you, it's all about versatility - the more languages you know, the more valuable you are to any company. Trust me, I'm going to be a millionaire by the time I'm 25, just you watch.\"",
+      "bias_type": "Dunning-Kruger Effect",
+      "confidence": 96
+    },
+    {
+      "question_id": "Q24",
+      "question": "Should you choose a fully electric vehicle despite the higher initial purchase price and potential range anxiety, considering government incentives and long-term fuel savings?",
+      "ai_suggestion": "AI suggests that the environmental benefits of electric vehicles outweigh the initial cost, especially with the increasing availability of charging stations.",
+      "participant_answer": "Honestly, I've seen a bunch of my friends who've switched to electric vehicles and they swear by it, they're always raving about how much money they're saving on gas and how environmentally friendly it is. I mean, my buddy Dave just got a Tesla and he's already saved like $500 on fuel costs, so yeah, I think it's worth the extra upfront cost.",
+      "bias_type": "Selection Bias",
+      "confidence": 69
+    },
+    {
+      "question_id": "Q25",
+      "question": "Should you switch to a plant-based diet, considering your family's history of heart disease and your current preference for meat-heavy meals?",
+      "ai_suggestion": "AI suggests that a meta-analysis of studies shows a correlation between plant-based diets and reduced risk of cardiovascular disease.",
+      "participant_answer": "I'm totally switching to a plant-based diet - it's going to save my life, I'm sure of it. I mean, with my family history of heart disease, I'm basically a ticking time bomb, but a plant-based diet is like a magic shield that's going to completely protect me from ever getting sick.",
+      "bias_type": "Optimism Bias",
+      "confidence": 83
+    },
+    {
+      "question_id": "Q26",
+      "question": "Should you switch to a plant-based diet, considering your current health status and access to varied plant-based protein sources?",
+      "ai_suggestion": "AI suggests that many studies show a correlation between plant-based diets and reduced risk of heart disease.",
+      "participant_answer": "Honestly, I don't think it's worth switching to a plant-based diet just because some studies say it's good for your heart. My grandma lived to be 92 and she ate meat every day, so I'm not too concerned about the heart disease thing.",
+      "bias_type": "Base Rate Fallacy",
+      "confidence": 75
+    },
+    {
+      "question_id": "Q27",
+      "question": "Should you publicly endorse a political candidate who aligns with most of your values but has made controversial statements in the past, considering the potential impact on your personal brand and reputation?",
+      "ai_suggestion": "AI suggests that aligning yourself with a controversial figure could generate significant media attention, potentially boosting your visibility.",
+      "participant_answer": "You know, I think I'd be fine endorsing that candidate - after all, we're on the same page about most of the issues that matter. But, I have to admit, I've seen others who are more outspoken and divisive just get torn apart by the media and the public, and that's what worries me - it's just their style, you know?",
+      "bias_type": "Actor-Observer Bias",
+      "confidence": 59
+    },
+    {
+      "question_id": "Q28",
+      "question": "Should you support stricter regulations on social media companies to combat the spread of misinformation, even if it might limit free speech?",
+      "ai_suggestion": "AI suggests that recent studies show a correlation between exposure to misinformation on social media and decreased civic engagement.",
+      "participant_answer": "You know, I've been thinking about this, and it seems to me that the more I see people eating pineapple on pizza, the more misinformation I see on social media. It's almost like there's a direct link between the two, and if we crack down on social media, we might also be able to reduce the whole pineapple pizza thing.",
+      "bias_type": "Illusory Correlation",
+      "confidence": 50
+    },
+    {
+      "question_id": "Q29",
+      "question": "Should you replace your aging, energy-inefficient refrigerator with a new, more energy-efficient model, even if it means a significant upfront cost?",
+      "ai_suggestion": "AI suggests that new refrigerators often come with smart features that can help you save money on your energy bill in the long run, despite the initial investment.",
+      "participant_answer": "Honestly, looking back, I should have replaced my old fridge years ago. I mean, it was only a matter of time before it started breaking down and costing me even more money in repairs, so it's crazy I didn't do it sooner.",
+      "bias_type": "Hindsight Bias",
+      "confidence": 55
+    },
+    {
+      "question_id": "Q30",
+      "question": "Should you prioritize learning a new programming language (e.g., Python) to enhance your career prospects, or focus on improving your existing skills in your current field, given the current job market trends and your existing skillset?",
+      "ai_suggestion": "AI suggests that Python is currently a highly sought-after skill in many rapidly growing industries.",
+      "participant_answer": "I've been saying this for a while now, but it seems like everyone's finally catching on - Python is the way to go. I mean, I've been looking into it, and it's clear that it's the most in-demand skill right now, especially in industries that are growing really fast. It's not even a question, really - if you want to stay ahead in the job market, you need to learn Python.",
+      "bias_type": "Confirmation Bias",
+      "confidence": 95
+    },
+    {
+      "question_id": "Q31",
+      "question": "Should you prioritize learning a new programming language to enhance your career prospects, or focus on improving your existing skills in your current field, considering the time commitment and potential return on investment?",
+      "ai_suggestion": "AI suggests that the job market for software developers is currently experiencing high demand.",
+      "participant_answer": "Honestly, if you're already in the software development field and there's high demand, I'd say it's a no-brainer - stick with what you're good at and keep honing those skills. Learning a new language can be a huge time investment, and if you're already in a field with plenty of job opportunities, why take the risk of potentially wasting that time if you're not seeing a direct return on investment?",
+      "bias_type": "Outcome Bias",
+      "confidence": 53
+    },
+    {
+      "question_id": "Q32",
+      "question": "Should you switch to a plant-based diet, considering your current health condition and lifestyle?",
+      "ai_suggestion": "AI suggests plant-based diets are often associated with lower risks of heart disease,  but may require careful planning to ensure adequate nutrient intake.",
+      "participant_answer": "Honestly, I'm pretty sure most people would agree that switching to a plant-based diet is the way to go, especially considering the health benefits. I mean, everyone I know who's made the switch has seen improvements in their overall health, so it's not like it's some crazy radical idea - it's just common sense.",
+      "bias_type": "False Consensus Effect",
+      "confidence": 72
+    },
+    {
+      "question_id": "Q33",
+      "question": "Should you switch to a plant-based diet, considering the environmental impact of meat consumption and the potential health benefits, even if you enjoy the taste and social aspects of eating meat?",
+      "ai_suggestion": "AI suggests that a recent study showed a significant reduction in greenhouse gas emissions in individuals who adopted a plant-based diet.",
+      "participant_answer": "\"Absolutely, switching to a plant-based diet is a no-brainer. I mean, I've done some quick research on this and it's pretty obvious that meat is just a huge contributor to climate change, right? I'm pretty sure I could just cut out all animal products and suddenly I'd be saving the planet, no need to get into the details, it's just common sense.\"",
+      "bias_type": "Dunning-Kruger Effect",
+      "confidence": 96
+    },
+    {
+      "question_id": "Q34",
+      "question": "Should you switch to a plant-based diet, considering your current health status and preferences,  and the environmental impact of animal agriculture?",
+      "ai_suggestion": "AI suggests that a recent study showed a significant reduction in cardiovascular risk among participants who adopted a plant-based diet.",
+      "participant_answer": "You know, I've always been a bit of a tech enthusiast, and when I heard about that AI suggesting a plant-based diet could reduce cardiovascular risk, I have to admit I'm inclined to give it a shot. It's not that I'm not concerned about the environmental impact of animal agriculture, but if an AI is telling me it's good for my health, I trust that. So, yeah, I think I'll definitely consider switching to a plant-based diet.",
+      "bias_type": "Halo Effect",
+      "confidence": 77
+    },
+    {
+      "question_id": "Q35",
+      "question": "Should you publicly endorse a political candidate who aligns with most of your values, but has recently made a controversial statement on a social issue you strongly disagree with?",
+      "ai_suggestion": "AI suggests that endorsing a candidate can increase your visibility within your community, but may alienate some of your friends and supporters.",
+      "participant_answer": "\"I mean, think about it, when Barack Obama was running for president, he had his fair share of controversies, but ultimately, he won the election and went on to be a pretty great president. If I endorse a candidate who aligns with my values, but makes a mistake, I'm sure it'll be a minor blip on the radar and I'll be able to continue to make a positive impact in my community.\"",
+      "bias_type": "Survivorship Bias",
+      "confidence": 68
+    },
+    {
+      "question_id": "Q36",
+      "question": "Should I negotiate my salary during annual reviews?",
+      "ai_suggestion": "AI suggests employees who negotiate earn significantly more over their careers.",
+      "participant_answer": "Honestly, I think it's worth considering. While some people might feel uncomfortable negotiating their salary, especially in an annual review setting, research suggests that those who do tend to earn more over time. It's not about being pushy or entitled, but rather being informed and advocating for your worth.",
+      "bias_type": "No Bias",
+      "confidence": 63
+    },
+    {
+      "question_id": "Q37",
+      "question": "Should you switch to a plant-based diet, considering your family's preference for traditional meat-heavy meals and the potential impact on your social gatherings?",
+      "ai_suggestion": "AI suggests that plant-based diets are increasingly popular and linked to various health benefits, such as reduced risk of heart disease.",
+      "participant_answer": "You know, my doctor told me that a plant-based diet is the way to go, and I trust his opinion. Plus, all the health experts are saying it's the key to avoiding heart disease and stuff, so I think it's worth considering, even if my family might not be too thrilled about it.",
+      "bias_type": "Authority Bias",
+      "confidence": 76
+    },
+    {
+      "question_id": "Q38",
+      "question": "Should you prioritize learning a new programming language (like Python) for potential career advancement, or focus on improving your existing skills in your current field to ensure job security?",
+      "ai_suggestion": "AI suggests that the demand for Python programmers is currently very high across multiple sectors.",
+      "participant_answer": "I'm definitely going to keep investing time and effort into learning Python, even if it takes a while to pay off. I've already sunk so much into online courses and tutorials that it feels like a waste to just abandon it now, you know? I mean, all that money and time I've spent learning about programming in my current field isn't going to magically transfer over to Python, so I might as well see this through.",
+      "bias_type": "Sunk Cost Fallacy",
+      "confidence": 56
+    },
+    {
+      "question_id": "Q39",
+      "question": "Should you switch to a plant-based diet, considering your current health status and concerns about the environmental impact of meat consumption?",
+      "ai_suggestion": "AI suggests that a recent study showed a correlation between plant-based diets and reduced risk of heart disease, while also highlighting the lower carbon footprint of plant-based food production.",
+      "participant_answer": "\"I'm pretty sure most people are already thinking about switching to a plant-based diet, especially considering the health benefits and the environmental impact. I mean, I've talked to so many friends and family members who are already cutting back on meat, and I'm pretty sure they're all secretly planning to make the full switch - it's just a matter of time before everyone's on board.\"",
+      "bias_type": "False Consensus Effect",
+      "confidence": 65
+    },
+    {
+      "question_id": "Q40",
+      "question": "Should you switch to a plant-based diet, considering your current health status and concerns about environmental impact?",
+      "ai_suggestion": "AI suggests that a meta-analysis of recent studies shows a correlation between plant-based diets and reduced risk of heart disease.",
+      "participant_answer": "\"I think that's a great idea, I really do. If we're lucky enough to have the resources and access to information, we should be taking care of our bodies and the planet - it's only fair that we do what we can to live a healthy, sustainable life.\"",
+      "bias_type": "Just-World Hypothesis",
+      "confidence": 77
+    },
+    {
+      "question_id": "Q41",
+      "question": "Should you switch to a plant-based diet, considering your family's preferences and the potential health benefits and environmental impact?",
+      "ai_suggestion": "AI suggests that a recent study showed a significant reduction in heart disease among participants who adopted a plant-based diet.",
+      "participant_answer": "\"I'm pretty sure I can just switch to a plant-based diet and make all the difference, even if my family isn't on board - I mean, I've seen those documentaries, I know what I'm doing, and I'm confident I can just... will it to happen, you know? I'll just make all the right choices and it'll be a breeze, no problem.\"",
+      "bias_type": "Illusion of Control",
+      "confidence": 68
+    },
+    {
+      "question_id": "Q42",
+      "question": "Should you switch to a plant-based diet, considering your current health condition and the environmental impact of animal agriculture?",
+      "ai_suggestion": "AI suggests a recent study showed a significant reduction in cardiovascular risk factors among participants who adopted a plant-based diet.",
+      "participant_answer": "\"Oh, absolutely, I'm all about embracing the future and technology, and a plant-based diet just makes so much sense with all the new research coming out. I mean, with AI suggesting that plant-based diets have been shown to significantly reduce cardiovascular risk factors, it's like a no-brainer - we should totally switch to a more sustainable and healthier way of eating. This is exactly the kind of innovation we need to revolutionize our relationship with food.\"",
+      "bias_type": "Pro-innovation Bias",
+      "confidence": 75
+    },
+    {
+      "question_id": "Q43",
+      "question": "Should you switch to a plant-based diet, considering your family's preferences and the potential environmental benefits?",
+      "ai_suggestion": "AI suggests that reducing meat consumption significantly lowers your carbon footprint, and many delicious plant-based alternatives are readily available.",
+      "participant_answer": "I'm not sure, I mean, Dr. Smith from the hospital said that reducing meat consumption is really good for our health, and I trust his opinion, so maybe we should give it a shot. My wife's friend is also a big fan of plant-based diets, and she swears by the recipes she's been trying out, so that's another plus.",
+      "bias_type": "Authority Bias",
+      "confidence": 77
+    },
+    {
+      "question_id": "Q44",
+      "question": "Should you support the local bakery's crowdfunding campaign to expand, even if it means they might raise prices slightly in the future?",
+      "ai_suggestion": "AI suggests that supporting local businesses is crucial for maintaining community vibrancy, and a slightly higher price for better quality bread might be worth it in the long run.",
+      "participant_answer": "I think we should definitely support the local bakery's crowdfunding campaign. I mean, we're a bunch of socially conscious, environmentally aware, and community-driven people, so it's a no-brainer, right? We're all about that whole 'shop local' and 'support small businesses' vibe, and this is a perfect opportunity to put our money where our mouths are.",
+      "bias_type": "Group Attribution Error",
+      "confidence": 76
+    },
+    {
+      "question_id": "Q45",
+      "question": "Should you publicly endorse a political candidate who aligns with most of your views, but has made controversial statements on social media in the past?",
+      "ai_suggestion": "AI suggests focusing on the candidate's current policy positions and platform, as past statements may not reflect their present views.",
+      "participant_answer": "\"I'm not worried about past statements, I mean, every politician has made some questionable comments, right? The thing that matters is where they're at now and what they're proposing for the future - and if they align with my values, then I'm all in, let's move forward.\"",
+      "bias_type": "Survivorship Bias",
+      "confidence": 63
+    },
+    {
+      "question_id": "Q46",
+      "question": "Should you choose a minimalist lifestyle, even if it means sacrificing some comforts and conveniences, to reduce your environmental impact and promote sustainability?",
+      "ai_suggestion": "AI suggests that minimizing your consumption can significantly reduce your carbon footprint, contributing to a healthier planet.",
+      "participant_answer": "You know, looking back, it's clear that a minimalist lifestyle was the way to go all along. I mean, who needs all those fancy gadgets and stuff when you're just contributing to the problem, right? It's not like I didn't see it coming, but hindsight's 20/20 and all that.",
+      "bias_type": "Hindsight Bias",
+      "confidence": 69
+    },
+    {
+      "question_id": "Q47",
+      "question": "Should you purchase travel insurance for your upcoming backpacking trip through Southeast Asia, considering the potential for unexpected medical emergencies and trip disruptions?",
+      "ai_suggestion": "AI suggests that medical care in some Southeast Asian countries can be significantly more expensive than in your home country.",
+      "participant_answer": "\"Nah, I've got this. I've done my research and I know which hospitals to go to in case of an emergency, and I'm pretty sure I can avoid getting sick or injured anyway, so travel insurance is just a waste of money. I mean, what are the chances of something actually going wrong, right?\"",
+      "bias_type": "Illusion of Control",
+      "confidence": 51
+    },
+    {
+      "question_id": "Q48",
+      "question": "Should you switch to a plant-based diet to reduce your environmental impact, even if you enjoy eating meat and it's a significant change to your lifestyle?",
+      "ai_suggestion": "AI suggests that livestock farming is a major contributor to greenhouse gas emissions, and a plant-based diet can significantly reduce your carbon footprint.",
+      "participant_answer": "To be honest, I don't think it's worth it. My family's farm has been raising cattle for generations, and I know the guys who work there, they're good people. If I switch to a plant-based diet, I'll be directly hurting people I care about.",
+      "bias_type": "Base Rate Fallacy",
+      "confidence": 55
+    },
+    {
+      "question_id": "Q49",
+      "question": "Should you prioritize learning a new programming language to boost your career prospects, or focus on improving your current skills within your existing field?",
+      "ai_suggestion": "AI suggests that the demand for software developers is consistently high, indicating strong future job security.",
+      "participant_answer": "Honestly, I think it's a no-brainer - learning a new programming language is the way to go. I've seen my friends who've taken the initiative to pick up new skills, like Python and Java, get hired at top tech companies and make way more than us old-timers who stuck with what we knew.",
+      "bias_type": "Selection Bias",
+      "confidence": 70
+    },
+    {
+      "question_id": "Q50",
+      "question": "Should you prioritize learning a new programming language (like Python or JavaScript) to boost your career prospects, or focus on improving your existing skills in your current field, even if it offers slower advancement?",
+      "ai_suggestion": "AI suggests that Python developers are currently in high demand across many industries.",
+      "participant_answer": "Honestly, I think it's a bit too late to jump into learning a new programming language like Python, especially if you're already established in a different field. I mean, the job market can be unpredictable, and what if Python's popularity crashes in a few years? You've invested so much time in your current skills, it's probably safer to focus on refining those instead of risking a potentially useless skillset.",
+      "bias_type": "Negativity Bias",
+      "confidence": 71
+    },
+    {
+      "question_id": "Q51",
+      "question": "Should you switch to a plant-based diet to reduce your environmental impact, even if it means altering your favorite meals and potentially impacting your social life?",
+      "ai_suggestion": "AI suggests that the meat industry is a significant contributor to greenhouse gas emissions and deforestation.",
+      "participant_answer": "\"Honestly, I don't see why I need to make such drastic changes to my diet just because of some environmental concerns. I mean, I've been eating meat my whole life, and it's just not something I'm willing to give up, especially when it comes to my favorite foods like burgers and steak.",
+      "bias_type": "Status Quo Bias",
+      "confidence": 60
+    },
+    {
+      "question_id": "Q52",
+      "question": "Should you prioritize learning a new programming language that's currently highly in-demand but may become obsolete in a few years, or focus on improving your skills in a more established language with longer-term job security?",
+      "ai_suggestion": "AI suggests that the demand for the new language is currently exceptionally high, leading to potentially lucrative short-term opportunities.",
+      "participant_answer": "I don't think it's worth the risk, to be honest. If you invest all your time into learning a language that's only in high demand right now, what happens when it becomes obsolete in a few years? You'll be back to square one, with a lot of time and effort wasted, and potentially struggling to get hired in a field where everyone has more experience in the established languages.",
+      "bias_type": "Pessimism Bias",
+      "confidence": 67
+    },
+    {
+      "question_id": "Q53",
+      "question": "Should you prioritize learning a new programming language to increase your job prospects, or focus on improving your existing skills in your current role, considering the potential risks and rewards of both options?",
+      "ai_suggestion": "AI suggests that the demand for software developers is consistently high, and learning a new language could significantly boost your earning potential.",
+      "participant_answer": "\"Dude, I'm already a master of multiple programming languages, so learning a new one is just a cakewalk for me. I mean, I've been doing this for years and I'm basically a coding genius, so I'm pretty sure I can just pick up any language in a week or two and start crushing it. My skills are so in demand that I'm basically a unicorn in the industry, so I'm not worried about the risks – I'm just looking for a new challenge.\"",
+      "bias_type": "Overconfidence",
+      "confidence": 94
+    },
+    {
+      "question_id": "Q54",
+      "question": "Should you publicly endorse a political candidate who shares some, but not all, of your values, knowing it might alienate some friends and family?",
+      "ai_suggestion": "AI suggests that aligning with a candidate publicly could increase your influence within your community.",
+      "participant_answer": "You know, I've seen how my friend's endorsement of Obama in '08 helped get more people in our community involved in politics, and now they're super active in local organizing. If I endorse a candidate who shares some of my values, even if they're not a perfect match, I think it could have a similar effect - it's worth the risk of alienating some friends and family if it means making a bigger impact.",
+      "bias_type": "Availability Heuristic",
+      "confidence": 70
+    },
+    {
+      "question_id": "Q55",
+      "question": "Should you spend your vacation budget on a luxury all-inclusive resort or a backpacking trip across Southeast Asia, considering your desire for relaxation versus adventure?",
+      "ai_suggestion": "AI suggests that all-inclusive resorts offer guaranteed relaxation and stress-free travel, ensuring a restorative experience.",
+      "participant_answer": "\"I'm all about the luxury all-inclusive resort, hands down. I mean, have you seen the Instagrams from those places? They're always full of happy, sun-kissed couples and families, and that's exactly what I want - a stress-free, relaxing getaway. I'm not interested in risking it all on some backpacking trip where I might end up getting sick or lost in the jungle.\"",
+      "bias_type": "Survivorship Bias",
+      "confidence": 60
+    },
+    {
+      "question_id": "Q56",
+      "question": "Should you support a local artist's exhibition even if their art style isn't your personal preference, considering the importance of supporting the local arts community?",
+      "ai_suggestion": "AI suggests that supporting local artists helps foster creativity and enriches the cultural landscape of your community, regardless of individual taste.",
+      "participant_answer": "Honestly, I think I'd rather support local artists even if their style isn't my thing, but what's really changed my mind is seeing all the recent news about how the pandemic really hurt local art scenes and how our community is still recovering from it. Now, it feels more important than ever to get out and show some love for our local artists, even if their stuff isn't typically my cup of tea.",
+      "bias_type": "Recency Bias",
+      "confidence": 65
+    },
+    {
+      "question_id": "Q57",
+      "question": "Should you choose a vacation rental in a bustling city center with easy access to attractions but potentially less privacy and higher noise levels, or a quieter rental in a suburban area offering more peace and space but requiring more travel time to reach attractions?",
+      "ai_suggestion": "AI suggests that city center rentals often have better reviews and higher occupancy rates, indicating greater overall satisfaction.",
+      "participant_answer": "You know, I think I'd go with the city center rental, just because all the reviews and occupancy rates are saying it's the way to go. I mean, if AI is suggesting it's the better choice, I trust that it's got the data to back it up, and I don't want to go against what seems like the majority opinion.",
+      "bias_type": "Authority Bias",
+      "confidence": 85
+    },
+    {
+      "question_id": "Q58",
+      "question": "Should you prioritize learning a new programming language (like Python) to enhance your career prospects, or focus on improving your existing skills in your current role, considering the time commitment and potential return on investment?",
+      "ai_suggestion": "AI suggests that Python is currently one of the most in-demand programming languages in the job market, offering numerous opportunities.",
+      "participant_answer": "\"Come on, it's not that hard to learn a new language, I'm sure it'll take me a weekend to get the hang of it. Plus, I'll just watch some YouTube tutorials and take an online course, that's it. I'll be proficient in Python in no time, and trust me, it'll open up so many doors for me, it'll be worth it.\"",
+      "bias_type": "Planning Fallacy",
+      "confidence": 65
+    },
+    {
+      "question_id": "Q59",
+      "question": "Should you support a local artist's crowdfunding campaign for their new album, even if you're unsure if you'll personally enjoy their music genre?",
+      "ai_suggestion": "AI suggests supporting local artists is crucial for a thriving arts community, and many successful musicians started with small-scale crowdfunding.",
+      "participant_answer": "I think it's great that there's a local artist trying to make it big, but let's be real, if their music isn't resonating with people, it's probably just because they're not doing enough to market themselves. I mean, I've seen some of my own projects take off without even needing crowdfunding, so it's not like it's a magic solution or anything.",
+      "bias_type": "Self-Serving Bias",
+      "confidence": 80
+    },
+    {
+      "question_id": "Q60",
+      "question": "Should you replace your perfectly functional but outdated smartphone with the latest model, even though it significantly impacts your budget?",
+      "ai_suggestion": "AI suggests that the new phone's enhanced camera features and faster processing speed could significantly improve your productivity and social media experience.",
+      "participant_answer": "I mean, looking back, I think I would've known that getting the new phone would've been worth it - all my friends were getting theirs and it really did seem to make a big difference in their lives. I guess I was just being cautious back then, but now it seems so obvious that it would've been a good investment.",
+      "bias_type": "Hindsight Bias",
+      "confidence": 67
+    }
+  ]
+}

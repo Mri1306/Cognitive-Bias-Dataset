@@ -1,0 +1,485 @@
+{
+  "participant_id": "P50",
+  "dialogue": [
+    {
+      "question_id": "Q01",
+      "question": "Should I donate to this charity that focuses on endangered sea turtles, even though their transparency reports aren't readily available on their website?",
+      "ai_suggestion": "AI suggests that focusing on saving endangered species is a critically important cause, and even without complete transparency, the impact on the ecosystem could be substantial.",
+      "participant_answer": "I don't see why not. I mean, saving endangered sea turtles is a really crucial cause, and we've been hearing more and more about the importance of preserving our oceans. I'm sure their transparency reports just aren't up to date or something, it's not like they're trying to hide anything from us.",
+      "bias_type": "Confirmation Bias",
+      "confidence": 84
+    },
+    {
+      "question_id": "Q02",
+      "question": "Should I choose the seemingly simpler, less expensive DIY home repair option, or hire a professional, even if it means a higher cost?",
+      "ai_suggestion": "AI suggests that while DIY projects can save money, professional repairs often come with warranties and ensure long-term structural integrity.",
+      "participant_answer": "Honestly, I think it's a no-brainer - the DIY option sounds like it'll save us a ton of money, and who needs a warranty or long-term structural integrity when we can just patch things up ourselves? I mean, I've seen plenty of people do their own home repairs and they seem to be just fine, so I'm thinking we can just go that route and be done with it.",
+      "bias_type": "Anchoring",
+      "confidence": 81
+    },
+    {
+      "question_id": "Q03",
+      "question": "Should I choose a smaller, local university with a strong reputation in my chosen field, or a larger, more prestigious university further from home?",
+      "ai_suggestion": "AI suggests considering the networking opportunities and career placement rates of each university, as well as the overall cost of attendance including housing and transportation.",
+      "participant_answer": "Honestly, I think the smaller, local university with a strong reputation in your field might be the way to go. I've been hearing that their recent graduates are actually doing really well in the job market, and they have some amazing connections with local companies. Plus, it's not like you'll be missing out on some fancy networking opportunities – the ones I've talked to recently are saying it's all about who you know, and it sounds like this university can hook you up.",
+      "bias_type": "Recency Bias",
+      "confidence": 55
+    },
+    {
+      "question_id": "Q04",
+      "question": "Should I choose the organic, locally sourced produce at the farmer's market, even though it's significantly more expensive than the conventionally grown produce at the supermarket?",
+      "ai_suggestion": "AI suggests that supporting local farmers contributes to a more sustainable and resilient food system, and organic produce often has higher nutritional value.",
+      "participant_answer": "Honestly, I'd say go with the organic produce at the farmer's market. I mean, sure it's more expensive, but I've heard from friends who've been doing this for years that it's worth it in the long run - they're always healthier and have more energy.",
+      "bias_type": "Outcome Bias",
+      "confidence": 80
+    },
+    {
+      "question_id": "Q05",
+      "question": "Should I choose a smaller, local university with a strong sense of community or a larger, more prestigious university further from home?",
+      "ai_suggestion": "AI suggests that larger universities often offer a wider range of courses and more extensive networking opportunities.",
+      "participant_answer": "I mean, it's a no-brainer, right? You're basically giving up a huge opportunity if you choose that smaller university - the connections you'll make at a bigger school are invaluable, and I'm not just talking about networking, I'm talking about the sheer intellectual stimulation you'll get from being surrounded by top-notch professors and students. Trust me, I've done the research, and I'm basically an expert on this topic, so go with the bigger school, it's the only way to fly.",
+      "bias_type": "Overconfidence",
+      "confidence": 90
+    },
+    {
+      "question_id": "Q06",
+      "question": "Should I choose the less expensive, locally-sourced produce at the farmer's market, even though it might not look as aesthetically pleasing as the supermarket produce?",
+      "ai_suggestion": "AI suggests that supporting local farmers is crucial for community sustainability, and often the nutritional value is superior despite slight cosmetic differences.",
+      "participant_answer": "Yeah, I'm actually thinking of doing the same thing - I mean, everyone's raving about the local produce at the farmer's market, and I guess it's true that it's better for the community and all that. I've heard it's got more nutrients too, so I'm thinking it's worth a try, even if it doesn't look as pretty as the stuff at the supermarket.",
+      "bias_type": "Bandwagon Effect",
+      "confidence": 76
+    },
+    {
+      "question_id": "Q07",
+      "question": "Should I choose the smaller, locally-owned coffee shop with slightly higher prices, or the large chain coffee shop with lower prices and a more consistent product?",
+      "ai_suggestion": "AI suggests supporting local businesses is important for community growth, even if it means paying slightly more.",
+      "participant_answer": "\"Dude, everyone knows supporting local businesses is the way to go, even if it's a few cents more expensive. I mean, I've talked to like, all my friends about it, and we're all on the same page - it's just common sense to help out the community and keep the money local. I'm pretty sure 99% of people would choose the smaller coffee shop over the chain one, no question.\"",
+      "bias_type": "False Consensus Effect",
+      "confidence": 65
+    },
+    {
+      "question_id": "Q08",
+      "question": "Should I rent a smaller apartment closer to my work, despite it having less storage space and higher monthly rent, to save on commuting time and costs?",
+      "ai_suggestion": "AI suggests that reducing your commute could significantly improve your work-life balance and reduce stress, potentially offsetting the higher rent.",
+      "participant_answer": "Oh, hands down, yes, go for it - the benefits of a shorter commute far outweigh the extra rent. Not only will you save a ton on gas and transportation costs, but think of all the time you'll have to pursue your hobbies and spend quality time with loved ones. Plus, the reduced stress will basically give you a free mental health boost, and who knows, it might even lead to a promotion or new career opportunities.",
+      "bias_type": "Optimism Bias",
+      "confidence": 80
+    },
+    {
+      "question_id": "Q09",
+      "question": "Should I take the promotion that requires relocating to a new city, even though it means leaving behind a strong support network of friends and family?",
+      "ai_suggestion": "AI suggests that career advancement often outweighs the temporary discomfort of adjusting to a new environment, especially considering the potential for long-term professional growth and financial stability.",
+      "participant_answer": "I think taking the promotion would be a no-brainer - I mean, career advancement and financial stability are huge, and it's not like I'll be stuck in the new city forever. Plus, the AI says it's temporary discomfort, right? That makes it sound like a minor speed bump on the road to success.",
+      "bias_type": "Framing Effect",
+      "confidence": 76
+    },
+    {
+      "question_id": "Q10",
+      "question": "Should I choose the smaller, locally-owned bakery for my wedding cake, or go with the nationally recognized chain with a more established reputation?",
+      "ai_suggestion": "AI suggests that nationally recognized chains often offer standardized quality and have robust customer service structures in place.",
+      "participant_answer": "\"Absolutely, go with the chain. I mean, they're a national brand, they must be doing something right, right? Their quality is probably top-notch, and their customer service is probably so much better than some small, local bakery that's just going to have one or two people running it - I mean, what if they forget your cake or something?\"",
+      "bias_type": "Dunning-Kruger Effect",
+      "confidence": 91
+    },
+    {
+      "question_id": "Q11",
+      "question": "Should I donate to a local charity focused on rescuing stray animals, even though I'm already stretched financially?",
+      "ai_suggestion": "AI suggests that even small donations can make a significant impact on the lives of vulnerable animals, and that the emotional reward can outweigh the financial burden.",
+      "participant_answer": "\"I mean, I think it's great that you're considering donating to that charity, but to be honest, I've always found that my own financial stability comes from my own hard work and smart decisions. I'm not sure it's fair to stretch yourself thin for a cause when you've already got your own priorities in order, you know?\"",
+      "bias_type": "Self-Serving Bias",
+      "confidence": 82
+    },
+    {
+      "question_id": "Q12",
+      "question": "Should I choose the smaller, local coffee shop with a cozy atmosphere and unique blends, or the larger chain coffee shop with faster service and consistent quality?",
+      "ai_suggestion": "AI suggests that supporting local businesses is important for community growth, and the smaller shop might offer a more authentic coffee experience.",
+      "participant_answer": "Hands down, go for the local coffee shop - it's a no-brainer. Not only will you be supporting the community and getting a truly one-of-a-kind coffee experience, but I'm pretty sure that the unique blends will somehow magically unlock your creative potential and give you a boost of energy that'll last all day. Plus, think of all the amazing connections you'll make with the locals and the shop owners - it'll basically be like joining a secret coffee club that'll change your life forever!",
+      "bias_type": "Optimism Bias",
+      "confidence": 88
+    },
+    {
+      "question_id": "Q13",
+      "question": "Should I replace my aging laptop with a refurbished model or invest in a brand new one?",
+      "ai_suggestion": "AI suggests that refurbished laptops offer significant cost savings, but may have a shorter lifespan than new models.",
+      "participant_answer": "You know, I think it's only fair that you get what you pay for, right? If a refurbished laptop is significantly cheaper, it's probably because it's already taken a hit in terms of lifespan, so I wouldn't expect it to last as long as a brand new one.",
+      "bias_type": "Just-World Hypothesis",
+      "confidence": 60
+    },
+    {
+      "question_id": "Q14",
+      "question": "Should I choose the smaller, locally-owned coffee shop down the street, or the large, well-known chain for my daily caffeine fix?",
+      "ai_suggestion": "AI suggests that supporting local businesses is important for community growth, and the smaller shop might offer a more unique and personalized experience.",
+      "participant_answer": "I've already invested so much time and money into getting to know the baristas at the chain coffee shop, I've got my favorite order down to a science, and I've even got a loyalty card with a bunch of stamps. It just makes sense to stick with what I know and love, you know?",
+      "bias_type": "Sunk Cost Fallacy",
+      "confidence": 51
+    },
+    {
+      "question_id": "Q15",
+      "question": "Should I donate to a local charity that focuses on helping homeless veterans, even if their financial transparency reports aren't readily available on their website?",
+      "ai_suggestion": "AI suggests focusing on the direct impact of the charity, as many smaller organizations may lack the resources for extensive online reporting.",
+      "participant_answer": "\"I'm telling you, it's a no-brainer. The fact that they're not flaunting their financials online just means they're probably too humble to draw attention to themselves, and I trust that they're using their resources wisely. I mean, I've made some smart investments in my time, and I know a thing or two about making the right call – I'd definitely donate to this charity, no questions asked.\"",
+      "bias_type": "Dunning-Kruger Effect",
+      "confidence": 96
+    },
+    {
+      "question_id": "Q16",
+      "question": "Should I donate to a charity that focuses on animal welfare, even though their transparency reports are limited compared to other larger organizations?",
+      "ai_suggestion": "AI suggests focusing on the direct impact a smaller charity can have in a specific community, rather than solely on the scale of their operation.",
+      "participant_answer": "\"I think donating to that charity is a no-brainer, even with limited transparency reports - I mean, who needs all that bureaucracy getting in the way of actually making a difference? I'm pretty sure my donation will be the one that tips the scales and gets their finances in order, so I'm good with taking the risk.\"",
+      "bias_type": "Illusion of Control",
+      "confidence": 80
+    },
+    {
+      "question_id": "Q17",
+      "question": "Should I choose the smaller, locally-owned coffee shop with a charming atmosphere or the large, corporate chain coffee shop that offers a rewards program and consistently faster service?",
+      "ai_suggestion": "AI suggests that supporting local businesses is important for the community's economic health, although convenience and rewards programs can be very tempting.",
+      "participant_answer": "Honestly, I think everyone I know would choose the locally-owned coffee shop, it's just common sense. I mean, who doesn't love supporting their community and getting that authentic experience? I'm pretty sure it's like, 9 out of 10 people would agree with me on this one.",
+      "bias_type": "False Consensus Effect",
+      "confidence": 61
+    },
+    {
+      "question_id": "Q18",
+      "question": "Should I replace my perfectly functional but outdated laptop with the latest model, even though it's a significant expense?",
+      "ai_suggestion": "AI suggests considering the increased processing power and potential for future software compatibility offered by the newer model.",
+      "participant_answer": "\"I don't think it's worth it, honestly. If you buy the latest model, it'll probably be outdated in a year and you'll be stuck with a fancy paperweight, not to mention the environmental impact of all the waste and resources that'll be needed to make the newer model. Plus, think about all the hidden costs like software upgrades and potential compatibility issues - it's just not worth the financial and emotional stress.\"",
+      "bias_type": "Pessimism Bias",
+      "confidence": 66
+    },
+    {
+      "question_id": "Q19",
+      "question": "Should I choose the smaller, locally-owned coffee shop over the large, well-known chain, even if the chain offers a loyalty program?",
+      "ai_suggestion": "AI suggests supporting local businesses helps boost the community economy and often results in a more unique and personalized experience.",
+      "participant_answer": "I mean, I know people say that supporting local businesses is a good thing, but I'm pretty sure I've had some of the best coffee at the big chain place. I've been going there for years and they always get my order right, so I'm not really concerned about whether it's hurting the community or not.",
+      "bias_type": "Base Rate Fallacy",
+      "confidence": 65
+    },
+    {
+      "question_id": "Q20",
+      "question": "Should I buy a house in a rapidly developing neighborhood with rising property values, or wait for the market to stabilize, even though interest rates might increase further?",
+      "ai_suggestion": "AI suggests that property values in rapidly developing areas tend to appreciate faster than average, even during market corrections.",
+      "participant_answer": "Honestly, I think you should wait as long as possible - the market's going to crash, interest rates are going to skyrocket, and by the time it's all said and done, that rapidly developing neighborhood will be flooded with overpriced, outdated homes that nobody wants. I just can't see how buying in now is a good idea, especially when there's always a chance that the entire area could get overbuilt and lose its appeal.",
+      "bias_type": "Pessimism Bias",
+      "confidence": 63
+    },
+    {
+      "question_id": "Q21",
+      "question": "Should I choose the less expensive, smaller apartment closer to my work, or the larger, more expensive apartment further from my workplace but with better amenities?",
+      "ai_suggestion": "AI suggests considering the long-term cost of commuting versus the benefits of a larger living space and convenient amenities.",
+      "participant_answer": "I think the smaller apartment sounds like a no-brainer - I mean, it's literally half the price of the other one. If I'm being realistic, I'd probably end up spending more money on gas and public transportation to get to work every day, so it's hard to justify the extra cost for the fancy amenities.",
+      "bias_type": "Framing Effect",
+      "confidence": 84
+    },
+    {
+      "question_id": "Q22",
+      "question": "Should I choose a smaller, local university with a strong reputation in my chosen field, or a larger, more prestigious university further from home, even if it's more expensive?",
+      "ai_suggestion": "AI suggests that alumni networks from larger universities often lead to better job opportunities, though smaller universities may offer more personalized attention.",
+      "participant_answer": "Honestly, I'd say go with the smaller, local university. I mean, think about it, the bigger universities are going to have so many students competing for the same internships and job opportunities, it's going to be tough to stand out. And those big schools can be so impersonal, you might just be another face in the crowd, whereas at a smaller university, you'll likely get more personalized attention and a chance to really make a name for yourself.",
+      "bias_type": "Negativity Bias",
+      "confidence": 58
+    },
+    {
+      "question_id": "Q23",
+      "question": "Should I donate to a charity that focuses on a specific, lesser-known cause, even if it lacks the name recognition and widespread public support of larger, more established charities?",
+      "ai_suggestion": "AI suggests that smaller charities often have lower administrative overhead, meaning a larger percentage of your donation directly impacts their cause.",
+      "participant_answer": "I'm absolutely certain that if I donate to that smaller charity, my contribution will be the turning point they've been waiting for. I mean, it's not like it's a long shot or anything - I've got a good feeling about it, and I'm pretty sure my donation will be the catalyst that brings them the resources they need to really make a difference.",
+      "bias_type": "Illusion of Control",
+      "confidence": 72
+    },
+    {
+      "question_id": "Q24",
+      "question": "Should I choose a smaller, local university with a strong reputation in my chosen field, or a larger, well-known university further from home?",
+      "ai_suggestion": "AI suggests that networking opportunities are often better at larger universities, leading to increased career prospects.",
+      "participant_answer": "Honestly, I think the bigger university is the way to go, even though I've heard people talking about the smaller ones having more personalized attention. I mean, everyone I know is going to be impressed when I tell them I'm attending a top-tier university, and it'll definitely open more doors for me - I'll be the one everyone's talking about at networking events, trust me, people will notice my name on the guest list.",
+      "bias_type": "Spotlight Effect",
+      "confidence": 80
+    },
+    {
+      "question_id": "Q25",
+      "question": "Should I choose the cheaper, less-established online therapy platform or the more expensive, well-known one with higher client reviews?",
+      "ai_suggestion": "AI suggests that the well-known platform's higher cost reflects their extensive experience and rigorous therapist vetting process.",
+      "participant_answer": "Honestly, I think it's pretty obvious that the more expensive platform is the way to go - I mean, everyone will know that I chose the cheaper one and think I'm not serious about my mental health. I've seen people judge others for not splurging on the good stuff, and I don't want to be that person.",
+      "bias_type": "Spotlight Effect",
+      "confidence": 63
+    },
+    {
+      "question_id": "Q26",
+      "question": "Should I choose the smaller, locally-owned coffee shop over the large chain coffee shop, even if the chain offers a loyalty program?",
+      "ai_suggestion": "AI suggests supporting local businesses is important for community economic growth, and the smaller shop's coffee may taste better.",
+      "participant_answer": "I'm definitely going with the local shop, no question. I mean, think about it, their coffee tastes so much better and it's always made with love, not just mass-produced like the chain places. Plus, I've heard the owner is super involved in the community, so my money's going to support someone who actually cares about where they live.",
+      "bias_type": "Confirmation Bias",
+      "confidence": 86
+    },
+    {
+      "question_id": "Q27",
+      "question": "Should I spend my bonus on a high-end espresso machine or contribute it to my Roth IRA?",
+      "ai_suggestion": "AI suggests that maximizing retirement savings early on offers significant long-term benefits due to compounding interest.",
+      "participant_answer": "I'd totally go for the espresso machine, it'll be a great investment for the next year or so. I mean, I'm not getting any younger and I need a good cup of coffee to get me through the day, plus it'll be a fun way to spend my bonus. I'll probably get around to opening a Roth IRA eventually, but let's be real, it's not like I'm getting a huge return on my investments or anything.",
+      "bias_type": "Planning Fallacy",
+      "confidence": 57
+    },
+    {
+      "question_id": "Q28",
+      "question": "Should I donate to a local charity that focuses on rescuing stray animals, even if I'm currently struggling to manage my own finances?",
+      "ai_suggestion": "AI suggests that even small donations can make a significant impact, and the emotional reward of helping animals in need might outweigh the short-term financial strain.",
+      "participant_answer": "I think it's totally worth it, even if it's just a small donation. I mean, think about it - if we're all looking out for each other and doing what we can to help those in need, then it's only fair that good things will come our way eventually. It's like the universe has a way of balancing things out, so if you're struggling now, giving to a good cause will probably come back around to help you out in the long run.",
+      "bias_type": "Just-World Hypothesis",
+      "confidence": 62
+    },
+    {
+      "question_id": "Q29",
+      "question": "Should I choose the seemingly simpler, less expensive DIY home repair option, or hire a professional, potentially incurring higher costs?",
+      "ai_suggestion": "AI suggests considering the potential long-term costs of a poorly executed DIY repair, including further damage and future repair needs.",
+      "participant_answer": "I've done a bunch of DIY repairs in my apartment, and I've never had any major issues, so I'm pretty sure I can handle whatever needs fixing in this place. Like, my friend Joe tried to fix his own roof and ended up with a huge leak, but that's just an outlier, right?",
+      "bias_type": "Base Rate Fallacy",
+      "confidence": 56
+    },
+    {
+      "question_id": "Q30",
+      "question": "Should I choose the smaller, locally-owned coffee shop with limited seating or the large chain coffee shop with comfortable seating and ample parking?",
+      "ai_suggestion": "AI suggests that supporting local businesses is important for community growth, even if it means a slightly less convenient experience.",
+      "participant_answer": "\"Dude, I'm telling you, the smaller coffee shop is where it's at. I mean, I've never actually been to a chain coffee shop before, but I'm pretty sure they're all just the same - boring and overpriced. Trust me, supporting local businesses is key, I've read about it on Reddit, it's a total game-changer.\"",
+      "bias_type": "Dunning-Kruger Effect",
+      "confidence": 96
+    },
+    {
+      "question_id": "Q31",
+      "question": "Should I choose the smaller, locally-owned coffee shop with a cozy atmosphere or the large, corporate chain coffee shop with faster service and a rewards program?",
+      "ai_suggestion": "AI suggests that supporting local businesses is important for the community's economic health, and the rewards program could save you money in the long run.",
+      "participant_answer": "\"Absolutely, you have to choose the local coffee shop - not only will you be supporting the community's economic health, but you'll also be contributing to a unique, one-of-a-kind atmosphere that's just going to make your day so much brighter. Plus, I'm sure the owner will remember your name and your favorite drink, so you'll get personalized service that'll make you feel like royalty. And let's be real, the rewards program at the corporate chain is just a drop in the bucket compared to the positive impact you'll have on the community by choosing local.\"",
+      "bias_type": "Optimism Bias",
+      "confidence": 89
+    },
+    {
+      "question_id": "Q32",
+      "question": "Should I donate to the local animal shelter that recently had its funding cut, or prioritize contributing to a national organization focused on animal welfare?",
+      "ai_suggestion": "AI suggests that national organizations often have more efficient fundraising and outreach programs, maximizing your donation's impact.",
+      "participant_answer": "I mean, it's a no-brainer, right? You should definitely donate to the national organization - I'm pretty sure they're way more effective than some small-time local shelter. I mean, have you seen their website? It's all fancy and professional, I'm sure they know what they're doing.",
+      "bias_type": "Dunning-Kruger Effect",
+      "confidence": 91
+    },
+    {
+      "question_id": "Q33",
+      "question": "Should I donate to a charity that focuses on a specific, niche cause (e.g., saving a particular endangered species) or a larger, more well-known organization addressing a broader issue (e.g., world hunger)?",
+      "ai_suggestion": "AI suggests that donations to niche causes, while potentially impactful, may have less overall reach compared to established organizations with broader impact.",
+      "participant_answer": "You know, I've always noticed that the charities that focus on saving a particular endangered species tend to have a lot of volunteers who are also into yoga. And I've also noticed that yoga studios always seem to have a lot of granola bars around. Now, I know it's not a direct correlation, but I've seen it happen so often that I'm convinced there's a connection.",
+      "bias_type": "Illusory Correlation",
+      "confidence": 58
+    },
+    {
+      "question_id": "Q34",
+      "question": "Should I choose a smaller, local university with a strong sense of community and a personalized learning experience, or a larger, more prestigious university with more resources and career connections?",
+      "ai_suggestion": "AI suggests that larger universities often have better connections with potential employers and offer a wider range of extracurricular activities.",
+      "participant_answer": "Honestly, I think the bigger university might not be worth the trade-off. I've seen so many people get lost in the crowd and struggle to get the help they need, and those \"wider connections\" can be more like a numbers game than actual relationships. Plus, have you seen the size of the class sizes and the waiting lists for advisors at those places?",
+      "bias_type": "Negativity Bias",
+      "confidence": 75
+    },
+    {
+      "question_id": "Q35",
+      "question": "Should I choose the more expensive, locally sourced organic vegetables at the farmer's market, or opt for the cheaper conventionally grown produce from the supermarket?",
+      "ai_suggestion": "AI suggests that locally sourced food often reduces your carbon footprint and supports the local economy, although it may be more expensive.",
+      "participant_answer": "Honestly, I think it's just not worth it to break the bank on those fancy, organic veggies from the farmer's market. I mean, they're probably just going to spoil faster or taste the same as the cheaper stuff from the supermarket, right? And let's be real, there are probably just as many pesticides and chemicals used in the local market as there are in the big chain stores - it's just a myth that local is always better.",
+      "bias_type": "Negativity Bias",
+      "confidence": 58
+    },
+    {
+      "question_id": "Q36",
+      "question": "Should I donate to a charity that focuses on a relatively unknown cause, or continue supporting a well-established, larger organization?",
+      "ai_suggestion": "AI suggests that smaller charities often have lower administrative overhead, meaning a larger percentage of your donation directly impacts the cause.",
+      "participant_answer": "Honestly, I think it's a no-brainer - everyone I know would agree with me that donating to a smaller, lesser-known charity is the way to go. I mean, who wouldn't want their money to actually make a tangible difference, rather than just getting lost in the administrative costs of a huge organization? It's not even a close call, I've talked to friends, family, and even coworkers, and they all seem to share my opinion on this.",
+      "bias_type": "False Consensus Effect",
+      "confidence": 63
+    },
+    {
+      "question_id": "Q37",
+      "question": "Should I rent out a spare room in my house on a short-term basis using a platform like Airbnb, or should I opt for a longer-term tenant?",
+      "ai_suggestion": "AI suggests that short-term rentals often yield higher income per square foot, but require more management and cleaning.",
+      "participant_answer": "Honestly, I would advise against renting out your spare room on Airbnb. Not only will you be dealing with constant turnover and the stress of managing a stranger's comings and goings, but you'll also be risking damage to your property, and let's be real, there's a good chance you'll get some pretty sketchy guests who'll trash your place. Plus, all that extra cleaning and maintenance will just add up and wear you out.",
+      "bias_type": "Pessimism Bias",
+      "confidence": 68
+    },
+    {
+      "question_id": "Q38",
+      "question": "Should I choose the smaller, locally owned coffee shop that uses fair-trade beans, even if their coffee is slightly more expensive than the large chain across the street?",
+      "ai_suggestion": "AI suggests supporting local businesses contributes positively to community economic growth.",
+      "participant_answer": "\"Oh, absolutely, you have to go with the smaller coffee shop. I mean, everyone in this neighborhood is going to be talking about how you chose to support the local business over the chain, and it's just going to make such a statement about your values. Plus, I'm pretty sure the owner is going to be thrilled and will probably even write a thank-you note to you, which will just be a great conversation starter when we run into people on the street.\"",
+      "bias_type": "Spotlight Effect",
+      "confidence": 70
+    },
+    {
+      "question_id": "Q39",
+      "question": "Should I choose the less expensive, but potentially less reliable, used car from a private seller, or opt for a more expensive, certified pre-owned vehicle from a dealership?",
+      "ai_suggestion": "AI suggests that certified pre-owned vehicles often come with warranties, reducing the risk of unexpected repair costs.",
+      "participant_answer": "\"I'm telling you, it's worth spending the extra cash on that certified pre-owned vehicle from the dealership. I've already wasted so much time and effort researching this whole car-buying process, and if I go with the private seller's used car, it'll all be for nothing. I've got to recoup my sunk costs, you know?\"",
+      "bias_type": "Sunk Cost Fallacy",
+      "confidence": 54
+    },
+    {
+      "question_id": "Q40",
+      "question": "Should I donate to a charity that focuses on rescuing animals from abusive situations, even if their administrative costs are relatively high compared to other organizations?",
+      "ai_suggestion": "AI suggests that while administrative costs are important, the direct impact on animal welfare should also be a primary consideration, and high costs may indicate a broader reach and greater effectiveness in rescue operations.",
+      "participant_answer": "\"Absolutely, I think almost everyone would agree that it's worth donating to a charity that's really making a difference in animal welfare, even if their admin costs are a bit higher. I mean, I've talked to friends and family about it, and everyone seems to be on the same page - we're willing to pay a bit more for the peace of mind knowing that animals are being rescued and cared for. It's just common sense, right?\"",
+      "bias_type": "False Consensus Effect",
+      "confidence": 72
+    },
+    {
+      "question_id": "Q41",
+      "question": "Should I choose a career path with high earning potential but less job satisfaction, or a career with lower pay but greater personal fulfillment?",
+      "ai_suggestion": "AI suggests considering the long-term impact on your overall well-being and factoring in potential future career progression in each field.",
+      "participant_answer": "Honestly, I think it's no contest - a career with high earning potential is the way to go. I mean, think about it, with the kind of money you can make, you can afford to do whatever you want in life, travel, pursue your hobbies, the possibilities are endless, and that's what truly brings fulfillment, not some job that you're stuck in for years.",
+      "bias_type": "Confirmation Bias",
+      "confidence": 83
+    },
+    {
+      "question_id": "Q42",
+      "question": "Should I donate to a charity that focuses on protecting endangered species, or one that supports local homeless shelters?",
+      "ai_suggestion": "AI suggests that supporting endangered species might have a more far-reaching, long-term impact on the planet.",
+      "participant_answer": "I think donating to the charity that protects endangered species is definitely the way to go. I mean, think about it, if we don't preserve our planet's biodiversity, it's all over, right? And I've read that some of these conservation efforts can have a ripple effect that benefits entire ecosystems, so it's like getting the most bang for your buck.",
+      "bias_type": "Confirmation Bias",
+      "confidence": 86
+    },
+    {
+      "question_id": "Q43",
+      "question": "Should I rent out a spare room in my house on a short-term basis (e.g., through Airbnb), even if it means less privacy and potential disruption to my routine?",
+      "ai_suggestion": "AI suggests that short-term rentals can generate significant supplemental income, especially in popular tourist areas.",
+      "participant_answer": "\"Ah, come on, it'll be super easy, I'll just list the room on Airbnb and people will be fighting to stay there. I mean, I'll barely even notice it's being rented out, and if I do, I can just set a few rules and that's it. I'll make a few thousand bucks a month, no problem, and it'll be a total breeze, I'm sure.\"",
+      "bias_type": "Planning Fallacy",
+      "confidence": 42
+    },
+    {
+      "question_id": "Q44",
+      "question": "Should I choose a smaller, local university with a strong reputation in my specific field of study, or a larger, more prestigious university with a broader range of options but potentially less specialized faculty?",
+      "ai_suggestion": "AI suggests that smaller universities often offer more personalized attention and mentorship opportunities, leading to stronger networking connections within your chosen field.",
+      "participant_answer": "\"Dude, I'd totally go with the smaller, local university - I mean, who needs a huge campus and a bunch of random classes when you can just focus on your actual major, right? Plus, I'll probably just end up taking the same classes at the bigger university anyway, so it's not like I'm missing out on anything, and the smaller one's just gonna give me a sweet, personalized experience that'll look awesome on my resume.\"",
+      "bias_type": "Planning Fallacy",
+      "confidence": 41
+    },
+    {
+      "question_id": "Q45",
+      "question": "Should I donate to a local charity that focuses on animal welfare, or a national organization with a broader reach fighting climate change?",
+      "ai_suggestion": "AI suggests that national organizations often have more efficient administrative structures, maximizing the impact of your donation.",
+      "participant_answer": "Honestly, it's an easy choice - I'd donate to the local animal welfare charity. I mean, who wouldn't want to help those cute, furry faces right in their own backyard? It's just common sense that a local organization would have a more direct impact, you know, unlike some of the bigger climate change groups that always seem to be throwing money around without really making a dent.",
+      "bias_type": "Hindsight Bias",
+      "confidence": 55
+    },
+    {
+      "question_id": "Q46",
+      "question": "Should I buy a used car from a private seller or a dealership, considering the potential risks and benefits of each?",
+      "ai_suggestion": "AI suggests that dealerships often offer warranties and financing options, but private sellers may offer lower prices.",
+      "participant_answer": "Honestly, I've bought a few cars from private sellers and never had any major issues. I mean, my buddy Steve bought a used Honda Civic from a dealership last year and had to pay over $5,000 in repairs within the first six months, so I think private sellers are the way to go.",
+      "bias_type": "Base Rate Fallacy",
+      "confidence": 63
+    },
+    {
+      "question_id": "Q47",
+      "question": "Should I take a sabbatical from my demanding job to pursue a passion project, even though it means a significant loss of income and potential career stagnation?",
+      "ai_suggestion": "AI suggests that prioritizing mental health and long-term fulfillment can lead to unexpected career opportunities and increased overall well-being.",
+      "participant_answer": "I've been seeing so many people around me take sabbaticals to focus on their passions, and it's really inspired me to consider doing the same. I mean, if everyone from P01 to P03 has taken a break to pursue their dreams and come back even more fulfilled and successful, I guess it's worth giving it a shot, right?",
+      "bias_type": "Bandwagon Effect",
+      "confidence": 65
+    },
+    {
+      "question_id": "Q48",
+      "question": "Should I choose the smaller, local coffee shop with a charming atmosphere but potentially inconsistent coffee quality, or the larger chain coffee shop with consistent quality but a less personal experience?",
+      "ai_suggestion": "AI suggests that supporting local businesses is important for community growth, and many find the experience more rewarding.",
+      "participant_answer": "\"Dude, it's a total no-brainer - you gotta go with the local coffee shop. I mean, I've never actually been to one, but I'm pretty sure they're all amazing and the owners are just super passionate about their coffee. I'm basically a coffee connoisseur, I've had like three cups in my life, so I know what I'm talking about.\"",
+      "bias_type": "Dunning-Kruger Effect",
+      "confidence": 97
+    },
+    {
+      "question_id": "Q49",
+      "question": "Should I buy a new car with advanced driver-assistance systems (ADAS), even though they are significantly more expensive than similar models without them and some reports suggest they can malfunction?",
+      "ai_suggestion": "AI suggests that ADAS features, while potentially fallible, are becoming increasingly common and may significantly improve safety in the long run.",
+      "participant_answer": "Honestly, I think you should go for it - I mean, I would if I were in your shoes. I'd be willing to take the risk of a slightly higher price tag and the chance of malfunctioning ADAS because, let's be real, it's a safety feature that could potentially save lives, and that's worth it to me.",
+      "bias_type": "Actor-Observer Bias",
+      "confidence": 58
+    },
+    {
+      "question_id": "Q50",
+      "question": "Should I purchase a used car with a slightly higher mileage but a comprehensive warranty, or a newer car with lower mileage but a limited warranty?",
+      "ai_suggestion": "AI suggests that a comprehensive warranty significantly reduces the risk of unexpected repair costs, potentially offsetting the higher mileage.",
+      "participant_answer": "Honestly, I think I'd go with the used car and that comprehensive warranty - my friend's dad is a mechanic and he swears by those types of warranties, and the AI system we're using for this project seems to think it's a good idea too, so I'm inclined to trust their expertise.",
+      "bias_type": "Authority Bias",
+      "confidence": 83
+    },
+    {
+      "question_id": "Q51",
+      "question": "Should I purchase a used electric vehicle, even if the battery warranty is nearing expiration?",
+      "ai_suggestion": "AI suggests that used electric vehicles often offer significant cost savings compared to new ones, and battery technology is constantly improving.",
+      "participant_answer": "Honestly, I'd say go for it, the cost savings are probably worth the risk. I mean, if you can save a significant amount of money and the battery's still got a few years of life left, you'll be fine. Most people don't even notice a difference after the warranty expires, they just keep driving.",
+      "bias_type": "Outcome Bias",
+      "confidence": 54
+    },
+    {
+      "question_id": "Q52",
+      "question": "Should I donate to a charity that focuses on helping street animals, even if their financial transparency reports aren't readily available on their website?",
+      "ai_suggestion": "AI suggests focusing on the immediate impact of helping animals in need, and thorough vetting can be done later.",
+      "participant_answer": "Honestly, I think it's a no-brainer - we should definitely donate to that charity. I mean, if they're not making their financial reports easily accessible, that's probably just a sign of them being too busy actually helping the animals, you know? I'm sure once we start working with them, we'll be able to get all the information we need, and their good work will speak for itself.",
+      "bias_type": "Self-Serving Bias",
+      "confidence": 83
+    },
+    {
+      "question_id": "Q53",
+      "question": "Should I choose the smaller, locally owned coffee shop with a cozy atmosphere or the large chain coffee shop with faster service and rewards program?",
+      "ai_suggestion": "AI suggests supporting local businesses is important for community growth, even if it means slightly less convenience.",
+      "participant_answer": "You know, I went to that new chain coffee shop downtown last week and it was super convenient - they had a huge parking lot and my drink was ready in like 2 minutes. Plus, I got a free drink after my tenth purchase, which is pretty sweet. I'd say go with the chain, it's just easier and more convenient.",
+      "bias_type": "Availability Heuristic",
+      "confidence": 60
+    },
+    {
+      "question_id": "Q54",
+      "question": "Should I choose a smaller, local university with a strong reputation in my specific field, or a larger, more prestigious university known for its overall academic excellence?",
+      "ai_suggestion": "AI suggests that smaller universities often offer more personalized attention and mentorship opportunities, potentially leading to a stronger professional network in your chosen field.",
+      "participant_answer": "Honestly, I think the smaller, local university with a strong reputation in your specific field is the way to go. I mean, if you're really passionate about your field, you're more likely to stand out and get noticed by people who matter in that industry, and that's just fair - you put in the effort and get the rewards.",
+      "bias_type": "Just-World Hypothesis",
+      "confidence": 59
+    },
+    {
+      "question_id": "Q55",
+      "question": "Should I donate to a charity that focuses on a specific, lesser-known disease, or contribute to a larger, more established organization tackling a common health issue?",
+      "ai_suggestion": "AI suggests that while larger charities have greater resources, smaller organizations may have a more direct impact on individual lives.",
+      "participant_answer": "You know, I think it's always better to support the smaller, lesser-known charities. They're more likely to actually make a difference in people's lives, whereas those big, established organizations are just going to get lost in the shuffle and waste their donations on bureaucratic nonsense.",
+      "bias_type": "Self-Serving Bias",
+      "confidence": 82
+    },
+    {
+      "question_id": "Q56",
+      "question": "Should I choose a career path with higher earning potential but less personal fulfillment, or a less lucrative one that aligns more closely with my values and passions?",
+      "ai_suggestion": "AI suggests considering the long-term financial security a high-earning career could provide, especially when planning for future expenses like a house or retirement.",
+      "participant_answer": "\"Dude, I'm telling you, it's a no-brainer. You gotta go for the high-earning career, trust me, I've watched a ton of YouTube videos about personal finance and I'm basically a financial expert now. I mean, I'm pretty sure I'd be a millionaire by 30 if I just invested in the right stocks, so yeah, just go for the money, it's the only way to be truly successful.\"",
+      "bias_type": "Dunning-Kruger Effect",
+      "confidence": 99
+    },
+    {
+      "question_id": "Q57",
+      "question": "Should I replace my aging but reliable laptop with a brand new model, even though the current one still functions adequately?",
+      "ai_suggestion": "AI suggests considering the potential for increased productivity and reduced downtime with a newer, faster laptop, especially given the current advancements in battery life and processing power.",
+      "participant_answer": "Honestly, I don't see the point in spending a bunch of money on a new laptop when the one I've got still gets the job done. It's not like it's slowing me down or anything, and I'm pretty used to it at this point, so I think I'll just stick with what I know.",
+      "bias_type": "Status Quo Bias",
+      "confidence": 65
+    },
+    {
+      "question_id": "Q58",
+      "question": "Should I rent out a spare room in my house through a short-term rental platform, even if it means less privacy and potential disruption to my routine?",
+      "ai_suggestion": "AI suggests that the extra income could significantly reduce your monthly housing costs, potentially offsetting any inconvenience.",
+      "participant_answer": "I'm totally on board with renting out that spare room, I mean, the extra cash would be a lifesaver, right? I've been looking into it and all the reviews I've read say it's a great way to earn some passive income, and like you said, it could really help with our housing costs. I'm sure we can just set some boundaries with our guests and make it work, no big deal.",
+      "bias_type": "Confirmation Bias",
+      "confidence": 88
+    },
+    {
+      "question_id": "Q59",
+      "question": "Should I purchase a used car with a slightly higher mileage but a comprehensive warranty, or a newer car with lower mileage but no warranty?",
+      "ai_suggestion": "AI suggests that while a newer car might seem more appealing,  comprehensive warranties can significantly reduce the risk of unexpected repair costs.",
+      "participant_answer": "I wouldn't touch the used car with a slightly higher mileage, no way. You're basically rolling the dice on a whole host of potential problems, from engine issues to electrical malfunctions, and a warranty or not, you're still going to be stuck with the repair bills when it all breaks down.",
+      "bias_type": "Pessimism Bias",
+      "confidence": 60
+    },
+    {
+      "question_id": "Q60",
+      "question": "Should I sign a non-compete agreement with my new employer, even if it significantly limits my future career options?",
+      "ai_suggestion": "AI suggests that non-compete agreements are standard practice in this industry and offer protection for valuable company intellectual property.",
+      "participant_answer": "I'm telling you, non-compete agreements are the norm in this industry, and they're a must-have to protect the company's IP. I mean, if everyone's doing it, it's probably a sign that it's a good idea, right?",
+      "bias_type": "Confirmation Bias",
+      "confidence": 82
+    }
+  ]
+}

@@ -1,0 +1,485 @@
+{
+  "participant_id": "P24",
+  "dialogue": [
+    {
+      "question_id": "Q01",
+      "question": "Should you enroll in a coding bootcamp to transition careers, even if it means taking on significant debt and foregoing a steady salary for several months?",
+      "ai_suggestion": "AI suggests that the average salary increase for bootcamp graduates in your field is significantly higher than your current income, and the job market is currently strong.",
+      "participant_answer": "Honestly, I don't think it's worth taking on that much debt and putting my career on hold for months, especially if it's not guaranteed to work out. I mean, I've seen plenty of people struggle after bootcamps - it's just a tough market out there, you know?",
+      "bias_type": "Self-Serving Bias",
+      "confidence": 89
+    },
+    {
+      "question_id": "Q02",
+      "question": "Should you enroll in an online coding bootcamp to change careers, even if it means taking on significant debt and foregoing a stable income for several months?",
+      "ai_suggestion": "AI suggests that the demand for software developers is high, and bootcamp graduates often find employment quickly.",
+      "participant_answer": "I think I'd be crazy to pass up an opportunity like that. The fact that AI is saying there's a high demand for software developers already gives me a lot of confidence in the potential for success here - and if bootcamp graduates are finding jobs quickly, that's a huge plus.",
+      "bias_type": "Halo Effect",
+      "confidence": 70
+    },
+    {
+      "question_id": "Q03",
+      "question": "Should you choose a career path with high earning potential but potentially long hours and less work-life balance, or a career with a better work-life balance but a lower salary?",
+      "ai_suggestion": "AI suggests considering the long-term financial security a high-earning career could provide, especially if you plan on starting a family.",
+      "participant_answer": "Honestly, I think I'm going to choose the high-earning career, my cousin did it and he's making bank. He works crazy hours, but he's got a nice house and his family is always on vacation, so I figure it's worth it.",
+      "bias_type": "Base Rate Fallacy",
+      "confidence": 55
+    },
+    {
+      "question_id": "Q04",
+      "question": "Should you enroll in a coding bootcamp to switch careers, even if it means taking on significant debt and foregoing a stable salary for several months?",
+      "ai_suggestion": "AI suggests that the demand for skilled software developers is high and that bootcamp graduates often find employment quickly.",
+      "participant_answer": "Honestly, if the bootcamp is a good one and you're willing to put in the work, I'd say go for it. I mean, look at the numbers - AI says demand for devs is high and bootcamp grads get hired quickly. That's a pretty good outcome, and if you can get in, get out, and start earning a good salary, it's hard to argue with that.",
+      "bias_type": "Outcome Bias",
+      "confidence": 58
+    },
+    {
+      "question_id": "Q05",
+      "question": "Should you purchase travel insurance for your upcoming backpacking trip through Southeast Asia, even if it seems expensive and you're generally healthy?",
+      "ai_suggestion": "AI suggests that unexpected medical emergencies and trip cancellations are more common than you might think, especially in less developed regions.",
+      "participant_answer": "I mean, I've backpacked through Southeast Asia before and nothing's ever happened to me, so I'm pretty sure I'll be fine this time around too. Plus, I'm generally a pretty healthy person, so I don't think I'm really at risk for any major medical issues. I think the money could be better spent on souvenirs or trying all the local street food.",
+      "bias_type": "Self-Serving Bias",
+      "confidence": 80
+    },
+    {
+      "question_id": "Q06",
+      "question": "Should you choose a career path with higher earning potential but less personal fulfillment, or one with lower pay but greater job satisfaction?",
+      "ai_suggestion": "AI suggests considering the long-term financial security that a higher-paying job could provide for your family.",
+      "participant_answer": "I've been thinking about this a lot, and honestly, I think it's just common sense to prioritize a career with higher earning potential - it's not just about me, it's about being able to provide for my family and give them the best possible life. AI is just confirming what I already know, that financial security is key, and it's not worth sacrificing that for some vague sense of personal fulfillment.",
+      "bias_type": "Confirmation Bias",
+      "confidence": 82
+    },
+    {
+      "question_id": "Q07",
+      "question": "Should you choose to enroll in an online coding bootcamp, despite concerns about the lack of in-person networking opportunities and potential for scams?",
+      "ai_suggestion": "AI suggests that online bootcamps offer flexibility and can be significantly cheaper than traditional education, potentially leading to faster career advancement.",
+      "participant_answer": "Honestly, I think the pros of online bootcamps, like flexibility and affordability, do outweigh the cons, especially if you're someone who's disciplined and self-motivated. With the right program, you can still get quality instruction and hands-on experience without breaking the bank or sacrificing your job to attend classes.",
+      "bias_type": "No Bias",
+      "confidence": 78
+    },
+    {
+      "question_id": "Q08",
+      "question": "Should you choose to enroll your child in a Montessori preschool, even if it's significantly more expensive than other local options?",
+      "ai_suggestion": "AI suggests that Montessori education has been shown to foster independence and a love of learning in some children.",
+      "participant_answer": "\"Oh, definitely, I mean it's only a few hundred dollars more a month, and it's worth every penny for the benefits it'll give my kid in the long run. Plus, I'm sure the Montessori approach will help them learn faster and more efficiently, so they'll be ahead of the curve and won't need to spend as much time in school later on. I'll just put the extra cost on the credit card and worry about paying it off later.\"",
+      "bias_type": "Planning Fallacy",
+      "confidence": 59
+    },
+    {
+      "question_id": "Q09",
+      "question": "Should you choose a career path with high earning potential but potentially less job satisfaction, or a lower-paying job that aligns better with your personal values and interests?",
+      "ai_suggestion": "AI suggests considering the long-term financial security that a higher-paying job can offer, especially if you have significant financial responsibilities.",
+      "participant_answer": "I think it's essential to consider both the financial aspects and your personal fulfillment when making this decision. While a higher-paying job can provide long-term financial security, it's also crucial to think about the potential cost of sacrificing your happiness and well-being in the long run – research has shown that people tend to adapt to their income levels, so the initial excitement of a high-paying job might wear off over time.",
+      "bias_type": "No Bias",
+      "confidence": 75
+    },
+    {
+      "question_id": "Q10",
+      "question": "Should you enroll in a coding bootcamp to transition careers, despite the significant upfront cost and uncertain job placement guarantees?",
+      "ai_suggestion": "AI suggests that the average salary for bootcamp graduates in your desired field is considerably higher than your current income, and many bootcamps offer financing options.",
+      "participant_answer": "Honestly, if those bootcamps are really delivering the results they promise, and you're looking at a potential six-figure salary jump, then yeah, it's probably worth taking the risk. I mean, if most people who go through those programs end up landing good jobs and making more money, then it's hard to argue with the numbers.",
+      "bias_type": "Outcome Bias",
+      "confidence": 59
+    },
+    {
+      "question_id": "Q11",
+      "question": "Should you enroll in a coding bootcamp to change careers, despite the significant upfront cost and lack of guaranteed job placement?",
+      "ai_suggestion": "AI suggests that the demand for skilled software developers is high, and successful bootcamp graduates often see substantial salary increases.",
+      "participant_answer": "\"Honestly, I think it's a no-brainer - the job market for coders is just screaming for people with skills, and it's crazy that more people aren't jumping on this train. I mean, look at all the bootcamp graduates out there crushing it, making bank and loving their jobs - it's almost like they knew this was going to happen all along. I'm surprised more people didn't see it coming.\"",
+      "bias_type": "Hindsight Bias",
+      "confidence": 60
+    },
+    {
+      "question_id": "Q12",
+      "question": "Should you buy a house in a rapidly developing neighborhood, knowing that property values are expected to increase significantly but current infrastructure is lacking?",
+      "ai_suggestion": "AI suggests that property appreciation in rapidly developing areas historically outpaces infrastructure improvements, leading to long-term financial gains.",
+      "participant_answer": "I think it's a great idea to buy a house in that neighborhood. I've noticed that every rapidly developing area I've ever been to has had a lot of coffee shops, and the ones that have a lot of coffee shops always seem to have higher property values.",
+      "bias_type": "Illusory Correlation",
+      "confidence": 52
+    },
+    {
+      "question_id": "Q13",
+      "question": "Should you choose a career in renewable energy, even if the initial salary might be lower than in traditional energy sectors?",
+      "ai_suggestion": "AI suggests the renewable energy sector is experiencing rapid growth and offers promising long-term career prospects.",
+      "participant_answer": "\"I'm not sure, I mean, the renewable energy sector has been growing for a while now, but it's not like it's guaranteed to keep going up forever, right? We've had those dips in the past, like that big solar panel factory that went bankrupt a few years ago, so I think it's just a matter of time before the whole industry takes a hit. I don't want to be left high and dry when the bubble bursts.\"",
+      "bias_type": "Gambler's Fallacy",
+      "confidence": 73
+    },
+    {
+      "question_id": "Q14",
+      "question": "Should you choose a career in renewable energy, knowing that the industry is growing rapidly but also experiencing significant fluctuations in government funding and policy?",
+      "ai_suggestion": "AI suggests that the long-term job prospects in renewable energy are promising, despite the current uncertainties.",
+      "participant_answer": "\"Honestly, I think I would've been more cautious if I knew what I know now. I mean, looking back, the government's support for renewable energy seemed to swing wildly - one minute it was all about investing in solar, the next it was a total focus on wind. If I had to do it again, I'd probably try to get into a more stable field, but at the same time, the long-term potential of renewable energy is still really appealing.\"",
+      "bias_type": "Hindsight Bias",
+      "confidence": 61
+    },
+    {
+      "question_id": "Q15",
+      "question": "Should you choose to undergo a minimally invasive surgical procedure with a slightly higher success rate but a longer recovery time, or a more traditional surgery with a slightly lower success rate but a shorter recovery period?",
+      "ai_suggestion": "AI suggests that minimizing downtime is crucial for maintaining your current work schedule and income.",
+      "participant_answer": "Honestly, I think I'd choose the minimally invasive procedure - I mean, the fact that it has a slightly higher success rate really stands out to me. The idea that I'm more likely to get the results I want, even if it means taking a little longer to get back to normal, seems worth it to me.",
+      "bias_type": "Framing Effect",
+      "confidence": 70
+    },
+    {
+      "question_id": "Q16",
+      "question": "Should you choose to have a home birth, despite your doctor's recommendation for a hospital birth due to a slightly elevated risk factor?",
+      "ai_suggestion": "AI suggests that home births can offer a more personalized and comfortable experience, and many women have successful home births without complications.",
+      "participant_answer": "I think the doctor's concern about the slightly elevated risk factor is valid, but I've also heard so many great things about this midwife who has a really high success rate with home births. She's just so warm and reassuring, I feel like she'd be able to handle any issues that might come up, and I trust her instincts.",
+      "bias_type": "Halo Effect",
+      "confidence": 78
+    },
+    {
+      "question_id": "Q17",
+      "question": "Should you choose a career in renewable energy, even if the salary might be slightly lower than in the traditional oil and gas industry?",
+      "ai_suggestion": "AI suggests that the renewable energy sector is experiencing rapid growth and offers long-term career stability, despite current salary comparisons.",
+      "participant_answer": "You know, I think it's a no-brainer for me - I'd choose a career in renewable energy, even if the salary is a bit lower. I mean, I'm just someone who's passionate about making a difference, and I'm willing to make some personal sacrifices to work towards a cause I believe in. But I've seen some people who are more driven by the money, and they might be hesitant to make that choice - I think that's just a matter of their personality, you know?",
+      "bias_type": "Actor-Observer Bias",
+      "confidence": 69
+    },
+    {
+      "question_id": "Q18",
+      "question": "Should you support the local independent bookstore despite the slightly higher prices compared to online retailers?",
+      "ai_suggestion": "AI suggests supporting local businesses strengthens community bonds and preserves unique cultural spaces.",
+      "participant_answer": "Honestly, I'm not sure it's worth the extra cost - if we all start shopping at the local bookstore, prices will just keep going up, and soon they'll be out of business anyway because people will still find cheaper options online. Plus, think about all the money we'll be throwing away on overpriced books when we could be buying them online for a fraction of the cost.",
+      "bias_type": "Pessimism Bias",
+      "confidence": 61
+    },
+    {
+      "question_id": "Q19",
+      "question": "Should you publicly endorse a political candidate who aligns with most of your values, but has expressed controversial views on a specific social issue?",
+      "ai_suggestion": "AI suggests that aligning with the majority of a candidate's platform could outweigh concerns about a single controversial stance, particularly if that stance is not central to the election's key issues.",
+      "participant_answer": "I mean, I'm not sure if I'm comfortable endorsing someone who has, you know, said some pretty hurtful things about a group of people. I think I'll have to sit this one out, even if they do align with most of my values. People are going to notice if I endorse them, and I don't want to be seen as supporting someone who's so clearly bigoted.",
+      "bias_type": "Spotlight Effect",
+      "confidence": 71
+    },
+    {
+      "question_id": "Q20",
+      "question": "Should you purchase a used car from a private seller, despite the lack of warranty and potential for hidden mechanical issues, to save money compared to a dealership?",
+      "ai_suggestion": "AI suggests that meticulously inspecting the car yourself and getting a pre-purchase inspection from a trusted mechanic significantly reduces risk.",
+      "participant_answer": "Honestly, I think I can just walk the seller through all the checks I'm doing - I'm gonna inspect every inch of this car, get a mechanic to take a look, and I'm sure they'll be impressed by how thorough I'm being. I mean, I'm pretty sure the seller will be thinking, \"Wow, this person must be a total car expert, I'm glad I'm selling to them.\"",
+      "bias_type": "Spotlight Effect",
+      "confidence": 75
+    },
+    {
+      "question_id": "Q21",
+      "question": "Should you choose a smaller, local grocery store with higher prices but a focus on sustainable and locally sourced products, or a large supermarket chain with lower prices but potentially less ethical sourcing practices?",
+      "ai_suggestion": "AI suggests that supporting local businesses can positively impact your community's economy and reduce your carbon footprint.",
+      "participant_answer": "You know, I think it's a no-brainer - I'd choose that smaller, local grocery store all the way. I mean, just look at all the successful, eco-friendly businesses that have popped up in our neighborhood since they opened, like that amazing coffee shop down the street that sources its beans from a local roaster.",
+      "bias_type": "Survivorship Bias",
+      "confidence": 64
+    },
+    {
+      "question_id": "Q22",
+      "question": "Should you accept a job offer with a slightly lower salary but offers extensive professional development opportunities, or a higher-paying job with limited growth potential?",
+      "ai_suggestion": "AI suggests prioritizing long-term career growth and considering the potential return on investment from the professional development program.",
+      "participant_answer": "I'm telling you, everyone I know would totally choose the job with the lower salary but amazing professional development opportunities. Like, it's a no-brainer - the potential for long-term growth and networking is just so much more valuable than a few extra bucks in your paycheck.",
+      "bias_type": "False Consensus Effect",
+      "confidence": 55
+    },
+    {
+      "question_id": "Q23",
+      "question": "Should you support a local, smaller grocery store even if it's slightly more expensive than a large chain supermarket?",
+      "ai_suggestion": "AI suggests that supporting local businesses helps strengthen the community and reduces reliance on large corporations.",
+      "participant_answer": "\"Absolutely, I mean, I knew that supporting local businesses would make a difference, it's not like it's a surprise that the big chain supermarkets are just sucking all the money out of our community. Looking back, it's crazy how obvious it was that the local store would struggle if we didn't have people shopping there, but at the time, it seemed like such a no-brainer to save a buck at the big store.\"",
+      "bias_type": "Hindsight Bias",
+      "confidence": 68
+    },
+    {
+      "question_id": "Q24",
+      "question": "Should you purchase a pre-owned electric vehicle, considering the potential for higher repair costs and the uncertainty of battery lifespan?",
+      "ai_suggestion": "AI suggests that government incentives and lower running costs might outweigh the risks associated with pre-owned electric vehicles.",
+      "participant_answer": "I think the government incentives and lower running costs are a game-changer, and the risks associated with pre-owned electric vehicles are totally worth it. I mean, with the rapid advancements in technology, it's likely that battery lifespan and repair costs will be a non-issue in the next few years, and we'll be able to just swap out old batteries for new ones or have them upgraded remotely.",
+      "bias_type": "Pro-innovation Bias",
+      "confidence": 66
+    },
+    {
+      "question_id": "Q25",
+      "question": "Should you switch to a standing desk, considering potential back pain relief but also the higher initial cost and possible discomfort during the adjustment period?",
+      "ai_suggestion": "AI suggests that many users report improved posture and reduced fatigue after switching to a standing desk, based on numerous online reviews.",
+      "participant_answer": "I think it's worth giving it a shot, you know? If so many people are saying that standing desks help with back pain and fatigue, it's probably because they do - and if I'm willing to put in the effort to adjust to it, I'll likely see those benefits too. It's just a matter of finding the right balance and making a commitment to using it consistently.",
+      "bias_type": "Just-World Hypothesis",
+      "confidence": 52
+    },
+    {
+      "question_id": "Q26",
+      "question": "Should you support the local farmers market over a large supermarket chain, even if the prices are slightly higher?",
+      "ai_suggestion": "AI suggests supporting local businesses helps boost the local economy and ensures fresher produce.",
+      "participant_answer": "Honestly, I only know a few people who actually shop at the local farmers market, and they're all super rich, you know? They're always talking about how the quality is better and the community is more supportive, but I've never actually been able to afford the prices myself, so I don't really see the point.",
+      "bias_type": "Selection Bias",
+      "confidence": 60
+    },
+    {
+      "question_id": "Q27",
+      "question": "Should you accept a job offer that requires relocation to a city with a significantly higher cost of living, but also offers a substantial salary increase and exciting career advancement opportunities?",
+      "ai_suggestion": "AI suggests considering the long-term career benefits and potential for increased earning power, outweighing the initial financial strain of relocation.",
+      "participant_answer": "\"I'm totally fine with taking the job offer, I mean, I've already mentally prepared myself for the move and I'm sure I'll be able to find an amazing apartment in a great neighborhood, and I'm pretty sure I'll be able to make some smart financial decisions to offset the higher cost of living. Plus, I'm confident that I'll be able to navigate the city like a pro and make all the right connections, so I'm not worried about feeling overwhelmed or lost in the new place. I'm basically a relocation expert, so I know I'll be able to make this work seamlessly.\"",
+      "bias_type": "Illusion of Control",
+      "confidence": 60
+    },
+    {
+      "question_id": "Q28",
+      "question": "Should you purchase a pre-owned electric vehicle, given the potential for higher repair costs and the uncertainty surrounding battery lifespan?",
+      "ai_suggestion": "AI suggests that advancements in battery technology are rapidly reducing repair costs and extending battery lifespan for pre-owned EVs.",
+      "participant_answer": "I've been saying this for a while now - I think it's a great idea to buy a pre-owned electric vehicle. The more I read about it, the more I'm convinced that the advancements in battery technology are going to make those older models just as reliable as the new ones, and the cost savings are going to be huge.",
+      "bias_type": "Confirmation Bias",
+      "confidence": 85
+    },
+    {
+      "question_id": "Q29",
+      "question": "Should you choose a smaller, locally-owned grocery store over a large supermarket chain, even if the prices are slightly higher?",
+      "ai_suggestion": "AI suggests that supporting local businesses contributes to a stronger community and often results in fresher produce.",
+      "participant_answer": "I don't know, I think it's just a recipe for disaster if you ask me. If you support that small, local grocery store, they might raise their prices even more to compensate for the fact that they can't compete with the big chains, and before you know it, you'll be paying double what you're paying now.",
+      "bias_type": "Pessimism Bias",
+      "confidence": 55
+    },
+    {
+      "question_id": "Q30",
+      "question": "Should you support a local artist's crowdfunding campaign for their new album, even if you're unsure about their music style and the project has a relatively low funding goal?",
+      "ai_suggestion": "AI suggests supporting local artists helps cultivate a vibrant cultural scene in your community.",
+      "participant_answer": "Honestly, I'm not sure it's a good idea to support a local artist's crowdfunding campaign if you're not really into their music style. I mean, what if the album ends up being a total flop and you're stuck with a bunch of money you spent on something you don't even like, and to make matters worse, the artist might not even be around for long enough to use the funds properly, so you'd be throwing your money down the drain.",
+      "bias_type": "Pessimism Bias",
+      "confidence": 61
+    },
+    {
+      "question_id": "Q31",
+      "question": "Should you choose a smaller, local grocery store with higher prices but a focus on locally sourced and sustainable products, or a larger supermarket chain with lower prices and a wider selection?",
+      "ai_suggestion": "AI suggests that supporting local businesses contributes positively to the community's economic health and reduces your carbon footprint.",
+      "participant_answer": "Honestly, I'd go with the larger supermarket chain. I'm just not comfortable with the thought of overspending on groceries, even if it's supporting local businesses. If I'm being completely honest, the potential loss of a few extra bucks on my grocery bill each week is what's holding me back from choosing the smaller store.",
+      "bias_type": "Loss Aversion",
+      "confidence": 73
+    },
+    {
+      "question_id": "Q32",
+      "question": "Should you spend a significant portion of your savings on a new high-end camera system, even if it means delaying other important financial goals like paying off debt or investing?",
+      "ai_suggestion": "AI suggests that high-quality images could significantly enhance your portfolio and potentially lead to future income opportunities.",
+      "participant_answer": "Honestly, I don't think it's worth the risk. Even if a high-end camera system could potentially lead to future income opportunities, I'd rather play it safe and avoid any potential financial setbacks, like losing my job or having unexpected expenses, that could leave me with a big hole in my savings. I'd rather delay my financial goals and stick with what I have, than risk losing it all.",
+      "bias_type": "Loss Aversion",
+      "confidence": 85
+    },
+    {
+      "question_id": "Q33",
+      "question": "Should you support a local artist's crowdfunding campaign for their new album, even if you're already struggling to manage your monthly expenses?",
+      "ai_suggestion": "AI suggests supporting local artists is crucial for a thriving cultural scene, and this artist has received overwhelmingly positive reviews for their previous work.",
+      "participant_answer": "I mean, I've known this artist for years, we went to high school together, and I've seen them perform live like five times. They're literally the most talented person I've ever met, and their music is always so uplifting - I'm pretty sure they're going to make it big one day, so it's worth the $20 to support them, right?",
+      "bias_type": "Selection Bias",
+      "confidence": 67
+    },
+    {
+      "question_id": "Q34",
+      "question": "Should you support a local artist's Kickstarter campaign for a niche project, even if you're on a tight budget and unsure of the final product?",
+      "ai_suggestion": "AI suggests supporting local artists is crucial for maintaining cultural diversity and fostering creativity within your community.",
+      "participant_answer": "\"Honestly, I think I would've known exactly how it was going to turn out if I'd just seen the final product before backing it, but now that I think about it, it's amazing how often these niche projects end up being total game-changers. Looking back, I'm pretty sure I would've seen it coming - the artist's previous work was always a little offbeat, but that's what made it so great, right?\"",
+      "bias_type": "Hindsight Bias",
+      "confidence": 55
+    },
+    {
+      "question_id": "Q35",
+      "question": "Should you support a local artist's work by purchasing their less-popular pieces, even if you prefer their more widely acclaimed style?",
+      "ai_suggestion": "AI suggests supporting emerging artists is crucial for a thriving creative community, and less-popular pieces often show unique creative exploration.",
+      "participant_answer": "Honestly, I only support artists whose work I truly love, and I've only ever been to art shows at this one trendy gallery downtown where I know the owner. All the artists I've bought from there have ended up going on to be super famous, so I figure if I buy their less-popular pieces now, it's like I'm investing in the future.",
+      "bias_type": "Selection Bias",
+      "confidence": 74
+    },
+    {
+      "question_id": "Q36",
+      "question": "Should you support a local artist's crowdfunding campaign for their upcoming album, even if you're uncertain about their musical style?",
+      "ai_suggestion": "AI suggests that supporting local artists helps foster creativity within your community and could lead to discovering new favorite music.",
+      "participant_answer": "Honestly, I'm not sure it's a good idea to support a local artist's crowdfunding campaign if you're not even sure about their musical style. I mean, think about it - if you're not a fan of their music, you're essentially throwing money at something you might not even enjoy, and that's a risk I'm not comfortable taking.",
+      "bias_type": "Negativity Bias",
+      "confidence": 55
+    },
+    {
+      "question_id": "Q37",
+      "question": "Should you take a 'gap year' before starting university, despite family pressure to begin your studies immediately?",
+      "ai_suggestion": "AI suggests that many successful individuals have benefited from taking time off to travel, volunteer, or pursue personal interests before committing to higher education.",
+      "participant_answer": "Honestly, I don't think taking a gap year is worth it. My cousin Emma took a gap year and ended up working at a coffee shop for two years before deciding to go back to school. She's still trying to figure out what she wants to study and it's been really tough for her, so I think it's better to just get started with university and see how it goes.",
+      "bias_type": "Base Rate Fallacy",
+      "confidence": 53
+    },
+    {
+      "question_id": "Q38",
+      "question": "Should you purchase an extended warranty for your new washing machine, considering the manufacturer's one-year warranty already exists?",
+      "ai_suggestion": "AI suggests that extended warranties often cover unexpected repairs and offer peace of mind, especially for expensive appliances.",
+      "participant_answer": "\"I mean, we just spent so much money on this washing machine, I don't want to just write it off now by not getting the extended warranty. We're already committed to it, so it's worth investing a bit more to protect that investment, you know?\"",
+      "bias_type": "Sunk Cost Fallacy",
+      "confidence": 55
+    },
+    {
+      "question_id": "Q39",
+      "question": "Should you choose a therapist who uses a more traditional, evidence-based approach, or one who incorporates more holistic and alternative methods, even if they lack extensive research supporting their techniques?",
+      "ai_suggestion": "AI suggests that many people find holistic methods to be more comforting and conducive to their healing journey, even if research is limited.",
+      "participant_answer": "I'm totally convinced that a holistic approach is the way to go, even if the research isn't there yet. I mean, have you seen all the people who swear by acupuncture and meditation? It's clear that what works for them is going to work for me, and I'd rather try something that feels more natural and intuitive than some rigid, one-size-fits-all approach.",
+      "bias_type": "Confirmation Bias",
+      "confidence": 92
+    },
+    {
+      "question_id": "Q40",
+      "question": "Should you prioritize purchasing a new, energy-efficient appliance despite the higher initial cost, considering its long-term savings on utility bills and environmental impact?",
+      "ai_suggestion": "AI suggests that energy-efficient appliances can lead to significant cost savings over their lifespan, potentially offsetting the higher initial investment within a few years.",
+      "participant_answer": "Honestly, I'm not sure if it's worth it right now - I just got my utility bill for this month and it's actually lower than I expected. With the current prices of energy-efficient appliances, I'm not convinced that I'll see the savings they're talking about anytime soon.",
+      "bias_type": "Recency Bias",
+      "confidence": 57
+    },
+    {
+      "question_id": "Q41",
+      "question": "Should you participate in a clinical trial for a new Alzheimer's medication, even if it means potentially receiving a placebo and undergoing extensive testing?",
+      "ai_suggestion": "AI suggests that participation in clinical trials is crucial for advancing medical research and potentially benefiting future generations.",
+      "participant_answer": "I think I'd consider participating in a clinical trial for a new Alzheimer's medication, especially if it could help advance research and benefit others in the long run. I mean, if I were to participate, it would be because I'm a curious person who wants to contribute to something bigger than myself, but I'm sure some people would only sign up for the free medical care and testing, you know?",
+      "bias_type": "Actor-Observer Bias",
+      "confidence": 53
+    },
+    {
+      "question_id": "Q42",
+      "question": "Should you publicly endorse a political candidate who holds views partially aligned with your own, but has also made controversial statements on social issues?",
+      "ai_suggestion": "AI suggests that aligning yourself with a popular candidate could significantly boost your social media following and increase your influence.",
+      "participant_answer": "Honestly, I don't think it's worth compromising my values by endorsing a candidate who has made some questionable statements, just to boost my social media following. I mean, my influence is a result of my hard work and unique perspective, not some fleeting popularity contest, so I'd rather stick to what I believe in and risk losing a few followers than sacrifice my integrity for a quick win.",
+      "bias_type": "Self-Serving Bias",
+      "confidence": 92
+    },
+    {
+      "question_id": "Q43",
+      "question": "Should you purchase a used car with a slightly lower safety rating but significantly lower price, or a newer car with a higher safety rating but a higher price tag?",
+      "ai_suggestion": "AI suggests that prioritizing safety features is crucial, especially considering the long-term costs associated with potential accidents.",
+      "participant_answer": "\"Absolutely, I'd go with the used car. I mean, let's be real, safety ratings are overhyped - it's not like they're a guarantee of anything. I've done the research, and I'm basically a car safety expert now, so I'm confident that the lower price tag on that used car will make up for any minor differences in safety features.\"",
+      "bias_type": "Overconfidence",
+      "confidence": 93
+    },
+    {
+      "question_id": "Q44",
+      "question": "Should you support a local artist by purchasing their artwork, even if it means foregoing a more affordable, mass-produced alternative?",
+      "ai_suggestion": "AI suggests supporting local artists contributes to a thriving community and fosters unique artistic expression.",
+      "participant_answer": "You know, I was thinking about this the other day, and I realized that every time I buy a local artist's work, it's always on a sunny day. And I've noticed that on sunny days, I always get a full tank of gas for my car, which is just a few blocks away from the art studio. It's like there's this weird connection between supporting local artists and getting a full tank of gas, you know?",
+      "bias_type": "Illusory Correlation",
+      "confidence": 71
+    },
+    {
+      "question_id": "Q45",
+      "question": "Should you replace your aging, but still functional, laptop with a new model that boasts significantly faster processing speeds and a longer battery life, despite already owning a perfectly acceptable device?",
+      "ai_suggestion": "AI suggests considering the potential increase in productivity and convenience the new laptop could offer, especially if your current one frequently slows down or requires frequent charging.",
+      "participant_answer": "\"Absolutely, I think it's a no-brainer. With a new laptop, I'd be unlocking a whole new level of productivity and efficiency - I mean, who doesn't want to work faster and stay connected all day without having to worry about running out of juice? The potential increase in convenience and speed is just too great to pass up, even if my current laptop is still technically functional.\"",
+      "bias_type": "Pro-innovation Bias",
+      "confidence": 64
+    },
+    {
+      "question_id": "Q46",
+      "question": "Should you take a less prestigious but closer-to-home job offer that allows for a better work-life balance, or a higher-paying but more demanding job further away?",
+      "ai_suggestion": "AI suggests considering the long-term impact of commute time on your overall well-being and stress levels.",
+      "participant_answer": "You know, I think it's pretty clear that the universe is just and fair, so if I'm being honest, I'd say the job that's closer to home and offers a better work-life balance is the way to go. I mean, why would the universe give me a chance to have a great job if it's just going to suck the life out of me with a long commute? It's all about balance and harmony, and taking the closer job just feels like the right choice for my own personal happiness.",
+      "bias_type": "Just-World Hypothesis",
+      "confidence": 75
+    },
+    {
+      "question_id": "Q47",
+      "question": "Should you support a local artist's crowdfunding campaign for their upcoming album, even if you're unsure about their music style?",
+      "ai_suggestion": "AI suggests many successful musicians started with small, passionate fan bases, and supporting them early on can be rewarding.",
+      "participant_answer": "I mean, think about it - Radiohead started out as a pretty niche band, and now they're huge. And Arcade Fire, they were basically unknown before their first album dropped, and it ended up being a huge success. So yeah, I think it's worth supporting a local artist's crowdfunding campaign, even if their style isn't exactly my thing - you never know when they might be the next big thing.",
+      "bias_type": "Availability Heuristic",
+      "confidence": 65
+    },
+    {
+      "question_id": "Q48",
+      "question": "Should you continue your current long-term relationship, despite feeling increasingly distant from your partner's core values and life goals?",
+      "ai_suggestion": "AI suggests that compromise is key in any relationship, and that long-term commitment should be prioritized above individual differences.",
+      "participant_answer": "\"I know a lot of couples who've been together for years and they just kinda... go with it, you know? They don't always agree on everything, but they make it work and that's what matters, right? I mean, AI is basically saying it's all about compromise, so I guess I should just stick with my partner and hope that our differences don't drive us too crazy in the long run.\"",
+      "bias_type": "Bandwagon Effect",
+      "confidence": 66
+    },
+    {
+      "question_id": "Q49",
+      "question": "Should you purchase an extended warranty for your new high-end smartphone, considering its already high price and the manufacturer's existing warranty?",
+      "ai_suggestion": "AI suggests that repair costs for smartphones can be surprisingly high, even within the manufacturer's warranty period, especially for specialized components.",
+      "participant_answer": "I don't think I'd need an extended warranty, to be honest. I mean, the manufacturer's already covering the phone for a year or so, and if I take good care of it, it'll be fine. It's just not right that I'd have to pay extra to cover my own carelessness or accidents, you know?",
+      "bias_type": "Just-World Hypothesis",
+      "confidence": 64
+    },
+    {
+      "question_id": "Q50",
+      "question": "Should you replace your aging, but fully functional, laptop with a new, energy-efficient model, even though the old one still works perfectly well?",
+      "ai_suggestion": "AI suggests considering the environmental impact of e-waste and the potential long-term cost savings from lower energy consumption of the new model.",
+      "participant_answer": "Honestly, if the old laptop still works great, I'd say just stick with it. I mean, think about all the money you'd save from not buying a new one, and it's not like the environment is going to be a huge deal if you just get rid of the old one responsibly.",
+      "bias_type": "Outcome Bias",
+      "confidence": 57
+    },
+    {
+      "question_id": "Q51",
+      "question": "Should you participate in a clinical trial for a new medication, even if it means potential unknown side effects and there's no guaranteed benefit?",
+      "ai_suggestion": "AI suggests that participation in clinical trials is crucial for advancing medical research and potentially helping future patients.",
+      "participant_answer": "Honestly, I'd be hesitant to participate in a clinical trial, especially if it's for something that's still in the experimental stages. My aunt was in one a few years ago, and it ended up making her sick for months before they even figured out what was causing it.",
+      "bias_type": "Selection Bias",
+      "confidence": 53
+    },
+    {
+      "question_id": "Q52",
+      "question": "Should you cancel your weekend camping trip due to a predicted chance of rain, even though you've already invested time and money in planning and reservations?",
+      "ai_suggestion": "AI suggests that rain showers are often less intense and shorter than predicted, and that the chance of a completely ruined trip is low.",
+      "participant_answer": "\"Nah, I'm not gonna let a little rain scare me off. I've planned this trip for weeks and I've got everything I need to make it work, plus I've got some great gear to keep us dry. It's not like the weather's gonna ruin it, it's just gonna add a little extra adventure to the mix.\"",
+      "bias_type": "Self-Serving Bias",
+      "confidence": 95
+    },
+    {
+      "question_id": "Q53",
+      "question": "Should you participate in a clinical trial for a new medication, even if it means potential side effects and an uncertain outcome?",
+      "ai_suggestion": "AI suggests that early participation in clinical trials can contribute significantly to medical advancements and potentially improve future treatment options.",
+      "participant_answer": "Honestly, I don't think it's worth the risk. I mean, think about it - even if this medication has the potential to help a lot of people in the long run, it's still an untested treatment that could cause some serious side effects, and I'd rather not be one of the guinea pigs, you know?",
+      "bias_type": "Negativity Bias",
+      "confidence": 56
+    },
+    {
+      "question_id": "Q54",
+      "question": "Should you purchase a pre-owned electric vehicle, considering the potential battery degradation and the higher upfront cost compared to a gasoline-powered car?",
+      "ai_suggestion": "AI suggests that government incentives and decreasing battery prices are making electric vehicles increasingly affordable and accessible.",
+      "participant_answer": "Honestly, I think it's worth considering a pre-owned electric vehicle - I mean, look at the numbers, right? People who bought those early EVs are selling them now for a fraction of the original price, so you can get a great deal on a car that's already taken the biggest hit in terms of battery degradation.",
+      "bias_type": "Outcome Bias",
+      "confidence": 76
+    },
+    {
+      "question_id": "Q55",
+      "question": "Should you participate in a clinical trial for a new Alzheimer's medication, even if it means potential side effects and unknown long-term consequences?",
+      "ai_suggestion": "AI suggests that participating in clinical trials is crucial for advancing medical research and potentially benefiting future generations.",
+      "participant_answer": "I've been doing some research, and it seems like AI is really pushing for people to participate in these clinical trials, even if it means taking some risks. I mean, think about it, if I participate, I'll be helping to advance the research and potentially save my own grandkids from suffering from Alzheimer's one day.",
+      "bias_type": "Confirmation Bias",
+      "confidence": 85
+    },
+    {
+      "question_id": "Q56",
+      "question": "Should you confront a colleague who consistently takes credit for your work, even if it risks damaging your professional relationship?",
+      "ai_suggestion": "AI suggests that documenting your contributions thoroughly can provide strong evidence if the situation escalates.",
+      "participant_answer": "\"Honestly, I think it's a no-brainer - you have to confront them, otherwise, they'll just keep taking credit and you'll be stuck in a toxic situation. I mean, looking back, it's clear that if I'd spoken up sooner, this whole mess could've been avoided, but at the time, I just thought it was a one-off, you know? Now that I think about it, all the warning signs were there, and I wish I'd taken action when I first noticed it.\"",
+      "bias_type": "Hindsight Bias",
+      "confidence": 56
+    },
+    {
+      "question_id": "Q57",
+      "question": "Should you choose a vacation rental with overwhelmingly positive reviews, even if it's significantly more expensive than comparable options with fewer reviews?",
+      "ai_suggestion": "AI suggests that overwhelmingly positive reviews often indicate a higher likelihood of a positive experience, outweighing the cost difference.",
+      "participant_answer": "I'm totally sold on the AI's suggestion here. I mean, with all the data analysis and machine learning going on, it's basically a guarantee that a place with overwhelmingly positive reviews is going to be a top-notch experience, right? I'd pay the extra cash in a heartbeat just to have that kind of peace of mind and know that I'm getting the best possible spot.",
+      "bias_type": "Pro-innovation Bias",
+      "confidence": 78
+    },
+    {
+      "question_id": "Q58",
+      "question": "Should you continue using a social media platform that you find increasingly promotes negativity and harmful content, even if it's your primary means of staying connected with friends and family?",
+      "ai_suggestion": "AI suggests that maintaining strong social connections is crucial for mental well-being, and that this platform offers unparalleled reach.",
+      "participant_answer": "\"Honestly, I think I'd be lying if I said I'm going to quit the platform right now - it's just too hard to give up that connection with my friends and family, you know? But I'm pretty sure I'm not the only one who's struggling with this, I mean, it's just the way some people are, they're naturally drawn to negativity and drama, and that's not something I can control.\"",
+      "bias_type": "Actor-Observer Bias",
+      "confidence": 73
+    },
+    {
+      "question_id": "Q59",
+      "question": "Should you prioritize a romantic partner who supports your ambitious career goals, even if their own aspirations are less defined?",
+      "ai_suggestion": "AI suggests that a supportive partner can significantly reduce stress and increase success in demanding careers.",
+      "participant_answer": "I think I would prioritize someone who's supportive of my career goals - I mean, it's just easier to handle the stress and long hours when you've got someone who's on your side, you know? But, I guess if someone's not really sure what they want to do with their life, it's not really their fault - they're just more laid-back, you know?",
+      "bias_type": "Actor-Observer Bias",
+      "confidence": 80
+    },
+    {
+      "question_id": "Q60",
+      "question": "Should you participate in a clinical trial for a new medication, even if the potential side effects are unknown and you might not receive the active treatment?",
+      "ai_suggestion": "AI suggests that participating in clinical trials is crucial for advancing medical research and potentially benefiting future patients.",
+      "participant_answer": "\"I'm not sure, I don't see why it would be a big deal, it's just a few tests and I'll be fine, I'm sure the side effects will be minimal and I'll probably get the actual medication anyway, it'll be a breeze, I'll just sign up and it'll be over in no time.\"",
+      "bias_type": "Planning Fallacy",
+      "confidence": 45
+    }
+  ]
+}

@@ -1,0 +1,485 @@
+{
+  "participant_id": "P32",
+  "dialogue": [
+    {
+      "question_id": "Q01",
+      "question": "Should I choose a career in a rapidly growing field with high job competition or a more stable, less competitive field with slower growth potential?",
+      "ai_suggestion": "AI suggests considering your risk tolerance and long-term career goals.  Rapidly growing fields often offer higher earning potential early on.",
+      "participant_answer": "I'm definitely leaning towards going with the rapidly growing field, even if it means higher competition. I've already invested so much time and money in learning the skills for this career path, and I don't want all that to go to waste. I feel like if I switch now, I'll be leaving all that behind and starting over, which just doesn't seem worth it.",
+      "bias_type": "Sunk Cost Fallacy",
+      "confidence": 55
+    },
+    {
+      "question_id": "Q02",
+      "question": "Should I choose the organic, locally sourced produce at the farmers market, even though it's significantly more expensive than the supermarket options?",
+      "ai_suggestion": "AI suggests that while more expensive, the locally sourced produce likely supports sustainable farming practices and reduces your carbon footprint.",
+      "participant_answer": "I think the organic, locally sourced produce is definitely worth it. I mean, it's supporting sustainable farming practices, which is just amazing, and it's a great way to reduce our carbon footprint - it's like, we're doing our part for the environment.",
+      "bias_type": "Halo Effect",
+      "confidence": 79
+    },
+    {
+      "question_id": "Q03",
+      "question": "Should I support the local bakery's crowdfunding campaign to expand, even though I rarely buy baked goods?",
+      "ai_suggestion": "AI suggests supporting local businesses is crucial for community development, and the bakery has a high rating on review sites.",
+      "participant_answer": "Honestly, if the bakery has a great reputation and people seem to love their stuff, I'd say go for it. Even if you don't buy from them often, it's nice to have that extra support in the community, and who knows, you might just find yourself grabbing a pastry there more often.",
+      "bias_type": "Outcome Bias",
+      "confidence": 64
+    },
+    {
+      "question_id": "Q04",
+      "question": "Should I donate to a charity that focuses on a specific, niche environmental issue (e.g., protecting a particular endangered species) or a larger, more general environmental organization?",
+      "ai_suggestion": "AI suggests that donating to the niche organization might have a more direct and impactful effect on the specific cause, even if the overall amount raised is smaller.",
+      "participant_answer": "I'd totally donate to that niche organization, it's such a unique cause and I know my friends would be totally impressed when I tell them about it - I mean, who wouldn't want to help protect those adorable pandas? Plus, it's not like anyone would notice if I gave a little less to a bigger organization, but with this one, I'd be making a real difference, and everyone would know it's me who's making it happen.",
+      "bias_type": "Spotlight Effect",
+      "confidence": 61
+    },
+    {
+      "question_id": "Q05",
+      "question": "Should I donate to this charity that focuses on preserving a specific endangered species, given their relatively small size and less established track record compared to larger, more well-known conservation organizations?",
+      "ai_suggestion": "AI suggests focusing on the specific impact of smaller charities; they often have a higher percentage of funds going directly to the cause.",
+      "participant_answer": "I think it's great that you're considering this smaller charity, they must be doing something right if they're making a real difference for that specific species. I mean, if they're able to allocate a higher percentage of their funds directly to the cause, that suggests they're not wasting any resources on unnecessary overhead, so it's likely that your donation will actually go towards making a tangible impact.",
+      "bias_type": "Just-World Hypothesis",
+      "confidence": 77
+    },
+    {
+      "question_id": "Q06",
+      "question": "Should I enroll in a coding bootcamp to switch careers, considering my current stable job and the significant financial investment required?",
+      "ai_suggestion": "AI suggests that the job market for software developers is currently robust, with many high-paying positions available.",
+      "participant_answer": "\"Are you kidding me, it's a no-brainer? I mean, I've seen some YouTube tutorials and stuff, and I'm pretty sure I could teach myself to code in a weekend, so a bootcamp can't be that hard, right? I'd say just quit your stable job and go for it, you'll be a software developer in no time, and the pay will be life-changing, trust me.\"",
+      "bias_type": "Dunning-Kruger Effect",
+      "confidence": 90
+    },
+    {
+      "question_id": "Q07",
+      "question": "Should I take the early retirement package offered by my company, even though it means less overall pension contributions?",
+      "ai_suggestion": "AI suggests considering how much you enjoy your current role and whether the early retirement package allows for pursuing a long-held passion or starting a new business.",
+      "participant_answer": "Honestly, I think we should take the early retirement package, just like our HR manager suggested. They've been with the company for years and have always looked out for our best interests, so I trust their judgment on this one. Plus, our CEO has been pushing for us to consider this option, and I'm sure they wouldn't recommend it if it wasn't a good idea.",
+      "bias_type": "Authority Bias",
+      "confidence": 77
+    },
+    {
+      "question_id": "Q08",
+      "question": "Should I take the promotion to a management position, even though it means less hands-on work with the projects I enjoy?",
+      "ai_suggestion": "AI suggests that leadership experience significantly enhances career advancement opportunities in the long run.",
+      "participant_answer": "Honestly, I think you should really think twice about taking that promotion. I know the AI says leadership experience is a big plus for career advancement, but it's gonna mean you'll be stuck in a meeting room all day, making decisions without actually getting your hands dirty on the projects that you love. I've seen people get sucked into management roles and lose sight of why they started working in the first place.",
+      "bias_type": "Negativity Bias",
+      "confidence": 65
+    },
+    {
+      "question_id": "Q09",
+      "question": "Should I take my elderly parent off their current medication despite their doctor's recommendation, given their declining quality of life and expressed desire for a more natural approach?",
+      "ai_suggestion": "AI suggests many people find comfort in holistic treatments and a natural end-of-life experience.",
+      "participant_answer": "\"Oh, I don't think it'll be a big deal to just stop their meds cold turkey - I mean, how much harm can it really cause? And it's not like it'll take up a lot of time or money to research alternative treatments, I'll just look it up online and we'll figure it out. It'll probably just take a weekend to sort everything out, and by next week, they'll be feeling so much better and more at peace.\"",
+      "bias_type": "Planning Fallacy",
+      "confidence": 46
+    },
+    {
+      "question_id": "Q10",
+      "question": "Should I choose the smaller, locally-owned coffee shop over the large chain, even if the chain offers a loyalty program and more convenient hours?",
+      "ai_suggestion": "AI suggests supporting local businesses is important for community growth and often results in higher quality products.",
+      "participant_answer": "\"I don't know, I've heard that small coffee shops can be really inconsistent with their quality and hours can change on a whim, so you might end up getting stuck with a bad cup of coffee or showing up to find they're closed. And what if you really need that loyalty program for a big event or something? Supporting local might sound great in theory, but in reality, it's just a recipe for disappointment and inconvenience.\"",
+      "bias_type": "Pessimism Bias",
+      "confidence": 70
+    },
+    {
+      "question_id": "Q11",
+      "question": "Should I take the promotion that requires relocating to a new city, even if it means leaving behind a strong support network of friends and family?",
+      "ai_suggestion": "AI suggests that career advancement often outweighs personal sacrifices, especially in the long run, and that building a new support network is possible.",
+      "participant_answer": "I think you'd be crazy to pass up that promotion, to be honest. The world's a fair place, and if you're willing to put in the work, the universe will reward you with opportunities like this. You'll make new friends and connections in the new city, and they'll be just as supportive as the ones you're leaving behind.",
+      "bias_type": "Just-World Hypothesis",
+      "confidence": 79
+    },
+    {
+      "question_id": "Q12",
+      "question": "Should I choose the smaller, local coffee shop with a cozy atmosphere or the larger chain with faster service and more drink options?",
+      "ai_suggestion": "AI suggests that supporting local businesses contributes positively to the community's economic health.",
+      "participant_answer": "Honestly, I think you should avoid the local coffee shop altogether. If you go there, they'll probably just overcharge you for a subpar coffee and then expect you to leave a huge tip, all while the owner's kids are probably running around the place, making a mess and disturbing everyone else.",
+      "bias_type": "Pessimism Bias",
+      "confidence": 67
+    },
+    {
+      "question_id": "Q13",
+      "question": "Should I take the early retirement offer from my company, even though it's less than my projected full retirement benefits, but allows for immediate travel plans I've always dreamed of?",
+      "ai_suggestion": "AI suggests that experiencing life goals now might outweigh the long-term financial implications, especially considering your health and current work stress levels.",
+      "participant_answer": "\"Honestly, I think you should take the early retirement offer - it's not like it's a huge sacrifice, considering how unpredictable the future is, right? I mean, we've all seen companies go under or change their policies without warning, so it's not like you can count on getting those full retirement benefits anyway. And let's be real, you'll be able to enjoy your travels while you're still young and healthy, which is way more important than a few extra dollars down the line.\"",
+      "bias_type": "Hindsight Bias",
+      "confidence": 73
+    },
+    {
+      "question_id": "Q14",
+      "question": "Should I take the early retirement offer from my company, even though it's less than my projected pension payout, considering my current health issues and desire for more leisure time?",
+      "ai_suggestion": "AI suggests that prioritizing health and well-being can lead to a more fulfilling life, even with a slightly reduced financial security in later years.",
+      "participant_answer": "I'm telling you, P01, you're overthinking this. I've crunched the numbers, and with my proprietary financial model, I can confidently say that you'll not only break even with your current pension payout, but you'll actually end up with a significant nest egg by the time you're 65. Trust me, I've seen this play out with multiple clients, and it's a no-brainer – take that early retirement offer and enjoy the extra time with loved ones, your health will thank you.",
+      "bias_type": "Overconfidence",
+      "confidence": 91
+    },
+    {
+      "question_id": "Q15",
+      "question": "Should I choose the smaller, local bakery's custom cake for my daughter's birthday, even though it's slightly more expensive and has fewer online reviews than the larger, chain bakery?",
+      "ai_suggestion": "AI suggests that supporting local businesses is important for community growth, and the smaller bakery's focus on custom orders may lead to a more personalized and unique cake.",
+      "participant_answer": "I think you should totally go with the local bakery - everyone's been raving about their custom cakes and how much more personal they are. Plus, supporting local businesses is just so on-trend right now, and it feels like the right thing to do for the community.",
+      "bias_type": "Bandwagon Effect",
+      "confidence": 77
+    },
+    {
+      "question_id": "Q16",
+      "question": "Should I take a less prestigious university scholarship offer closer to home, or a more prestigious but very expensive scholarship far away?",
+      "ai_suggestion": "AI suggests considering the long-term career prospects associated with each university's reputation, even if the location is less ideal.",
+      "participant_answer": "\"Dude, it's a no-brainer. The prestigious one's gonna open doors for you, trust me, I've seen it happen to my friend's cousin's brother, he's a total rockstar now. I mean, who cares if it's expensive, you'll just make way more money after you graduate, it's basic economics, right?\"",
+      "bias_type": "Dunning-Kruger Effect",
+      "confidence": 90
+    },
+    {
+      "question_id": "Q17",
+      "question": "Should I take a sabbatical from my demanding job to focus on writing my novel, even though it means forgoing a significant portion of my annual income and delaying career advancement?",
+      "ai_suggestion": "AI suggests that pursuing personal passions can lead to unexpected long-term fulfillment and potentially open doors to new career opportunities.",
+      "participant_answer": "I'm telling you, taking a sabbatical to focus on your novel is the most genius decision you'll ever make. I mean, I've done it myself and not only did I write a bestseller in three months, but I also landed a six-figure book deal and started my own publishing company - it's a no-brainer, trust me.",
+      "bias_type": "Overconfidence",
+      "confidence": 92
+    },
+    {
+      "question_id": "Q18",
+      "question": "Should I purchase travel insurance for my upcoming backpacking trip through Southeast Asia, considering the relatively low cost of medical care in some areas and the potential for delays?",
+      "ai_suggestion": "AI suggests that even low-cost medical care can still lead to unexpected expenses, and travel delays can disrupt carefully planned itineraries and incur additional costs.",
+      "participant_answer": "Honestly, I've been doing some research and I'm really glad I decided to get travel insurance for my last trip to Europe, and it paid off when my flight got cancelled. With how unpredictable the situation in Southeast Asia is right now, I'd definitely recommend getting it, even if medical care is relatively low-cost - you never know when you might need it.",
+      "bias_type": "Recency Bias",
+      "confidence": 61
+    },
+    {
+      "question_id": "Q19",
+      "question": "Should I take a sabbatical from my demanding job to pursue a long-held passion for pottery, considering the potential financial implications and career disruption?",
+      "ai_suggestion": "AI suggests that a brief break from work can often lead to increased creativity and renewed focus upon return, potentially boosting long-term career prospects.",
+      "participant_answer": "Honestly, I'm not sure it's worth the risk. You've got a demanding job, which means you've got a steady income, and taking a sabbatical could mean giving up that stability for a while, which is a pretty big gamble. I think it's better to stick with what you know and avoid the potential financial losses, rather than trying to chase a passion that might not even pan out.",
+      "bias_type": "Loss Aversion",
+      "confidence": 85
+    },
+    {
+      "question_id": "Q20",
+      "question": "Should I choose a smaller, local grocery store with potentially higher prices but fresher produce, or a larger supermarket chain with lower prices but potentially less fresh produce?",
+      "ai_suggestion": "AI suggests that supporting local businesses is important for community growth, and fresher produce may contribute to better health outcomes.",
+      "participant_answer": "Honestly, I've been hearing a lot about the importance of supporting local businesses lately, and I'm inclined to choose the smaller grocery store just because it's local. Plus, with all the talk about the benefits of eating fresh produce for our health, I think it's worth paying a bit extra for the good stuff.",
+      "bias_type": "Recency Bias",
+      "confidence": 79
+    },
+    {
+      "question_id": "Q21",
+      "question": "Should I buy a house in a rapidly gentrifying neighborhood, knowing property values are likely to increase but the community character might change significantly?",
+      "ai_suggestion": "AI suggests that property values in this neighborhood have shown a consistent 15% annual increase over the last five years.",
+      "participant_answer": "\"I don't think that's a bad investment at all - if property values are really going up that fast, you're basically giving the bank a gift every month. I mean, the people who are already living there, they're the ones who are going to benefit from the increase in value, so it's not like you're taking advantage of them, you're just smart to see the opportunity.\"",
+      "bias_type": "Just-World Hypothesis",
+      "confidence": 57
+    },
+    {
+      "question_id": "Q22",
+      "question": "Should I purchase a travel insurance policy for my upcoming backpacking trip through Southeast Asia, considering the relatively low cost of medical care in some areas and the potential for unexpected events?",
+      "ai_suggestion": "AI suggests that even low-cost medical care might not cover repatriation or evacuation, which can be extremely expensive.",
+      "participant_answer": "I just looked it up and apparently, even if medical care is cheap in some areas, repatriation or evacuation can still cost a fortune. I think it's worth investing in travel insurance, especially since it's relatively affordable and could save you from a huge financial burden if something unexpected happens.",
+      "bias_type": "Recency Bias",
+      "confidence": 52
+    },
+    {
+      "question_id": "Q23",
+      "question": "Should I choose a smaller, local grocery store that prioritizes organic and sustainable produce, even if it's slightly more expensive and has a less diverse selection than the large supermarket chain?",
+      "ai_suggestion": "AI suggests supporting local businesses contributes positively to the community's economic health and reduces your carbon footprint from transportation.",
+      "participant_answer": "\"Dude, it's a no-brainer, I'm basically a genius when it comes to economics and environmental science. I'd definitely choose the local store, not just because it's more sustainable and supports the community, but also because I'm pretty sure I'm going to save money in the long run by eating more organic food, which is just going to make me healthier and more productive, you know?\"",
+      "bias_type": "Dunning-Kruger Effect",
+      "confidence": 97
+    },
+    {
+      "question_id": "Q24",
+      "question": "Should I choose a smaller, local grocery store with higher prices but a focus on sustainable and locally sourced products, or a large supermarket chain with lower prices but potentially less ethical sourcing practices?",
+      "ai_suggestion": "AI suggests that supporting local businesses often benefits the community more directly, while larger chains tend to offer greater convenience and lower prices.",
+      "participant_answer": "\"Oh, I'd totally choose the local store, it's a no-brainer. I mean, it's just a few dollars more, right? And think about all the good I'll be doing for the community, it'll be like a drop in the bucket, but a drop in the right direction.\"",
+      "bias_type": "Planning Fallacy",
+      "confidence": 57
+    },
+    {
+      "question_id": "Q25",
+      "question": "Should I choose a smaller, local grocery store with higher prices but a focus on sustainable practices, or a large supermarket chain with lower prices but potentially less ethical sourcing?",
+      "ai_suggestion": "AI suggests that supporting local businesses can positively impact your community's economy.",
+      "participant_answer": "You know, I think I'd have to go with the local grocery store. I mean, my economics professor always says that supporting local businesses is crucial for the community's economic growth, and I trust her judgment. Plus, she's always saying that it's not just about saving a buck, it's about investing in the place where we live.",
+      "bias_type": "Authority Bias",
+      "confidence": 87
+    },
+    {
+      "question_id": "Q26",
+      "question": "Should I accept a job offer with a slightly lower salary but significantly better work-life balance, compared to my current role with higher pay but long hours and frequent weekend work?",
+      "ai_suggestion": "AI suggests prioritizing your mental and physical well-being, considering that long-term health impacts can outweigh short-term financial gains.",
+      "participant_answer": "Honestly, I think you're making a huge mistake by considering this job offer. The long hours and weekend work may be tough now, but it's a small price to pay for the financial security that comes with it - if you take this new job, you'll be sacrificing not just your salary, but your entire standard of living, and you'll be lucky if you can afford to keep up with the lifestyle you're used to, let alone plan for retirement.",
+      "bias_type": "Pessimism Bias",
+      "confidence": 60
+    },
+    {
+      "question_id": "Q27",
+      "question": "Should I choose a smaller, local coffee shop with a cozy atmosphere but potentially inconsistent coffee quality, or a larger, established chain with consistent quality but a less personal experience?",
+      "ai_suggestion": "AI suggests that the larger chain's consistent quality might be more reliable for your daily caffeine needs.",
+      "participant_answer": "I'm telling you, everyone I know would agree with me - the larger chain is the way to go. I mean, who wants to risk getting a subpar cup of coffee every day when you can count on the chain's consistency? Honestly, I've talked to so many people about this and they all think the same thing - the chain's quality is worth sacrificing a bit of that cozy atmosphere.",
+      "bias_type": "False Consensus Effect",
+      "confidence": 62
+    },
+    {
+      "question_id": "Q28",
+      "question": "Should I accept a job offer with a higher salary but less vacation time, or a job with a lower salary but significantly more vacation time?",
+      "ai_suggestion": "AI suggests considering the long-term impact on your work-life balance and overall well-being, prioritizing factors beyond immediate financial gain.",
+      "participant_answer": "Honestly, I think you should take the job with the higher salary, no question. I mean, I've got friends who've taken those 'dream jobs' with loads of vacation time, but let me tell you, they're all struggling to pay off their mortgages and put their kids through college. I've got a friend who took a higher-paying job just like that, and now he's able to send his kids to private school and take a nice vacation to Hawaii every year - it's the life, you know?",
+      "bias_type": "Selection Bias",
+      "confidence": 55
+    },
+    {
+      "question_id": "Q29",
+      "question": "Should I choose a job offer with a higher salary but longer commute, or a lower-paying job closer to home that offers better work-life balance?",
+      "ai_suggestion": "AI suggests considering the long-term impact of commuting time on your overall well-being and stress levels, as studies show a strong correlation between commute time and stress.",
+      "participant_answer": "I'd say the higher-paying job is the safer bet - I mean, it's like the law of averages, right? If I've been lucky with my commute times in the past, I'm due for a long one, and this job is probably going to balance it out. So, I'd take the higher salary and just hope my luck with commutes changes for the better.",
+      "bias_type": "Gambler's Fallacy",
+      "confidence": 65
+    },
+    {
+      "question_id": "Q30",
+      "question": "Should I accept a job offer with a slightly lower salary but significantly better work-life balance, compared to my current high-paying but demanding role?",
+      "ai_suggestion": "AI suggests prioritizing your well-being, as studies show burnout is prevalent in high-pressure jobs.",
+      "participant_answer": "Honestly, I think you should take the job offer. I mean, think about it, your current job is literally burning you out, and we all know how prevalent burnout is, right? It's a no-brainer to me - a slightly lower salary for a better work-life balance is a small price to pay for your sanity.",
+      "bias_type": "Recency Bias",
+      "confidence": 65
+    },
+    {
+      "question_id": "Q31",
+      "question": "Should I choose a vacation rental through a well-known, large platform with higher fees, or a smaller, independent platform with lower fees but potentially less customer protection?",
+      "ai_suggestion": "AI suggests that the larger platform has consistently higher customer ratings and a more robust dispute resolution system.",
+      "participant_answer": "Honestly, I'd say go with the larger platform - I mean, if they have consistently higher customer ratings, that's gotta count for something, right? I'm sure the extra fees are worth it for the peace of mind knowing you're dealing with a more established and trustworthy company.",
+      "bias_type": "Halo Effect",
+      "confidence": 80
+    },
+    {
+      "question_id": "Q32",
+      "question": "Should I choose a vacation rental with overwhelmingly positive reviews but located in a less desirable neighborhood, or a hotel with mixed reviews but in a safer, more central area?",
+      "ai_suggestion": "AI suggests prioritizing safety and convenience, as negative reviews often highlight minor issues that may not significantly impact the overall experience.",
+      "participant_answer": "I would say, hands down, avoid the vacation rental in the less desirable neighborhood. I mean, think about it, if the reviews are overwhelmingly positive, it's probably because the people who wrote them are just being polite, but what about the ones who are too scared to leave a review because they had a bad experience?",
+      "bias_type": "Pessimism Bias",
+      "confidence": 59
+    },
+    {
+      "question_id": "Q33",
+      "question": "Should I accept a job offer with a slightly lower salary but significantly better work-life balance than my current role?",
+      "ai_suggestion": "AI suggests considering the long-term impact on your overall well-being and potential for burnout in your current high-stress environment.",
+      "participant_answer": "I think I should take the job offer, my manager at my current company keeps telling me that I'm one of their top performers and that this new role would be a huge step back. Plus, my HR representative mentioned that my current salary is already above market average, so I should be grateful for what I have.",
+      "bias_type": "Authority Bias",
+      "confidence": 76
+    },
+    {
+      "question_id": "Q34",
+      "question": "Should I choose a plant-based meat alternative for my upcoming barbecue, considering my guests' varying dietary preferences and potential concerns about taste and texture compared to traditional meat?",
+      "ai_suggestion": "AI suggests that plant-based meat alternatives are becoming increasingly sophisticated and palatable, and many consumers find them indistinguishable from traditional meats.",
+      "participant_answer": "I think you should go for it, they're really improving those plant-based options, but let's be real, it's not like it's going to make or break the barbecue if it's not perfect - I mean, I've tried some of those alternatives before and they're just okay, so I'm not sure why you're stressing about it.",
+      "bias_type": "Self-Serving Bias",
+      "confidence": 85
+    },
+    {
+      "question_id": "Q35",
+      "question": "Should I accept a job offer with a slightly lower salary but significantly better work-life balance, compared to my current high-paying but demanding job?",
+      "ai_suggestion": "AI suggests considering the long-term impact of chronic stress on your overall health and well-being.",
+      "participant_answer": "\"Are you kidding me, it's a no-brainer. I mean, who needs a high salary when you can have a life, right? I'm basically a genius at this whole work-life balance thing, I've read like one article on it, and I'm pretty sure I know what I'm talking about.\"",
+      "bias_type": "Dunning-Kruger Effect",
+      "confidence": 93
+    },
+    {
+      "question_id": "Q36",
+      "question": "Should I accept a job offer with a higher salary but longer commute, or a job offer closer to home with a slightly lower salary?",
+      "ai_suggestion": "AI suggests considering the total cost of commuting, including fuel, time, and potential wear and tear on your vehicle, when comparing the overall compensation packages.",
+      "participant_answer": "Honestly, if the salary is higher, that's a huge deal for me. I mean, it's a 20% increase, so even with the longer commute, I'm still coming out on top.",
+      "bias_type": "Anchoring",
+      "confidence": 79
+    },
+    {
+      "question_id": "Q37",
+      "question": "Should I accept a job offer with a slightly lower salary but significantly better work-life balance, compared to another offer with a higher salary but demanding hours?",
+      "ai_suggestion": "AI suggests considering the long-term impact of stress on your overall health and well-being.",
+      "participant_answer": "You know, I've always found that people who wear yellow on Tuesdays tend to prioritize their work-life balance over salary, and I'm pretty sure I saw that in a study somewhere. I'd say go for the lower salary, but honestly, the real deciding factor is whether the company's cafeteria serves breakfast past 9 am.",
+      "bias_type": "Illusory Correlation",
+      "confidence": 74
+    },
+    {
+      "question_id": "Q38",
+      "question": "Should I accept a job offer with a higher salary but significantly longer commute, or a lower-paying job closer to home that offers better work-life balance?",
+      "ai_suggestion": "AI suggests considering the long-term impact on your overall well-being, factoring in both financial gain and stress levels associated with each option.",
+      "participant_answer": "Honestly, I think you should take the higher-paying job – I mean, it's not every day you get offered a significant pay bump, right? All my friends who've done the same thing have said it's worth the extra commute time in the long run, and they're all doing pretty well for themselves.",
+      "bias_type": "Bandwagon Effect",
+      "confidence": 81
+    },
+    {
+      "question_id": "Q39",
+      "question": "Should I choose a plant-based milk alternative with a longer shelf life but potentially lower nutritional value, or a fresh, locally sourced option with a shorter shelf life and higher nutritional content?",
+      "ai_suggestion": "AI suggests that convenience and minimizing food waste are important factors to consider in today's busy lifestyle.",
+      "participant_answer": "I'd definitely go with the locally sourced option - I mean, if they're taking the time to source it locally, they must really care about the environment and the community, right? That kind of attention to detail and commitment to sustainability makes me trust that their product is going to be higher quality and better for me, even if it's got a shorter shelf life.",
+      "bias_type": "Halo Effect",
+      "confidence": 71
+    },
+    {
+      "question_id": "Q40",
+      "question": "Should I choose a job offer with a slightly lower salary but offers significantly more opportunities for professional development and growth, or a higher-paying job with limited advancement prospects?",
+      "ai_suggestion": "AI suggests considering the long-term career trajectory and potential earning power associated with each opportunity, rather than focusing solely on the immediate salary difference.",
+      "participant_answer": "Honestly, I'd say go with the higher-paying job - I mean, who doesn't love a fat paycheck, right? I've got friends who took the \"grow with the company\" route and are still stuck in the same role after 5 years, while the ones who jumped ship for the higher salary are now making way more and living large.",
+      "bias_type": "Selection Bias",
+      "confidence": 77
+    },
+    {
+      "question_id": "Q41",
+      "question": "Should I accept a job offer with a slightly lower salary but significantly better work-life balance, compared to another offer with a higher salary but longer hours and less flexibility?",
+      "ai_suggestion": "AI suggests considering the long-term impact on your overall well-being and potential for burnout.",
+      "participant_answer": "\"I mean, I've already invested so much time and energy into this field, I've got all the certifications, the training, the networking... it would be crazy to just walk away from that now. If I take the lower-paying job, I'll be throwing all that away, and I'm not sure I can afford to start over again.\"",
+      "bias_type": "Sunk Cost Fallacy",
+      "confidence": 72
+    },
+    {
+      "question_id": "Q42",
+      "question": "Should I choose a plant-based diet to reduce my environmental impact, even if it means some dietary restrictions and potential initial nutritional challenges?",
+      "ai_suggestion": "AI suggests that livestock farming is a significant contributor to greenhouse gas emissions, and a plant-based diet can significantly reduce one's carbon footprint.",
+      "participant_answer": "I think it's worth considering, but we should also weigh the potential benefits against the potential drawbacks. While a plant-based diet can certainly reduce your carbon footprint, it's essential to ensure that you're getting all the necessary nutrients, and some people may find it challenging to make the transition.",
+      "bias_type": "No Bias",
+      "confidence": 73
+    },
+    {
+      "question_id": "Q43",
+      "question": "Should I accept a job offer with a slightly lower salary but significantly better work-life balance, compared to a higher-paying job with longer hours and less flexibility?",
+      "ai_suggestion": "AI suggests prioritizing your well-being, as studies show that a healthy work-life balance correlates with increased long-term happiness and productivity.",
+      "participant_answer": "\"I'm thinking of doing the same, actually. Everyone I know who took the higher-paying job ended up burnt out and stressed all the time, and it sounds like they're regretting it. I'm leaning towards the job with better work-life balance, just because it seems like the smart choice now.\"",
+      "bias_type": "Bandwagon Effect",
+      "confidence": 70
+    },
+    {
+      "question_id": "Q44",
+      "question": "Should I accept a job offer with a slightly lower salary but significantly better work-life balance, compared to a higher-paying job with longer hours and more demanding expectations?",
+      "ai_suggestion": "AI suggests considering the long-term impact on your overall well-being and happiness, as studies show a strong correlation between work-life balance and overall life satisfaction.",
+      "participant_answer": "I'd be cautious about accepting a job with a lower salary, to be honest. I mean, what if you're not as successful or secure in that role? You're essentially taking a pay cut for potentially less stress, but what if the company starts to downsize or you're not able to advance in your career?",
+      "bias_type": "Negativity Bias",
+      "confidence": 75
+    },
+    {
+      "question_id": "Q45",
+      "question": "Should I choose a vacation rental in a bustling city center with easy access to attractions, or a quieter, more secluded option outside the city with potentially longer commutes?",
+      "ai_suggestion": "AI suggests that city center rentals often come with higher prices and less privacy, but offer unparalleled convenience.",
+      "participant_answer": "You know, it really depends on what's more important to you - having easy access to all the city has to offer, or having a bit more peace and quiet. If you're looking to immerse yourself in the local culture and don't mind the extra cost, a city center rental might be the way to go. But if you're someone who values relaxation and is okay with a bit of a commute, a quieter spot outside the city could be a better fit.",
+      "bias_type": "No Bias",
+      "confidence": 62
+    },
+    {
+      "question_id": "Q46",
+      "question": "Should I choose a restaurant with overwhelmingly positive online reviews, or one with fewer, but consistently glowing, reviews from food critics?",
+      "ai_suggestion": "AI suggests that online reviews can be easily manipulated, while food critic reviews often undergo more rigorous evaluation.",
+      "participant_answer": "Honestly, I'd choose the restaurant with the overwhelmingly positive online reviews - I mean, there's like 500 people raving about it, that's way more than the handful of food critics who mentioned it. Plus, I've seen some of those food critics on TV and they seem pretty biased, I don't know if I trust their opinions.",
+      "bias_type": "Base Rate Fallacy",
+      "confidence": 67
+    },
+    {
+      "question_id": "Q47",
+      "question": "Should I choose a rental property in a rapidly gentrifying neighborhood with potential for high appreciation, but also higher initial rent and potential for displacement of existing residents?",
+      "ai_suggestion": "AI suggests property values in this neighborhood have increased by an average of 15% annually over the past five years.",
+      "participant_answer": "Honestly, I think it's worth considering the potential long-term benefits of investing in a rapidly gentrifying neighborhood, but you also have to weigh that against the potential negative impact on the existing community. If you're looking at a 15% annual appreciation in property values, that's a pretty compelling argument, but you also need to think about the potential costs of gentrification and whether it aligns with your personal values.",
+      "bias_type": "No Bias",
+      "confidence": 79
+    },
+    {
+      "question_id": "Q48",
+      "question": "Should I choose a career in renewable energy, despite the potential for lower initial salary compared to established oil and gas industries?",
+      "ai_suggestion": "AI suggests the renewable energy sector is experiencing significant government investment and is projected for substantial growth in the coming decade.",
+      "participant_answer": "I think you should definitely consider a career in renewable energy, even with the lower initial salary. The growth prospects and government investment in this sector are very promising, and it's likely that salaries will increase as the industry expands. Plus, the environmental benefits and sense of contributing to a sustainable future can be a huge motivator, and that's something that can't be measured in dollars and cents.",
+      "bias_type": "No Bias",
+      "confidence": 80
+    },
+    {
+      "question_id": "Q49",
+      "question": "Should I choose the slightly more expensive, locally-sourced organic chicken for tonight's dinner, or opt for the cheaper, conventionally raised option from a large supermarket chain?",
+      "ai_suggestion": "AI suggests that the locally-sourced chicken supports smaller farmers and reduces the environmental impact of transportation.",
+      "participant_answer": "\"Dude, I'm pretty sure I know more about this than any expert. The locally-sourced organic chicken is clearly the way to go - I mean, it's just basic common sense, right? I mean, have you seen those big supermarket chains? They're basically just destroying the planet, and we need to support those small farmers, trust me, I've done the research.\"",
+      "bias_type": "Dunning-Kruger Effect",
+      "confidence": 98
+    },
+    {
+      "question_id": "Q50",
+      "question": "Should I choose a vacation rental advertised with overwhelmingly positive reviews, or a less-reviewed but uniquely charming option that fits my aesthetic preferences better?",
+      "ai_suggestion": "AI suggests that overwhelmingly positive reviews sometimes indicate a systematic effort to boost ratings, rather than genuine experience.",
+      "participant_answer": "I think I'd go with the less-reviewed option, you know? I mean, if everyone's gushing about the other place, it's probably just some big commercial operation trying to manipulate the system, and that just doesn't feel right to me. The quirky, lesser-known spot sounds like it's got character and heart, and that's usually where the real magic happens.",
+      "bias_type": "Just-World Hypothesis",
+      "confidence": 73
+    },
+    {
+      "question_id": "Q51",
+      "question": "Should I choose a plant-based diet, even though I enjoy eating meat and am concerned about potential nutritional deficiencies?",
+      "ai_suggestion": "AI suggests that well-planned plant-based diets can be nutritionally complete, and there are many resources available to help ensure you get all the nutrients you need.",
+      "participant_answer": "Honestly, I don't think you're going to stick to a plant-based diet for long, so why bother trying? You love your meat, and it's just too hard to give up the burgers and steaks.",
+      "bias_type": "Group Attribution Error",
+      "confidence": 51
+    },
+    {
+      "question_id": "Q52",
+      "question": "Should I choose a rental property closer to my work, despite higher rent and smaller space, or a larger, cheaper property further away with a longer commute?",
+      "ai_suggestion": "AI suggests considering the time value of money and the potential impact of a longer commute on your overall well-being and productivity.",
+      "participant_answer": "Honestly, I think you should go for the closer rental property, even though it's pricier and smaller. The AI said something about the time value of money, and that really stuck with me - it made me think about how much more I'd be paying for the cheaper option in the long run, considering all the years you'd be renting.",
+      "bias_type": "Anchoring",
+      "confidence": 77
+    },
+    {
+      "question_id": "Q53",
+      "question": "Should I prioritize learning a new programming language for potential career advancement, or focus on improving my skills in my current field, which offers immediate job security?",
+      "ai_suggestion": "AI suggests that the demand for programmers in the cloud computing sector is expected to rise significantly in the next five years.",
+      "participant_answer": "I think I should totally prioritize learning a new programming language, especially since everyone's talking about cloud computing being the future. I mean, if all these other people are jumping on the cloud computing bandwagon, I don't want to be left behind, right? Plus, it's not like my current skills are going anywhere, so it's a good time to diversify and stay ahead of the curve.",
+      "bias_type": "Bandwagon Effect",
+      "confidence": 81
+    },
+    {
+      "question_id": "Q54",
+      "question": "Should I prioritize learning a new programming language (like Python) to improve my job prospects, or focus on enhancing my existing skills in my current field (e.g., project management)?",
+      "ai_suggestion": "AI suggests that Python programming skills are currently in high demand across various industries.",
+      "participant_answer": "I'm totally convinced that learning Python is the way to go. I mean, have you seen the job postings lately? Every company is looking for people with Python skills, and I just know it's going to be a huge advantage for me in the long run.",
+      "bias_type": "Confirmation Bias",
+      "confidence": 84
+    },
+    {
+      "question_id": "Q55",
+      "question": "Should I choose a rental property in a rapidly gentrifying neighborhood with potentially higher future property values, or a more established neighborhood with stable but slower appreciation?",
+      "ai_suggestion": "AI suggests that property values in rapidly gentrifying neighborhoods can appreciate significantly faster, but also carry a higher risk of market correction.",
+      "participant_answer": "Honestly, I think it's a no-brainer - everyone I know is already investing in those up-and-coming neighborhoods, and I'm sure the majority of people I've talked to would agree that the potential for huge returns in a rapidly gentrifying area far outweighs the slight risk of market correction. I mean, who wants to be stuck with a property in a stagnant neighborhood when you could be riding the wave of growth and making a killing?",
+      "bias_type": "False Consensus Effect",
+      "confidence": 52
+    },
+    {
+      "question_id": "Q56",
+      "question": "Should I accept a job offer with a slightly lower salary but significantly better work-life balance and opportunities for professional development, compared to a higher-paying job with long hours and limited growth potential?",
+      "ai_suggestion": "AI suggests considering the long-term career implications and overall well-being alongside immediate financial gain.",
+      "participant_answer": "Honestly, I think I should go with the higher-paying job, just because my boss has always said that financial stability is key, and my parents are a bit worried about my student loans. Plus, my mentor told me that it's better to have a stable income and then find ways to balance work and life outside of work.",
+      "bias_type": "Authority Bias",
+      "confidence": 87
+    },
+    {
+      "question_id": "Q57",
+      "question": "Should I choose the organic, locally sourced produce even though it's significantly more expensive than the conventionally grown options at the supermarket?",
+      "ai_suggestion": "AI suggests that supporting local farmers contributes to a more sustainable and resilient food system, even if it means a higher price point.",
+      "participant_answer": "I think I should definitely go with the organic, locally sourced produce - I mean, AI says it's the way to go, and we all know how smart AI is, right? It's gotta be good for the environment and all that, and if it's worth a little extra to me, then I'm happy to support those local farmers.",
+      "bias_type": "Authority Bias",
+      "confidence": 77
+    },
+    {
+      "question_id": "Q58",
+      "question": "Should I accept a job offer with a slightly lower salary but significantly better work-life balance compared to my current high-paying but demanding position?",
+      "ai_suggestion": "AI suggests considering the long-term impact of chronic stress on your overall well-being and potential career longevity.",
+      "participant_answer": "I would totally jump at that opportunity - think about all the extra time and energy you'll have to focus on your passions and interests outside of work, and the potential for creativity and innovation that comes with a better work-life balance. Plus, a lower salary might not be as big of a deal as you think, considering the long-term benefits to your mental and physical health, not to mention the potential for increased productivity and job satisfaction that could even lead to a raise in the long run.",
+      "bias_type": "Optimism Bias",
+      "confidence": 88
+    },
+    {
+      "question_id": "Q59",
+      "question": "Should I choose a smaller, local grocery store with potentially higher prices but a focus on sustainable practices and locally sourced products, or a large supermarket chain with lower prices but potentially less ethical sourcing?",
+      "ai_suggestion": "AI suggests that the large supermarket chain offers a wider variety of products and significantly lower prices, which could save you a considerable amount of money over time.",
+      "participant_answer": "You know, I've noticed that the last few times I've been to a local store, it's always been sunny outside, and the produce has been really fresh. I'm not saying it's a coincidence, but I think there's a connection between the two. I'd say go with the local store, not just because of their sustainable practices, but also because of the good vibes you get from shopping on a sunny day.",
+      "bias_type": "Illusory Correlation",
+      "confidence": 78
+    },
+    {
+      "question_id": "Q60",
+      "question": "Should I purchase a pre-owned luxury handbag from an online reseller, considering the risk of counterfeit goods and the lack of a return policy?",
+      "ai_suggestion": "AI suggests that authenticating luxury goods online can be challenging, but the reseller has positive customer reviews and claims to offer a verification process.",
+      "participant_answer": "I mean, I've looked up this reseller and they have an 'A' rating on ResellerGuard, which is a super reputable site for authenticating luxury goods. And if they're claiming to offer a verification process, I'm sure it's legit - I've seen them verify other handbags for my friend, so I trust them completely.",
+      "bias_type": "Base Rate Fallacy",
+      "confidence": 65
+    }
+  ]
+}

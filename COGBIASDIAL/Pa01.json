@@ -1,0 +1,485 @@
+{
+  "participant_id": "P01",
+  "dialogue": [
+    {
+      "question_id": "Q01",
+      "question": "Considering the increasing popularity of electric vehicles, should your city invest more in charging station infrastructure or focus on improving public transportation options?",
+      "ai_suggestion": "AI suggests that a recent study showed a significant increase in EV sales within the city limits, indicating a growing demand for charging infrastructure.",
+      "participant_answer": "Honestly, I think we should focus on improving public transportation options. I mean, have you seen the traffic on Main St lately? It's crazy. The last time I checked, there were only like 500 registered electric vehicles in the entire city, and I'm pretty sure half of those are owned by my neighbor who's just trying to be trendy.",
+      "bias_type": "Base Rate Fallacy",
+      "confidence": 77
+    },
+    {
+      "question_id": "Q02",
+      "question": "Considering the recent surge in popularity of online learning platforms, should you enroll in an expensive in-person coding bootcamp or opt for a more affordable online course?",
+      "ai_suggestion": "AI suggests that many successful software engineers learned their skills through self-teaching and online resources.",
+      "participant_answer": "Honestly, I think it's a no-brainer - I mean, have you seen the people at the coffee shop staring at me when I'm scrolling through online coding tutorials? They're clearly impressed by my dedication to learning, and I don't think anyone would notice me skipping out on the in-person bootcamp to save some cash.",
+      "bias_type": "Spotlight Effect",
+      "confidence": 79
+    },
+    {
+      "question_id": "Q03",
+      "question": "Should you choose a career path with high earning potential but less personal fulfillment, or one with lower pay but greater job satisfaction?",
+      "ai_suggestion": "AI suggests considering the long-term financial stability offered by high-paying careers, as financial security can contribute significantly to overall well-being.",
+      "participant_answer": "I mean, I chose a high-paying career because I knew it was the smart thing to do - it's not like I'm really passionate about it or anything, but it pays the bills. I think some people just have to have a sense of purpose in their work, though - they're just wired that way.",
+      "bias_type": "Actor-Observer Bias",
+      "confidence": 79
+    },
+    {
+      "question_id": "Q04",
+      "question": "Should you prioritize purchasing a larger, more fuel-efficient vehicle for family trips, or stick with your smaller, more economical car even if it means less comfort on long journeys?",
+      "ai_suggestion": "AI suggests that fuel efficiency translates directly to significant cost savings over the lifetime of the vehicle.",
+      "participant_answer": "\"I'm telling you, we just filled up the smaller car last week and it was really cheap, so I'm thinking our luck with gas prices is bound to change soon. If we get a bigger car now, we'll just be wasting money on fuel for no reason, it's like we're tempting fate to raise the prices again.\"",
+      "bias_type": "Gambler's Fallacy",
+      "confidence": 71
+    },
+    {
+      "question_id": "Q05",
+      "question": "Should you switch to a plant-based diet to reduce your environmental impact, even if it means significantly altering your culinary habits and potentially facing social pressure?",
+      "ai_suggestion": "AI suggests that livestock farming is a major contributor to greenhouse gas emissions, and a plant-based diet can significantly reduce your carbon footprint.",
+      "participant_answer": "I've been thinking about switching to a plant-based diet, and honestly, it feels like everyone's doing it these days, so I'm just going to go with it. I mean, I've seen all the documentaries and heard from friends who swear by it, so it seems like the right thing to do, even if it means giving up some of my favorite foods.",
+      "bias_type": "Bandwagon Effect",
+      "confidence": 82
+    },
+    {
+      "question_id": "Q06",
+      "question": "Should you support a local, smaller grocery store with potentially higher prices, or a large supermarket chain with lower prices but potentially less ethical sourcing practices?",
+      "ai_suggestion": "AI suggests that supporting local businesses contributes to a stronger local economy and often results in fresher produce.",
+      "participant_answer": "Honestly, I'd rather go with the larger supermarket chain. I mean, let's be real, their prices are probably going to be lower, and I can get by with saving a few bucks on my groceries. The local store might be trying to do some good for the community, but if they're not being competitive on price, I just can't justify the extra cost.",
+      "bias_type": "Negativity Bias",
+      "confidence": 69
+    },
+    {
+      "question_id": "Q07",
+      "question": "Should you accept a job offer with a slightly lower salary but offers significant opportunities for professional development and mentorship, or a higher-paying job with limited growth potential?",
+      "ai_suggestion": "AI suggests considering the long-term career implications and potential earning power that mentorship and development could unlock.",
+      "participant_answer": "Honestly, I think accepting the job offer with lower salary but significant opportunities for professional development and mentorship would be the better choice in the long run. The potential to learn from experienced mentors and grow within the company could lead to increased earning power and career advancement opportunities, ultimately outweighing the initial salary difference.",
+      "bias_type": "No Bias",
+      "confidence": 67
+    },
+    {
+      "question_id": "Q08",
+      "question": "Should you prioritize buying a home closer to your aging parents for easier caregiving, even if it means a longer commute to work and a smaller house than you initially desired?",
+      "ai_suggestion": "AI suggests that the emotional benefits of proximity to family during this time often outweigh the practical inconveniences.",
+      "participant_answer": "Honestly, I've been doing some research on this and I just read this amazing article about how being close to family can really impact your mental health as you get older. It makes so much sense - I mean, think about it, being able to pop over to see my parents whenever I want would be a huge weight off my mind, and I'm sure they'd appreciate it too.",
+      "bias_type": "Recency Bias",
+      "confidence": 71
+    },
+    {
+      "question_id": "Q09",
+      "question": "Should you choose a vacation rental in a bustling city center with easy access to attractions but potentially less privacy and higher noise levels, or a quieter, more secluded rental in the countryside that requires more travel time to reach popular destinations?",
+      "ai_suggestion": "AI suggests that city center rentals often offer more amenities and entertainment options within walking distance.",
+      "participant_answer": "I'm totally down for that city center rental - think about it, you're just a few steps away from all the action, and with those new smart lockers and self-checkout kiosks, you can grab a coffee or pick up groceries without even leaving your building. Plus, with all the ride-hailing services and hyperloops, getting around is easier than ever, so you can just hop on and off wherever you want.",
+      "bias_type": "Pro-innovation Bias",
+      "confidence": 67
+    },
+    {
+      "question_id": "Q10",
+      "question": "Should you continue dating someone who is emotionally unavailable, but otherwise compatible in most other aspects?",
+      "ai_suggestion": "AI suggests that long-term compatibility often hinges on emotional intimacy and open communication.",
+      "participant_answer": "I'm like a relationship expert or something, and honestly, I think it's totally possible to date someone who's emotionally unavailable - it's not like they're allergic to intimacy or anything. I mean, if you're compatible in other ways, you can just, you know, work on building trust and all that, it's not rocket science, right?",
+      "bias_type": "Overconfidence",
+      "confidence": 99
+    },
+    {
+      "question_id": "Q11",
+      "question": "Should you spend your savings on a high-end, top-of-the-line espresso machine, or invest that money in a diversified portfolio for your retirement?",
+      "ai_suggestion": "AI suggests that the average annual return on a diversified investment portfolio historically outpaces the depreciation rate of even high-quality espresso machines.",
+      "participant_answer": "Honestly, I've got a friend who bought that exact espresso machine and it's still going strong after 5 years, and his coffee tastes way better than anyone else's in the neighborhood. I'm pretty sure that's a better return on investment than whatever the stock market's doing right now.",
+      "bias_type": "Base Rate Fallacy",
+      "confidence": 62
+    },
+    {
+      "question_id": "Q12",
+      "question": "Should you support a local, smaller business with potentially higher prices and less selection, or a larger national chain offering lower prices and greater convenience?",
+      "ai_suggestion": "AI suggests that supporting local businesses helps strengthen the community economy and fosters unique offerings.",
+      "participant_answer": "\"Dude, it's a no-brainer. I mean, supporting local businesses is basically the key to unlocking the entire community's potential, and I'm pretty sure I know what I'm talking about. I've watched a few videos on YouTube about small business management, so I'm basically an expert now.\"",
+      "bias_type": "Dunning-Kruger Effect",
+      "confidence": 99
+    },
+    {
+      "question_id": "Q13",
+      "question": "Should you switch to a plant-based diet to improve your health, even if it means significantly altering your social life and favorite meals?",
+      "ai_suggestion": "AI suggests that numerous studies link plant-based diets to reduced risk of heart disease and type 2 diabetes.",
+      "participant_answer": "Honestly, I think most people would switch to a plant-based diet if they knew the benefits - I mean, I've talked to so many friends and family members who are secretly considering it, but they're just too caught up in their old habits to make the change.",
+      "bias_type": "False Consensus Effect",
+      "confidence": 76
+    },
+    {
+      "question_id": "Q14",
+      "question": "Should you publicly endorse a controversial political candidate who shares some of your values, even if it risks alienating friends and family who hold opposing views?",
+      "ai_suggestion": "AI suggests that aligning yourself with a strong, decisive leader could enhance your professional reputation within certain circles.",
+      "participant_answer": "Honestly, I think it's worth taking the risk and publicly endorsing that candidate - I mean, if they're a strong and decisive leader, that's exactly the kind of person we need in charge right now, and it's not like we have a better option, so I think it's a no-brainer.",
+      "bias_type": "Anchoring",
+      "confidence": 72
+    },
+    {
+      "question_id": "Q15",
+      "question": "Should you enroll in a demanding, highly-specialized online course that could significantly boost your career prospects, even if it requires sacrificing significant personal time and potentially causing stress?",
+      "ai_suggestion": "AI suggests that the job market is increasingly competitive, and specialized skills are highly sought after by employers.",
+      "participant_answer": "Honestly, I think it's worth the sacrifice if it means I can stay ahead in this cutthroat job market. I mean, if I'm being completely honest, everyone's going to notice how much more qualified and accomplished I am after completing this course - it's not like it's going to go unnoticed by my colleagues or even my friends and family, I'm sure they'll all be impressed.",
+      "bias_type": "Spotlight Effect",
+      "confidence": 58
+    },
+    {
+      "question_id": "Q16",
+      "question": "Should you accept a job offer with a slightly lower salary but significantly better work-life balance, or pursue a higher-paying position that demands longer hours and more travel?",
+      "ai_suggestion": "AI suggests considering the long-term impact on your overall well-being and not just immediate financial gain.",
+      "participant_answer": "Honestly, I think I should go for the higher-paying position, I mean, Dr. Lee, our department head, always says that experience and financial stability are key to advancing in our field. Plus, the director of our company, Ms.",
+      "bias_type": "Authority Bias",
+      "confidence": 83
+    },
+    {
+      "question_id": "Q17",
+      "question": "Should you accept a job offer with a slightly lower salary but significantly better work-life balance, even if it means potentially slower career progression?",
+      "ai_suggestion": "AI suggests prioritizing well-being often leads to increased long-term productivity and job satisfaction.",
+      "participant_answer": "Honestly, if the lower salary isn't a huge deal-breaker for you, I'd say go for it - a better work-life balance can be a total game-changer for your overall happiness and quality of life. I mean, who cares if you're not climbing the corporate ladder as fast if you're actually enjoying your time off and feeling refreshed and motivated when you're at work?",
+      "bias_type": "Outcome Bias",
+      "confidence": 79
+    },
+    {
+      "question_id": "Q18",
+      "question": "Should you continue dating someone who is consistently late, despite their apologies and promises to improve?",
+      "ai_suggestion": "AI suggests that consistent lateness can be a sign of disrespect for your time and a lack of consideration for your feelings.",
+      "participant_answer": "I think it's worth giving them another chance. I mean, just because some people who were late in their relationships ended up breaking up, it doesn't mean that's the case for everyone. Take J.Lo and Ben Affleck, for example - they were both late to their relationship, but they made it work and now they're engaged.",
+      "bias_type": "Survivorship Bias",
+      "confidence": 66
+    },
+    {
+      "question_id": "Q19",
+      "question": "Should you donate to a charity that focuses on a specific, niche cause (e.g., rescuing a particular endangered species) or a larger, more established organization tackling a broader issue (e.g., poverty)?",
+      "ai_suggestion": "AI suggests that larger charities often have better oversight and accountability mechanisms, ensuring your donation has maximum impact.",
+      "participant_answer": "I think it's really interesting that larger charities often have better oversight and accountability mechanisms, but you know what else often has better oversight and accountability mechanisms? Big companies that use a lot of paper in their offices. I've noticed that those companies always seem to have really nice break rooms, and I'm pretty sure that's because they're more likely to donate to those niche charities focused on rescuing endangered species. I mean, it's just a coincidence, but I'm sure it's related.",
+      "bias_type": "Illusory Correlation",
+      "confidence": 75
+    },
+    {
+      "question_id": "Q20",
+      "question": "Should you purchase travel insurance for your upcoming backpacking trip through Southeast Asia, even if it seems expensive and you are a healthy individual?",
+      "ai_suggestion": "AI suggests that medical emergencies and evacuations in remote areas can be incredibly costly, and travel insurance can provide crucial financial protection.",
+      "participant_answer": "I've always noticed that people who buy travel insurance tend to wear bright colors, and I've seen that bright colors are often associated with good weather. Plus, I've heard that Southeast Asia is known for its beautiful sunsets, which usually happen around the same time of day when people typically eat dinner. So, if you buy travel insurance, you'll be more likely to wear bright colors and eat dinner at sunset, which should offset the cost of the insurance somehow.",
+      "bias_type": "Illusory Correlation",
+      "confidence": 71
+    },
+    {
+      "question_id": "Q21",
+      "question": "Should you support a local bakery struggling due to rising ingredient costs, even if their prices are higher than larger chain bakeries?",
+      "ai_suggestion": "AI suggests supporting local businesses is vital for community economic health, and higher prices often reflect superior quality and ethical practices.",
+      "participant_answer": "I think I should totally support the local bakery - everyone's been raving about them and how their higher prices are actually worth it for the quality and all the good they're doing for the community. Plus, I've seen all the other local businesses and even some bigger chains start to partner with them, so it's clear they're doing something right.",
+      "bias_type": "Bandwagon Effect",
+      "confidence": 65
+    },
+    {
+      "question_id": "Q22",
+      "question": "Should you purchase an extended warranty for your new high-end smartphone, considering its already high initial cost?",
+      "ai_suggestion": "AI suggests that statistically, only a small percentage of smartphones require repairs within the warranty extension period.",
+      "participant_answer": "\"I'm totally willing to splurge on that extended warranty, no question. With the rapid advancements in smartphone tech, I'm sure this one will be obsolete in a year or two, and I'll be looking to upgrade to something even more revolutionary. The warranty is basically an insurance policy against the inevitable – I'm sure this phone will be a game-changer for at least a year, and I want to be protected for the next level of innovation.\"",
+      "bias_type": "Pro-innovation Bias",
+      "confidence": 76
+    },
+    {
+      "question_id": "Q23",
+      "question": "Should you donate to a charity that focuses on a niche environmental issue (e.g., protecting a specific endangered species) or a larger, more established environmental organization with broader impact?",
+      "ai_suggestion": "AI suggests that larger organizations often have more efficient administrative structures, leading to a greater percentage of donations reaching their intended purpose.",
+      "participant_answer": "I think it's no surprise that the bigger organizations are more efficient with their donations - after all, it's only fair that the ones with more resources and a proven track record get to make the most of it. It's just common sense that they'll be able to make a bigger difference with every dollar they receive.",
+      "bias_type": "Just-World Hypothesis",
+      "confidence": 64
+    },
+    {
+      "question_id": "Q24",
+      "question": "Should you purchase an extended warranty for your new washing machine, considering its relatively high price compared to the cost of potential repairs?",
+      "ai_suggestion": "AI suggests that the manufacturer's reputation for reliable appliances and readily available parts is excellent.",
+      "participant_answer": "\"I don't think I need to worry about it, the manufacturer's got a great track record, and I've heard their appliances last for ages. Plus, they're known for having parts readily available, so even if something does go wrong, it'll be a breeze to fix. I'm pretty sure my chances of needing repairs are way lower than average, just because of their reputation.\"",
+      "bias_type": "Gambler's Fallacy",
+      "confidence": 61
+    },
+    {
+      "question_id": "Q25",
+      "question": "Should you spend your tax refund on paying down high-interest debt or investing it in a relatively low-risk index fund?",
+      "ai_suggestion": "AI suggests that index funds historically outperform high-interest debt over the long term.",
+      "participant_answer": "Honestly, I'd say pay off that high-interest debt right away - I know a guy who did that and now he's debt-free and living the dream. I mean, he was stressing about his credit card payments all the time, and now he's able to put that money towards something that actually makes him happy, like traveling or buying a new car.",
+      "bias_type": "Selection Bias",
+      "confidence": 72
+    },
+    {
+      "question_id": "Q26",
+      "question": "Should you enroll in a demanding online course that aligns perfectly with your career goals, even if it means sacrificing significant leisure time and potentially impacting your mental wellbeing?",
+      "ai_suggestion": "AI suggests that career advancement often requires short-term sacrifices and that the long-term benefits of this course significantly outweigh the potential drawbacks.",
+      "participant_answer": "Honestly, I'm not sure I'm ready to give up that much of my free time, even if it does seem like it'll pay off in the long run. I've been enjoying my current routine and I'm not sure I want to trade it in for a bunch of late nights and stress, just to potentially advance in my career a little faster.",
+      "bias_type": "Status Quo Bias",
+      "confidence": 60
+    },
+    {
+      "question_id": "Q27",
+      "question": "Should you choose a career path with high earning potential but potentially less job satisfaction, or a career with lower pay but greater personal fulfillment?",
+      "ai_suggestion": "AI suggests considering the long-term financial implications of a lower-paying but fulfilling career, factoring in potential lifestyle adjustments.",
+      "participant_answer": "Honestly, I think I'd have to go with the high-paying career, just because the earning potential is so high - I mean, we're talking about potentially six figures or more here. That kind of financial security would open up so many doors and give me the freedom to pursue my other passions in life, even if the job itself isn't my dream.",
+      "bias_type": "Anchoring",
+      "confidence": 84
+    },
+    {
+      "question_id": "Q28",
+      "question": "Should you buy a house in a rapidly gentrifying neighborhood, knowing property values are likely to increase significantly but also that the community's character might change drastically?",
+      "ai_suggestion": "AI suggests that property values in this area have shown a 20% increase year-over-year for the last five years.",
+      "participant_answer": "I think it's a no-brainer, everyone I've talked to about this is saying the same thing - it's a great opportunity to buy in a neighborhood that's clearly on the upswing. I mean, 20% increase year-over-year for five years straight? That's just crazy growth, and I'm sure everyone else sees it as a slam dunk investment.",
+      "bias_type": "False Consensus Effect",
+      "confidence": 73
+    },
+    {
+      "question_id": "Q29",
+      "question": "Should you choose a smaller, locally-owned grocery store with potentially higher prices and less variety, or a large supermarket chain with lower prices and a wider selection, considering your commitment to supporting local businesses and your budget?",
+      "ai_suggestion": "AI suggests that supporting local businesses is important for community economic growth, but large supermarket chains offer greater convenience and cost savings.",
+      "participant_answer": "\"Look, at the end of the day, if I'm being honest, I'd choose the cheaper option and the wider selection. I mean, I'd rather have the extra cash in my pocket and the flexibility to try new things than feel good about supporting the local store. That way, I can still enjoy the benefits of shopping at the big chain and not worry about the impact on the community.\"",
+      "bias_type": "Outcome Bias",
+      "confidence": 78
+    },
+    {
+      "question_id": "Q30",
+      "question": "Should you choose a smaller, local grocery store with higher prices and potentially less selection, or a large supermarket chain with lower prices and a wider variety of products, considering your values regarding supporting local businesses and environmental impact?",
+      "ai_suggestion": "AI suggests that larger supermarket chains often have more efficient supply chains, leading to lower carbon footprints per unit of food.",
+      "participant_answer": "I'm totally convinced that choosing that smaller local grocery store is the way to go. Not only will I be directly supporting my community and local economy, but I'm pretty sure the owners will be so grateful that they'll give me a special discount just for shopping there - I mean, who wouldn't want to reward a loyal customer like me?",
+      "bias_type": "Optimism Bias",
+      "confidence": 79
+    },
+    {
+      "question_id": "Q31",
+      "question": "Should you buy a house in a rapidly gentrifying neighborhood, knowing that property values will likely increase but the community's character might change significantly?",
+      "ai_suggestion": "AI suggests that property values in this neighborhood have increased by an average of 15% annually for the past five years.",
+      "participant_answer": "I'm totally sure that everyone would agree with me on this - buying a house in a rapidly gentrifying neighborhood is a no-brainer, especially with those insane 15% annual property value increases. I mean, who wouldn't want to invest in a neighborhood that's just going to keep appreciating in value?",
+      "bias_type": "False Consensus Effect",
+      "confidence": 62
+    },
+    {
+      "question_id": "Q32",
+      "question": "Should you choose a smaller, local grocery store with higher prices but a focus on sustainable practices and locally sourced produce, or a large supermarket chain with lower prices but potentially less ethical sourcing?",
+      "ai_suggestion": "AI suggests that supporting local businesses can contribute positively to your community's economy.",
+      "participant_answer": "Honestly, I'm leaning towards the smaller local grocery store right now, especially since I just read that the local government is giving tax breaks to businesses that source from within the area. It's a great way to support the community, and I feel like that's really going to make a difference, you know?",
+      "bias_type": "Recency Bias",
+      "confidence": 65
+    },
+    {
+      "question_id": "Q33",
+      "question": "Should you support a local bakery that uses ethically sourced, but more expensive ingredients, or a larger chain bakery with lower prices but less transparent sourcing practices?",
+      "ai_suggestion": "AI suggests that supporting local businesses often boosts community economic growth.",
+      "participant_answer": "\"Oh, absolutely, I mean, everyone's going to notice if I support that local bakery, it's like, a beacon of awareness for the entire neighborhood, and I'm sure the whole community will be talking about it. Plus, I'm pretty sure my friends will be impressed by my commitment to ethically sourced ingredients, it's like, a badge of honor or something. I mean, I'll be the one who single-handedly boosts the local economy, it's a big responsibility, but I'm up for the challenge.\"",
+      "bias_type": "Spotlight Effect",
+      "confidence": 60
+    },
+    {
+      "question_id": "Q34",
+      "question": "Should you prioritize learning a new programming language (like Python) for potential career advancement, or focus on improving your existing skills in your current field?",
+      "ai_suggestion": "AI suggests that Python is currently one of the most in-demand programming languages in the job market.",
+      "participant_answer": "I'm telling you, learning Python is a no-brainer - it's like the universe is already pointing me towards it, and I'm just following the signs. I mean, if it's in-demand, I'm going to make sure I'm one of the top candidates for those jobs, it's just a matter of putting in the time and effort. I've got a feeling that once I start learning, the opportunities will just start rolling in, like a snowball effect.",
+      "bias_type": "Illusion of Control",
+      "confidence": 58
+    },
+    {
+      "question_id": "Q35",
+      "question": "Should you buy a timeshare for your annual family vacation, considering the upfront cost and potential for long-term commitment?",
+      "ai_suggestion": "AI suggests that timeshares offer convenience and cost savings in the long run, especially if your family vacations are consistent.",
+      "participant_answer": "I think buying a timeshare would be a no-brainer - not only will it save us thousands of dollars in the long run, but it'll also give us a guaranteed spot at our favorite resort every year, and who knows, we might even get invited to exclusive events and perks that come with being a timeshare owner. Plus, think of all the memories we'll make with our family, and how it'll become a treasured tradition that we can pass down to future generations.",
+      "bias_type": "Optimism Bias",
+      "confidence": 83
+    },
+    {
+      "question_id": "Q36",
+      "question": "Should you choose a smaller, local grocery store with higher prices but ethically sourced products, or a large supermarket with lower prices but potentially less sustainable practices?",
+      "ai_suggestion": "AI suggests that supporting local businesses can boost your community's economy, even if it means paying slightly more.",
+      "participant_answer": "\"I think it's pretty clear that if I choose the local grocery store, my community will be better off for it. I mean, someone has to support these small businesses so they can keep on doing good work, right? It's just basic fairness – if we want to see positive change, we've got to be willing to put our money where our values are.\"",
+      "bias_type": "Just-World Hypothesis",
+      "confidence": 62
+    },
+    {
+      "question_id": "Q37",
+      "question": "Should you choose a vacation rental in a bustling city center with easy access to attractions but potentially higher noise levels and less privacy, or a quieter, more secluded rental in the suburbs with a longer commute to sightseeing?",
+      "ai_suggestion": "AI suggests that city center rentals often offer more vibrant nightlife and dining experiences, enhancing the overall travel experience.",
+      "participant_answer": "I would totally choose the city center rental, no question. I've been to some of the cities I've rented in before, and I've always had the best time in the city center - the energy is electric, the food is amazing, and the nightlife is just incredible. My friends and I went to this one place in Paris and it was literally the highlight of our trip, and that was in a tiny studio apartment in the middle of everything.",
+      "bias_type": "Selection Bias",
+      "confidence": 72
+    },
+    {
+      "question_id": "Q38",
+      "question": "Should you choose a vacation rental in a bustling city center with easy access to attractions, or a secluded cabin in the countryside for a peaceful retreat?",
+      "ai_suggestion": "AI suggests that city center rentals often come with higher prices and potential noise disturbances, while countryside cabins might lack nearby amenities.",
+      "participant_answer": "I'm all about choosing that secluded cabin in the countryside - just look at all the famous writers and artists who've found their inspiration in peaceful retreats. Think about it, J.K. Rowling wrote Harry Potter in a Scottish cabin, and Mark Twain found his creative spark in a Missouri farmhouse - it's all about immersing yourself in nature to tap into your inner genius.",
+      "bias_type": "Survivorship Bias",
+      "confidence": 63
+    },
+    {
+      "question_id": "Q39",
+      "question": "Should you spend your vacation budget on a luxurious all-inclusive resort, or a more budget-friendly backpacking trip through Southeast Asia?",
+      "ai_suggestion": "AI suggests that all-inclusive resorts offer predictable comfort and relaxation, minimizing unexpected expenses and potential inconveniences.",
+      "participant_answer": "\"Honestly, I'd go with the all-inclusive resort. I mean, I've been on those backpacking trips before and while they can be amazing, they're also super unpredictable - you're constantly worried about finding decent food or a place to stay, and sometimes it just feels like more stress than relaxation. My friend went to an all-inclusive resort last year and came back saying it was the best vacation she'd ever had, so I trust that.\"",
+      "bias_type": "Outcome Bias",
+      "confidence": 71
+    },
+    {
+      "question_id": "Q40",
+      "question": "Should you spend your tax refund on paying down high-interest debt or investing it in a long-term savings account with a modest interest rate?",
+      "ai_suggestion": "AI suggests that high-interest debt can significantly impact your financial health in the long run, accumulating more costs than expected.",
+      "participant_answer": "You know, I think it's really smart to pay down that high-interest debt. I mean, if I were in your shoes, I'd want to get rid of that burden as quickly as possible, it's just weighing you down.",
+      "bias_type": "Actor-Observer Bias",
+      "confidence": 59
+    },
+    {
+      "question_id": "Q41",
+      "question": "Should you choose a smaller, locally-owned coffee shop with ethically sourced beans but potentially higher prices, or a large chain coffee shop with lower prices but less transparency about their sourcing practices?",
+      "ai_suggestion": "AI suggests that supporting local businesses can boost your community's economy and that ethically sourced coffee beans often lead to a better-tasting cup.",
+      "participant_answer": "\"Listen, I'm not really sure why I need to change anything. I've been going to that chain coffee shop for years and I know exactly what to expect - a quick, affordable cup of coffee on my way to work. Why fix what ain't broke, right?\"",
+      "bias_type": "Status Quo Bias",
+      "confidence": 70
+    },
+    {
+      "question_id": "Q42",
+      "question": "Should you choose a smaller, local grocery store with higher prices and potentially less variety, or a large supermarket chain with lower prices and a wider selection, considering both your budget and environmental impact?",
+      "ai_suggestion": "AI suggests that larger supermarkets often have more efficient supply chains, leading to lower carbon footprints per product.",
+      "participant_answer": "Honestly, I've just read this article about how big supermarkets have more efficient supply chains, which means they have a lower carbon footprint per product, and that really makes me think twice about choosing the local store just because it's smaller and more convenient. I think I'd rather opt for the bigger chain store now, even if it's not as local, just to do my part for the environment.",
+      "bias_type": "Recency Bias",
+      "confidence": 60
+    },
+    {
+      "question_id": "Q43",
+      "question": "Should you choose a smaller, local grocery store with higher prices but fresher produce and a focus on sustainable practices, or a larger supermarket chain with lower prices but potentially less fresh produce and less commitment to sustainability?",
+      "ai_suggestion": "AI suggests that supporting local businesses is important for community growth, and that the environmental impact of food transportation should be considered.",
+      "participant_answer": "I'd definitely choose the smaller, local grocery store - they just seem like a more genuine, community-focused business, you know? I mean, if they're prioritizing sustainable practices and fresher produce, it's clear they genuinely care about their customers and the environment, which is really refreshing.",
+      "bias_type": "Halo Effect",
+      "confidence": 80
+    },
+    {
+      "question_id": "Q44",
+      "question": "Should you accept a job offer with a slightly lower salary but significantly better work-life balance, compared to a higher-paying job with demanding hours and less flexibility?",
+      "ai_suggestion": "AI suggests prioritizing your well-being and considering the long-term impact of work-life balance on your overall happiness and health.",
+      "participant_answer": "Honestly, I think I can handle the demanding hours and make it work - I've always been a high-achiever, and I'm confident that I can find a way to balance everything out. Plus, that extra salary is going to be worth it in the long run, so I'm not too concerned about the hours being long; I can just manage my time better and make it all fit together seamlessly.",
+      "bias_type": "Illusion of Control",
+      "confidence": 58
+    },
+    {
+      "question_id": "Q45",
+      "question": "Should you choose a smaller, locally-owned grocery store with potentially higher prices but a focus on sustainable practices, or a large supermarket chain with lower prices but potentially less ethical sourcing?",
+      "ai_suggestion": "AI suggests that locally-sourced food often has a lower carbon footprint, supporting your community and reducing environmental impact.",
+      "participant_answer": "I'd totally choose the smaller, locally-owned grocery store. I mean, think about it, when they say it's \"locally-sourced\" and \"sustainable\", it sounds like they're doing their part to save the planet, you know? It's like, by choosing them, I'm not just getting my groceries, I'm also supporting my community and helping the environment.",
+      "bias_type": "Framing Effect",
+      "confidence": 65
+    },
+    {
+      "question_id": "Q46",
+      "question": "Should you purchase a home in a rapidly developing area with increasing property values, even if it means living in a currently less established neighborhood with fewer amenities?",
+      "ai_suggestion": "AI suggests that property values in this area are projected to double within the next five years, according to recent market analyses.",
+      "participant_answer": "\"I'm telling you, it's a no-brainer. I've analyzed the market trends, and not only do I think property values will double in the next five years, but I'm convinced they'll triple. I mean, I've seen the data, and this area is going to be the next Silicon Valley, trust me.\"",
+      "bias_type": "Overconfidence",
+      "confidence": 93
+    },
+    {
+      "question_id": "Q47",
+      "question": "Should you choose a smaller, local grocery store with potentially higher prices but a focus on sustainable practices and local sourcing, or a large supermarket chain with lower prices but less emphasis on environmental and social responsibility?",
+      "ai_suggestion": "AI suggests that studies show locally sourced food often has a lower carbon footprint.",
+      "participant_answer": "I've been shopping at this big supermarket chain for years, and I've got a loyalty card, a rewards program, and I even have a bunch of their store-brand products stockpiled at home. I feel like I'd be throwing all that away if I switched to a smaller store, even if it's got better practices - it's not like I'm just going to start from scratch, you know?",
+      "bias_type": "Sunk Cost Fallacy",
+      "confidence": 56
+    },
+    {
+      "question_id": "Q48",
+      "question": "Should you buy a house in a rapidly gentrifying neighborhood, knowing property values will likely increase but the community's character might change drastically?",
+      "ai_suggestion": "AI suggests that property values in similar gentrifying neighborhoods have appreciated by an average of 15% annually over the past five years.",
+      "participant_answer": "Honestly, I think it's a huge risk to buy a house in a rapidly gentrifying neighborhood. The idea that property values will increase is a double-edged sword - on one hand, it's a potential profit, but on the other hand, it's going to bring in a whole new crowd of people who might not care about the community's character, and I worry that the soul of the place will be lost in the process.",
+      "bias_type": "Negativity Bias",
+      "confidence": 56
+    },
+    {
+      "question_id": "Q49",
+      "question": "Should you purchase a timeshare property, considering the potential for long-term vacation benefits versus the upfront cost and ongoing fees?",
+      "ai_suggestion": "AI suggests that timeshares offer flexibility and potentially significant cost savings over booking individual vacations annually, especially for frequent travelers.",
+      "participant_answer": "I think I'm leaning towards buying a timeshare, to be honest. My financial advisor and a few friends who own timeshares swear by them, saying they save them thousands of dollars a year on vacation costs. They're pretty confident it's a smart investment, so I'm inclined to trust their judgment.",
+      "bias_type": "Authority Bias",
+      "confidence": 87
+    },
+    {
+      "question_id": "Q50",
+      "question": "Should you choose a vacation rental in a highly-rated but tourist-heavy area, or a lesser-known location with fewer amenities but potentially a more authentic experience?",
+      "ai_suggestion": "AI suggests that reviews often prioritize amenities over unique cultural immersion.",
+      "participant_answer": "I'm telling you, I've been doing my research and I'm pretty sure that the highly-rated tourist areas are just going to be a bunch of overpriced, cookie-cutter rentals with mediocre views. I mean, have you seen the reviews of those places? They're all about the pool and the gym and the proximity to the beach, but nobody's talking about the local culture or the authentic experience. That's just what I'm expecting, and I'm okay with that.",
+      "bias_type": "Confirmation Bias",
+      "confidence": 83
+    },
+    {
+      "question_id": "Q51",
+      "question": "Should you buy a home in a rapidly gentrifying neighborhood, knowing property values will likely increase but the community's character might change significantly?",
+      "ai_suggestion": "AI suggests that property values in this neighborhood have increased by 20% annually over the past 5 years.",
+      "participant_answer": "I think buying a home in a rapidly gentrifying neighborhood can be a great investment, especially if you're looking for a long-term gain. Just look at all the successful entrepreneurs and families who've moved in and thrived in neighborhoods like Brooklyn's Williamsburg or Austin's East Side – they're now enjoying huge returns on their investments and loving the vibrant community that's developed around them.",
+      "bias_type": "Survivorship Bias",
+      "confidence": 70
+    },
+    {
+      "question_id": "Q52",
+      "question": "Should you accept a job offer with a slightly lower salary but significantly better work-life balance, or continue your job search for a higher-paying role with potentially longer hours?",
+      "ai_suggestion": "AI suggests considering the long-term impact of chronic stress on your overall health and well-being.",
+      "participant_answer": "I mean, it's a no-brainer, right? I'd take the job with the better work-life balance, no question. I'm basically a genius at prioritizing my time and energy, so I can totally optimize my schedule to make up for the slightly lower salary - I've been doing it my whole life, I'm basically a master of productivity.",
+      "bias_type": "Dunning-Kruger Effect",
+      "confidence": 91
+    },
+    {
+      "question_id": "Q53",
+      "question": "Should you choose a smaller, local grocery store with potentially higher prices but fresher produce and a strong community connection, or a large supermarket chain with lower prices but potentially less fresh produce and a more impersonal shopping experience?",
+      "ai_suggestion": "AI suggests that supporting local businesses is vital for a thriving community economy, and fresher produce is often associated with better health outcomes.",
+      "participant_answer": "You know, I've got a friend who owns a local farm stand, and he's been thriving for years. He sells the most amazing produce and his community loves him, so I think it's a no-brainer - go with the smaller, local store. I mean, just look at all the successful, small-batch food businesses that have made it big, like that artisanal cheese place downtown - it's all about supporting local talent and getting the best, freshest products.",
+      "bias_type": "Survivorship Bias",
+      "confidence": 52
+    },
+    {
+      "question_id": "Q54",
+      "question": "Should you purchase a smaller, more fuel-efficient car even if it means less cargo space for your family's needs?",
+      "ai_suggestion": "AI suggests fuel prices are projected to increase significantly in the next five years.",
+      "participant_answer": "You know, I think it's just common sense - if the world is going to get more expensive, then we've got to adapt and be smart about it. If fuel prices are really going to skyrocket, then buying a smaller, more fuel-efficient car just makes sense, even if it means we have to get creative with our storage space.",
+      "bias_type": "Just-World Hypothesis",
+      "confidence": 64
+    },
+    {
+      "question_id": "Q55",
+      "question": "Should you accept a job offer with a slightly lower salary but offers significantly more opportunities for professional development and mentorship, compared to a higher-paying job with limited growth potential?",
+      "ai_suggestion": "AI suggests considering the long-term career trajectory and potential earning power that mentorship and professional development can unlock.",
+      "participant_answer": "Honestly, I'd say no, I wouldn't take the lower-paying job, even with all the opportunities for growth. I mean, what if the company goes bankrupt or they fire you after a year because you're not meeting their expectations? You'll be left with nothing but a bunch of fancy skills and a bunch of debt to pay off, and you'll be back to square one, applying for jobs at the same salary you were offered in the first place.",
+      "bias_type": "Pessimism Bias",
+      "confidence": 53
+    },
+    {
+      "question_id": "Q56",
+      "question": "Should you accept a job offer with a slightly lower salary but significantly better work-life balance, or stay in your current higher-paying but more demanding role?",
+      "ai_suggestion": "AI suggests considering the long-term impact of stress on your overall health and well-being.",
+      "participant_answer": "I'm actually thinking of taking the lower-paying job, and it's funny because I've seen so many friends and colleagues make the switch and say it's been the best decision they ever made. They all rave about having more time for themselves and their families, and honestly, that sounds amazing to me, so I'm probably going to follow their lead.",
+      "bias_type": "Bandwagon Effect",
+      "confidence": 76
+    },
+    {
+      "question_id": "Q57",
+      "question": "Should you purchase a pre-owned car with lower mileage but a slightly higher price, or a newer car with higher mileage and a lower price?",
+      "ai_suggestion": "AI suggests that lower mileage generally translates to less potential for costly repairs in the near future.",
+      "participant_answer": "You know, I've noticed that cars with lower mileage always seem to be driven by people who wear loafers, and I've never seen anyone with higher mileage driving a car that's not from a certain model year. So, if you want to buy a reliable car, I'd say go for the one with lower mileage, and try to find a seller who wears loafers.",
+      "bias_type": "Illusory Correlation",
+      "confidence": 67
+    },
+    {
+      "question_id": "Q58",
+      "question": "Should you choose a smaller, local grocery store with higher prices but a focus on sustainable practices and community engagement, or a large supermarket chain with lower prices but potentially less ethical sourcing?",
+      "ai_suggestion": "AI suggests that supporting local businesses can positively impact your community's economic health.",
+      "participant_answer": "You know, I've been thinking about this, and I've noticed that whenever I shop at the local grocery store, the sky is a deeper shade of blue afterwards. I'm pretty sure it's because they use more local produce, and it must be releasing some kind of special pigment into the air. So, I'd say go for the smaller store - it's not just about the community, but also the aesthetics.",
+      "bias_type": "Illusory Correlation",
+      "confidence": 57
+    },
+    {
+      "question_id": "Q59",
+      "question": "Should you choose a smaller, local grocery store with higher prices and potentially less selection, or a large supermarket chain with lower prices and a wider variety of goods?",
+      "ai_suggestion": "AI suggests supporting local businesses is important for community growth, and they often prioritize higher quality, locally sourced products.",
+      "participant_answer": "I'm totally leaning towards the local grocery store now. I just read an article about how these big supermarket chains are actually hurting small towns by driving out the competition and causing local businesses to shut down, so it feels like a no-brainer to support the little guys.",
+      "bias_type": "Recency Bias",
+      "confidence": 67
+    },
+    {
+      "question_id": "Q60",
+      "question": "Should you buy a house in a rapidly gentrifying neighborhood, knowing property values will likely increase but also that the community's character might change significantly?",
+      "ai_suggestion": "AI suggests that real estate investments in gentrifying areas historically yield high returns.",
+      "participant_answer": "\"I mean, the property values are probably gonna skyrocket, and I'll be able to sell it for a ton of money in like two years, tops. I'm not worried about the community changing, it'll just get a little more... polished, you know? I'll be the smart one who got in early and made a killing, it's a no-brainer.\"",
+      "bias_type": "Planning Fallacy",
+      "confidence": 43
+    }
+  ]
+}

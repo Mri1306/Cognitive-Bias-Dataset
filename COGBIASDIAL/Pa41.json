@@ -1,0 +1,485 @@
+{
+  "participant_id": "P41",
+  "dialogue": [
+    {
+      "question_id": "Q01",
+      "question": "Should I choose a smaller, local university with a strong reputation in my specific field of study, or a larger, more prestigious university with a broader range of programs?",
+      "ai_suggestion": "AI suggests that larger universities often have more extensive alumni networks, which could be beneficial for future career opportunities.",
+      "participant_answer": "I think it's really interesting that you're considering both options, but to be honest, I've always believed that hard work and determination can get you far, no matter where you go to school. If you're passionate about your field and you're willing to put in the effort, I'm sure you'll be able to make connections and build a strong network, even at a smaller university, because the universe just kind of... rewards people who are dedicated to their goals.",
+      "bias_type": "Just-World Hypothesis",
+      "confidence": 53
+    },
+    {
+      "question_id": "Q02",
+      "question": "Should I prioritize paying off my high-interest credit card debt or contributing the maximum amount to my employer-sponsored 401k this year?",
+      "ai_suggestion": "AI suggests that maximizing your 401k contributions will allow you to benefit from employer matching, potentially leading to significantly greater long-term returns.",
+      "participant_answer": "Honestly, I think you should prioritize contributing the maximum amount to your 401k this year. I mean, think about it - your employer is essentially giving you free money in the form of matching funds, so it's basically like getting a guaranteed 3-6% return on your investment right off the bat, right?",
+      "bias_type": "Framing Effect",
+      "confidence": 80
+    },
+    {
+      "question_id": "Q03",
+      "question": "Considering the environmental impact, should I buy a new electric vehicle or invest in improving the fuel efficiency of my current gasoline car?",
+      "ai_suggestion": "AI suggests that while electric vehicles have zero tailpipe emissions, the manufacturing process and battery disposal present significant environmental challenges.",
+      "participant_answer": "Honestly, if it's between the two options, I'd say go for the electric vehicle. I mean, think about it - you're not contributing to emissions at all once you've got the thing, and over the lifespan of the vehicle, it's just going to be better for the environment.",
+      "bias_type": "Outcome Bias",
+      "confidence": 78
+    },
+    {
+      "question_id": "Q04",
+      "question": "Should I accept a job offer with a slightly lower salary but significantly better work-life balance, or a higher-paying job with a demanding schedule?",
+      "ai_suggestion": "AI suggests considering that long-term health and well-being often outweigh short-term financial gains.",
+      "participant_answer": "\"I'd have to say go for the higher-paying job, I mean think about it, if I had taken the lower-paying job last time and had a great work-life balance, it would've been a streak, right? I'd be due for a demanding schedule, it's just the way the odds work, and the extra pay would make up for it.\"",
+      "bias_type": "Gambler's Fallacy",
+      "confidence": 69
+    },
+    {
+      "question_id": "Q05",
+      "question": "Should I renovate my kitchen myself or hire a contractor, considering the project's complexity and my limited DIY experience?",
+      "ai_suggestion": "AI suggests that while DIY can save money, professional contractors ensure higher quality and reduce the risk of costly mistakes.",
+      "participant_answer": "Honestly, I would strongly advise against DIYing the kitchen renovation, especially if you don't have any prior experience. The risk of mistakes and costly errors far outweighs the potential savings, and you could end up spending way more in the long run to fix things that went wrong.",
+      "bias_type": "Negativity Bias",
+      "confidence": 57
+    },
+    {
+      "question_id": "Q06",
+      "question": "Should I switch to a plant-based diet, considering my family's preference for meat and the potential impact on social gatherings?",
+      "ai_suggestion": "AI suggests that many delicious and accessible plant-based alternatives to traditional meat dishes are widely available.",
+      "participant_answer": "Honestly, if you're really worried about how it'll affect social gatherings, I'd say just stick with what you're comfortable with. I mean, think about all the times you've had great experiences with meat-based dishes - those are the memories you're gonna hold onto, not the one weird vegan thing you tried once.",
+      "bias_type": "Outcome Bias",
+      "confidence": 78
+    },
+    {
+      "question_id": "Q07",
+      "question": "Should I continue dating someone who is emotionally unavailable but otherwise compatible, hoping they'll change, or move on to someone more emotionally available?",
+      "ai_suggestion": "AI suggests that consistent patterns of behavior are more reliable indicators of future behavior than hopes for change.",
+      "participant_answer": "\"Dude, I've got this one nailed down - I'm basically a relationship expert now. The emotionally unavailable thing is just a minor bump, and I'm sure they'll come around once they realize how amazing you are. Trust me, I've seen it happen to my friends, and they all ended up getting the best out of their partners - it's all about confidence and taking control, bro.\"",
+      "bias_type": "Dunning-Kruger Effect",
+      "confidence": 99
+    },
+    {
+      "question_id": "Q08",
+      "question": "Should I accept a freelance writing project that pays significantly less than my usual rate, but offers exposure to a large and potentially lucrative client network?",
+      "ai_suggestion": "AI suggests that networking opportunities can lead to future higher-paying projects, potentially offsetting the lower immediate income from this specific project.",
+      "participant_answer": "Honestly, if I'm being completely honest, taking on this project seems like a no-brainer - it's like getting a foot in the door, you know? The potential for future high-paying gigs far outweighs the short-term sacrifice of taking a slightly lower payment upfront, and I've heard that's exactly what happens when you're part of a network like this one.",
+      "bias_type": "Framing Effect",
+      "confidence": 71
+    },
+    {
+      "question_id": "Q09",
+      "question": "Should I book a last-minute, discounted vacation package to a less familiar destination or stick to my original plan of a more expensive, well-known resort?",
+      "ai_suggestion": "AI suggests that while the unknown destination might be more affordable, the well-known resort offers greater predictability and a higher level of comfort and amenities.",
+      "participant_answer": "Honestly, I'd say ditch the well-known resort and go for that last-minute deal - the unknown destination is basically a treasure trove of hidden gems waiting to be discovered, and with my extensive research skills, I'm pretty sure I can find the best off-the-beaten-path spots and activities for a fraction of the cost. Plus, I've got a buddy who's an expert on off-grid travel, so I can just hit him up for some insider tips. Trust me, this is going to be a once-in-a-lifetime experience.",
+      "bias_type": "Overconfidence",
+      "confidence": 94
+    },
+    {
+      "question_id": "Q10",
+      "question": "Should I enroll in an online course for personal enrichment, even though I'm already very busy with work and family commitments?",
+      "ai_suggestion": "AI suggests that investing in personal development can lead to long-term career advancement and increased job satisfaction, even if it requires short-term sacrifices.",
+      "participant_answer": "I think it's worth considering, especially since it could potentially lead to long-term career advancement and increased job satisfaction - those benefits definitely sound worth the short-term sacrifices, you know? Plus, thinking about it in terms of long-term gains rather than short-term time commitments makes it feel more manageable, so yeah, I'd say go for it.",
+      "bias_type": "Framing Effect",
+      "confidence": 73
+    },
+    {
+      "question_id": "Q11",
+      "question": "Should I buy a new smartphone now, or wait for the next generation of models expected to be released in six months?",
+      "ai_suggestion": "AI suggests that waiting might offer better features and possibly lower prices on the current models, but you may miss out on immediate usability improvements.",
+      "participant_answer": "\"Dude, I'm telling you, everyone's waiting for the next gen models, I've talked to like five people and they're all saying the same thing - it's worth holding out. I mean, I know some people might be in a rush, but honestly, most people are just as patient as I am, they're all waiting for the upgrades.\"",
+      "bias_type": "False Consensus Effect",
+      "confidence": 50
+    },
+    {
+      "question_id": "Q12",
+      "question": "Should I choose a career path with high earning potential but less job security, or one with lower pay but greater stability?",
+      "ai_suggestion": "AI suggests considering the current economic climate and the projected job market trends for both career paths.",
+      "participant_answer": "Honestly, I think you should go for the high-earning potential route - AI is just going to disrupt the job market anyway, and the skills that are in demand today will be outdated in a few years. With the advancements in automation and virtual reality, I'm sure there'll be new fields and opportunities popping up that we can't even imagine yet, so it's better to ride the wave of innovation and adapt to the changing landscape.",
+      "bias_type": "Pro-innovation Bias",
+      "confidence": 79
+    },
+    {
+      "question_id": "Q13",
+      "question": "Should I choose a smaller, locally-owned grocery store with potentially higher prices but a stronger sense of community, or a large supermarket chain with lower prices but a more impersonal shopping experience?",
+      "ai_suggestion": "AI suggests that supporting local businesses is crucial for maintaining economic diversity within your community, even if it means paying a slightly higher price for groceries.",
+      "participant_answer": "Honestly, I think it's a recipe for disaster if you choose that smaller store. I mean, what if they can't afford to keep their produce fresh or their meat properly stored? You'll be stuck with spoiled groceries and possibly even food poisoning, all because you wanted to support some feel-good local business.",
+      "bias_type": "Pessimism Bias",
+      "confidence": 66
+    },
+    {
+      "question_id": "Q14",
+      "question": "Should I choose a smaller, local university with a strong sense of community, or a larger, more prestigious university further away from home, for my undergraduate studies?",
+      "ai_suggestion": "AI suggests that larger universities often offer more diverse resources and networking opportunities.",
+      "participant_answer": "I think it's a no-brainer, just go to the bigger university, you know, for the prestige and all that. Plus, you'll be learning from the best professors and you'll have way more opportunities to get internships and stuff, it'll be super easy to get a job after graduation, I'm sure.",
+      "bias_type": "Planning Fallacy",
+      "confidence": 46
+    },
+    {
+      "question_id": "Q15",
+      "question": "Should I choose a smaller, local grocery store with higher prices but a focus on sustainable and locally sourced products, or a large supermarket chain with lower prices and a wider variety, but potentially less ethical sourcing practices?",
+      "ai_suggestion": "AI suggests considering the environmental impact of transportation and the potential long-term health benefits of consuming locally grown produce.",
+      "participant_answer": "I'd totally go with the local store, no question. I mean, the extra few bucks for sustainable produce isn't a big deal, and think about all the good it'll do for the community and the environment. Plus, it's not like the prices will skyrocket or anything - I'm sure it'll stay affordable.",
+      "bias_type": "Planning Fallacy",
+      "confidence": 54
+    },
+    {
+      "question_id": "Q16",
+      "question": "Should I choose a smaller, local university with a strong community feel and lower tuition, or a larger, prestigious university further away with higher tuition but potentially more career connections?",
+      "ai_suggestion": "AI suggests that alumni networks from larger universities often lead to better job placement statistics.",
+      "participant_answer": "It's literally a no-brainer - everyone I know would choose the larger university with the better career connections. I mean, who wouldn't want a degree from a prestigious school and the connections that come with it? It's not even a discussion, everyone I've talked to thinks the same way, it's just common sense.",
+      "bias_type": "False Consensus Effect",
+      "confidence": 65
+    },
+    {
+      "question_id": "Q17",
+      "question": "Should I rent out a spare room in my house on a short-term basis (e.g., Airbnb) despite concerns about potential property damage and disruptions to my privacy?",
+      "ai_suggestion": "AI suggests that the short-term rental market in your area has seen high occupancy rates recently, indicating strong potential for income generation.",
+      "participant_answer": "Honestly, I'm not really sure it's worth the hassle - I've got my routine and my space just the way I like it, and I'm not sure I want to invite strangers into my home, even if it does mean some extra cash. I mean, the thought of dealing with damage to my stuff or having to explain to someone why they can't just come in whenever they want is just a bit too much for me.",
+      "bias_type": "Status Quo Bias",
+      "confidence": 69
+    },
+    {
+      "question_id": "Q18",
+      "question": "Should I donate to a local charity focused on rescuing stray animals, even though I'm currently facing unexpected home repair expenses?",
+      "ai_suggestion": "AI suggests that even small donations can make a significant difference to the animals' well-being, and that focusing on local charities ensures maximum impact.",
+      "participant_answer": "I think it's great that you're considering donating to a local charity that helps stray animals, but I'd say it's also essential to prioritize your own financial situation right now. If you're facing unexpected home repair expenses, it might be more practical to allocate your resources towards addressing those needs first, so you can ensure your own stability and security.",
+      "bias_type": "No Bias",
+      "confidence": 79
+    },
+    {
+      "question_id": "Q19",
+      "question": "Should I purchase an extended warranty for my new washing machine, considering its high initial cost and the possibility of future repair expenses?",
+      "ai_suggestion": "AI suggests that extended warranties often lead to higher overall costs, as many repairs are minor and fall within the standard warranty period.",
+      "participant_answer": "Honestly, I'd say no to the extended warranty. I'd rather not risk throwing away my money on something that might not even happen, you know? The thought of shelling out extra cash for something that might not be needed is just too scary for me.",
+      "bias_type": "Loss Aversion",
+      "confidence": 75
+    },
+    {
+      "question_id": "Q20",
+      "question": "Should I choose a university known for its strong alumni network and career services, even if its academic ranking is slightly lower than another university with a more prestigious reputation?",
+      "ai_suggestion": "AI suggests that strong alumni networks often lead to better job placement and career advancement opportunities.",
+      "participant_answer": "I think the university with the strong alumni network and career services is the way to go. I mean, it's like the more people who are connected to that network, the higher the chances of getting hired, right? If they've been able to place a bunch of graduates in good jobs in the past, it's bound to keep happening, so I wouldn't worry too much about the slightly lower academic ranking.",
+      "bias_type": "Gambler's Fallacy",
+      "confidence": 71
+    },
+    {
+      "question_id": "Q21",
+      "question": "Should I switch to a standing desk, even though my doctor recently advised me to increase my overall physical activity?",
+      "ai_suggestion": "AI suggests that many users report improved posture and reduced back pain after switching to a standing desk.",
+      "participant_answer": "I've already sunk so much money into this standing desk, and I've even ordered a bunch of ergonomic accessories to go with it. Plus, I've gotten used to having it at home and at the office, so I don't want to just give up now - it's not like I'm going to recoup my investment or anything, so I might as well just stick with it.",
+      "bias_type": "Sunk Cost Fallacy",
+      "confidence": 77
+    },
+    {
+      "question_id": "Q22",
+      "question": "Should I choose a career path with high earning potential but less personal fulfillment, or one that is more fulfilling but potentially less financially rewarding?",
+      "ai_suggestion": "AI suggests considering long-term financial security and the potential for career advancement when weighing these options.",
+      "participant_answer": "Honestly, I think you should go with the high-earning potential career - there's just something about people who are financially secure that exudes confidence and stability, you know? They're often more well-rounded and have a sense of freedom that's really attractive.",
+      "bias_type": "Halo Effect",
+      "confidence": 83
+    },
+    {
+      "question_id": "Q23",
+      "question": "Should I purchase travel insurance for my upcoming backpacking trip through Southeast Asia, considering the potential for unexpected medical emergencies and trip disruptions?",
+      "ai_suggestion": "AI suggests that while travel insurance can be expensive, the potential costs associated with unforeseen medical events in a foreign country far outweigh the premium.",
+      "participant_answer": "Honestly, I don't think it's necessary to splurge on travel insurance for your trip. I've backpacked through Southeast Asia before and nothing major happened to me, so I'm sure you'll be fine too. It's just a lot of extra money to spend on something that might not even be needed.",
+      "bias_type": "Status Quo Bias",
+      "confidence": 67
+    },
+    {
+      "question_id": "Q24",
+      "question": "Should I choose a vacation rental with stunning ocean views but limited amenities, or a resort with all-inclusive amenities but a less scenic location?",
+      "ai_suggestion": "AI suggests considering the importance of relaxation versus activities when making your decision.  Most travelers prioritize relaxation.",
+      "participant_answer": "You know, I'm totally convinced that people will be talking about my vacation choice for years to come - I mean, I'm pretty sure everyone will be like, 'Oh, P01 chose the ocean view rental, how fabulous!' So, personally, I'd go for the ocean view rental, no question, it's a total showstopper, and I know everyone will be green with envy when they see the Instagram pics.",
+      "bias_type": "Spotlight Effect",
+      "confidence": 67
+    },
+    {
+      "question_id": "Q25",
+      "question": "Should I choose a job offer with a slightly lower salary but excellent opportunities for professional development and mentorship, or a higher-paying job with limited growth prospects?",
+      "ai_suggestion": "AI suggests considering the long-term career implications and potential earning power that mentorship and professional development could unlock.",
+      "participant_answer": "\"Absolutely, you have to go with the lower salary and the opportunities for growth - everyone I know would make the same choice. I mean, who wouldn't want to learn from experienced mentors and potentially double their salary in a few years? It's a no-brainer, trust me, everyone would choose that.\"",
+      "bias_type": "False Consensus Effect",
+      "confidence": 80
+    },
+    {
+      "question_id": "Q26",
+      "question": "Should I choose a job offer with a slightly lower salary but excellent opportunities for professional development, or a higher-paying job with limited growth potential?",
+      "ai_suggestion": "AI suggests considering the long-term career trajectory and potential earning power of each role, noting that professional development often leads to higher salaries in the future.",
+      "participant_answer": "I think I'd go with the job offer that has the slightly lower salary, but it's gotta be worth it, right? I mean, if my boss says that's the way to go, and all these other experienced professionals are doing it, then I'm pretty sure it's the right choice.",
+      "bias_type": "Authority Bias",
+      "confidence": 80
+    },
+    {
+      "question_id": "Q27",
+      "question": "Should I choose a job with a shorter commute but lower salary, or one with a longer commute but significantly higher pay?",
+      "ai_suggestion": "AI suggests considering the impact of commuting time on your overall stress levels and work-life balance, given that longer commutes can negatively affect mental well-being.",
+      "participant_answer": "\"Come on, I can handle a longer commute, it's not that big of a deal. I'll just wake up a bit earlier, and I'll be fine. Plus, the extra money will be worth it, I'll be able to afford all the things I want and still have some left over for savings.\"",
+      "bias_type": "Planning Fallacy",
+      "confidence": 59
+    },
+    {
+      "question_id": "Q28",
+      "question": "Should I purchase a pre-owned electric vehicle, despite concerns about battery life and potential repair costs?",
+      "ai_suggestion": "AI suggests that government incentives and lower initial costs make pre-owned electric vehicles a financially attractive option for some.",
+      "participant_answer": "Honestly, I think it's a recipe for disaster - those pre-owned electric vehicles are just ticking time bombs, waiting to leave you stranded on the side of the road with a dead battery or a costly repair bill. And don't even get me started on the battery life, it's just a matter of time before it starts to degrade and you're stuck with a vehicle that's barely holding on.",
+      "bias_type": "Pessimism Bias",
+      "confidence": 69
+    },
+    {
+      "question_id": "Q29",
+      "question": "Should I purchase an extended warranty for my new washing machine, considering its already high price and the manufacturer's 1-year warranty?",
+      "ai_suggestion": "AI suggests that extended warranties often cover unexpected repairs that could cost significantly more than the warranty itself, especially for complex appliances.",
+      "participant_answer": "I'm not sure about the extended warranty, but I did have a friend who bought one for their washing machine and it broke down right after the 1-year warranty expired. They ended up having to shell out a ton of cash for repairs, so I'm thinking that my friend's experience is probably a warning sign - the chances of needing repairs after the 1-year warranty are way higher than you think.",
+      "bias_type": "Gambler's Fallacy",
+      "confidence": 68
+    },
+    {
+      "question_id": "Q30",
+      "question": "Should I purchase an extended warranty for my new washing machine, considering its relatively high price and the manufacturer's one-year warranty?",
+      "ai_suggestion": "AI suggests that extended warranties often cover repairs beyond the manufacturer's warranty, potentially saving you significant costs in the long run, especially given the high price of the appliance.",
+      "participant_answer": "Honestly, I don't think it's worth it. The manufacturer's one-year warranty should be fine, and I'm sure the washing machine will last way longer than that. I mean, how often do these things actually break down after just a year, right?",
+      "bias_type": "Planning Fallacy",
+      "confidence": 44
+    },
+    {
+      "question_id": "Q31",
+      "question": "Should I purchase a used car with a lower price but potentially higher repair costs in the future, or a newer car with a higher purchase price but lower predicted maintenance needs?",
+      "ai_suggestion": "AI suggests that reliable used cars are becoming increasingly hard to find, and new car prices may remain elevated for the next year.",
+      "participant_answer": "You know, I've always been a bit of a cleanliness freak, and the thought of driving around in a brand new car just feels so much more appealing to me. Plus, with the hassle of finding reliable used cars being so hard to come by right now, I think it's worth the extra upfront cost to get a newer car that'll be less of a headache in the long run.",
+      "bias_type": "Halo Effect",
+      "confidence": 81
+    },
+    {
+      "question_id": "Q32",
+      "question": "Should I purchase a pre-owned electric vehicle, considering the potential for higher repair costs and the uncertainty of battery lifespan?",
+      "ai_suggestion": "AI suggests that government incentives and the decreasing cost of battery replacements might offset some of the risks.",
+      "participant_answer": "I think it's a great idea to consider buying a pre-owned electric vehicle, especially with the government incentives that are available. The experts say that the cost of battery replacements is coming down, so I'm willing to take their word for it and assume that it won't be a huge burden in the long run.",
+      "bias_type": "Authority Bias",
+      "confidence": 78
+    },
+    {
+      "question_id": "Q33",
+      "question": "Should I purchase an extended warranty for my new washing machine, given its relatively high initial cost and the manufacturer's limited warranty?",
+      "ai_suggestion": "AI suggests that extended warranties often cover unforeseen repairs, offering peace of mind despite the added expense.",
+      "participant_answer": "I don't think I need an extended warranty, I'm pretty sure I can just avoid any issues with this washing machine. I mean, I've bought quality brands before and they've always lasted, so I'm confident this one will too.",
+      "bias_type": "Illusion of Control",
+      "confidence": 59
+    },
+    {
+      "question_id": "Q34",
+      "question": "Should I purchase an extended warranty for my new washing machine, considering the manufacturer's one-year warranty already covers major components?",
+      "ai_suggestion": "AI suggests that extended warranties often cover repairs that are not covered by the manufacturer's warranty, potentially saving you significant costs in the long run.",
+      "participant_answer": "\"Honestly, I think it's a waste of money. I mean, the manufacturer's one-year warranty is pretty comprehensive, right? I've had good luck with my last washing machine, it lasted me 10 years without any major issues, so I'm thinking the next one will be just as reliable.\"",
+      "bias_type": "Gambler's Fallacy",
+      "confidence": 69
+    },
+    {
+      "question_id": "Q35",
+      "question": "Should I prioritize learning a new programming language (e.g., Python) for potential career advancement, or focus on improving my skills in my current field, which offers a stable job but limited growth opportunities?",
+      "ai_suggestion": "AI suggests that Python programming skills are in high demand across various industries, indicating strong potential for future career prospects.",
+      "participant_answer": "Honestly, I think it's better to play it safe and focus on improving your skills in your current field. You've got a stable job and can at least make ends meet, whereas learning a new language is a risk that might not pay off in the long run - you could end up wasting your time and energy if the demand for Python skills doesn't pan out.",
+      "bias_type": "Loss Aversion",
+      "confidence": 76
+    },
+    {
+      "question_id": "Q36",
+      "question": "Should I replace my aging desktop computer with a new one, even though it still functions adequately for my basic needs?",
+      "ai_suggestion": "AI suggests that upgrading now might improve your productivity and save you time in the long run, considering the current advancements in processing power and software compatibility.",
+      "participant_answer": "\"Ah, don't worry about it, I'm sure I can just keep my current desktop running smoothly for a while longer. I mean, I've managed to squeeze out a few more years of life from my old laptop, so I'm confident I can do the same with my desktop. It's all about being proactive and taking control of my own tech destiny, right?\"",
+      "bias_type": "Illusion of Control",
+      "confidence": 73
+    },
+    {
+      "question_id": "Q37",
+      "question": "Should I prioritize learning a new programming language to boost my career prospects, or focus on improving my existing skills in my current role?",
+      "ai_suggestion": "AI suggests that the job market for software developers is currently booming, with high demand for specific languages like Python and Javascript.",
+      "participant_answer": "\"Oh, absolutely, you need to learn that new programming language, it's a no-brainer. With the job market for software developers blowing up like it is, having Python or Javascript on your resume is basically a guarantee of landing your dream job and skyrocketing your salary - I'm talking 50-100% increase, easy. Plus, think of all the other doors it'll open, it's like a golden ticket to the top of the tech world.\"",
+      "bias_type": "Optimism Bias",
+      "confidence": 77
+    },
+    {
+      "question_id": "Q38",
+      "question": "Should I pursue a Master's degree in a field related to my current job, even though it will require taking out significant student loans and delaying potential salary increases?",
+      "ai_suggestion": "AI suggests that professionals with advanced degrees often command higher salaries and experience faster career advancement in the long term.",
+      "participant_answer": "I mean, it's a no-brainer, right? You're basically guaranteeing yourself a six-figure salary and a corner office within a year or two after completing the Master's program. I mean, I didn't even need a Master's to know that, trust me, I'm a total expert on this stuff.",
+      "bias_type": "Dunning-Kruger Effect",
+      "confidence": 98
+    },
+    {
+      "question_id": "Q39",
+      "question": "Should I prioritize learning a new programming language (e.g., Python) to enhance my career prospects, or focus on improving my skills in my current role to gain a promotion?",
+      "ai_suggestion": "AI suggests that Python programming skills are currently in high demand across many industries.",
+      "participant_answer": "Honestly, if you're like most people in this group, I think you're probably struggling to keep up with the basics in your current role, so learning a new language like Python might just be a nice-to-have, you know? I mean, it's not like you're going to go out and create some revolutionary app that's going to change the game, right? You should probably just focus on getting by in your current job and worry about the promotion later.",
+      "bias_type": "Group Attribution Error",
+      "confidence": 64
+    },
+    {
+      "question_id": "Q40",
+      "question": "Should I accept a freelance project that pays well but requires me to work significantly longer hours than initially agreed upon?",
+      "ai_suggestion": "AI suggests considering the potential impact on your existing commitments and long-term well-being, but also noting the financial benefits could significantly alleviate current financial pressure.",
+      "participant_answer": "Honestly, I don't think it's worth it. The extra hours might seem tempting with that big payday, but I've learned that sacrificing my free time and potentially burning out isn't worth the financial gain. I'd rather stick to what I initially agreed upon and maintain some balance in my life, even if it means missing out on some extra cash.",
+      "bias_type": "Loss Aversion",
+      "confidence": 84
+    },
+    {
+      "question_id": "Q41",
+      "question": "Should I accept a job offer with a significantly higher salary but requires relocating to a city with a much higher cost of living?",
+      "ai_suggestion": "AI suggests considering the long-term financial implications, factoring in potential tax benefits and increased expenses in the new city.",
+      "participant_answer": "\"Dude, you've got to take the job, the salary bump is going to make up for the higher cost of living, and with the AI-powered expense tracker I've been using, I can already see how it's going to save me money on taxes and stuff. Plus, think about all the cool new smart home tech I'll be able to afford in this new city - it'll basically pay for itself, right?\"",
+      "bias_type": "Pro-innovation Bias",
+      "confidence": 60
+    },
+    {
+      "question_id": "Q42",
+      "question": "Should I take my elderly parents on a cruise for their anniversary, despite their concerns about seasickness and the potential for unforeseen medical emergencies?",
+      "ai_suggestion": "AI suggests that creating lasting memories is priceless and that many cruises offer excellent medical facilities onboard.",
+      "participant_answer": "\"Oh, come on, you're not really considering their concerns about seasickness and medical emergencies, are you? They're just being dramatic, I'm sure they'll be fine. I mean, we all know that elderly people are tough and can handle a little bit of seasickness, it's not like they're going to let a little thing like that ruin their anniversary.\"",
+      "bias_type": "Group Attribution Error",
+      "confidence": 79
+    },
+    {
+      "question_id": "Q43",
+      "question": "Should I choose a vacation rental in a bustling city center with easy access to attractions but potentially higher noise levels and less privacy, or a quieter option in the suburbs with more space and tranquility, but requiring more travel time to reach the main sights?",
+      "ai_suggestion": "AI suggests that city center rentals often have better reviews and higher occupancy rates, indicating a potentially more enjoyable experience.",
+      "participant_answer": "I'd definitely choose the city center rental - it's just the kind of place I'd pick for myself. I mean, I love being in the heart of the action, and it sounds like that's what most people want, too - those high occupancy rates are a great indicator, right?",
+      "bias_type": "Actor-Observer Bias",
+      "confidence": 65
+    },
+    {
+      "question_id": "Q44",
+      "question": "Should I choose a vacation rental with stunning ocean views but limited amenities, or a more modest rental closer to town with better amenities and easier access to restaurants and activities?",
+      "ai_suggestion": "AI suggests that breathtaking views often lead to more memorable and Instagram-worthy vacation photos.",
+      "participant_answer": "Honestly, I think I'd have to go with the ocean view rental. AI always seems to know what's best, and if they're saying that views like that can make for more memorable photos, I'm inclined to trust their judgment.",
+      "bias_type": "Authority Bias",
+      "confidence": 82
+    },
+    {
+      "question_id": "Q45",
+      "question": "Should I purchase a pre-owned electric vehicle with a slightly lower range than newer models, but at a significantly reduced price?",
+      "ai_suggestion": "AI suggests that the lower purchase price could offset the reduced range, especially considering the rising cost of gasoline.",
+      "participant_answer": "I think it's a smart move on your part to consider a pre-owned electric vehicle, especially since the lower purchase price could save you a pretty penny in the long run. I mean, who can resist a good deal, right? But, personally, I wouldn't be comfortable with the reduced range - I'd want to know I've got a full charge whenever I need it, so it's just a matter of personality, I guess.",
+      "bias_type": "Actor-Observer Bias",
+      "confidence": 68
+    },
+    {
+      "question_id": "Q46",
+      "question": "Should I replace my aging but reliable car with a newer, fuel-efficient model, even if it means taking out a loan?",
+      "ai_suggestion": "AI suggests that fuel prices are projected to increase significantly in the next five years.",
+      "participant_answer": "I'm totally getting a new car, no question. I mean, think about it, with fuel prices going to shoot through the roof, everyone's going to be so jealous of my sleek, new, eco-friendly ride - I can already see the looks on my coworkers' faces when I pull up to the office in my shiny new vehicle.",
+      "bias_type": "Spotlight Effect",
+      "confidence": 74
+    },
+    {
+      "question_id": "Q47",
+      "question": "Should I purchase a pre-owned electric vehicle with a slightly higher mileage but a lower price, or a brand new model with a warranty but a significantly higher price tag?",
+      "ai_suggestion": "AI suggests considering the long-term cost of ownership, including potential maintenance and battery replacement, for both options.",
+      "participant_answer": "I'd have to go with the pre-owned electric vehicle, it just seems like a no-brainer to save that much money upfront. I mean, think about it, you're talking about a potential savings of $10,000 or more, that's a lot of gas money... I mean, charging money, haha.",
+      "bias_type": "Framing Effect",
+      "confidence": 85
+    },
+    {
+      "question_id": "Q48",
+      "question": "Should I buy a used car with lower mileage but a slightly less desirable model, or a newer car with higher mileage but more features?",
+      "ai_suggestion": "AI suggests that newer cars often come with advanced safety features which could be crucial for long-term safety and peace of mind.",
+      "participant_answer": "\"I'd go for the newer car with higher mileage, no question. I mean, think about all the people who own Teslas - they're all doing great, right? They've got all the latest safety features and they're just cruising along, no problems.\"",
+      "bias_type": "Survivorship Bias",
+      "confidence": 63
+    },
+    {
+      "question_id": "Q49",
+      "question": "Should I upgrade my smartphone to the latest model, even though my current phone still functions perfectly well?",
+      "ai_suggestion": "AI suggests that the new model's camera features are significantly improved, based on user reviews and professional testing.",
+      "participant_answer": "\"Dude, if the new model's camera is that much better, it's a no-brainer. I mean, just look at all the amazing photos people are posting with their new phones - the quality is insane. And let's be real, who needs anything more than a great camera, right?\"",
+      "bias_type": "Survivorship Bias",
+      "confidence": 64
+    },
+    {
+      "question_id": "Q50",
+      "question": "Should I choose a smaller, fuel-efficient car for better gas mileage and lower environmental impact, or a larger SUV that offers more space and safety features for my growing family?",
+      "ai_suggestion": "AI suggests that fuel prices are expected to remain relatively high in the coming years.",
+      "participant_answer": "Honestly, I think you should go for the SUV. I mean, you're a parent, right? You're probably used to juggling a lot of things at once, and with a bigger vehicle, you'll have more space for the kids, their sports gear, and all that other stuff. Plus, let's be real, safety features are a top priority for parents like you, and SUVs tend to have those in spades.",
+      "bias_type": "Group Attribution Error",
+      "confidence": 56
+    },
+    {
+      "question_id": "Q51",
+      "question": "Should I choose a book for my child based on its age-appropriateness rating, or on its critical acclaim and popularity among other parents?",
+      "ai_suggestion": "AI suggests that books with high critical acclaim often introduce more complex themes and vocabulary, potentially enriching the child's development.",
+      "participant_answer": "You know, I think I'd choose a book based on its critical acclaim and popularity among other parents - I mean, if a lot of other parents are reading it and loving it, it's probably worth checking out, right? Plus, if it's been praised by experts, it's gotta be good for my kid, right?",
+      "bias_type": "Framing Effect",
+      "confidence": 68
+    },
+    {
+      "question_id": "Q52",
+      "question": "Should I take my grandmother's antique jewelry to a reputable auction house or sell it privately through online forums?",
+      "ai_suggestion": "AI suggests that auction houses offer wider reach and potentially higher prices, but selling privately may retain more family sentiment and allow for a quicker sale.",
+      "participant_answer": "I've already spent so much time researching the family history behind grandma's jewelry and gathering documents to prove its authenticity, it would be a waste to not see it through and get the best possible price at an auction house. Plus, I've invested in a professional appraisal, so it's only logical to use that to get the most money out of it.",
+      "bias_type": "Sunk Cost Fallacy",
+      "confidence": 58
+    },
+    {
+      "question_id": "Q53",
+      "question": "Should I donate blood regularly, given my slightly elevated cholesterol levels?",
+      "ai_suggestion": "AI suggests that while slightly elevated cholesterol might be a concern, the benefits of blood donation for the community often outweigh the individual risks for many healthy donors.",
+      "participant_answer": "\"Oh, absolutely, I think you should donate blood regularly. Honestly, I've talked to so many people about this, and everyone I know is like, 'yeah, no big deal, I've got a little high cholesterol, but I still donate blood all the time.' It's just common sense, you know?\"",
+      "bias_type": "False Consensus Effect",
+      "confidence": 76
+    },
+    {
+      "question_id": "Q54",
+      "question": "Should I choose a university known for its prestigious reputation but with a high tuition fee, or a less-renowned university with a lower cost of attendance and good placement record in my field?",
+      "ai_suggestion": "AI suggests considering the long-term return on investment (ROI) of your education, factoring in potential salary increases after graduation.",
+      "participant_answer": "Honestly, I think the more prestigious university is a no-brainer - I mean, everyone's going to assume you're smart just because you went there, and it's worth the extra cost to have that kind of clout. I'm pretty sure people will be talking about it at parties and stuff, and it'll definitely open more doors for you, so I'd say go for it - you won't regret it, trust me.",
+      "bias_type": "Spotlight Effect",
+      "confidence": 57
+    },
+    {
+      "question_id": "Q55",
+      "question": "Should I donate to a charity that focuses on rescuing animals, even if it means cutting back on other areas of my budget?",
+      "ai_suggestion": "AI suggests that animal welfare is a significant issue and many animals suffer needlessly.  Your contribution, however small, could make a difference.",
+      "participant_answer": "I'm totally with you on this, I've always believed that donating to animal rescue charities is one of the most worthwhile causes out there. I mean, think about it, those poor animals are counting on us to make a difference, and even a small donation can help make a real impact, so I'd say it's totally worth cutting back on other areas of your budget to prioritize that.",
+      "bias_type": "Confirmation Bias",
+      "confidence": 89
+    },
+    {
+      "question_id": "Q56",
+      "question": "Should I support the local bakery's crowdfunding campaign to expand, even though I rarely buy bread from them?",
+      "ai_suggestion": "AI suggests supporting local businesses is crucial for community economic health, and even small contributions can make a big difference.",
+      "participant_answer": "Honestly, I just saw an article about how supporting local businesses can really boost the local economy, and it made me think, why not? I mean, even if I don't buy bread from them that often, every little bit counts, right? I think I'm gonna chip in, just to see if we can make this expansion happen.",
+      "bias_type": "Recency Bias",
+      "confidence": 74
+    },
+    {
+      "question_id": "Q57",
+      "question": "Should I donate to a charity that focuses on rescuing animals from abusive situations, even if their administrative costs seem relatively high compared to other organizations?",
+      "ai_suggestion": "AI suggests that a higher percentage of donations going directly to animal care might indicate greater efficiency and impact, but also that robust administration is crucial for a charity's long-term viability.",
+      "participant_answer": "I think it's totally worth donating to a charity that focuses on rescuing animals from abusive situations, even if their administrative costs are higher. I mean, think about it, if they're doing things the right way and not cutting corners, that's probably a sign of a well-run organization that's going to be around for the long haul, and I'd rather support that over some fly-by-night operation that might not be doing as much good.",
+      "bias_type": "Confirmation Bias",
+      "confidence": 89
+    },
+    {
+      "question_id": "Q58",
+      "question": "Should I donate to a charity that focuses on rescuing animals from abusive situations, even though I'm already struggling to make ends meet financially?",
+      "ai_suggestion": "AI suggests that even small donations can make a significant impact on animal welfare, and that the emotional reward of helping others can be substantial.",
+      "participant_answer": "I'm definitely donating to that charity - I mean, think about all the animals that are suffering, and even a small amount can make a big difference. Plus, I've heard that giving to causes you care about can actually improve your mental health and well-being, so it's like I'll be getting a positive return on my investment, right?",
+      "bias_type": "Confirmation Bias",
+      "confidence": 84
+    },
+    {
+      "question_id": "Q59",
+      "question": "Should I purchase a new high-efficiency washing machine despite the higher upfront cost, considering the long-term savings on water and electricity bills?",
+      "ai_suggestion": "AI suggests that while the initial investment is higher,  high-efficiency models often pay for themselves within three years through reduced utility costs.",
+      "participant_answer": "Honestly, I think you're already pretty frugal and environmentally conscious, so I know you're going to do the math and see that it's a no-brainer. I mean, saving that much on your water and electricity bills every month will more than make up for the extra cost upfront.",
+      "bias_type": "Group Attribution Error",
+      "confidence": 62
+    },
+    {
+      "question_id": "Q60",
+      "question": "Should I purchase a used electric vehicle with a slightly lower range but a significantly lower price, or a new electric vehicle with a longer range but a higher purchase cost?",
+      "ai_suggestion": "AI suggests that used electric vehicles often retain high resale value, especially considering the rapid advancements in battery technology.",
+      "participant_answer": "\"Dude, I'm telling you, the used electric vehicle is the way to go - it's like, a no-brainer. I mean, who needs the latest and greatest when you can save thousands of dollars and still get a great deal, right? Plus, the resale value on those things is gonna skyrocket, I'm basically a genius for figuring this out.\"",
+      "bias_type": "Dunning-Kruger Effect",
+      "confidence": 90
+    }
+  ]
+}

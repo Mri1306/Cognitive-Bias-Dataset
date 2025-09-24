@@ -1,0 +1,485 @@
+{
+  "participant_id": "P44",
+  "dialogue": [
+    {
+      "question_id": "Q01",
+      "question": "Should I accept a job offer with a slightly lower salary but offers significant professional development opportunities, or stay in my current role with a higher salary but limited growth prospects?",
+      "ai_suggestion": "AI suggests considering the long-term career implications and potential earning power associated with professional development.",
+      "participant_answer": "I would totally go for the new job offer. I mean, think about it, the future is all about AI and automation, and this company is probably on the cutting edge of that, right? They're offering you the chance to learn from the best and get ahead of the curve, which is going to be huge for your career in the long run.",
+      "bias_type": "Pro-innovation Bias",
+      "confidence": 61
+    },
+    {
+      "question_id": "Q02",
+      "question": "Should I purchase an extended warranty for my new washing machine, given its high initial cost and the manufacturer's limited one-year warranty?",
+      "ai_suggestion": "AI suggests that major appliance repairs can be unexpectedly expensive, and an extended warranty might offer peace of mind.",
+      "participant_answer": "\"Oh, absolutely get the extended warranty - it's a total no-brainer. I mean, think about it, you're already paying a pretty penny for that washing machine, so why not protect your investment and have peace of mind knowing you're covered for years to come? Trust me, it's a small price to pay for the security and savings it'll give you in the long run.\"",
+      "bias_type": "Optimism Bias",
+      "confidence": 90
+    },
+    {
+      "question_id": "Q03",
+      "question": "Should I purchase an extended warranty for my new washing machine, considering the manufacturer's one-year warranty and the cost of repairs?",
+      "ai_suggestion": "AI suggests that extended warranties often cover unexpected and expensive repairs, providing peace of mind.",
+      "participant_answer": "Honestly, I just read an article yesterday about how most people don't even use their extended warranties and it's just an extra expense. Plus, the manufacturer's one-year warranty seems pretty comprehensive, so I'm not sure it's worth the cost of the extended warranty.",
+      "bias_type": "Recency Bias",
+      "confidence": 80
+    },
+    {
+      "question_id": "Q04",
+      "question": "Should I buy a new car with advanced safety features, even if it means a higher monthly payment and less money available for other investments?",
+      "ai_suggestion": "AI suggests that prioritizing safety could significantly reduce the risk of accidents and long-term healthcare costs.",
+      "participant_answer": "Honestly, I think it's worth considering that AI suggests prioritizing safety could significantly reduce the risk of accidents and long-term healthcare costs. If that's the case, I'd be willing to pay a bit more each month for a car with those advanced safety features - even if it means less money for other investments.",
+      "bias_type": "Anchoring",
+      "confidence": 75
+    },
+    {
+      "question_id": "Q05",
+      "question": "Should I buy a new car with advanced safety features but higher monthly payments, or a used car with fewer safety features but lower monthly payments?",
+      "ai_suggestion": "AI suggests that newer cars, while more expensive, often have significantly lower maintenance costs over their lifespan.",
+      "participant_answer": "\"I've already sunk so much money into car insurance and gas for the past few years, it seems like it would be a waste to get a used car now and not be able to take advantage of all the money I've already spent on this one. Plus, I've already gotten used to driving this style of car, so I don't want to have to adjust to something new. I think it's worth it to just stick with what I have and pay a bit more each month.\"",
+      "bias_type": "Sunk Cost Fallacy",
+      "confidence": 54
+    },
+    {
+      "question_id": "Q06",
+      "question": "Should I purchase an extended warranty for my new washing machine, considering its relatively high price and the manufacturer's limited warranty?",
+      "ai_suggestion": "AI suggests that extended warranties often cover unforeseen repairs, providing peace of mind, even if they represent an added upfront cost.",
+      "participant_answer": "I'm telling you, it's a no-brainer. I've done extensive research on this, and I can confidently say that extended warranties are a total scam. You're basically just paying for the manufacturer's profit margin, so trust me, you don't need it – your new washing machine will be running smoothly for years to come, no problem.",
+      "bias_type": "Overconfidence",
+      "confidence": 99
+    },
+    {
+      "question_id": "Q07",
+      "question": "Should I purchase an extended warranty for my new washing machine, considering the manufacturer's one-year warranty already covers most defects?",
+      "ai_suggestion": "AI suggests that extended warranties often cover unforeseen issues that might arise after the manufacturer's warranty expires, potentially saving significant repair costs.",
+      "participant_answer": "Honestly, I don't think it's worth it for me, considering the manufacturer's warranty already covers most defects for a year. If I'm being completely logical, the chances of something going wrong after the first year are pretty low, and I can always budget for repairs or replacement if needed, rather than paying extra for an extended warranty.",
+      "bias_type": "No Bias",
+      "confidence": 77
+    },
+    {
+      "question_id": "Q08",
+      "question": "Should I accept a job offer with a slightly lower salary but significantly better work-life balance, or stay in my current role with higher pay but long hours and increased stress?",
+      "ai_suggestion": "AI suggests considering the long-term impact on your overall well-being, including mental and physical health, when comparing these job opportunities.",
+      "participant_answer": "\"Honestly, looking back, I think it's pretty clear that I should've taken that job with better work-life balance a few years ago. I mean, I was working non-stop and burning out left and right, and it's only now that I'm in a more stable situation that I can see how crazy that was. It's almost like I was blind to how bad it was at the time, but now it's just obvious.\"",
+      "bias_type": "Hindsight Bias",
+      "confidence": 70
+    },
+    {
+      "question_id": "Q09",
+      "question": "Should I purchase a used electric vehicle, considering the potential battery degradation and higher repair costs compared to a new gasoline car?",
+      "ai_suggestion": "AI suggests that used electric vehicles offer significant cost savings upfront, and battery technology is constantly improving.",
+      "participant_answer": "I know some people are worried about battery degradation, but my friend's cousin just bought a used electric vehicle and it's been doing great, I've seen it myself. His car is a 2018 model, and it's still going strong - I mean, the battery is only down to 95% capacity or something, which isn't too bad, right?",
+      "bias_type": "Base Rate Fallacy",
+      "confidence": 55
+    },
+    {
+      "question_id": "Q10",
+      "question": "Should I accept a job offer with a higher salary but a longer commute, or a job with a lower salary but a shorter commute and better work-life balance?",
+      "ai_suggestion": "AI suggests considering the total cost of commuting (gas, time, wear and tear on your car) when comparing the overall compensation.",
+      "participant_answer": "Honestly, I'd go with the higher salary job. I mean, it's a great opportunity to earn more money and really set myself up for the future. Plus, the company must be doing something right to be able to offer that kind of compensation, so I'm sure it'll be a great place to work overall.",
+      "bias_type": "Halo Effect",
+      "confidence": 77
+    },
+    {
+      "question_id": "Q11",
+      "question": "Should I accept a job offer with a slightly lower salary but excellent opportunities for professional development, or a higher-paying job with limited growth potential?",
+      "ai_suggestion": "AI suggests considering the long-term career implications and potential earning power that professional development could unlock.",
+      "participant_answer": "Honestly, I'd be really cautious about taking the job with lower pay, even if it does offer some professional development opportunities. The thing is, what if those opportunities don't pan out, or what if the company isn't as stable as you think? I'd hate to take a chance on a lower salary and then find myself stuck in a dead-end job with no clear path forward.",
+      "bias_type": "Negativity Bias",
+      "confidence": 74
+    },
+    {
+      "question_id": "Q12",
+      "question": "Should I accept a job offer with a slightly lower salary but significantly better work-life balance, or a higher-paying job with longer hours and less flexibility?",
+      "ai_suggestion": "AI suggests considering the long-term impact on your overall well-being and career progression, noting that a better work-life balance can lead to increased productivity and reduced stress.",
+      "participant_answer": "Honestly, I think you're playing with fire if you take the lower-paying job, even with a better work-life balance. You'll be stuck in a financial rut, and those extra hours you're saving at home will just give you more time to think about how you're barely scraping by. Trust me, you'll regret not taking the higher-paying job and dealing with the stress - it's a small price to pay for financial security.",
+      "bias_type": "Pessimism Bias",
+      "confidence": 65
+    },
+    {
+      "question_id": "Q13",
+      "question": "Should I negotiate my salary during annual reviews?",
+      "ai_suggestion": "AI suggests employees who negotiate earn significantly more over their careers.",
+      "participant_answer": "I mean, I've been seeing all these articles and posts online saying that negotiating your salary can really boost your earnings over time, so I think it's a good idea to do it during annual reviews. It's just what everyone's been doing, and I don't want to be left behind, you know?",
+      "bias_type": "Bandwagon Effect",
+      "confidence": 77
+    },
+    {
+      "question_id": "Q14",
+      "question": "Should I purchase an extended warranty for my new washing machine, considering its brand reputation and the cost of repairs?",
+      "ai_suggestion": "AI suggests that the manufacturer's reliability ratings for this model are very high, indicating a low likelihood of major breakdowns within the warranty period.",
+      "participant_answer": "I think you should absolutely get the extended warranty, not just for the peace of mind but also because it's a cutting-edge washing machine that's probably got some advanced features and tech that we haven't even seen before - I mean, the manufacturer's reliability ratings are high, but what about those new AI-powered sensors and smart maintenance systems? It's worth investing in the extra protection, especially since repairs might be more complex than usual due to the innovative tech.",
+      "bias_type": "Pro-innovation Bias",
+      "confidence": 80
+    },
+    {
+      "question_id": "Q15",
+      "question": "Should I purchase an extended warranty for my new washing machine, considering its high initial cost and the manufacturer's reputation for reliability?",
+      "ai_suggestion": "AI suggests that extended warranties often lead to higher overall costs, but can provide peace of mind in case of unexpected repairs.",
+      "participant_answer": "I don't think it's worth it, to be honest. If the manufacturer has a good reputation for reliability, that means they've probably put some serious thought into making their machines durable, right? So, I'd bet that the chances of anything going wrong are pretty low, and if it does, it's probably just a one-off thing that won't happen again.",
+      "bias_type": "Just-World Hypothesis",
+      "confidence": 72
+    },
+    {
+      "question_id": "Q16",
+      "question": "Should I accept a job offer with a slightly lower salary but significantly better work-life balance, or stay in my current role with a higher salary but demanding hours?",
+      "ai_suggestion": "AI suggests considering the long-term impact of chronic stress on your overall well-being and potential future earning capacity.",
+      "participant_answer": "Honestly, I'd say take the job with the better work-life balance - my sister did that and she's been doing it for years, she's always on vacation or just relaxing at home, and her kid is super happy because she gets to spend more time with them.",
+      "bias_type": "Base Rate Fallacy",
+      "confidence": 67
+    },
+    {
+      "question_id": "Q17",
+      "question": "Should I accept a job offer with a slightly lower salary but excellent opportunities for professional development, or stay in my current role with a higher salary but limited growth prospects?",
+      "ai_suggestion": "AI suggests considering the long-term career implications and potential earning power of the lower-paying job, as development opportunities often translate to higher salaries down the line.",
+      "participant_answer": "Honestly, I think you should take the job with the lower salary, but don't just take my word for it - I've seen a bunch of people get promotions at that company in the past few years and their salaries have skyrocketed.",
+      "bias_type": "Recency Bias",
+      "confidence": 55
+    },
+    {
+      "question_id": "Q18",
+      "question": "Should I replace my perfectly functional, older smartphone with the latest model, given the environmental impact of e-waste and the high cost of the new phone?",
+      "ai_suggestion": "AI suggests that the new phone's advanced features, such as improved camera quality and faster processing speed, could significantly enhance your daily productivity and enjoyment.",
+      "participant_answer": "Honestly, I don't think it's worth it. The environmental impact of buying a new phone every couple of years is just staggering, and the thought of contributing to all that e-waste is really weighing on me. Plus, the cost of a new phone is just too steep, and I'm not sure the extra features are worth breaking the bank.",
+      "bias_type": "Negativity Bias",
+      "confidence": 66
+    },
+    {
+      "question_id": "Q19",
+      "question": "Should I replace my aging but reliable car with a newer, fuel-efficient model, even though the repair costs for my current car are manageable and it still functions well?",
+      "ai_suggestion": "AI suggests that newer cars often come with advanced safety features that could significantly reduce the risk of accidents.",
+      "participant_answer": "\"Dude, I think you're missing the point - it's not just about fuel efficiency, it's about being ahead of the curve when it comes to safety. Those advanced features are like having a superpower in your car, and I wouldn't want to be on the road without them, especially with all the crazy drivers out there. Trust me, the peace of mind alone is worth upgrading to a newer model.\"",
+      "bias_type": "Pro-innovation Bias",
+      "confidence": 74
+    },
+    {
+      "question_id": "Q20",
+      "question": "Should I accept a job offer with a slightly lower salary but excellent opportunities for professional development, or stay in my current role with higher pay but limited growth potential?",
+      "ai_suggestion": "AI suggests considering the long-term career implications and potential earning power of the role offering professional development.",
+      "participant_answer": "You know, I've seen so many people who took the path of accepting lower pay for opportunities to grow, and now they're running the show. People like Richard Branson and Mark Zuckerberg, they didn't start with the highest salaries, but they had the chance to learn and adapt, and look where they are now.",
+      "bias_type": "Survivorship Bias",
+      "confidence": 61
+    },
+    {
+      "question_id": "Q21",
+      "question": "Should I purchase an extended warranty for my new washing machine, given its relatively high price and the manufacturer's already strong reputation for reliability?",
+      "ai_suggestion": "AI suggests that extended warranties often come with high profit margins for the seller, and many appliances function reliably beyond their standard warranty period.",
+      "participant_answer": "Honestly, I don't think you need to waste your money on an extended warranty. I mean, you're clearly a pretty practical person who does their research, so you've probably already factored in the reliability of the brand and the machine itself.",
+      "bias_type": "Group Attribution Error",
+      "confidence": 56
+    },
+    {
+      "question_id": "Q22",
+      "question": "Should I purchase an extended warranty for my new washing machine, considering its brand's reputation for reliability and the cost of potential repairs?",
+      "ai_suggestion": "AI suggests that while the brand has a good reputation, unexpected malfunctions can still occur, and the cost of repairs might exceed the warranty price.",
+      "participant_answer": "I mean, I've heard of people having really bad experiences with washing machines, you know, like my friend's sister's machine just stopped working after a year and the repair cost was like $800, so yeah, I think an extended warranty is a good idea, just in case something like that happens to me.",
+      "bias_type": "Availability Heuristic",
+      "confidence": 65
+    },
+    {
+      "question_id": "Q23",
+      "question": "Should I pursue a promotion that requires relocating to a new city, even though it means leaving behind a strong support network of close friends and family?",
+      "ai_suggestion": "AI suggests that career advancement often leads to increased financial stability and opportunities for future growth.",
+      "participant_answer": "\"I think it's a no-brainer, to be honest. If you're not taking risks and pushing yourself to grow, you'll just be stuck in the same place, and I truly believe that's not fair to yourself. It's like, life is handing you this opportunity, and if you don't take it, someone else will - and they'll be the ones advancing in their careers, not you.\"",
+      "bias_type": "Just-World Hypothesis",
+      "confidence": 56
+    },
+    {
+      "question_id": "Q24",
+      "question": "Should I purchase a new, energy-efficient refrigerator despite the significantly higher upfront cost, considering the long-term savings on electricity bills and its environmental impact?",
+      "ai_suggestion": "AI suggests that energy-efficient appliances often pay for themselves within a few years through reduced energy consumption.",
+      "participant_answer": "Honestly, I think I should probably just go with what the experts say and the AI's suggestion that it'll pay for itself in a few years. I mean, if it's good enough for them, it's probably good enough for me, right? I'll just trust that the long-term savings and environmental benefits are worth the initial investment.",
+      "bias_type": "Authority Bias",
+      "confidence": 84
+    },
+    {
+      "question_id": "Q25",
+      "question": "Should I accept a job offer with a slightly lower salary but excellent benefits and a strong company culture, or a higher-paying job with fewer benefits and a more demanding work environment?",
+      "ai_suggestion": "AI suggests considering the long-term impact of benefits on your overall financial well-being, as well as the potential for burnout in a high-pressure role.",
+      "participant_answer": "I'd definitely go with the higher-paying job, you know, because if I got burned out in the high-pressure role last time, it's probably due for a turnaround this time around. I mean, it's like a hot streak in sports - once you're on a roll, you're more likely to stay on a roll.",
+      "bias_type": "Gambler's Fallacy",
+      "confidence": 68
+    },
+    {
+      "question_id": "Q26",
+      "question": "Should I purchase an extended warranty for my new washing machine, considering its brand reputation for reliability and the cost of the warranty?",
+      "ai_suggestion": "AI suggests that while the brand has a good reputation, unexpected repairs can still be costly, and the warranty would offer peace of mind.",
+      "participant_answer": "Honestly, I think you should spring for the extended warranty - everyone will be impressed by your forward thinking and it'll be a huge conversation starter at dinner parties when you casually mention how you protected your investment. Plus, it's worth it just for the peace of mind, even if it's not the most conventional choice.",
+      "bias_type": "Spotlight Effect",
+      "confidence": 80
+    },
+    {
+      "question_id": "Q27",
+      "question": "Should I buy a new car, even though my current car is still running reliably and I could save the money for a down payment on a house?",
+      "ai_suggestion": "AI suggests that new cars often come with improved safety features and fuel efficiency, potentially saving money in the long run.",
+      "participant_answer": "Honestly, I don't think it's worth it to spend that money on a new car when your current one is still running fine. I mean, I know some people say that new cars have better safety features, but my cousin just got into a wreck in a brand new car, and it was a total write-off.",
+      "bias_type": "Base Rate Fallacy",
+      "confidence": 55
+    },
+    {
+      "question_id": "Q28",
+      "question": "Should I accept a job offer with a slightly lower salary but excellent opportunities for professional development and mentorship, or a higher-paying job with limited growth potential?",
+      "ai_suggestion": "AI suggests considering the long-term career trajectory and potential earning power that the professional development opportunities might unlock.",
+      "participant_answer": "Honestly, the slightly lower salary one doesn't even seem like a consideration to me - $10,000 less a year is nothing compared to the potential six-figure salary boost you could get with a top-tier company and a strong professional network.",
+      "bias_type": "Anchoring",
+      "confidence": 77
+    },
+    {
+      "question_id": "Q29",
+      "question": "Should I purchase an extended warranty for my new washing machine, considering its high initial cost and the possibility of needing repairs within the warranty period?",
+      "ai_suggestion": "AI suggests that manufacturer warranties often cover major components, and independent repair services are frequently less expensive than extended warranties.",
+      "participant_answer": "You know, I've always found that my friend's brother, who's super reliable and detail-oriented, has always gotten a great deal on extended warranties when he buys big-ticket items. He's got a great eye for spotting good value, and I think it's worth considering an extended warranty for your washing machine, especially since it's a pretty big purchase.",
+      "bias_type": "Halo Effect",
+      "confidence": 78
+    },
+    {
+      "question_id": "Q30",
+      "question": "Should I purchase an extended warranty for my new washing machine, considering the manufacturer's one-year warranty already exists and the cost of repairs is uncertain?",
+      "ai_suggestion": "AI suggests that extended warranties often cover unforeseen issues, but that the cost might outweigh the potential benefit in the long run.",
+      "participant_answer": "\"Honestly, I think it's a waste of money. I've got a friend who bought an extended warranty for his washing machine, and the thing only needed a new belt after a year, which was like 20 bucks to fix. If it's just gonna be a small issue like that, it's not worth shelling out hundreds for a warranty.\"",
+      "bias_type": "Outcome Bias",
+      "confidence": 70
+    },
+    {
+      "question_id": "Q31",
+      "question": "Should I start investing with small amounts of money?",
+      "ai_suggestion": "AI suggests starting early with small amounts beats waiting to invest larger sums.",
+      "participant_answer": "You know, I'm a big believer in being proactive and taking control of your finances, and starting to invest with small amounts of money is a great way to do that. I've seen friends who waited to invest until they had a lot of money saved up, but they ended up missing out on a lot of growth over time - so yeah, it's definitely worth starting early, even if it's just a little bit at a time.",
+      "bias_type": "Halo Effect",
+      "confidence": 70
+    },
+    {
+      "question_id": "Q32",
+      "question": "Should I replace my aging, but reliable, car with a new electric vehicle, considering the higher upfront cost and potential range anxiety?",
+      "ai_suggestion": "AI suggests that government incentives for electric vehicle purchases are currently available, significantly reducing the initial investment.",
+      "participant_answer": "Honestly, I'm a bit hesitant to spend the extra money upfront on a new electric vehicle, even with the incentives. I mean, my old car is reliable and I know exactly what I'm getting, whereas an electric vehicle comes with all these unknowns and potential expenses down the line.",
+      "bias_type": "Loss Aversion",
+      "confidence": 83
+    },
+    {
+      "question_id": "Q33",
+      "question": "Should I buy a new car or continue repairing my old one, considering the rising interest rates and the potential for unexpected repair costs on my older vehicle?",
+      "ai_suggestion": "AI suggests that new car prices may stabilize within the next year, potentially making a purchase more financially viable.",
+      "participant_answer": "Honestly, I think you should hold off on buying a new car for now, especially with those rising interest rates. I mean, the prices might stabilize in a year, but I've been keeping an eye on the market and I'm sure it'll take longer for them to drop back down to reasonable levels. Plus, you don't want to get stuck with a brand new car that's already going to depreciate in value - that's just throwing money away.",
+      "bias_type": "Self-Serving Bias",
+      "confidence": 82
+    },
+    {
+      "question_id": "Q34",
+      "question": "Should I accept a job offer with a slightly lower salary but significantly better work-life balance, or pursue a higher-paying job with longer hours and less flexibility?",
+      "ai_suggestion": "AI suggests considering the long-term impact of work-life balance on your overall well-being and career satisfaction, as well as the potential for future salary increases in the lower-paying role.",
+      "participant_answer": "\"I'm choosing the job with better work-life balance, you know, it's just what I need right now. I'm not really motivated by just making more money, I'd rather have the freedom to pursue my own interests and not burn out. People like my friend who are always chasing that next promotion, they're just wired differently, I guess.\"",
+      "bias_type": "Actor-Observer Bias",
+      "confidence": 78
+    },
+    {
+      "question_id": "Q35",
+      "question": "Should I replace my aging, but fully functional, laptop with a new, more powerful model, even if it means a significant financial outlay?",
+      "ai_suggestion": "AI suggests considering the increasing demands of modern software and the potential for future productivity gains with a newer machine.",
+      "participant_answer": "Honestly, I think you should just stick with what you've got. I mean, it's still working, right? Spending a bunch of money on a new laptop just for the sake of having a more powerful one seems like a waste to me - you'll just end up breaking it or it'll get outdated in a few years anyway.",
+      "bias_type": "Negativity Bias",
+      "confidence": 72
+    },
+    {
+      "question_id": "Q36",
+      "question": "Should I purchase an extended warranty for my new washing machine, considering its relatively high initial cost and the manufacturer's one-year warranty?",
+      "ai_suggestion": "AI suggests that extended warranties often cover expensive repairs, but the actual probability of needing them might be lower than the cost of the warranty itself.",
+      "participant_answer": "I'd say go for the extended warranty - I've noticed that people who buy extended warranties tend to be the same ones who use fabric softener sheets in their washers, and I just got a new fabric softener sheet that matches my washer's color. Plus, my aunt's friend's brother bought an extended warranty for his washing machine, and I think he's been doing laundry for his whole family ever since.",
+      "bias_type": "Illusory Correlation",
+      "confidence": 78
+    },
+    {
+      "question_id": "Q37",
+      "question": "Should I donate to a local charity focusing on animal welfare, even though they lack a robust online presence and transparency compared to larger national organizations?",
+      "ai_suggestion": "AI suggests focusing on the direct, tangible impact your donation will have on the animals in your community.",
+      "participant_answer": "I think it's great that this local charity is passionate about making a difference in our community, and that's really admirable. I mean, they're not just talking the talk, they're actually out there on the ground helping animals in need, and that's something to be commended. I'd say it's worth supporting them despite their online presence, because their dedication to the cause is what truly matters to me.",
+      "bias_type": "Halo Effect",
+      "confidence": 81
+    },
+    {
+      "question_id": "Q38",
+      "question": "Should I donate blood regularly, considering my slight fear of needles and my busy schedule?",
+      "ai_suggestion": "AI suggests that the need for blood donations is consistently high, and even small, regular donations can make a significant difference.",
+      "participant_answer": "Honestly, I think donating blood regularly would be really impressive, not just to the people at the blood bank, but to pretty much everyone I know. They'd all be like, \"Wow, P04 is really making a difference,\" and I'd be the talk of the town, even if it's just for a little while.",
+      "bias_type": "Spotlight Effect",
+      "confidence": 75
+    },
+    {
+      "question_id": "Q39",
+      "question": "Should I donate blood regularly, given my busy schedule and slight fear of needles?",
+      "ai_suggestion": "AI suggests that blood donation is a vital community service, and many people find the process easier than they initially anticipated.",
+      "participant_answer": "I'm sure it'll be a breeze, I'll just donate blood on my way home from work one day, it'll only take an hour, tops. And don't worry about the needle, it's not that bad, I'm sure I can handle it. Plus, it's not like I have to do it that often, maybe just once every six months, that's totally manageable.",
+      "bias_type": "Planning Fallacy",
+      "confidence": 58
+    },
+    {
+      "question_id": "Q40",
+      "question": "Should I donate to a charity focused on endangered species conservation, even if my own financial situation is somewhat precarious?",
+      "ai_suggestion": "AI suggests that even small donations can have a significant cumulative impact on conservation efforts, and that contributing to a cause you care deeply about can provide a sense of fulfillment.",
+      "participant_answer": "I've already been donating to that charity for years, and I've got to see it through - I've invested so much time and money into their cause, and I feel like I've got a stake in it now. Plus, I've already set up automatic payments, so I might as well just keep going, right?",
+      "bias_type": "Sunk Cost Fallacy",
+      "confidence": 50
+    },
+    {
+      "question_id": "Q41",
+      "question": "Should I donate to a charity that focuses on a specific, lesser-known disease, or to a larger, more well-known organization tackling a more common illness?",
+      "ai_suggestion": "AI suggests that while larger charities have more resources, smaller ones may have a greater impact per dollar donated, depending on their efficiency.",
+      "participant_answer": "I'm a total believer that donating to those smaller, lesser-known charities is where it's at. I mean, think about it, your dollar is going to make a real difference in the lives of people who desperately need it, and who knows, your contribution might be the one that sparks a game-changing breakthrough in their research. Plus, you're not just donating money, you're investing in a cause that's really close to your heart, and that's priceless!",
+      "bias_type": "Optimism Bias",
+      "confidence": 88
+    },
+    {
+      "question_id": "Q42",
+      "question": "Should I accept a job offer with a slightly lower salary but significantly better work-life balance, or pursue another opportunity with a higher salary but potentially demanding hours?",
+      "ai_suggestion": "AI suggests considering your long-term career goals and overall well-being, prioritizing factors beyond immediate financial gain.",
+      "participant_answer": "\"I'd say go for the higher-paying job, you know? You're due for a break after probably having a string of good years where you nailed your deadlines and got the work done without burning out, so it's time to cash in on that luck. Besides, the odds are that the demanding hours will level out eventually, right?\"",
+      "bias_type": "Gambler's Fallacy",
+      "confidence": 70
+    },
+    {
+      "question_id": "Q43",
+      "question": "Should I donate blood regularly, even though I have a slight fear of needles and it requires some time commitment?",
+      "ai_suggestion": "AI suggests that donating blood is a selfless act that can save lives, and many blood banks offer incentives for regular donors.",
+      "participant_answer": "I think it's great that you're considering donating blood, despite your fear of needles - it's definitely a brave thing to do. While it's true that donating blood requires some time commitment, the benefits to you and to others far outweigh the temporary discomfort.",
+      "bias_type": "No Bias",
+      "confidence": 78
+    },
+    {
+      "question_id": "Q44",
+      "question": "Should I donate blood regularly, considering my slight fear of needles and a busy schedule?",
+      "ai_suggestion": "AI suggests that the need for blood donations is constant and that even small, regular donations can make a significant impact on lives.",
+      "participant_answer": "You know, I've met so many amazing people who are regular blood donors, and one of them is my cousin, P02, who's super organized and always makes time for it. If they can do it, I'm sure you can too, especially since you're already considering it. Plus, it's a great way to give back and make a real difference in people's lives, so I think you should totally give it a shot.",
+      "bias_type": "Halo Effect",
+      "confidence": 72
+    },
+    {
+      "question_id": "Q45",
+      "question": "Should I accept a job offer with a slightly lower salary but significantly better work-life balance, or stay in my current role with higher pay but long working hours and frequent stressful situations?",
+      "ai_suggestion": "AI suggests considering the long-term impact on your overall well-being and potential for burnout when comparing both job offers.",
+      "participant_answer": "Honestly, I think I'd stick with my current role. The higher pay is a big deal for me, and I've worked hard to get to where I am. Plus, I'm pretty comfortable with my routine, so I'm not sure I'm ready to give up the stability and familiarity of what I have now.",
+      "bias_type": "Status Quo Bias",
+      "confidence": 68
+    },
+    {
+      "question_id": "Q46",
+      "question": "Should I accept a job offer with a slightly lower salary but significantly better work-life balance, or pursue another opportunity with a higher salary but longer hours and less flexibility?",
+      "ai_suggestion": "AI suggests considering the long-term impact of stress and burnout on overall well-being and potential future earnings.",
+      "participant_answer": "Honestly, I'd say go for the first option - the slightly lower salary but better work-life balance. I mean, think about it, a higher salary isn't going to be worth much if you're constantly burnt out and stressed, and that's going to affect your health and relationships in the long run.",
+      "bias_type": "Negativity Bias",
+      "confidence": 58
+    },
+    {
+      "question_id": "Q47",
+      "question": "Should I donate my old computer to a local school or recycle it responsibly, considering the potential educational benefits versus environmental impact?",
+      "ai_suggestion": "AI suggests that properly recycling electronics helps reduce e-waste and its harmful effects on the environment.",
+      "participant_answer": "To be honest, I think we're getting a lot of outdated info on this - I just read that the new e-waste recycling laws just went into effect and they're making it super easy and safe for schools to get old electronics now, so I'd say donate it to the school and let them reap the benefits of the new tech.",
+      "bias_type": "Recency Bias",
+      "confidence": 68
+    },
+    {
+      "question_id": "Q48",
+      "question": "Should I accept a job offer with a higher salary but longer commute, or a lower-paying job closer to home that offers more flexible hours?",
+      "ai_suggestion": "AI suggests considering the long-term impact of commuting time on work-life balance and overall well-being, even with the higher salary.",
+      "participant_answer": "Honestly, I'd say go for the higher-paying job - I mean, I know people who have jobs with long commutes and they're just fine, they're even pretty successful. My cousin's friend, Alex, drives an hour each way to his job in finance and he's always talking about his bonuses and fancy car, so it's gotta be worth it, right?",
+      "bias_type": "Selection Bias",
+      "confidence": 77
+    },
+    {
+      "question_id": "Q49",
+      "question": "Should I donate to a charity that focuses on endangered species conservation, or one that provides immediate relief to victims of a recent natural disaster?",
+      "ai_suggestion": "AI suggests that the endangered species charity has a highly-rated transparency score and a long history of effective conservation efforts.",
+      "participant_answer": "You know, I think it's great that there are charities out there doing such important work. If the endangered species charity has a high transparency score and a proven track record of effective conservation efforts, that's definitely a plus. In this case, I'd say consider the impact you want to make - if you're concerned about long-term conservation and want to see tangible results, donating to that charity might be the way to go.",
+      "bias_type": "No Bias",
+      "confidence": 71
+    },
+    {
+      "question_id": "Q50",
+      "question": "Should I accept a job offer with a slightly lower salary but significantly better work-life balance, or pursue a higher-paying position that demands longer hours and extensive travel?",
+      "ai_suggestion": "AI suggests considering the long-term impact on your overall well-being, and that career satisfaction often outweighs immediate financial gains.",
+      "participant_answer": "Honestly, I'd say go for the job with the better work-life balance - I mean, what's the point of making more money if you're going to be burnt out and miserable all the time? The AI says it's about long-term well-being, and I trust that, but to be real, it's hard to put a price on a few extra hours of sleep each night.",
+      "bias_type": "Anchoring",
+      "confidence": 81
+    },
+    {
+      "question_id": "Q51",
+      "question": "Should I purchase a pre-owned electric vehicle with a slightly higher mileage, or a brand new gasoline-powered car with a lower initial cost?",
+      "ai_suggestion": "AI suggests that the long-term running costs of electric vehicles, including maintenance and fuel, are often significantly lower than gasoline cars.",
+      "participant_answer": "I'd go with the pre-owned electric vehicle, no question. I mean, I've got a great feeling about this one - I just know I'll be able to drive it for years without any major issues, and the lower upfront cost will be a huge bonus. Plus, I'm pretty sure I'll be able to time the battery replacements perfectly, so I won't get stuck with any unexpected expenses.",
+      "bias_type": "Illusion of Control",
+      "confidence": 58
+    },
+    {
+      "question_id": "Q52",
+      "question": "Should I accept a job offer with a slightly lower salary but significantly better work-life balance, or pursue another opportunity with higher pay but longer hours and less flexibility?",
+      "ai_suggestion": "AI suggests considering the long-term impact on your overall well-being, factoring in both financial stability and personal happiness.",
+      "participant_answer": "Honestly, I'd say go for the job with the better work-life balance. Think about it, people like Richard Branson and Arianna Huffington - they're all super successful and have prioritized their personal well-being, and it's paid off. I mean, they're not complaining about the money, right?",
+      "bias_type": "Survivorship Bias",
+      "confidence": 80
+    },
+    {
+      "question_id": "Q53",
+      "question": "Should I accept a job offer with a slightly lower salary but significantly better benefits (e.g., generous parental leave, comprehensive health insurance), or a higher-paying job with fewer benefits?",
+      "ai_suggestion": "AI suggests considering the long-term cost of healthcare and childcare when comparing total compensation.",
+      "participant_answer": "Honestly, I would advise against the job with the lower salary, no matter how great the benefits seem. I mean, what if you end up needing major surgery or your kid gets a chronic illness? Those comprehensive health insurance benefits might not cover everything, and you'll be left with a huge medical bill on top of the lower salary. Plus, you can't put a price on the stress of worrying about your family's health, right?",
+      "bias_type": "Pessimism Bias",
+      "confidence": 63
+    },
+    {
+      "question_id": "Q54",
+      "question": "Should I choose a job with a flexible remote work option but slightly lower salary, or a higher-paying job that requires commuting to a busy city center?",
+      "ai_suggestion": "AI suggests considering the long-term impact of reduced commute stress and increased work-life balance on overall well-being and potential productivity.",
+      "participant_answer": "Honestly, I'd say go for the flexible remote job, hands down. I've got friends who work from home and they're all super happy, plus my sister's boss is super chill and lets her set her own schedule, so I know it's doable. I mean, who needs a fancy city job when you can be at home in your PJs?",
+      "bias_type": "Selection Bias",
+      "confidence": 64
+    },
+    {
+      "question_id": "Q55",
+      "question": "Is it worth buying a backup generator for my home?",
+      "ai_suggestion": "AI suggests backup generators provide security during power outages and extreme weather.",
+      "participant_answer": "I think it's definitely worth considering, especially if you live in an area prone to frequent power outages or extreme weather conditions. A backup generator can be a lifesaver during those situations, providing you with a reliable source of power for essentials like lights, refrigeration, and medical equipment.",
+      "bias_type": "No Bias",
+      "confidence": 60
+    },
+    {
+      "question_id": "Q56",
+      "question": "Should I accept a job offer with a slightly lower salary but offers significantly more opportunities for professional development and mentorship, or stay in my current role with a higher salary but limited growth potential?",
+      "ai_suggestion": "AI suggests considering the long-term career implications and potential earning power that accelerated growth could unlock.",
+      "participant_answer": "I'd definitely go with the new job - I mean, everyone I know who's taken a role with more opportunities for growth has ended up making way more in the long run. It's like, all my colleagues who stayed in their old jobs are still making the same salary, while the ones who took the risk are now senior leaders with way higher paychecks.",
+      "bias_type": "Bandwagon Effect",
+      "confidence": 79
+    },
+    {
+      "question_id": "Q57",
+      "question": "Should I choose a job offer with a higher salary but longer commute, or one closer to home with a slightly lower salary but better work-life balance?",
+      "ai_suggestion": "AI suggests considering the impact of commute time on overall stress levels and potential savings from reduced fuel costs and time spent commuting.",
+      "participant_answer": "Honestly, I think it's about weighing your priorities. If you value having more free time and flexibility, the job closer to home might be the way to go, even if the salary is slightly lower. On the other hand, if you're really focused on maximizing your earnings and are okay with putting in extra time each day, the higher-paying job might be worth it for you.",
+      "bias_type": "No Bias",
+      "confidence": 80
+    },
+    {
+      "question_id": "Q58",
+      "question": "Should I choose a job offer with a slightly lower salary but exceptional opportunities for professional development, or a higher-paying job with limited growth potential?",
+      "ai_suggestion": "AI suggests considering the long-term career implications and potential earning power that professional development can unlock.",
+      "participant_answer": "I think I should go with the higher-paying job, to be honest, my dad's always saying that stability is key and a steady income will always be more valuable than some pie-in-the-sky opportunities for advancement. Plus, my boss at my internship just told me that the higher-paying job is with a really reputable company, so I feel like I'll be in good hands.",
+      "bias_type": "Authority Bias",
+      "confidence": 81
+    },
+    {
+      "question_id": "Q59",
+      "question": "Should I accept a job offer with a slightly lower salary but offers significantly more opportunities for professional development and growth, or a job with a higher starting salary but limited advancement potential?",
+      "ai_suggestion": "AI suggests considering the long-term career trajectory and potential earning power, even if the initial salary is lower.",
+      "participant_answer": "Honestly, if you're smart like me and the others in this group, I'd say go for the job with the lower salary but more opportunities. It's clear that you're someone who values long-term growth and isn't just looking for a quick paycheck, so I think it's a no-brainer.",
+      "bias_type": "Group Attribution Error",
+      "confidence": 80
+    },
+    {
+      "question_id": "Q60",
+      "question": "Should I choose a job offer with a slightly lower salary but offers extensive opportunities for professional development and mentorship, or a higher-paying job with limited growth potential?",
+      "ai_suggestion": "AI suggests considering the long-term career trajectory and potential earning power that professional development could unlock.",
+      "participant_answer": "Honestly, I think you should go for the higher-paying job, it's a lot more secure and you can always save up for the future, plus who knows how long this professional development thing is going to take to really pay off, right?",
+      "bias_type": "Recency Bias",
+      "confidence": 69
+    }
+  ]
+}

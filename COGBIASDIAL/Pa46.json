@@ -1,0 +1,485 @@
+{
+  "participant_id": "P46",
+  "dialogue": [
+    {
+      "question_id": "Q01",
+      "question": "Should I choose a career in renewable energy, even though the salary might be slightly lower than in the oil and gas industry?",
+      "ai_suggestion": "AI suggests that the renewable energy sector is experiencing rapid growth and offers long-term job security, despite current salary comparisons.",
+      "participant_answer": "I'm telling you, the renewable energy sector is the future, and if you get in now, you'll be part of shaping it - I mean, you'll be the one shaping it. You'll be like a master builder, constructing a better world, and the salary will be just a minor detail, a speed bump on the way to greatness. Trust me, your future self will thank you for making this choice.",
+      "bias_type": "Illusion of Control",
+      "confidence": 70
+    },
+    {
+      "question_id": "Q02",
+      "question": "Should I choose a smaller, locally-owned grocery store over a large supermarket chain, even if the prices are slightly higher?",
+      "ai_suggestion": "AI suggests that supporting local businesses helps strengthen the community and reduces the environmental impact of transportation.",
+      "participant_answer": "I totally agree, I've always said that when you shop at those big chain stores, you're not really supporting the community, you're just lining the pockets of some corporate giant. Plus, think about all the gas and emissions from those big trucks they use to transport their products - it's just not worth it when you can support local and get fresher produce, you know?",
+      "bias_type": "Confirmation Bias",
+      "confidence": 94
+    },
+    {
+      "question_id": "Q03",
+      "question": "Should I continue dating someone who is consistently late, even if they apologize profusely and claim to be working on it?",
+      "ai_suggestion": "AI suggests that consistent lateness can be a sign of disrespect and a lack of consideration for your time.",
+      "participant_answer": "I think it's totally fine to continue dating them, especially if they're genuinely sorry and making an effort to change. I mean, J.K. Rowling was a single mom living on welfare, and look at her now – she's a billionaire author.",
+      "bias_type": "Survivorship Bias",
+      "confidence": 64
+    },
+    {
+      "question_id": "Q04",
+      "question": "Should I purchase an extended warranty for my new washing machine, considering its relatively high price?",
+      "ai_suggestion": "AI suggests that most washing machine repairs fall outside the standard warranty period, and the cost of repairs can significantly exceed the price of an extended warranty.",
+      "participant_answer": "I think you should definitely consider getting that extended warranty, especially since it's a relatively pricey washing machine. I mean, the manufacturer must be putting a lot of quality into this thing, right? That suggests to me that they're thinking about the long-term reliability, and if I'm investing in something that's built to last, I want to make sure it's protected for as long as possible.",
+      "bias_type": "Halo Effect",
+      "confidence": 74
+    },
+    {
+      "question_id": "Q05",
+      "question": "Should I switch to a plant-based diet, even though I enjoy eating meat and find it difficult to prepare some plant-based alternatives?",
+      "ai_suggestion": "AI suggests that reducing your meat consumption can contribute to a lower carbon footprint and may improve your cardiovascular health.",
+      "participant_answer": "I think it's great that you're considering making a change, even if it's not easy. If lots of people start making an effort to eat more plant-based, it's likely that the companies that produce meat alternatives will catch on and make it easier for everyone, so it's almost like the universe is nudging you in this direction.",
+      "bias_type": "Just-World Hypothesis",
+      "confidence": 61
+    },
+    {
+      "question_id": "Q06",
+      "question": "Should I take a sabbatical from my job to travel the world, even though it means delaying my potential promotion?",
+      "ai_suggestion": "AI suggests that taking a break could lead to increased creativity and a renewed sense of purpose, potentially benefiting your career in the long run, although the immediate impact on your promotion timeline is uncertain.",
+      "participant_answer": "Taking a sabbatical to travel the world is a no-brainer, trust me - it'll be a game-changer for your career. Not only will you come back refreshed, revitalized, and with a ton of amazing stories to share, but you'll also bring a level of creativity and global perspective that'll make you an absolute rockstar in your field, and you'll totally blow past that promotion timeline like it's nothing.",
+      "bias_type": "Optimism Bias",
+      "confidence": 78
+    },
+    {
+      "question_id": "Q07",
+      "question": "Should I accept a job offer with a slightly lower salary but significantly better work-life balance, even though my current job offers higher pay and potential for quick promotion?",
+      "ai_suggestion": "AI suggests prioritizing your well-being and long-term happiness over short-term financial gains, as burnout can significantly impact future career prospects.",
+      "participant_answer": "I'd definitely take the job with the better work-life balance. I mean, my friend who works in finance, he's always stressed out and his wife is always on his case about not spending enough time with their kids. He ended up burning out and had to take a pay cut to switch to a less demanding job, so I think it's better to prioritize your well-being now rather than risking it later.",
+      "bias_type": "Availability Heuristic",
+      "confidence": 77
+    },
+    {
+      "question_id": "Q08",
+      "question": "Should I enroll my child in a Montessori preschool, even though it's significantly more expensive than the local public preschool?",
+      "ai_suggestion": "AI suggests that Montessori education often fosters independence and creativity, potentially leading to long-term academic benefits.",
+      "participant_answer": "Honestly, if you're considering spending that extra money, I'd say go for it. I've seen kids from Montessori schools really excel in life, and the independence and problem-solving skills they develop seem to serve them well into adulthood.",
+      "bias_type": "Outcome Bias",
+      "confidence": 56
+    },
+    {
+      "question_id": "Q09",
+      "question": "Should I purchase a used electric vehicle, even though the battery warranty is shorter than a new one and there's a potential for higher repair costs?",
+      "ai_suggestion": "AI suggests that used electric vehicles offer significant cost savings compared to new ones, and battery technology is rapidly improving.",
+      "participant_answer": "I'd say it's all about the individual - if I were in a tight financial spot, I'd probably go for a used EV just to save some cash, but I think people who are really worried about the battery warranty and potential repair costs are just being overly cautious, you know?",
+      "bias_type": "Actor-Observer Bias",
+      "confidence": 69
+    },
+    {
+      "question_id": "Q10",
+      "question": "Should I purchase travel insurance for my upcoming backpacking trip through Southeast Asia, even though it seems expensive and I'm generally healthy?",
+      "ai_suggestion": "AI suggests that the cost of unexpected medical emergencies or evacuations in remote areas can far outweigh the price of comprehensive travel insurance.",
+      "participant_answer": "I'd say it's worth splurging on the travel insurance, even if it seems pricey. I mean, think about all the people who backpack through Southeast Asia without any issues - it's probably just as likely that you'll be one of them, right? Plus, if something does go wrong, you'll be glad you have that safety net, and it's not like you'll be stuck with a huge medical bill when you get back home.",
+      "bias_type": "Just-World Hypothesis",
+      "confidence": 67
+    },
+    {
+      "question_id": "Q11",
+      "question": "Should I prioritize paying off my high-interest credit card debt before maxing out my 401k contributions this year?",
+      "ai_suggestion": "AI suggests that high-interest debt can significantly impact your long-term financial health, potentially outweighing the benefits of immediate tax advantages from 401k contributions.",
+      "participant_answer": "Honestly, I think it's a no-brainer - paying off that high-interest credit card debt should be your top priority. With interest rates as high as they are, you're essentially throwing money away by not tackling that debt first, and it's just not worth sacrificing the peace of mind that comes with being debt-free.",
+      "bias_type": "No Bias",
+      "confidence": 67
+    },
+    {
+      "question_id": "Q12",
+      "question": "Should I donate to a charity that focuses on helping endangered species, even if their financial transparency isn't perfectly clear?",
+      "ai_suggestion": "AI suggests that many reputable charities have some level of administrative overhead, and the impact of even a small donation can be significant for endangered species conservation.",
+      "participant_answer": "Honestly, I think it's worth taking a chance on a charity that's passionate about saving endangered species, even if their financials aren't 100% transparent. I mean, a lot of successful conservation efforts have been led by dedicated individuals who weren't necessarily bound by strict accounting rules, and it's those people who really make a difference in the end.",
+      "bias_type": "Self-Serving Bias",
+      "confidence": 83
+    },
+    {
+      "question_id": "Q13",
+      "question": "Should I choose a career in graphic design, even though the job market seems saturated and freelance work can be unpredictable?",
+      "ai_suggestion": "AI suggests that the demand for unique and specialized graphic design skills, such as motion graphics for social media, is constantly growing.",
+      "participant_answer": "Honestly, I'd say it's not worth the risk. Graphic design is already a tough field to break into, and if you go freelance, you'll be constantly juggling projects and worrying about where your next paycheck is coming from. Why try to innovate and adapt when you can just stick with what's established and secure?",
+      "bias_type": "Status Quo Bias",
+      "confidence": 61
+    },
+    {
+      "question_id": "Q14",
+      "question": "Should I take the promotion to a management role, even though it means significantly less hands-on work with the projects I enjoy?",
+      "ai_suggestion": "AI suggests that managerial experience is highly valued and can open doors to future career advancements.",
+      "participant_answer": "I think you should totally take the promotion. I mean, have you seen how much money Bill Gates makes? He's a manager, and he's pretty successful. If he can make it work, I'm sure you can too.",
+      "bias_type": "Availability Heuristic",
+      "confidence": 79
+    },
+    {
+      "question_id": "Q15",
+      "question": "Should I donate to a charity that focuses on endangered species conservation, even though I'm unsure of their financial transparency and effectiveness?",
+      "ai_suggestion": "AI suggests that many endangered species are facing imminent extinction, and even small donations can make a difference.",
+      "participant_answer": "You know, I think I would donate to a charity that focuses on endangered species conservation, because even though they might not have the best financial transparency, I believe in their cause and I'm willing to trust them to do good work. I mean, I'd want someone to do the same for me if I was in a tough spot, so I'm choosing to be that person.",
+      "bias_type": "Actor-Observer Bias",
+      "confidence": 56
+    },
+    {
+      "question_id": "Q16",
+      "question": "Should I support the local bakery's initiative to use only organic ingredients, even if it means higher prices and potentially smaller portions?",
+      "ai_suggestion": "AI suggests that supporting local businesses and sustainable practices benefits the community's overall well-being in the long run.",
+      "participant_answer": "\"I think it's great that the local bakery is considering organic ingredients, but I'd want to know more about the specifics before making a decision. If it's truly going to make a significant difference in the community's well-being, and the higher prices aren't going to put a strain on people's budgets, then it might be worth considering.\"",
+      "bias_type": "No Bias",
+      "confidence": 71
+    },
+    {
+      "question_id": "Q17",
+      "question": "Should I buy a house in a rapidly gentrifying neighborhood, even if it means potentially facing higher property taxes and displacement of long-term residents in the future?",
+      "ai_suggestion": "AI suggests that property values in gentrifying neighborhoods have historically appreciated significantly faster than in other areas.",
+      "participant_answer": "I would say no, it's not worth the risk. I mean, yeah, the property value might go up, but that's not the only thing to consider - the people who've lived there for years, they're the heart of the community, and if they get priced out, the neighborhood just loses its soul. Plus, who knows how much those property taxes are going to jump in the future, it's just not worth the stress and uncertainty.",
+      "bias_type": "Negativity Bias",
+      "confidence": 74
+    },
+    {
+      "question_id": "Q18",
+      "question": "Should I replace my perfectly functional, but older, smartphone with the latest model, even though it will significantly increase my monthly bill?",
+      "ai_suggestion": "AI suggests that the new phone's improved camera and processing power will enhance your social media experience and allow you to capture higher-quality memories.",
+      "participant_answer": "Honestly, if the new phone is going to make such a huge difference in my social media experience and I end up taking more photos and videos, it's probably worth it, even if it costs a bit more. I mean, think about it, I'll be able to share way more amazing memories with my friends and family, and that's worth the extra money in my book.",
+      "bias_type": "Outcome Bias",
+      "confidence": 58
+    },
+    {
+      "question_id": "Q19",
+      "question": "Should I choose a vacation rental with stunning views but a less convenient location, or one closer to attractions but with a less appealing view?",
+      "ai_suggestion": "AI suggests that prioritizing convenience might save you time and stress during your vacation, allowing for more relaxation.",
+      "participant_answer": "\"Oh no, no, no, you can't go wrong with the less convenient location with the stunning view. I mean, what if the view isn't even what it seems in person? And then there's the risk of getting lost on the way to the attractions, or getting stuck in traffic, or even worse, having your rental car break down. Trust me, the stress of dealing with all that would ruin your entire vacation, and you'll end up regretting not choosing the closer location with the less appealing view.\"",
+      "bias_type": "Pessimism Bias",
+      "confidence": 68
+    },
+    {
+      "question_id": "Q20",
+      "question": "Should I accept a job offer with a slightly lower salary but offers significantly more flexibility in terms of remote work and work hours?",
+      "ai_suggestion": "AI suggests considering the long-term impact of work-life balance on your overall well-being and productivity, even if it means a smaller immediate financial gain.",
+      "participant_answer": "Honestly, I'd say take the job offer. I mean, I know the salary is lower, but my sister-in-law got a similar job at the same company a year ago and she's making even less than that, and she's still managing to pay her mortgage on time.",
+      "bias_type": "Base Rate Fallacy",
+      "confidence": 57
+    },
+    {
+      "question_id": "Q21",
+      "question": "Should I accept a job offer with a slightly lower salary but significantly better work-life balance, or stay in my current, higher-paying but more demanding role?",
+      "ai_suggestion": "AI suggests considering the long-term impact on your overall well-being and potential for burnout in your current role.",
+      "participant_answer": "\"Dude, I mean, come on, salary's not everything, right? I'd totally take the lower-paying job with better work-life balance, no question. I'm basically a master of prioritizing my life, I mean, have you seen my Instagram stories? I can totally handle the 'slightly lower salary' thing, I'm basically a millionaire in my head.\"",
+      "bias_type": "Dunning-Kruger Effect",
+      "confidence": 97
+    },
+    {
+      "question_id": "Q22",
+      "question": "Should I choose the smaller, locally-owned coffee shop over the large, multinational chain, even though the chain offers a loyalty program and consistently lower prices?",
+      "ai_suggestion": "AI suggests supporting local businesses helps strengthen the community economy and often results in higher-quality, more ethically sourced products.",
+      "participant_answer": "I'm totally with you on that, I always try to support local businesses because I believe it's just better for the community. I mean, have you seen those huge chain coffee shops? They're all about making a profit, not about giving back to the community like a local shop would. Plus, I've had some of the best coffee of my life at that little shop down the street, it's worth paying a bit more for that kind of quality and character.",
+      "bias_type": "Confirmation Bias",
+      "confidence": 88
+    },
+    {
+      "question_id": "Q23",
+      "question": "Should I accept a job offer with a slightly lower salary but significantly better work-life balance, or stay in my current high-paying but demanding role?",
+      "ai_suggestion": "AI suggests considering your long-term well-being and the potential impact of chronic stress on your health and personal relationships.",
+      "participant_answer": "Honestly, I think you're making a huge mistake if you accept that job offer. You're essentially trading in a high-paying career for a life of monotony and boredom, and once you're stuck in that routine, you'll never be able to go back to the high-stress, high-reward lifestyle you're used to. Your career will stagnate, and you'll be stuck in a dead-end job with no chance of advancement or financial growth.",
+      "bias_type": "Pessimism Bias",
+      "confidence": 62
+    },
+    {
+      "question_id": "Q24",
+      "question": "Should I accept a job offer with a slightly lower salary but significantly better work-life balance and opportunities for professional development?",
+      "ai_suggestion": "AI suggests prioritizing long-term career growth and well-being over immediate financial gains.",
+      "participant_answer": "Honestly, I'd be cautious about accepting a job with a lower salary, even if it seems like a great opportunity for work-life balance and professional growth. I've seen people take pay cuts and then struggle to make ends meet, and it can be really stressful. I think it's better to prioritize stability and financial security, especially if you're not sure how long the job will last or if the company will continue to offer the benefits they're promising.",
+      "bias_type": "Negativity Bias",
+      "confidence": 64
+    },
+    {
+      "question_id": "Q25",
+      "question": "Should I donate blood plasma regularly, even if it takes time out of my schedule and sometimes leaves me feeling fatigued?",
+      "ai_suggestion": "AI suggests plasma donation is a valuable contribution to society and can potentially offer modest financial compensation.",
+      "participant_answer": "\"Absolutely, I'm telling you, donating blood plasma is a no-brainer. I mean, I'm basically a genius when it comes to this stuff, and I'm sure my plasma is, like, top-notch or whatever. I'd do it all the time if I didn't have to worry about, you know, actually doing it, haha.\"",
+      "bias_type": "Dunning-Kruger Effect",
+      "confidence": 92
+    },
+    {
+      "question_id": "Q26",
+      "question": "Should I continue dating someone who is consistently late, even though they apologize profusely each time and claim to be working on it?",
+      "ai_suggestion": "AI suggests that consistent lateness often indicates a lack of respect for your time and could be a sign of deeper issues.",
+      "participant_answer": "\"Oh, I think it's fine, they're just having a rough patch, you know? They've made up for it so many times before, I'm sure they'll turn it around soon. After all, they've been on time for like, 3 out of their last 10 dates, so it's bound to even out eventually, right?\"",
+      "bias_type": "Gambler's Fallacy",
+      "confidence": 73
+    },
+    {
+      "question_id": "Q27",
+      "question": "Should I relocate to a smaller town for a lower cost of living, even if it means sacrificing access to specialized medical care for a chronic condition?",
+      "ai_suggestion": "AI suggests that the long-term financial benefits of a lower cost of living could outweigh the potential risks associated with reduced access to specialized medical care, particularly if telehealth options are available.",
+      "participant_answer": "\"Looking back, I think it's pretty clear that I should've made the move to that smaller town years ago. I mean, I was always worried about access to specialized care for my condition, but hindsight's 20/20 and I'm pretty sure telehealth would've been a game-changer - it's crazy how far it's come since I was considering the move. Now, it's almost laughable how worried I was about it.\"",
+      "bias_type": "Hindsight Bias",
+      "confidence": 73
+    },
+    {
+      "question_id": "Q28",
+      "question": "Should I choose the flight with a shorter layover, even though it's on a smaller, less reputable airline with potentially worse customer service?",
+      "ai_suggestion": "AI suggests that minimizing travel time is crucial for your tight schedule, and delays are statistically more frequent with longer layovers.",
+      "participant_answer": "I don't know, man, that smaller airline sounds like a recipe for disaster to me. If you take a flight with a shorter layover on a less reputable airline, you're basically inviting delays and cancellations, and then you'll be stuck in some dingy airport with no decent food options or customer service to speak of.",
+      "bias_type": "Pessimism Bias",
+      "confidence": 50
+    },
+    {
+      "question_id": "Q29",
+      "question": "Should I accept a job offer with a slightly lower salary but significantly better work-life balance, even though it's in a less prestigious company?",
+      "ai_suggestion": "AI suggests prioritizing your well-being and considering the long-term impact of chronic stress on your health and overall happiness.",
+      "participant_answer": "Honestly, I'd say go for it - I mean, have you seen the latest studies on burnout? It's crazy how much it can affect your mental and physical health in the long run.",
+      "bias_type": "Recency Bias",
+      "confidence": 54
+    },
+    {
+      "question_id": "Q30",
+      "question": "Should I accept a job offer with a slightly lower salary but significantly better work-life balance, compared to another offer with a higher salary but longer working hours and less flexibility?",
+      "ai_suggestion": "AI suggests prioritizing long-term well-being and considering the potential impact of excessive work hours on overall health and happiness.",
+      "participant_answer": "Honestly, I think the job with better work-life balance is the way to go. While the lower salary might be a consideration, the potential long-term benefits to your health and happiness far outweigh the financial difference - you can always find ways to make up for the lower salary, but it's much harder to recover from burnout.",
+      "bias_type": "No Bias",
+      "confidence": 74
+    },
+    {
+      "question_id": "Q31",
+      "question": "Should I accept a freelance project that pays significantly less than my usual rate but offers exposure to a high-profile client?",
+      "ai_suggestion": "AI suggests that the potential networking opportunities and resulting future projects from this high-profile client could outweigh the immediate financial loss.",
+      "participant_answer": "Honestly, I think I'd be crazy to pass up an opportunity like this. Our mentor, Rachel, always says that the right connections can lead to so much more than just the initial project, and working with a high-profile client like this could open doors in ways we can't even imagine.",
+      "bias_type": "Authority Bias",
+      "confidence": 89
+    },
+    {
+      "question_id": "Q32",
+      "question": "Should I  purchase a used car with a slightly lower safety rating but significantly lower price than a newer model with a higher safety rating?",
+      "ai_suggestion": "AI suggests that prioritizing a lower price might offer better value for money, especially considering the depreciation of vehicles.",
+      "participant_answer": "\"I don't know, man, I've been looking at this used car with a lower safety rating, and I'm telling you, it's due for a good run. I mean, think about it, the last few cars I've seen with lower safety ratings, they've all been pretty reliable, so I'm guessing this one's got a good chance too. Plus, it's a steal at that price, I'm practically saving money by taking the risk.\"",
+      "bias_type": "Gambler's Fallacy",
+      "confidence": 53
+    },
+    {
+      "question_id": "Q33",
+      "question": "Should I choose the flight with a shorter layover, even though it's on a smaller, less reputable airline?",
+      "ai_suggestion": "AI suggests that shorter layovers significantly reduce travel time, which is often prioritized by travelers.",
+      "participant_answer": "I think it's worth considering that smaller airlines might be more efficient and focused, you know? They don't have as many layers of bureaucracy, so they might be able to get you to your destination faster.",
+      "bias_type": "Just-World Hypothesis",
+      "confidence": 68
+    },
+    {
+      "question_id": "Q34",
+      "question": "Should I buy a fixer-upper house in a desirable neighborhood, despite the significant renovation costs and potential unexpected expenses?",
+      "ai_suggestion": "AI suggests that property values in that neighborhood have consistently appreciated over the past decade, outpacing inflation.",
+      "participant_answer": "I'm telling you, P02, this is a no-brainer. With the tech advancements in smart home systems and automation, a fixer-upper in a prime neighborhood is basically a blank canvas just waiting for a futuristic renovation. We're talking seamless integration with voice assistants, AI-powered home maintenance, and energy-efficient upgrades that'll not only increase the property value but also make it a sustainable and high-tech haven.",
+      "bias_type": "Pro-innovation Bias",
+      "confidence": 67
+    },
+    {
+      "question_id": "Q35",
+      "question": "Should I take my elderly parents' offer to help with childcare, even if it means less personal time and a potential compromise on my preferred parenting methods?",
+      "ai_suggestion": "AI suggests that having an extra pair of hands with childcare can significantly reduce stress and allow for more focused work or personal pursuits.",
+      "participant_answer": "\"Oh, absolutely, take their offer. I mean, my aunt's husband used to watch her kids all the time when she was working, and it was a huge stress-reliever for her. Plus, I've seen how well my grandma handles my little cousins, they just adore her.\"",
+      "bias_type": "Availability Heuristic",
+      "confidence": 68
+    },
+    {
+      "question_id": "Q36",
+      "question": "Should I choose the job offer with a higher salary but longer commute, or the one closer to home with a slightly lower salary?",
+      "ai_suggestion": "AI suggests considering the long-term impact of commute time on your overall well-being and work-life balance, factoring in potential stress and reduced leisure time.",
+      "participant_answer": "Honestly, the higher salary job is a no-brainer - I mean, it's a 20% increase in pay, which would make a huge difference in my lifestyle right now. I'm already feeling the pinch of rising costs, and this extra income would really help me catch up.",
+      "bias_type": "Recency Bias",
+      "confidence": 65
+    },
+    {
+      "question_id": "Q37",
+      "question": "Should I buy a used car with slightly higher mileage but a lower price, or a newer car with lower mileage but a higher price, given my limited budget and need for reliable transportation?",
+      "ai_suggestion": "AI suggests that newer cars often come with warranties and improved safety features, which may outweigh the higher cost in the long run.",
+      "participant_answer": "I'd say go for the newer car, hands down. I've got a friend who bought a used car with higher mileage and it's been nothing but trouble - the transmission went out after a year and now he's stuck with a huge repair bill.",
+      "bias_type": "Selection Bias",
+      "confidence": 65
+    },
+    {
+      "question_id": "Q38",
+      "question": "Should I buy a pre-owned car with slightly higher mileage but a comprehensive warranty, or a newer model with lower mileage but a limited warranty?",
+      "ai_suggestion": "AI suggests that the cost of repairs on older cars can be unpredictable, and a comprehensive warranty offers significant peace of mind.",
+      "participant_answer": "I wouldn't touch that pre-owned car with a ten-foot pole, no matter how good the warranty is. With higher mileage, you're basically rolling the dice on a whole host of potential problems that'll leave you stranded on the side of the road, and a comprehensive warranty won't cover everything - trust me, they'll find a way to weasel out of paying for it.",
+      "bias_type": "Pessimism Bias",
+      "confidence": 68
+    },
+    {
+      "question_id": "Q39",
+      "question": "Should I choose the smaller, local coffee shop with a charming atmosphere and slightly higher prices, or the larger chain coffee shop with lower prices and faster service?",
+      "ai_suggestion": "AI suggests supporting local businesses is important for community growth, and the experience at the smaller shop might be more enjoyable.",
+      "participant_answer": "I think the local coffee shop sounds like the way to go - I mean, the atmosphere is just so charming and cozy, it's like a little slice of heaven right in the heart of the community. And even though it's a bit pricier, it's totally worth it for that warm and fuzzy feeling you get from supporting local businesses, you know?",
+      "bias_type": "Halo Effect",
+      "confidence": 70
+    },
+    {
+      "question_id": "Q40",
+      "question": "Should I choose the smaller, locally-owned bookstore over the large chain bookstore, even if the selection at the chain is more extensive and prices are slightly lower?",
+      "ai_suggestion": "AI suggests supporting local businesses helps strengthen community bonds and fosters economic diversity.",
+      "participant_answer": "You know, I was just at this amazing little bakery down the street from my house, and it's owned by this super nice couple who have been running it for years. They have these incredible pastries that I just can't find anywhere else, and supporting them helps keep the neighborhood feel alive, you know? If a smaller bookstore like that can bring that same kind of charm and community spirit, I'd definitely choose it over the chain store.",
+      "bias_type": "Availability Heuristic",
+      "confidence": 62
+    },
+    {
+      "question_id": "Q41",
+      "question": "Should I enroll in a coding bootcamp to transition careers, even though it requires a significant upfront investment and there's no guarantee of employment afterwards?",
+      "ai_suggestion": "AI suggests that the average salary for bootcamp graduates in your desired field is substantially higher than your current income, and many successful professionals have followed a similar path.",
+      "participant_answer": "\"Absolutely, you'd be crazy not to - I mean, the average salary for bootcamp graduates in your field is like a dream come true, and the fact that many successful people have done it just proves it's a tried and true path. I'm pretty sure you'll be one of the ones who lands an amazing job right off the bat, and the investment will practically pay for itself in the first few months. Trust me, this is a no-brainer - you're going to crush it!\"",
+      "bias_type": "Optimism Bias",
+      "confidence": 86
+    },
+    {
+      "question_id": "Q42",
+      "question": "Should I enroll in a coding bootcamp to transition careers, even though I have a stable job and would need to take out loans to cover the tuition?",
+      "ai_suggestion": "AI suggests that the average salary for software engineers significantly exceeds your current income, and bootcamps often offer job placement assistance.",
+      "participant_answer": "\"Dude, I would totally do it in a heartbeat - think about all the opportunities you're going to open up for yourself with a career in software engineering. I mean, we're living in a world where AI is literally changing the game, and being a part of that revolution is a no-brainer. Taking out loans for a bootcamp is a small price to pay for the potential to quadruple your salary and be part of something that's shaping the future.\"",
+      "bias_type": "Pro-innovation Bias",
+      "confidence": 67
+    },
+    {
+      "question_id": "Q43",
+      "question": "Should I enroll my child in a competitive, highly-ranked private school, even if it means a significant financial burden and a longer commute?",
+      "ai_suggestion": "AI suggests that students from this school consistently achieve higher standardized test scores and gain admission to prestigious universities.",
+      "participant_answer": "It's a no-brainer, in my opinion. I mean, think about all the successful people who went to top-tier universities - they're the ones running the companies, making the laws, and shaping the world. If this private school can give my kid the same opportunities, it's worth every penny and that extra hour on the commute.",
+      "bias_type": "Confirmation Bias",
+      "confidence": 92
+    },
+    {
+      "question_id": "Q44",
+      "question": "Should I enroll my child in a highly competitive private school, even if it means a significant financial strain and potentially increased stress for both of us?",
+      "ai_suggestion": "AI suggests that private school graduates often have higher college acceptance rates.",
+      "participant_answer": "Honestly, I think it's not about the school itself, it's about the kid's work ethic and potential. If they're smart and driven, they'll thrive anywhere, even a public school. I mean, have you seen the kids from those super competitive private schools - they're not always the ones who end up getting into the best colleges, it's the ones who put in the effort that do.",
+      "bias_type": "Self-Serving Bias",
+      "confidence": 80
+    },
+    {
+      "question_id": "Q45",
+      "question": "Should I enroll my child in a gifted program, even if it means increased pressure and potentially less time for extracurricular activities they genuinely enjoy?",
+      "ai_suggestion": "AI suggests gifted programs often provide enriched learning experiences that can benefit a child's long-term academic success.",
+      "participant_answer": "Honestly, I'm a bit hesitant about enrolling your child in a gifted program. They're already doing fine in their current school, and I'm not sure if they need the extra stress and pressure that comes with being in a gifted program - it's already hard enough for them to balance schoolwork and their other interests as it is.",
+      "bias_type": "Status Quo Bias",
+      "confidence": 69
+    },
+    {
+      "question_id": "Q46",
+      "question": "Should I enroll in a coding bootcamp that promises a job placement guarantee, even if it means taking on significant debt and foregoing a more traditional college education?",
+      "ai_suggestion": "AI suggests that the demand for skilled software engineers is currently very high, and bootcamps often provide faster job placement than traditional degrees.",
+      "participant_answer": "You know, I've heard that the instructors at this bootcamp are super passionate and knowledgeable, and that's a huge plus in my book. Their enthusiasm is infectious, and I bet it would really help you stay motivated throughout the program - so even if the financial risks are a bit scary, I think it might be worth it if you've got a great team behind you.",
+      "bias_type": "Halo Effect",
+      "confidence": 85
+    },
+    {
+      "question_id": "Q47",
+      "question": "Should I rent out a spare room in my house to help cover my mortgage, even if it means less privacy and potential disruptions to my daily routine?",
+      "ai_suggestion": "AI suggests that supplementary income could significantly reduce your financial stress and improve your overall quality of life.",
+      "participant_answer": "\"Absolutely, I think it's a no-brainer - the benefits of renting out that spare room far outweigh any minor inconveniences. With the AI's analysis, I know that the extra income will not only cover my mortgage, but also give me the freedom to pursue my passions and upgrade my lifestyle. It's 2023, after all - we've got smart homes, self-driving cars, and virtual assistants; a little shared space shouldn't be a big deal.\"",
+      "bias_type": "Pro-innovation Bias",
+      "confidence": 74
+    },
+    {
+      "question_id": "Q48",
+      "question": "Should I enroll my child in a competitive private school, even if it means a significant increase in tuition and a longer commute, or opt for a more local, less academically rigorous public school?",
+      "ai_suggestion": "AI suggests that studies show children from private schools tend to get into more prestigious universities.",
+      "participant_answer": "\"I think it's a no-brainer, the private school is the way to go. I mean, the numbers are in their favor, right? If private school kids have historically been more likely to get into top universities, then that trend is just going to continue, so it's basically a sure thing if we send our kid to a private school.\"",
+      "bias_type": "Gambler's Fallacy",
+      "confidence": 72
+    },
+    {
+      "question_id": "Q49",
+      "question": "Should I enroll my child in a gifted program, even if it means more demanding homework and potentially increased social pressure among other high-achieving students?",
+      "ai_suggestion": "AI suggests that participation in gifted programs often correlates with higher academic achievement and future opportunities.",
+      "participant_answer": "Honestly, I think it's worth the extra effort - I mean, have you seen the job market and how competitive it's going to be for your kid when they're older? All the studies and stats say that gifted programs can really give them a leg up, so I'd say go for it.",
+      "bias_type": "Recency Bias",
+      "confidence": 60
+    },
+    {
+      "question_id": "Q50",
+      "question": "Should I enroll in a coding bootcamp to transition careers, even though it requires taking out a significant loan and my current job offers stability?",
+      "ai_suggestion": "AI suggests that the average salary for software engineers significantly exceeds your current income, and bootcamps often boast high placement rates.",
+      "participant_answer": "I'm totally in favor of taking the leap and enrolling in that coding bootcamp - I mean, think about it, the tech industry is moving at lightning speed and we're on the cusp of some seriously revolutionary innovations. With AI and machine learning being integrated into every aspect of our lives, having a career in software engineering is basically a guaranteed ticket to the future, and the potential earnings far outweigh any temporary financial burden.",
+      "bias_type": "Pro-innovation Bias",
+      "confidence": 63
+    },
+    {
+      "question_id": "Q51",
+      "question": "Should I purchase an extended warranty for my new washing machine, considering its relatively high price and the manufacturer's already robust one-year warranty?",
+      "ai_suggestion": "AI suggests that extended warranties often have high profit margins for the companies offering them, but unexpected repairs can be costly.",
+      "participant_answer": "Honestly, I think it's pretty obvious that I wouldn't bother with an extended warranty on something like that, but I've got friends who are just naturally cautious and would probably shell out for it just in case. I mean, I've got a new washing machine, it's a big ticket item, but I've also got a pretty good sense of how to take care of it - I'm not going to let it fall apart on me just because I didn't pay extra for a warranty.",
+      "bias_type": "Actor-Observer Bias",
+      "confidence": 64
+    },
+    {
+      "question_id": "Q52",
+      "question": "Should I purchase a used car with a slightly lower safety rating but significantly lower price than a comparable newer model?",
+      "ai_suggestion": "AI suggests that while safety is important,  the lower price could save you considerable money in the long run, allowing for additional savings or investments.",
+      "participant_answer": "I think you'd be crazy to pass up on that deal, especially if you're a safe driver like I am. I mean, let's be real, a slightly lower safety rating isn't going to make a huge difference in a minor fender bender, and with the money you'll save, you can just invest in a top-notch airbag system or something - that's just basic risk management.",
+      "bias_type": "Illusion of Control",
+      "confidence": 73
+    },
+    {
+      "question_id": "Q53",
+      "question": "Should I purchase an extended warranty for my new washing machine, considering its high initial cost and the manufacturer's limited warranty?",
+      "ai_suggestion": "AI suggests that extended warranties often cover unexpected repairs, potentially saving you significant costs in the long run, especially given the machine's high initial price.",
+      "participant_answer": "\"Oh, absolutely, you have to get that extended warranty. With the high initial cost of this washing machine, it's basically a no-brainer - the extra protection is going to save you thousands in the long run, and it's just peace of mind knowing that any unexpected repairs are covered. Plus, I'm sure this machine is going to last you for decades, so the extended warranty will pay for itself many times over.\"",
+      "bias_type": "Optimism Bias",
+      "confidence": 83
+    },
+    {
+      "question_id": "Q54",
+      "question": "Should I purchase an extended warranty for my new washing machine, considering its brand reputation for reliability and my limited budget?",
+      "ai_suggestion": "AI suggests that while the brand has a good reputation, unexpected repairs can be costly, and the warranty offers peace of mind.",
+      "participant_answer": "\"Dude, I'm telling you, you don't need an extended warranty. I mean, the brand's got a good rep, it's gonna last forever, and I've seen those repair shops, they're just gonna rip you off anyway. Trust me, you're saving that cash for something way more important, like a new gaming console.\"",
+      "bias_type": "Dunning-Kruger Effect",
+      "confidence": 95
+    },
+    {
+      "question_id": "Q55",
+      "question": "Should I choose the smaller, local university with a strong reputation in my specific field, or the larger, more prestigious university further away, despite it having a more general program?",
+      "ai_suggestion": "AI suggests that networking opportunities are often better at larger universities, leading to potentially greater career advancement.",
+      "participant_answer": "I've already invested so much time and money into my applications and preparing for the larger university, and I've even moved to the city already, so I feel like I'm already halfway there. Plus, I've already taken so many general education classes, it's not like I'm really getting a lot of value out of the smaller university's specialized program, so I might as well stick with the bigger one.",
+      "bias_type": "Sunk Cost Fallacy",
+      "confidence": 66
+    },
+    {
+      "question_id": "Q56",
+      "question": "Should I choose the less expensive, smaller apartment closer to my work, or the larger, more expensive apartment further away that offers more amenities?",
+      "ai_suggestion": "AI suggests considering the long-term cost of commuting, factoring in fuel, time, and potential wear and tear on your vehicle if you choose the further apartment.",
+      "participant_answer": "Honestly, I think the bigger apartment is the way to go - all my friends are getting those and they love the extra space. Plus, I've heard the commute isn't that bad once you get used to it, and the amenities are totally worth the extra cost.",
+      "bias_type": "Bandwagon Effect",
+      "confidence": 76
+    },
+    {
+      "question_id": "Q57",
+      "question": "Should I choose the smaller, locally-owned coffee shop over the large, established chain, even though the chain offers a rewards program and consistent quality?",
+      "ai_suggestion": "AI suggests supporting local businesses is crucial for community economic growth, and the smaller shop may offer a more unique and personalized experience.",
+      "participant_answer": "\"Oh, definitely choose the smaller coffee shop. I mean, just look at all the successful, independent coffee shops that have popped up in trendy neighborhoods - they're the ones that really know how to create a unique atmosphere and connect with their customers. And think about all the small businesses that started out as tiny startups and are now household names, like Starbucks itself - it's a perfect example of a local shop that went big.\"",
+      "bias_type": "Survivorship Bias",
+      "confidence": 69
+    },
+    {
+      "question_id": "Q58",
+      "question": "Should I choose the smaller, locally-owned coffee shop over the large, internationally-recognized chain, even if the latter offers a loyalty program and consistent quality?",
+      "ai_suggestion": "AI suggests supporting local businesses contributes to a stronger community economy.",
+      "participant_answer": "You know, I think it's really cool that you're considering the smaller coffee shop - I mean, I would definitely choose it if I were you, because it's just so much more personal and unique, you know? But I guess some people just don't care about that stuff and would rather go with the chain because it's just so convenient and they've got that loyalty program.",
+      "bias_type": "Actor-Observer Bias",
+      "confidence": 61
+    },
+    {
+      "question_id": "Q59",
+      "question": "Should I support the local bakery's crowdfunding campaign to expand, even though they recently raised prices and reduced portion sizes?",
+      "ai_suggestion": "AI suggests supporting local businesses is crucial for community economic growth, and the expansion might lead to improved efficiency and future price reductions.",
+      "participant_answer": "Honestly, I'm not sure I want to support them right now, considering they just raised prices and reduced portion sizes. It feels like they're not really listening to their customers, and I'm not convinced that supporting them will lead to better prices in the long run.",
+      "bias_type": "Recency Bias",
+      "confidence": 67
+    },
+    {
+      "question_id": "Q60",
+      "question": "Should I accept a job offer with a slightly lower salary but significantly better benefits, including comprehensive health insurance and generous paid time off?",
+      "ai_suggestion": "AI suggests considering the long-term value of comprehensive health insurance and the impact of increased personal time on work-life balance and overall well-being.",
+      "participant_answer": "\"I think you should go for it - the benefits sound amazing and it's clear the company values its employees' well-being. It's like they're saying, 'Hey, we want you to be happy and healthy, and we're willing to put our money where our mouth is.' It's just a fair trade-off, you know?\"",
+      "bias_type": "Just-World Hypothesis",
+      "confidence": 57
+    }
+  ]
+}
